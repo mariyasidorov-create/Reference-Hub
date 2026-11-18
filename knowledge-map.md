@@ -51,6 +51,7 @@ graph LR
   mobile_design["Mobile Design"]
   ai_and_creative_tech["AI and Creative Technology"]
   english_for_designers["English for Designers"]
+  product_management["Product Management"]
   ux_curators["UX Curators and Vitaly Friedman"]
   ui_patterns --- web_galleries
   ui_patterns --- ux_research
@@ -143,6 +144,9 @@ graph LR
   ai_and_creative_tech --- motion
   ai_and_creative_tech --- tools
   english_for_designers --- learning
+  product_management --- metrics_and_growth
+  product_management --- research_and_testing
+  product_management --- ux_process
 ```
 
 ## Open as an Obsidian Vault

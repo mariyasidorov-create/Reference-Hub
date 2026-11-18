@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1287,
+ "count": 1329,
  "references": [
   {
    "topic": "ui-patterns",
@@ -10297,6 +10297,342 @@
    "url": "https://www.clubedecriacao.com.br/",
    "description": "Brazilian creative club and annual for advertising and design",
    "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Overview",
+   "name": "The Product Map (productmap.io)",
+   "url": "https://www.productmap.io/",
+   "description": "Makers of The Product Map 3.0 FigJam (strategy, metrics, unit economics, finance, delivery, people) and PM AI agents.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "product-management",
+   "section": "Strategy and Business Models",
+   "name": "Business Model Generation (Osterwalder, Pigneur)",
+   "url": "https://www.strategyzer.com/library/business-model-generation",
+   "description": "The Business Model Canvas book, official Strategyzer page.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Strategy and Business Models",
+   "name": "Running Lean (Ash Maurya)",
+   "url": "https://leanstack.com/running-lean-book",
+   "description": "Lean Canvas and the iterate-from-Plan-A method.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Strategy and Business Models",
+   "name": "The Startup Owner's Manual (Steve Blank, Bob Dorf)",
+   "url": "https://steveblank.com/books-for-startups/",
+   "description": "Customer development: discovery, validation, creation, company building.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Strategy and Business Models",
+   "name": "Platform Revolution (Parker, Van Alstyne, Choudary)",
+   "url": "https://wwnorton.com/books/Platform-Revolution/",
+   "description": "How networked markets and platforms work.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Product-Market Fit and MVP",
+   "name": "The Lean Startup (Eric Ries)",
+   "url": "https://theleanstartup.com/book",
+   "description": "Build-measure-learn and the MVP as a learning tool.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Product-Market Fit and MVP",
+   "name": "Product-Market Fit series (Brian Balfour)",
+   "url": "https://brianbalfour.com/essays/product-market-fit-isnt-enough",
+   "description": "Four fits: market, model, channel, product.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Product-Market Fit and MVP",
+   "name": "Making sense of MVP (Henrik Kniberg)",
+   "url": "https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp",
+   "description": "Earliest testable, usable, lovable product; the skateboard-to-car drawing.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Product-Market Fit and MVP",
+   "name": "Technology Readiness Levels (NASA)",
+   "url": "https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/",
+   "description": "TRL 1 to 9 maturity scale.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Product-Market Fit and MVP",
+   "name": "The 6 Levels of UX Maturity (NN/g)",
+   "url": "https://www.nngroup.com/articles/ux-maturity-model/",
+   "description": "How mature an organisation is at user-centred design.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "OKRs and Goals",
+   "name": "Measure What Matters (John Doerr)",
+   "url": "https://www.whatmatters.com/the-book",
+   "description": "OKRs book and the What Matters resources.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "OKRs and Goals",
+   "name": "re:Work: Set goals with OKRs (Google)",
+   "url": "https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/",
+   "description": "Google's own OKR guide and grading template.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "OKRs and Goals",
+   "name": "Product Management OKRs (Tim Herbig)",
+   "url": "https://herbig.co/okrs-product-management/",
+   "description": "Using OKRs with product discovery and outcomes.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Metrics and North Star",
+   "name": "North Star Playbook (Amplitude)",
+   "url": "https://amplitude.com/books/north-star",
+   "description": "How to choose a North Star metric and its input metrics.",
+   "access": "Free, email"
+  },
+  {
+   "topic": "product-management",
+   "section": "Metrics and North Star",
+   "name": "Mixpanel Guide to Product Metrics",
+   "url": "https://mixpanel.com/blog/product-metrics/",
+   "description": "Focus metric, level 1 and level 2 metrics.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Metrics and North Star",
+   "name": "KPI Trees (Petra Wille)",
+   "url": "https://www.petra-wille.com/blog/kpi-trees-how-to-bridge-the-gap-between-customer-behavior-product-metrics-and-company-goals",
+   "description": "From company goals to product metrics to customer behaviour.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Metrics and North Star",
+   "name": "The Three True-North Metrics (Itamar Gilad)",
+   "url": "https://itamargilad.com/the-three-true-north-metrics-that-your-product-and-business-need/",
+   "description": "North Star, top business metric, top value metric.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Metrics and North Star",
+   "name": "How to choose the right UX metrics (Google Ventures, HEART)",
+   "url": "https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be",
+   "description": "HEART framework and goals-signals-metrics.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Metrics and North Star",
+   "name": "Lean Analytics (Croll, Yoskovitz)",
+   "url": "https://leananalyticsbook.com/",
+   "description": "One Metric That Matters and the stages of a startup.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Analytics and Experiments",
+   "name": "GoPractice",
+   "url": "https://gopractice.io/",
+   "description": "Product analytics simulator, SQL for PMs, articles on retention and unit economics.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "product-management",
+   "section": "Analytics and Experiments",
+   "name": "Google Analytics Academy (Skillshop)",
+   "url": "https://skillshop.withgoogle.com/",
+   "description": "Free official analytics courses.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Analytics and Experiments",
+   "name": "Amplitude Guides and Resources",
+   "url": "https://amplitude.com/resources",
+   "description": "Product analytics playbooks, funnels, cohorts.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Analytics and Experiments",
+   "name": "A/B test significance calculator (ABTestGuide)",
+   "url": "https://abtestguide.com/calc/",
+   "description": "Statistical significance and test power.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Analytics and Experiments",
+   "name": "Trustworthy Online Controlled Experiments (Kohavi, Tang, Xu)",
+   "url": "https://experimentguide.com/",
+   "description": "The A/B testing book by the Microsoft and Google experimentation leads.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Unit Economics",
+   "name": "SaaS Metrics 2.0 (David Skok)",
+   "url": "https://www.forentrepreneurs.com/saas-metrics-2/",
+   "description": "CAC, LTV, churn, MRR and how to improve them.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Unit Economics",
+   "name": "What are unit economics in SaaS? (Paddle)",
+   "url": "https://www.paddle.com/resources/unit-economics",
+   "description": "Definitions, models and how to calculate.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Unit Economics",
+   "name": "Unit economics guide (GoPractice)",
+   "url": "https://gopractice.io/product/unit-economics-made-easy",
+   "description": "How to calculate and evaluate unit economics.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Finance and Pricing",
+   "name": "Managing Startup Finances (Y Combinator)",
+   "url": "https://www.youtube.com/watch?v=LBC16jhiwak",
+   "description": "Kirsty Nathoo, YC CFO, Startup School lecture: burn, runway, default alive.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Finance and Pricing",
+   "name": "Monetizing Innovation (Madhavan Ramanujam)",
+   "url": "https://www.simon-kucher.com/en/insights/monetizing-innovation",
+   "description": "Designing the product around the price.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Finance and Pricing",
+   "name": "How to choose a SaaS pricing model (ProductLed)",
+   "url": "https://productled.com/blog/saas-pricing-models",
+   "description": "Freemium, usage-based, tiered.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Finance and Pricing",
+   "name": "Accounting Coach",
+   "url": "https://www.accountingcoach.com/",
+   "description": "Free accounting basics: P&L, balance sheet, cash flow.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Delivery and Project Management",
+   "name": "The Scrum Guide (Schwaber, Sutherland)",
+   "url": "https://scrumguides.org/scrum-guide.html",
+   "description": "The official definition of Scrum.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Delivery and Project Management",
+   "name": "Shape Up (Basecamp, Ryan Singer)",
+   "url": "https://basecamp.com/shapeup",
+   "description": "Six-week cycles, appetite, shaping and betting.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Delivery and Project Management",
+   "name": "Atlassian Agile Coach",
+   "url": "https://www.atlassian.com/agile",
+   "description": "Scrum, kanban, roadmaps, estimation, project management.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Delivery and Project Management",
+   "name": "Kanban Guide (Kanban University)",
+   "url": "https://kanban.university/kanban-guide/",
+   "description": "Official kanban method guide.",
+   "access": "Free"
+  },
+  {
+   "topic": "product-management",
+   "section": "Delivery and Project Management",
+   "name": "PMBOK Guide (PMI)",
+   "url": "https://www.pmi.org/standards/pmbok",
+   "description": "Project management body of knowledge, the PMP standard.",
+   "access": "Paid"
+  },
+  {
+   "topic": "product-management",
+   "section": "Delivery and Project Management",
+   "name": "User Story Mapping (Jeff Patton)",
+   "url": "https://jpattonassociates.com/story-mapping/",
+   "description": "Story maps for release planning.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Product Practice",
+   "name": "Inspired (Marty Cagan, SVPG)",
+   "url": "https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/",
+   "description": "Empowered product teams and discovery.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Product Practice",
+   "name": "Continuous Discovery Habits (Teresa Torres)",
+   "url": "https://www.producttalk.org/continuous-discovery-habits/",
+   "description": "Opportunity solution trees and weekly interviews.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Product Practice",
+   "name": "Escaping the Build Trap (Melissa Perri)",
+   "url": "https://melissaperri.com/book",
+   "description": "Outcome-driven product management.",
+   "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Product Practice",
+   "name": "Lenny's Newsletter",
+   "url": "https://www.lennysnewsletter.com/",
+   "description": "PM, growth and career essays and benchmarks.",
+   "access": "Partly paywalled"
+  },
+  {
+   "topic": "product-management",
+   "section": "Product Practice",
+   "name": "The Product Compass (Paweł Huryn)",
+   "url": "https://www.productcompass.pm/",
+   "description": "PM frameworks, pricing and AI for PMs.",
+   "access": "Partly paywalled"
   }
  ]
 }

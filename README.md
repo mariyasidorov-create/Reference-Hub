@@ -2,7 +2,7 @@
 
 Curated references for product and graphic designers: interface patterns, galleries, type, motion, component libraries, image archives, graphic design history, right-to-left scripts, early web history and UX writing from trusted curators.
 
-The list holds 1287 checked links in 48 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1329 checked links in 49 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -41,6 +41,7 @@ The list holds 1287 checked links in 48 topic files. Every topic file links to r
 - [UX Design Process](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ux-process.md) - The design process from About Face: goals and mental models, behaviour, etiquette, and platform and posture (11 links).
 - [Research and Testing Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/research-and-testing.md) - Usability testing, recruiting and research repositories, plus secondary research (14 links).
 - [Metrics and Growth](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/metrics-and-growth.md) - Growth books, product metrics and analytics tools (5 links).
+- [Product Management](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/product-management.md) - Strategy, metrics, unit economics, finance and delivery, structured after The Product Map (42 links).
 - [Benchmarks and Competitors](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/benchmarks.md) - Market data and industry players for competitive analysis (6 links).
 - [UX Curators and Vitaly Friedman](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ux-curators.md) - People who publish carefully curated UX material, and Vitaly Friedman's resources sorted by topic (33 links).
 

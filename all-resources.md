@@ -80,6 +80,10 @@ Baymard Institute: Research · Coglode · Concept testing examples (Figma) · Do
 
 How Tinder Designs Product (ADPList) · Product-Led Growth (Wes Bush) · Startup Metrics for Pirates (Dave McClure) · Tableau · UX Design KPI Examples (Eleken)
 
+### [Product Management](topics/product-management.md)
+
+A/B test significance calculator (ABTestGuide) · Accounting Coach · Amplitude Guides and Resources · Atlassian Agile Coach · Business Model Generation (Osterwalder, Pigneur) · Continuous Discovery Habits (Teresa Torres) · Escaping the Build Trap (Melissa Perri) · Google Analytics Academy (Skillshop) · GoPractice · How to choose a SaaS pricing model (ProductLed) · How to choose the right UX metrics (Google Ventures, HEART) · Inspired (Marty Cagan, SVPG) · Kanban Guide (Kanban University) · KPI Trees (Petra Wille) · Lean Analytics (Croll, Yoskovitz) · Lenny's Newsletter · Making sense of MVP (Henrik Kniberg) · Managing Startup Finances (Y Combinator) · Measure What Matters (John Doerr) · Mixpanel Guide to Product Metrics · Monetizing Innovation (Madhavan Ramanujam) · North Star Playbook (Amplitude) · Platform Revolution (Parker, Van Alstyne, Choudary) · PMBOK Guide (PMI) · Product Management OKRs (Tim Herbig) · Product-Market Fit series (Brian Balfour) · re:Work: Set goals with OKRs (Google) · Running Lean (Ash Maurya) · SaaS Metrics 2.0 (David Skok) · Shape Up (Basecamp, Ryan Singer) · Technology Readiness Levels (NASA) · The 6 Levels of UX Maturity (NN/g) · The Lean Startup (Eric Ries) · The Product Compass (Paweł Huryn) · The Product Map (productmap.io) · The Scrum Guide (Schwaber, Sutherland) · The Startup Owner's Manual (Steve Blank, Bob Dorf) · The Three True-North Metrics (Itamar Gilad) · Trustworthy Online Controlled Experiments (Kohavi, Tang, Xu) · Unit economics guide (GoPractice) · User Story Mapping (Jeff Patton) · What are unit economics in SaaS? (Paddle)
+
 ### [Benchmarks and Competitors](topics/benchmarks.md)
 
 Competitive analysis (Figma) · Crunchbase · Sensor Tower (formerly data.ai) · Shopify POS · Similarweb · Zettle by PayPal
