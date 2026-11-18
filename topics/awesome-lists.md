@@ -2,7 +2,7 @@
 title: Claude Skills and Awesome Lists
 aliases: [скиллы, awesome-списки]
 tags: [ai, skills, github]
-entries: 22
+entries: 29
 ---
 
 # Claude Skills and Awesome Lists
@@ -26,6 +26,12 @@ Related: [Component Libraries](component-libraries.md) · [Tools](tools.md)
 - [awesome-claude-skills (travisvn)](https://github.com/travisvn/awesome-claude-skills) - Curated list of Claude skills. *Free.*
 - [awesome-claude-skills (VoltAgent)](https://github.com/VoltAgent/awesome-claude-skills) - Claude skills organised by category. *Free.*
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skills, commands, hooks and plugins for Claude Code. *Free.*
+- [Humanizer (blader)](https://github.com/blader/humanizer) - Removes AI-writing patterns, based on Wikipedia's guide to spotting AI text. *Free.*
+- [Matt Pocock's skills (Grill Me)](https://github.com/mattpocock/skills) - Skills that question your plan before building. *Free.*
+- [Superpowers (obra)](https://github.com/obra/superpowers) - Battle-tested engineering workflows as one skills pack. *Free.*
+- [Impeccable (Paul Bakaus)](https://github.com/pbakaus/impeccable) - Design skill that makes vibe-coded UI look less generic. Recommended by Nelson (nels_ysng). *Free.*
+- [Firecrawl plugin for Claude](https://github.com/firecrawl/firecrawl-claude-plugin) - Reliable web scraping for Claude. *Free + paid API.*
+- [Claude Code Router](https://github.com/musistudio/claude-code-router) - Route Claude Code to other model providers. *Free.*
 
 ## Design Lists on GitHub
 
@@ -45,3 +51,4 @@ Related: [Component Libraries](component-libraries.md) · [Tools](tools.md)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - The list of awesome lists, with a Design section. *Free.*
 - [awesome-a11y](https://github.com/brunopulis/awesome-a11y) - Accessibility resources. *Free.*
 - [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - Books, tools and inspiration for web design (last updated 2023). *Free.*
+- [Public APIs](https://github.com/public-apis/public-apis) - Thousands of free APIs by category, handy for prototypes. *Free.*

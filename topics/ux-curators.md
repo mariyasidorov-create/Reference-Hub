@@ -2,7 +2,7 @@
 title: UX Curators and Vitaly Friedman
 aliases: [кураторы, LinkedIn]
 tags: [ux, linkedin, curators]
-entries: 45
+entries: 46
 ---
 
 # UX Curators and Vitaly Friedman
@@ -116,3 +116,4 @@ Related: [UX Research and Guidelines](ux-research.md) · [Learning](learning.md)
 - [Memorisely (Zander Whitehurst)](https://www.memorisely.com/) - UI courses, AI prototyping, skills for Claude and Cursor. *Free + paid.*
 - [Mule Design (Erika Hall)](https://www.muledesign.com/) - Just Enough Research and design strategy. *Free.*
 - [Product Talk (Teresa Torres)](https://www.producttalk.org/) - Continuous discovery, interviewing, opportunity solution trees. *Free + paid.*
+- [Femke van Schoonhoven](https://femke.design/) - Product design videos, courses and Design Life podcast. *Free + paid.*

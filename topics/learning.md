@@ -2,7 +2,7 @@
 title: Learning
 aliases: [обучение, книги, books]
 tags: [learning, books, youtube]
-entries: 29
+entries: 35
 ---
 
 # Learning
@@ -22,6 +22,7 @@ Related: [Graphic Design History](graphic-design-history.md) · [UX Curators and
 - [Books by NN/g Authors](#books-by-nng-authors)
 - [Figma Resource Library](#figma-resource-library)
 - [Communities](#communities)
+- [Podcasts and Interviews](#podcasts-and-interviews)
 
 ## YouTube Channels
 
@@ -42,6 +43,9 @@ Related: [Graphic Design History](graphic-design-history.md) · [UX Curators and
 - [Universal Methods of Design (Bruce Hanington, Bella Martin)](https://www.quarto.com/books/9781631597480/universal-methods-of-design-expanded-and-revised) - 125 research and design methods, expanded edition. *Book to buy or borrow.*
 - [Microcopy: The Complete Guide (Kinneret Yifrah)](https://www.microcopybook.com/) - The handbook of interface microcopy, 2nd edition. *Book to buy or borrow.*
 - [Don't Make Me Think, Revisited (Steve Krug)](https://sensible.com/dont-make-me-think/) - The friendliest book on web usability. *Book to buy or borrow.*
+- [Functional Programming in Scala, 2nd ed. (Chiusano, Bjarnason, Pilquist)](https://www.manning.com/books/functional-programming-in-scala-second-edition) - The technical book Boris Cherny, creator of Claude Code, says influenced him most. *Book.*
+- [Programming TypeScript (Boris Cherny)](https://www.oreilly.com/library/view/programming-typescript/9781492037644/) - Boris Cherny's own book on types and TypeScript. *Book.*
+- [Accelerando (Charles Stross)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html) - Sci-fi novel on accelerating technology, recommended by Boris Cherny. Free under Creative Commons from the author. *Free.*
 
 ## Courses by Masters
 
@@ -72,3 +76,9 @@ Related: [Graphic Design History](graphic-design-history.md) · [UX Curators and
 ## Communities
 
 - [Friends of Figma](https://friends.figma.com/) - Local Figma user groups and events worldwide, including Lisbon. *Free.*
+
+## Podcasts and Interviews
+
+- [Head of Claude Code: What happens after coding is solved (Lenny's Podcast)](https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens) - Boris Cherny on building Claude Code, with book recommendations. *Free audio, notes partly paywalled.*
+- [Building Claude Code with Boris Cherny (The Pragmatic Engineer)](https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny) - Architecture, parallel agents, skills that still matter. *Free audio.*
+- [Boris Cherny on his career (Ryan Peterman, Developing Dev)](https://www.developing.dev/p/boris-cherny-creator-of-claude-code) - Meta to Anthropic, side projects, top technical book. *Free.*

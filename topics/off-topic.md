@@ -2,7 +2,7 @@
 title: Off Topic
 aliases: [оффтоп]
 tags: [off-topic, radio, games]
-entries: 69
+entries: 72
 ---
 
 # Off Topic
@@ -38,6 +38,9 @@ Related: [Learning](learning.md)
 - [ChemEquations](https://chemequations.com) - Balances chemical equations. *Free.*
 - [Loecsen](https://www.loecsen.com) - Basic phrases in many languages. *Free.*
 - [Babadum](https://babadum.com) - Vocabulary games in 21 languages, including Portuguese. *Free.*
+- [The Boolean Game (Method)](https://boolean.method.ac/) - Practise union, subtract, intersect and difference. *Free.*
+- [Kerntype (Method)](https://type.method.ac/) - Train your eye for letter spacing. *Free.*
+- [Blendoku](https://blendoku.com/) - Colour gradient puzzle game. *Free.*
 
 ## Typing
 

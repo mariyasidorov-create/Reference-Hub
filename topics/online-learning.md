@@ -2,7 +2,7 @@
 title: Online Learning
 aliases: [онлайн-обучение, курсы]
 tags: [learning, courses]
-entries: 9
+entries: 16
 ---
 
 # Online Learning
@@ -28,6 +28,13 @@ Related: [Learning](learning.md) · [UX Design Process](ux-process.md) · [Desig
 - [Domestika](https://www.domestika.org/) - Craft courses from illustration to type design. *Paid.*
 - [Open Culture: Free Online Courses](https://www.openculture.com/freeonlinecourses) - Index of free university courses, including art history. *Free.*
 - [02UI](https://www.02ui.com/) - Course on designing and shipping real digital products. *Paid.*
+- [Uxcel](https://uxcel.com/) - Bite-size UX and UI courses with skill assessments. *Free + paid.*
+- [Anthropic Academy: Learn](https://www.anthropic.com/learn) - Official courses on Claude, Claude Code, MCP and AI fluency. *Free.*
+- [Elements of AI (University of Helsinki)](https://www.elementsofai.com/) - Free AI basics course with certificate. *Free.*
+- [ChatGPT Prompt Engineering for Developers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Short prompting course with OpenAI. *Free.*
+- [Google AI Essentials](https://grow.google/ai-essentials/) - Google's practical AI course with certificate. *Paid.*
+- [GitHub Certifications](https://resources.github.com/learn/certifications/) - GitHub Foundations, Copilot and other certifications. *Paid exam.*
+- [IBM SkillsBuild](https://skillsbuild.org/) - Free AI and tech courses with credentials. *Free.*
 
 ## Books Online
 

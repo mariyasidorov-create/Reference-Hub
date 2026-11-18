@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1346,
+ "count": 1412,
  "references": [
   {
    "topic": "ui-patterns",
@@ -104,6 +104,14 @@
    "name": "UI design principles (Figma)",
    "url": "https://www.figma.com/resource-library/ui-design-principles/",
    "description": "Core UI principles with examples",
+   "access": "Free"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "More Patterns",
+   "name": "Azbuka UI (UI ABC)",
+   "url": "https://azbuka.uiuxlove.ru/",
+   "description": "Interactive guide to UI elements with live examples, code names and a test, by Kris Anfalova (in Russian).",
    "access": "Free"
   },
   {
@@ -632,6 +640,14 @@
    "name": "Google Fonts",
    "url": "https://fonts.google.com/",
    "description": "Free typefaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Free Typefaces",
+   "name": "Geist (Vercel)",
+   "url": "https://vercel.com/font",
+   "description": "Geist Sans, Mono and Pixel, free.",
    "access": "Free"
   },
   {
@@ -2972,6 +2988,54 @@
   },
   {
    "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Humanizer (blader)",
+   "url": "https://github.com/blader/humanizer",
+   "description": "Removes AI-writing patterns, based on Wikipedia's guide to spotting AI text.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Matt Pocock's skills (Grill Me)",
+   "url": "https://github.com/mattpocock/skills",
+   "description": "Skills that question your plan before building.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Superpowers (obra)",
+   "url": "https://github.com/obra/superpowers",
+   "description": "Battle-tested engineering workflows as one skills pack.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Impeccable (Paul Bakaus)",
+   "url": "https://github.com/pbakaus/impeccable",
+   "description": "Design skill that makes vibe-coded UI look less generic. Recommended by Nelson (nels_ysng).",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Firecrawl plugin for Claude",
+   "url": "https://github.com/firecrawl/firecrawl-claude-plugin",
+   "description": "Reliable web scraping for Claude.",
+   "access": "Free + paid API"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Claude Code Router",
+   "url": "https://github.com/musistudio/claude-code-router",
+   "description": "Route Claude Code to other model providers.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
    "section": "Design Lists on GitHub",
    "name": "awesome-design-systems (alexpate)",
    "url": "https://github.com/alexpate/awesome-design-systems",
@@ -3096,6 +3160,14 @@
    "name": "awesome-web-design",
    "url": "https://github.com/nicolesaidy/awesome-web-design",
    "description": "Books, tools and inspiration for web design (last updated 2023).",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "Public APIs",
+   "url": "https://github.com/public-apis/public-apis",
+   "description": "Thousands of free APIs by category, handy for prototypes.",
    "access": "Free"
   },
   {
@@ -3507,6 +3579,46 @@
    "access": "Paid"
   },
   {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "Affinity (Canva)",
+   "url": "https://www.affinity.studio/",
+   "description": "Professional vector, photo and layout app, free since Canva's 2025 relaunch.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "Aninix",
+   "url": "https://www.aninix.com/",
+   "description": "Animate Figma frames and export Lottie.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "Screen Studio",
+   "url": "https://screen.studio/",
+   "description": "Screen recordings with automatic zoom for product demos.",
+   "access": "Paid"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "Scribe",
+   "url": "https://scribehow.com/",
+   "description": "Records a process and turns it into a step-by-step guide.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "Design Resources (designresourc.es)",
+   "url": "https://designresourc.es/",
+   "description": "Design tools sorted by category.",
+   "access": "Free"
+  },
+  {
    "topic": "off-topic",
    "section": "Learning",
    "name": "Oh Shit, Git!?!",
@@ -3592,6 +3704,30 @@
    "name": "Babadum",
    "url": "https://babadum.com",
    "description": "Vocabulary games in 21 languages, including Portuguese.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "The Boolean Game (Method)",
+   "url": "https://boolean.method.ac/",
+   "description": "Practise union, subtract, intersect and difference.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Kerntype (Method)",
+   "url": "https://type.method.ac/",
+   "description": "Train your eye for letter spacing.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Blendoku",
+   "url": "https://blendoku.com/",
+   "description": "Colour gradient puzzle game.",
    "access": "Free"
   },
   {
@@ -4148,6 +4284,30 @@
   },
   {
    "topic": "learning",
+   "section": "Books Worth Owning",
+   "name": "Functional Programming in Scala, 2nd ed. (Chiusano, Bjarnason, Pilquist)",
+   "url": "https://www.manning.com/books/functional-programming-in-scala-second-edition",
+   "description": "The technical book Boris Cherny, creator of Claude Code, says influenced him most.",
+   "access": "Book"
+  },
+  {
+   "topic": "learning",
+   "section": "Books Worth Owning",
+   "name": "Programming TypeScript (Boris Cherny)",
+   "url": "https://www.oreilly.com/library/view/programming-typescript/9781492037644/",
+   "description": "Boris Cherny's own book on types and TypeScript.",
+   "access": "Book"
+  },
+  {
+   "topic": "learning",
+   "section": "Books Worth Owning",
+   "name": "Accelerando (Charles Stross)",
+   "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html",
+   "description": "Sci-fi novel on accelerating technology, recommended by Boris Cherny. Free under Creative Commons from the author.",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
    "section": "Courses by Masters",
    "name": "Paula Scher: Graphic Design (BBC Maestro)",
    "url": "https://www.bbcmaestro.com/courses/paula-scher/graphic-design",
@@ -4288,6 +4448,30 @@
    "name": "Friends of Figma",
    "url": "https://friends.figma.com/",
    "description": "Local Figma user groups and events worldwide, including Lisbon",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "Podcasts and Interviews",
+   "name": "Head of Claude Code: What happens after coding is solved (Lenny's Podcast)",
+   "url": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens",
+   "description": "Boris Cherny on building Claude Code, with book recommendations.",
+   "access": "Free audio, notes partly paywalled"
+  },
+  {
+   "topic": "learning",
+   "section": "Podcasts and Interviews",
+   "name": "Building Claude Code with Boris Cherny (The Pragmatic Engineer)",
+   "url": "https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny",
+   "description": "Architecture, parallel agents, skills that still matter.",
+   "access": "Free audio"
+  },
+  {
+   "topic": "learning",
+   "section": "Podcasts and Interviews",
+   "name": "Boris Cherny on his career (Ryan Peterman, Developing Dev)",
+   "url": "https://www.developing.dev/p/boris-cherny-creator-of-claude-code",
+   "description": "Meta to Anthropic, side projects, top technical book.",
    "access": "Free"
   },
   {
@@ -5944,6 +6128,14 @@
    "name": "Product Talk (Teresa Torres)",
    "url": "https://www.producttalk.org/",
    "description": "Continuous discovery, interviewing, opportunity solution trees.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "Femke van Schoonhoven",
+   "url": "https://femke.design/",
+   "description": "Product design videos, courses and Design Life podcast.",
    "access": "Free + paid"
   },
   {
@@ -8020,6 +8212,62 @@
   },
   {
    "topic": "online-learning",
+   "section": "Courses",
+   "name": "Uxcel",
+   "url": "https://uxcel.com/",
+   "description": "Bite-size UX and UI courses with skill assessments.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "Anthropic Academy: Learn",
+   "url": "https://www.anthropic.com/learn",
+   "description": "Official courses on Claude, Claude Code, MCP and AI fluency.",
+   "access": "Free"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "Elements of AI (University of Helsinki)",
+   "url": "https://www.elementsofai.com/",
+   "description": "Free AI basics course with certificate.",
+   "access": "Free"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "ChatGPT Prompt Engineering for Developers (DeepLearning.AI)",
+   "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+   "description": "Short prompting course with OpenAI.",
+   "access": "Free"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "Google AI Essentials",
+   "url": "https://grow.google/ai-essentials/",
+   "description": "Google's practical AI course with certificate.",
+   "access": "Paid"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "GitHub Certifications",
+   "url": "https://resources.github.com/learn/certifications/",
+   "description": "GitHub Foundations, Copilot and other certifications.",
+   "access": "Paid exam"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "IBM SkillsBuild",
+   "url": "https://skillsbuild.org/",
+   "description": "Free AI and tech courses with credentials.",
+   "access": "Free"
+  },
+  {
+   "topic": "online-learning",
    "section": "Books Online",
    "name": "Practical Typography",
    "url": "https://practicaltypography.com/",
@@ -8953,6 +9201,150 @@
    "url": "https://www.memorisely.com/online-ai-design-bootcamps/ai-coding-bootcamp",
    "description": "Course on AI coding for designers",
    "access": "Paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "Replit",
+   "url": "https://replit.com/",
+   "description": "Build and host apps with an AI agent. Used by Marina Budarina for client sites.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "Bolt",
+   "url": "https://bolt.new/",
+   "description": "Prompt to full-stack web app in the browser.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "v0 (Vercel)",
+   "url": "https://v0.app/",
+   "description": "Prompt to React and Next.js UI.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "Blink",
+   "url": "https://blink.new/",
+   "description": "AI app builder with backend.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "Base44",
+   "url": "https://base44.com/",
+   "description": "AI app builder with built-in data and auth.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "Rocket",
+   "url": "https://www.rocket.new/",
+   "description": "AI app builder for web and mobile.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "Emergent",
+   "url": "https://emergent.sh/",
+   "description": "Agentic app builder.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "Builder.io",
+   "url": "https://www.builder.io/",
+   "description": "Figma to code and visual editing for existing codebases.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "Thesys",
+   "url": "https://www.thesys.dev/",
+   "description": "Generative UI API: LLM answers rendered as interface.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "html.to.design",
+   "url": "https://html.to.design/",
+   "description": "Import any website into Figma as editable layers.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Backend for Designers",
+   "name": "Supabase",
+   "url": "https://supabase.com/",
+   "description": "Postgres database, auth and storage for vibe-coded apps.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Backend for Designers",
+   "name": "PostHog",
+   "url": "https://posthog.com/",
+   "description": "Product analytics, session replay and feature flags.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Backend for Designers",
+   "name": "RevenueCat",
+   "url": "https://www.revenuecat.com/",
+   "description": "In-app subscriptions and paywalls for iOS and Android.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Backend for Designers",
+   "name": "Xano",
+   "url": "https://www.xano.com/",
+   "description": "No-code backend and APIs.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Backend for Designers",
+   "name": "Softr",
+   "url": "https://www.softr.io/",
+   "description": "No-code apps and portals on top of your data.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Backend for Designers",
+   "name": "n8n",
+   "url": "https://n8n.io/",
+   "description": "Workflow automation, self-hostable.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Backend for Designers",
+   "name": "Tilda",
+   "url": "https://tilda.cc/",
+   "description": "Website builder with Zero Block and an MCP server for AI agents.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Backend for Designers",
+   "name": "Zeroprompt",
+   "url": "https://zeroprompt.ru/",
+   "description": "Animated Tilda sections by block ID or AI prompt, by Kris Anfalova (in Russian).",
+   "access": "Free + paid"
   },
   {
    "topic": "research-and-testing",
@@ -10153,6 +10545,142 @@
    "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers/",
    "description": "Overview of AI tools in the UX process",
    "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Tripo AI",
+   "url": "https://www.tripo3d.ai/",
+   "description": "Image or text to 3D models, export to GLB and other formats. Seen at Kris Anfalova and Jan Mraz.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Hitem3D",
+   "url": "https://hitem3d.ai/",
+   "description": "Image to high-detail 3D models.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Lovart",
+   "url": "https://www.lovart.ai/",
+   "description": "AI design agent for brand and campaign visuals.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Kittl",
+   "url": "https://www.kittl.com/",
+   "description": "Graphic design editor with AI for posters, merch and type effects.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Luma AI (Dream Machine)",
+   "url": "https://lumalabs.ai/",
+   "description": "Text and image to video.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Seedance (ByteDance Seed)",
+   "url": "https://seed.bytedance.com/en/seedance",
+   "description": "Video generation model used through Higgsfield and other apps.",
+   "access": "Via partner apps"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "InVideo",
+   "url": "https://invideo.io/",
+   "description": "AI video editor and generator. Used by Tseily.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Artlist",
+   "url": "https://artlist.io/",
+   "description": "Licensed music, SFX, footage and AI video tools.",
+   "access": "Subscription"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "VEED",
+   "url": "https://www.veed.io/",
+   "description": "Browser video editor with AI captions and avatars.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Arcads",
+   "url": "https://www.arcads.ai/",
+   "description": "AI UGC video ads with actors.",
+   "access": "Paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Topview",
+   "url": "https://www.topview.ai/",
+   "description": "AI video agent for product and marketing videos.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Freepik AI Suite",
+   "url": "https://www.freepik.com/",
+   "description": "Stock plus AI image and video generation.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Pacdora",
+   "url": "https://www.pacdora.com/",
+   "description": "Packaging mockups and dielines in 3D.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Genspark",
+   "url": "https://www.genspark.ai/",
+   "description": "AI agent for slides, docs, images and video.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Google Stitch",
+   "url": "https://stitch.withgoogle.com/",
+   "description": "Google's AI UI design tool, exports to Figma and code.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "NotebookLM",
+   "url": "https://notebooklm.google/",
+   "description": "Google's research notebook: chat with sources, audio and video overviews.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Kimi",
+   "url": "https://www.kimi.com/",
+   "description": "Moonshot AI's open-weight models and agent.",
+   "access": "Free + paid"
   },
   {
    "topic": "english-for-designers",

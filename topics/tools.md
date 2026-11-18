@@ -2,7 +2,7 @@
 title: Tools
 aliases: [инструменты]
 tags: [tools, mockups, branding]
-entries: 30
+entries: 35
 ---
 
 # Tools
@@ -57,3 +57,8 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 - [Spline](https://spline.design/) - 3D design tool for the web. *Freemium.*
 - [Endless Tools](https://endlesstools.io/) - No-code 3D assets and key visuals. *Freemium.*
 - [aescripts + aeplugins](https://aescripts.com/) - Scripts and plugins for After Effects. *Paid.*
+- [Affinity (Canva)](https://www.affinity.studio/) - Professional vector, photo and layout app, free since Canva's 2025 relaunch. *Free.*
+- [Aninix](https://www.aninix.com/) - Animate Figma frames and export Lottie. *Free + paid.*
+- [Screen Studio](https://screen.studio/) - Screen recordings with automatic zoom for product demos. *Paid.*
+- [Scribe](https://scribehow.com/) - Records a process and turns it into a step-by-step guide. *Free + paid.*
+- [Design Resources (designresourc.es)](https://designresourc.es/) - Design tools sorted by category. *Free.*

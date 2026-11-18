@@ -2,7 +2,7 @@
 title: Typography and Type Foundries
 aliases: [типографика, шрифты, fonts]
 tags: [typography, fonts, cyrillic]
-entries: 37
+entries: 38
 ---
 
 # Typography and Type Foundries
@@ -31,6 +31,7 @@ Related: [Graphic Design History](graphic-design-history.md) · [Right-to-Left S
 
 - [Fontshare](https://www.fontshare.com/) - Free high-quality typefaces. *Free.*
 - [Google Fonts](https://fonts.google.com/) - Free typefaces. *Free.*
+- [Geist (Vercel)](https://vercel.com/font) - Geist Sans, Mono and Pixel, free. *Free.*
 
 ## Cyrillic Foundries
 

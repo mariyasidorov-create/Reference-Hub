@@ -2,7 +2,7 @@
 title: Design to Code
 aliases: [дизайн в код, Figma MCP, вайбкодинг]
 tags: [figma, code, ai, mcp]
-entries: 24
+entries: 42
 ---
 
 # Design to Code
@@ -18,6 +18,8 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [Figma Summer School: Designer to Builder](#figma-summer-school-designer-to-builder)
 - [Figma Official](#figma-official)
 - [Agents and Code](#agents-and-code)
+- [Vibe Coding and App Builders](#vibe-coding-and-app-builders)
+- [Backend for Designers](#backend-for-designers)
 
 ## Figma Summer School: Designer to Builder
 
@@ -51,3 +53,27 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [Lazyweb MCP](https://www.lazyweb.com/mcp-install) - MCP server with UI references for coding agents. *Freemium.*
 - [Unicorn Studio](https://www.unicorn.studio/) - No-code WebGL effects exportable to the web. *Freemium.*
 - [Memorisely AI Coding Bootcamp](https://www.memorisely.com/online-ai-design-bootcamps/ai-coding-bootcamp) - Course on AI coding for designers. *Paid.*
+
+## Vibe Coding and App Builders
+
+- [Replit](https://replit.com/) - Build and host apps with an AI agent. Used by Marina Budarina for client sites. *Free + paid.*
+- [Bolt](https://bolt.new/) - Prompt to full-stack web app in the browser. *Free + paid.*
+- [v0 (Vercel)](https://v0.app/) - Prompt to React and Next.js UI. *Free + paid.*
+- [Blink](https://blink.new/) - AI app builder with backend. *Free + paid.*
+- [Base44](https://base44.com/) - AI app builder with built-in data and auth. *Free + paid.*
+- [Rocket](https://www.rocket.new/) - AI app builder for web and mobile. *Free + paid.*
+- [Emergent](https://emergent.sh/) - Agentic app builder. *Free + paid.*
+- [Builder.io](https://www.builder.io/) - Figma to code and visual editing for existing codebases. *Free + paid.*
+- [Thesys](https://www.thesys.dev/) - Generative UI API: LLM answers rendered as interface. *Free + paid.*
+- [html.to.design](https://html.to.design/) - Import any website into Figma as editable layers. *Free + paid.*
+
+## Backend for Designers
+
+- [Supabase](https://supabase.com/) - Postgres database, auth and storage for vibe-coded apps. *Free + paid.*
+- [PostHog](https://posthog.com/) - Product analytics, session replay and feature flags. *Free + paid.*
+- [RevenueCat](https://www.revenuecat.com/) - In-app subscriptions and paywalls for iOS and Android. *Free + paid.*
+- [Xano](https://www.xano.com/) - No-code backend and APIs. *Free + paid.*
+- [Softr](https://www.softr.io/) - No-code apps and portals on top of your data. *Free + paid.*
+- [n8n](https://n8n.io/) - Workflow automation, self-hostable. *Free + paid.*
+- [Tilda](https://tilda.cc/) - Website builder with Zero Block and an MCP server for AI agents. *Free + paid.*
+- [Zeroprompt](https://zeroprompt.ru/) - Animated Tilda sections by block ID or AI prompt, by Kris Anfalova (in Russian). *Free + paid.*
