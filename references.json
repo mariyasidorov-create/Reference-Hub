@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1239,
+ "count": 1287,
  "references": [
   {
    "topic": "ui-patterns",
@@ -6752,6 +6752,390 @@
    "name": "Damien Hirst",
    "url": "https://www.damienhirst.com/",
    "description": "Official site, being rebuilt as his complete catalogue raisonné",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 01: Strange Beginnings",
+   "name": "Khan Academy: Prehistoric art",
+   "url": "https://www.khanacademy.org/humanities/prehistoric-art",
+   "description": "Smarthistory course on prehistoric art",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 01: Strange Beginnings",
+   "name": "Lascaux (French Ministry of Culture)",
+   "url": "https://archeologie.culture.gouv.fr/lascaux/en",
+   "description": "Virtual visit and research on the Lascaux cave paintings",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 01: Strange Beginnings",
+   "name": "Khan Academy: Art of the Americas",
+   "url": "https://www.khanacademy.org/humanities/art-americas",
+   "description": "Pre-Columbian and Indigenous art of the Americas",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 01: Strange Beginnings",
+   "name": "Khan Academy: Art of Oceania",
+   "url": "https://www.khanacademy.org/humanities/art-oceania",
+   "description": "Pacific art traditions",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 01: Strange Beginnings",
+   "name": "Khan Academy: Art of Africa",
+   "url": "https://www.khanacademy.org/humanities/art-africa",
+   "description": "African art traditions",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 02: Art for Eternity",
+   "name": "Khan Academy: Ancient art and civilizations",
+   "url": "https://www.khanacademy.org/humanities/ancient-art-civilizations",
+   "description": "Egypt, the Ancient Near East and the Aegean",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 02: Art for Eternity",
+   "name": "Museo Egizio (Egyptian Museum, Turin)",
+   "url": "https://museoegizio.it/en/",
+   "description": "The oldest museum devoted entirely to ancient Egypt",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 03: The Great Awakening",
+   "name": "Acropolis Museum",
+   "url": "https://www.acropolismuseum.gr/en",
+   "description": "Sculpture from the Athenian Acropolis",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 03: The Great Awakening",
+   "name": "National Archaeological Museum, Athens",
+   "url": "https://www.namuseum.gr/en/",
+   "description": "Greek art from prehistory to late antiquity",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 04: The Realm of Beauty",
+   "name": "Acropolis Museum",
+   "url": "https://www.acropolismuseum.gr/en",
+   "description": "Classical and Hellenistic sculpture",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 05: World Conquerors",
+   "name": "Vatican Museums",
+   "url": "https://www.museivaticani.va/content/museivaticani/en.html",
+   "description": "Roman sculpture and early Christian art",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 05: World Conquerors",
+   "name": "Khan Academy: Art of Asia",
+   "url": "https://www.khanacademy.org/humanities/art-asia",
+   "description": "Buddhist art of India, China and Japan",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 06: A Parting of Ways",
+   "name": "Hagia Sophia",
+   "url": "https://www.hagiasophia.com/",
+   "description": "Byzantine architecture and mosaics in Istanbul",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 06: A Parting of Ways",
+   "name": "Ravenna Mosaici",
+   "url": "https://www.ravennamosaici.it/en/",
+   "description": "Early Christian and Byzantine mosaics of Ravenna",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 07: Looking Eastwards",
+   "name": "Khan Academy: Art of the Islamic world",
+   "url": "https://www.khanacademy.org/humanities/art-islam",
+   "description": "Islamic art and architecture",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 07: Looking Eastwards",
+   "name": "National Palace Museum (國立故宮博物院)",
+   "url": "https://www.npm.gov.tw/en/",
+   "description": "Chinese painting and calligraphy",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 08: Western Art in the Melting Pot",
+   "name": "e-codices",
+   "url": "https://www.e-codices.unifr.ch/en",
+   "description": "Virtual library of medieval manuscripts from Switzerland",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 08: Western Art in the Melting Pot",
+   "name": "Bayeux Tapestry Museum",
+   "url": "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/",
+   "description": "The 11th-century embroidered story of the Norman conquest",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 09: The Church Militant",
+   "name": "Khan Academy: Medieval world",
+   "url": "https://www.khanacademy.org/humanities/medieval-world",
+   "description": "Romanesque and Gothic art",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 10: The Church Triumphant",
+   "name": "Chartres Cathedral",
+   "url": "https://www.cathedrale-chartres.org/en/",
+   "description": "Gothic architecture and stained glass",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 10: The Church Triumphant",
+   "name": "Sainte-Chapelle",
+   "url": "https://www.sainte-chapelle.fr/en",
+   "description": "Rayonnant Gothic chapel and its windows",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 11: Courtiers and Burghers",
+   "name": "Web Gallery of Art",
+   "url": "https://www.wga.hu/",
+   "description": "International Gothic painting and illumination",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 12: The Conquest of Reality",
+   "name": "Uffizi Galleries",
+   "url": "https://www.uffizi.it/en",
+   "description": "Florence: Giotto, Masaccio, Botticelli and the Renaissance",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 12: The Conquest of Reality",
+   "name": "Closer to Van Eyck",
+   "url": "https://closertovaneyck.kikirpa.be/",
+   "description": "The Ghent Altarpiece in microscopic detail",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 13: Tradition and Innovation I",
+   "name": "Khan Academy: Renaissance and Reformation",
+   "url": "https://www.khanacademy.org/humanities/renaissance-reformation",
+   "description": "Italian and northern Renaissance",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 14: Tradition and Innovation II",
+   "name": "Closer to Van Eyck",
+   "url": "https://closertovaneyck.kikirpa.be/",
+   "description": "Northern painting at extreme magnification",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 15: Harmony Attained",
+   "name": "Vatican Museums",
+   "url": "https://www.museivaticani.va/content/museivaticani/en.html",
+   "description": "Raphael Rooms and the Sistine Chapel",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 15: Harmony Attained",
+   "name": "Uffizi Galleries",
+   "url": "https://www.uffizi.it/en",
+   "description": "Leonardo, Michelangelo and Raphael",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 16: Light and Colour",
+   "name": "Gallerie dell'Accademia di Venezia",
+   "url": "https://www.gallerieaccademia.it/en",
+   "description": "Bellini, Giorgione, Titian and Venetian colour",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 17: The New Learning Spreads",
+   "name": "Albrecht Dürer (durer.org)",
+   "url": "https://www.durer.org/",
+   "description": "Dürer's works and prints online",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 17: The New Learning Spreads",
+   "name": "Kunsthistorisches Museum Wien",
+   "url": "https://www.khm.at/en/",
+   "description": "Bruegel and the northern Renaissance",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 18: A Crisis of Art",
+   "name": "Museo del Prado",
+   "url": "https://www.museodelprado.es/en",
+   "description": "El Greco, Titian and Mannerism",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 19: Vision and Visions",
+   "name": "Museo del Prado",
+   "url": "https://www.museodelprado.es/en",
+   "description": "Velázquez and Spanish Baroque",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 19: Vision and Visions",
+   "name": "Rubenshuis (Rubens House)",
+   "url": "https://www.rubenshuis.be/en",
+   "description": "Rubens's home and studio in Antwerp",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 20: The Mirror of Nature",
+   "name": "Rembrandt House Museum",
+   "url": "https://www.rembrandthuis.nl/en/",
+   "description": "Rembrandt's house and etchings",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 20: The Mirror of Nature",
+   "name": "Mauritshuis",
+   "url": "https://www.mauritshuis.nl/en/",
+   "description": "Vermeer and the Dutch Golden Age",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 20: The Mirror of Nature",
+   "name": "Essential Vermeer",
+   "url": "https://www.essentialvermeer.com/",
+   "description": "Complete resource on Vermeer's paintings",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 21: Power and Glory I",
+   "name": "Khan Academy: Monarchy and Enlightenment",
+   "url": "https://www.khanacademy.org/humanities/monarchy-enlightenment",
+   "description": "Baroque and Rococo art",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 22: Power and Glory II",
+   "name": "Musée du Louvre",
+   "url": "https://www.louvre.fr/en",
+   "description": "French Baroque painting and Versailles-era art",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 23: The Age of Reason",
+   "name": "The Wallace Collection",
+   "url": "https://www.wallacecollection.org/",
+   "description": "Watteau, Fragonard and 18th-century French art",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 24: The Break in Tradition",
+   "name": "Tate: Romanticism",
+   "url": "https://www.tate.org.uk/art/art-terms/r/romanticism",
+   "description": "Turner, Constable and Romanticism",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 24: The Break in Tradition",
+   "name": "Museo del Prado",
+   "url": "https://www.museodelprado.es/en",
+   "description": "Goya",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 25: Permanent Revolution",
+   "name": "Khan Academy: Becoming modern",
+   "url": "https://www.khanacademy.org/humanities/becoming-modern",
+   "description": "Realism, Impressionism and the 19th century",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 25: Permanent Revolution",
+   "name": "Musée d'Orsay",
+   "url": "https://www.musee-orsay.fr/en",
+   "description": "French art 1848–1914",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 26: In Search of New Standards",
+   "name": "Van Gogh Museum",
+   "url": "https://www.vangoghmuseum.nl/en",
+   "description": "Post-Impressionism",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 27: Experimental Art",
+   "name": "Khan Academy: Art 1010 to modern",
+   "url": "https://www.khanacademy.org/humanities/art-1010",
+   "description": "20th-century modernism",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 27: Experimental Art",
+   "name": "Guggenheim Collection Online",
+   "url": "https://www.guggenheim.org/collection-online",
+   "description": "Kandinsky and modern abstraction",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Gombrich 28: A Story without End",
+   "name": "MoMA Collection",
+   "url": "https://www.moma.org/collection/",
+   "description": "Modern and contemporary art",
    "access": "Free"
   },
   {

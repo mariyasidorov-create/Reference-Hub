@@ -2,7 +2,7 @@
 
 Curated references for product and graphic designers: interface patterns, galleries, type, motion, component libraries, image archives, graphic design history, right-to-left scripts, early web history and UX writing from trusted curators.
 
-The list holds 1239 checked links in 48 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1287 checked links in 48 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -57,7 +57,7 @@ The list holds 1239 checked links in 48 topic files. Every topic file links to r
 
 ## History and Archives
 
-- [Art History and Artists](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/art-history.md) - Overviews of art history following Gombrich's The Story of Art, image databases and artists' official resources (12 links).
+- [Art History and Artists](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/art-history.md) - Overviews of art history following Gombrich's The Story of Art, image databases and artists' official resources (60 links).
 - [Ancient Egypt](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/egypt.md) - Museums, primary sources and hieroglyph tools, from Turin's Museo Egizio to free Egyptology PDFs (12 links).
 - [Graphic Design History](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/graphic-design-history.md) - Archives, books and museums for every major movement from medieval manuscripts to Emigre (111 links).
 - [Early Web History](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/web-history.md) - Museums, archives and books on how the web looked from 1991 onwards (13 links).
