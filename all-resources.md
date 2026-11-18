@@ -26,7 +26,7 @@ Color Hunt · Color theory (Figma) · Coolors · Huemint · Realtime Colors
 
 ### [Motion and Micro-interactions](topics/motion.md)
 
-3D GIF Maker · 60fps · Aceternity UI · AEUX · Anime.js · Bloop · Capptivate · Circle Loaders · CodePen · Dasca · Design Spells · Eyecandy · Gradient Buttons · GSAP · Ink overlays · Jitter · Kinetics · liquid-glass · LottieFiles · Lusion Labs · MicroKit · Motion · Moving Parts · Paper Animation · Ripplix · Spotted in Prod · Text Effects · Uiverse · What is motion design (Figma) · WigglyPaint · Zajno Motion
+3D GIF Maker · 60fps · Aceternity UI · AEUX · Anime.js · Bloop · Capptivate · Circle Loaders · CodePen · Dasca · Design Spells · Devouring Details · Emil Kowalski · Eyecandy · Gradient Buttons · GSAP · Ink overlays · Jitter · Kinetics · liquid-glass · LottieFiles · Lusion Labs · MicroKit · Motion · Moving Parts · Paper Animation · Rauno Freiberg: Craft · Ripplix · Spotted in Prod · Text Effects · Uiverse · What is motion design (Figma) · WigglyPaint · Zajno Motion
 
 ### [Icons, Illustrations and Graphics](topics/icons-and-graphics.md)
 
@@ -60,7 +60,7 @@ AI tools for UX designers (Figma) · Claude Certified Architect – Foundations 
 
 ### [Claude Skills and Awesome Lists](topics/awesome-lists.md)
 
-anthropics/skills · Awesome Design Tools · awesome-claude-code · awesome-claude-skills (ComposioHQ) · awesome-claude-skills (travisvn) · awesome-claude-skills (VoltAgent) · awesome-creative-coding · awesome-css · awesome-design · awesome-design-systems (alexpate) · awesome-design-systems (klaufel) · awesome-icons · awesome-react-components · awesome-stock-resources · awesome-ui-component-library · Design Resources for Developers · free-for-dev · motion-ui-design · sindresorhus/awesome · skills.sh
+anthropics/skills · Awesome Design Tools · awesome-a11y · awesome-claude-code · awesome-claude-skills (ComposioHQ) · awesome-claude-skills (travisvn) · awesome-claude-skills (VoltAgent) · awesome-creative-coding · awesome-css · awesome-design · awesome-design-systems (alexpate) · awesome-design-systems (klaufel) · awesome-icons · awesome-react-components · awesome-stock-resources · awesome-ui-component-library · awesome-web-design · Design Resources for Developers · free-for-dev · motion-ui-design · sindresorhus/awesome · skills.sh
 
 ## UX
 
@@ -90,7 +90,7 @@ Competitive analysis (Figma) · Crunchbase · Sensor Tower (formerly data.ai) ·
 
 ### [UX Curators and Vitaly Friedman](topics/ux-curators.md)
 
-Agentic Experience Design · Andy Budd · Atlassian — Voice and Tone · Chris Butler — The Rhythm of Your Screen · Debbie Levitt · Design Engineering AI Skills · Don Norman · Duolingo — Voice · Emily Campbell — The Six Layers of AI Experience · Erika Hall · Fontsight · FT Visual Vocabulary · Good Practices · How Product Teams Use AI In UX Research · IF — Data Patterns Catalogue · Indi Young · Ioana Teleanu · Jakob Nielsen · Jared Spool · John Maeda · Luke Wroblewski · Nick DiLallo — What I've Learned Writing For Billions of Users · NN/g — Contextual Menus · NN/g — DesignOps 101 · Open Visualization Academy · Smashing AI Conf 2027 · Teresa Torres · The Good Line-Height · The Strategic Product Designer · TTC Labs — Design for People · Utopia Type Calculator · Vitaly Friedman · Zander Whitehurst
+Agentic Experience Design · Andy Budd · Atlassian — Voice and Tone · Center Centre (Jared Spool) · Chris Butler — The Rhythm of Your Screen · Debbie Levitt · Delta CX (Debbie Levitt) · Design Engineering AI Skills · Design in Tech Report (John Maeda) · Design Patterns for AI (Vitaly Friedman) · Don Norman · Duolingo — Voice · Emily Campbell — The Six Layers of AI Experience · Erika Hall · Fontsight · FT Visual Vocabulary · Good Practices · How Product Teams Use AI In UX Research · IF — Data Patterns Catalogue · Indi Young · Ioana Teleanu · Jakob Nielsen · Jared Spool · jnd.org (Don Norman) · John Maeda · Luke Wroblewski · LukeW (Luke Wroblewski) · maeda.pm (John Maeda) · Measure UX (Vitaly Friedman) · Memorisely (Zander Whitehurst) · Mule Design (Erika Hall) · Nick DiLallo — What I've Learned Writing For Billions of Users · NN/g — Contextual Menus · NN/g — DesignOps 101 · Open Visualization Academy · Product Talk (Teresa Torres) · Smashing AI Conf 2027 · Teresa Torres · The Good Line-Height · The Strategic Product Designer · TTC Labs — Design for People · Utopia Type Calculator · Vitaly Friedman · Zander Whitehurst
 
 ## Interface Topics
 

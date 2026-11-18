@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1329,
+ "count": 1346,
  "references": [
   {
    "topic": "ui-patterns",
@@ -1137,6 +1137,30 @@
    "url": "https://www.figma.com/resource-library/what-is-motion-design/",
    "description": "Motion design basics",
    "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Design Engineers",
+   "name": "Rauno Freiberg: Craft",
+   "url": "https://rauno.me/craft",
+   "description": "Interaction experiments at Apple-level polish. Study, do not copy.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Design Engineers",
+   "name": "Emil Kowalski",
+   "url": "https://emilkowal.ski/",
+   "description": "Animation and component craft, author of Sonner and Vaul.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Design Engineers",
+   "name": "Devouring Details",
+   "url": "https://devouringdetails.com/",
+   "description": "Interactive essays on interface details.",
+   "access": "Paid"
   },
   {
    "topic": "ux-research",
@@ -3056,6 +3080,22 @@
    "name": "sindresorhus/awesome",
    "url": "https://github.com/sindresorhus/awesome",
    "description": "The list of awesome lists, with a Design section.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-a11y",
+   "url": "https://github.com/brunopulis/awesome-a11y",
+   "description": "Accessibility resources.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-web-design",
+   "url": "https://github.com/nicolesaidy/awesome-web-design",
+   "description": "Books, tools and inspiration for web design (last updated 2023).",
    "access": "Free"
   },
   {
@@ -5809,6 +5849,102 @@
    "url": "https://smashingconf.com/ai-2027-conference",
    "description": "Online conference on AI-ready design systems, research and trust patterns, 1 December.",
    "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "Center Centre (Jared Spool)",
+   "url": "https://www.centercentre.com/",
+   "description": "UX strategy and training UX teams.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "Delta CX (Debbie Levitt)",
+   "url": "https://deltacx.com/",
+   "description": "CX, research and process maturity.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "Design in Tech Report (John Maeda)",
+   "url": "https://designintech.report/",
+   "description": "Yearly report on design, computation and AI.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "maeda.pm (John Maeda)",
+   "url": "https://maeda.pm/",
+   "description": "Maeda's notes on design and AI.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "Indi Young",
+   "url": "https://indiyoung.com/",
+   "description": "Mental models, thinking styles, listening sessions.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "jnd.org (Don Norman)",
+   "url": "https://jnd.org/",
+   "description": "Essays by the author of The Design of Everyday Things.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "LukeW (Luke Wroblewski)",
+   "url": "https://www.lukew.com/",
+   "description": "Mobile, forms and AI interfaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "Measure UX (Vitaly Friedman)",
+   "url": "https://measure-ux.com/",
+   "description": "UX metrics and how to measure design impact.",
+   "access": "Paid course"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "Design Patterns for AI (Vitaly Friedman)",
+   "url": "https://ai-design-patterns.com/",
+   "description": "Patterns for AI interfaces.",
+   "access": "Paid course"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "Memorisely (Zander Whitehurst)",
+   "url": "https://www.memorisely.com/",
+   "description": "UI courses, AI prototyping, skills for Claude and Cursor.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "Mule Design (Erika Hall)",
+   "url": "https://www.muledesign.com/",
+   "description": "Just Enough Research and design strategy.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Educators' Own Sites",
+   "name": "Product Talk (Teresa Torres)",
+   "url": "https://www.producttalk.org/",
+   "description": "Continuous discovery, interviewing, opportunity solution trees.",
+   "access": "Free + paid"
   },
   {
    "topic": "museums-and-galleries",

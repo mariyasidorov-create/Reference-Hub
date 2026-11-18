@@ -2,7 +2,7 @@
 title: UX Curators and Vitaly Friedman
 aliases: [кураторы, LinkedIn]
 tags: [ux, linkedin, curators]
-entries: 33
+entries: 45
 ---
 
 # UX Curators and Vitaly Friedman
@@ -28,6 +28,7 @@ Related: [UX Research and Guidelines](ux-research.md) · [Learning](learning.md)
 - [Vitaly Friedman, Sorted by Topic: Strategy](#vitaly-friedman-sorted-by-topic-strategy)
 - [Vitaly Friedman, Sorted by Topic: AI Skills for Design](#vitaly-friedman-sorted-by-topic-ai-skills-for-design)
 - [Vitaly Friedman, Sorted by Topic: Events](#vitaly-friedman-sorted-by-topic-events)
+- [Educators' Own Sites](#educators-own-sites)
 
 ## LinkedIn Curators
 
@@ -100,3 +101,18 @@ Related: [UX Research and Guidelines](ux-research.md) · [Learning](learning.md)
 ## Vitaly Friedman, Sorted by Topic: Events
 
 - [Smashing AI Conf 2027](https://smashingconf.com/ai-2027-conference) - Online conference on AI-ready design systems, research and trust patterns, 1 December. *Free.*
+
+## Educators' Own Sites
+
+- [Center Centre (Jared Spool)](https://www.centercentre.com/) - UX strategy and training UX teams. *Free + paid.*
+- [Delta CX (Debbie Levitt)](https://deltacx.com/) - CX, research and process maturity. *Free + paid.*
+- [Design in Tech Report (John Maeda)](https://designintech.report/) - Yearly report on design, computation and AI. *Free.*
+- [maeda.pm (John Maeda)](https://maeda.pm/) - Maeda's notes on design and AI. *Free.*
+- [Indi Young](https://indiyoung.com/) - Mental models, thinking styles, listening sessions. *Free + paid.*
+- [jnd.org (Don Norman)](https://jnd.org/) - Essays by the author of The Design of Everyday Things. *Free.*
+- [LukeW (Luke Wroblewski)](https://www.lukew.com/) - Mobile, forms and AI interfaces. *Free.*
+- [Measure UX (Vitaly Friedman)](https://measure-ux.com/) - UX metrics and how to measure design impact. *Paid course.*
+- [Design Patterns for AI (Vitaly Friedman)](https://ai-design-patterns.com/) - Patterns for AI interfaces. *Paid course.*
+- [Memorisely (Zander Whitehurst)](https://www.memorisely.com/) - UI courses, AI prototyping, skills for Claude and Cursor. *Free + paid.*
+- [Mule Design (Erika Hall)](https://www.muledesign.com/) - Just Enough Research and design strategy. *Free.*
+- [Product Talk (Teresa Torres)](https://www.producttalk.org/) - Continuous discovery, interviewing, opportunity solution trees. *Free + paid.*

@@ -2,7 +2,7 @@
 title: Claude Skills and Awesome Lists
 aliases: [скиллы, awesome-списки]
 tags: [ai, skills, github]
-entries: 20
+entries: 22
 ---
 
 # Claude Skills and Awesome Lists
@@ -43,3 +43,5 @@ Related: [Component Libraries](component-libraries.md) · [Tools](tools.md)
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - Free stock photos, videos and illustrations. *Free.*
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - Free tiers of services for projects. *Free.*
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - The list of awesome lists, with a Design section. *Free.*
+- [awesome-a11y](https://github.com/brunopulis/awesome-a11y) - Accessibility resources. *Free.*
+- [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - Books, tools and inspiration for web design (last updated 2023). *Free.*

@@ -2,7 +2,7 @@
 
 Curated references for product and graphic designers: interface patterns, galleries, type, motion, component libraries, image archives, graphic design history, right-to-left scripts, early web history and UX writing from trusted curators.
 
-The list holds 1329 checked links in 49 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1346 checked links in 49 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -22,7 +22,7 @@ The list holds 1329 checked links in 49 topic files. Every topic file links to r
 - [Images and Moodboards](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/images-and-moodboards.md) - Moodboard tools, logo archives, shapes and backgrounds (13 links).
 - [Color](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/color.md) - Palette generators and colour tools (5 links).
 - [Typography and Type Foundries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/typography.md) - Type in use, free typefaces and independent Cyrillic and Latin foundries (37 links).
-- [Motion and Micro-interactions](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/motion.md) - References for interface motion, delightful details and motion design tools (31 links).
+- [Motion and Micro-interactions](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/motion.md) - References for interface motion, delightful details and motion design tools (34 links).
 - [Icons, Illustrations and Graphics](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/icons-and-graphics.md) - Icon sets, illustration generators and graphic effects (21 links).
 
 ## Code and Tools
@@ -33,7 +33,7 @@ The list holds 1329 checked links in 49 topic files. Every topic file links to r
 - [Developer Handoff](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/handoff.md) - Tools for handing designs to engineering (20 links).
 - [Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/tools.md) - Mockups, inspiration and tools for branding, photo, AI and video (30 links).
 - [AI and Creative Technology](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ai-and-creative-tech.md) - AI tools, generative art, 3D and creative coding (20 links).
-- [Claude Skills and Awesome Lists](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/awesome-lists.md) - Skills for AI agents and other curated design lists on GitHub (20 links).
+- [Claude Skills and Awesome Lists](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/awesome-lists.md) - Skills for AI agents and other curated design lists on GitHub (22 links).
 
 ## UX
 
@@ -43,7 +43,7 @@ The list holds 1329 checked links in 49 topic files. Every topic file links to r
 - [Metrics and Growth](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/metrics-and-growth.md) - Growth books, product metrics and analytics tools (5 links).
 - [Product Management](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/product-management.md) - Strategy, metrics, unit economics, finance and delivery, structured after The Product Map (42 links).
 - [Benchmarks and Competitors](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/benchmarks.md) - Market data and industry players for competitive analysis (6 links).
-- [UX Curators and Vitaly Friedman](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ux-curators.md) - People who publish carefully curated UX material, and Vitaly Friedman's resources sorted by topic (33 links).
+- [UX Curators and Vitaly Friedman](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ux-curators.md) - People who publish carefully curated UX material, and Vitaly Friedman's resources sorted by topic (45 links).
 
 ## Interface Topics
 
@@ -94,4 +94,4 @@ Read the [contribution guidelines](contributing.md) first.
 
 ## Footnotes
 
-See [all resources](all-resources.md) for a single list of every name, and the [knowledge map](knowledge-map.md) for how topics connect. Every entry is also in [references.json](references.json) for scripts and AI agents. Sources include Denis Masharov's Facebook albums on graphic design history, Erken Kagarov's writing, and posts by Vitaly Friedman.
+This repository is the single home for what used to be two separate collections: the Reference Hub (visual references, galleries, component libraries) and the Knowledge Hub (learning: books, courses, educators, research). Both now live here as topics. See [all resources](all-resources.md) for a single list of every name, and the [knowledge map](knowledge-map.md) for how topics connect. Every entry is also in [references.json](references.json) for scripts and AI agents. Sources include Denis Masharov's Facebook albums on graphic design history, Erken Kagarov's writing, and posts by Vitaly Friedman.

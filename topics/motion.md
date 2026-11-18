@@ -2,7 +2,7 @@
 title: Motion and Micro-interactions
 aliases: [моушн, анимация, animation]
 tags: [motion, micro-interactions]
-entries: 31
+entries: 34
 ---
 
 # Motion and Micro-interactions
@@ -18,6 +18,7 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [Micro-interactions and Motion References](#micro-interactions-and-motion-references)
 - [Motion Tools](#motion-tools)
 - [More Motion](#more-motion)
+- [Design Engineers](#design-engineers)
 
 ## Micro-interactions and Motion References
 
@@ -58,3 +59,9 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [AEUX](https://github.com/google/aeux) - Open-source plugin to move Figma layers into After Effects. *Free.*
 - [Lusion Labs](https://labs.lusion.co/) - WebGL experiments by Lusion. *Free.*
 - [What is motion design (Figma)](https://www.figma.com/resource-library/what-is-motion-design/) - Motion design basics. *Free.*
+
+## Design Engineers
+
+- [Rauno Freiberg: Craft](https://rauno.me/craft) - Interaction experiments at Apple-level polish. Study, do not copy. *Free.*
+- [Emil Kowalski](https://emilkowal.ski/) - Animation and component craft, author of Sonner and Vaul. *Free.*
+- [Devouring Details](https://devouringdetails.com/) - Interactive essays on interface details. *Paid.*
