@@ -33,7 +33,7 @@ Related: [Architecture](architecture.md) · [Graphic Design History](graphic-des
 - [BNDigital](https://bndigital.bnportugal.gov.pt) - Digital National Library of Portugal: books, maps, prints. *Mixed licences.*
 - [Digitarq](https://digitarq.arquivos.pt) - Portuguese state archives, including Torre do Tombo. *Mixed licences.*
 - [Arquivo Municipal de Lisboa](https://arquivomunicipal.cm-lisboa.pt) - Lisbon photo archive from the 19th century onwards. *Mixed licences.*
-- [Hemeroteca Digital de Lisboa](https://hemerotecadigital.cm-lisboa.pt) - Digitised Portuguese newspapers and magazines, including Ilustração Portuguesa. *Mixed licences.*
+- [Hemeroteca Digital de Lisboa (Lisbon Digital Newspaper Library)](https://hemerotecadigital.cm-lisboa.pt) - Digitised Portuguese newspapers and magazines, including Ilustração Portuguesa. *Mixed licences.*
 - [MatrizNet](http://www.matriznet.dgpc.pt) - Collections of Portuguese state museums, including azulejos. *View only.*
 - [Restos de Colecção](https://restosdecoleccao.blogspot.com) - History of Portuguese shops, brands and signage in photos. *View only.*
 

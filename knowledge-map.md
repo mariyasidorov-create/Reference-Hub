@@ -159,7 +159,6 @@ Tags in each file's front matter (for example `history`, `portugal`, `rtl`) show
 
 ## Planned Topics
 
-- Personal library: books worth owning, with legal links
 - Second pass on regions: Latin American, African and Asian graphic design
 - Archive of saved Instagram posts with transcripts
 

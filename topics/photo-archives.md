@@ -64,14 +64,14 @@ Related: [Graphic Design History](graphic-design-history.md) · [Portugal](portu
 - [SMK Open](https://www.smk.dk/en/article/smk-open) - National Gallery of Denmark. *Public domain.*
 - [LACMA](https://collections.lacma.org) - Los Angeles County Museum of Art collection. *Partly public domain.*
 - [Getty Open Content](https://www.getty.edu/projects/open-content-program) - Images from the Getty collections. *Free.*
-- [V&A](https://collections.vam.ac.uk) - Design, fashion and decorative arts. *Often non-commercial.*
+- [V&A Collections](https://collections.vam.ac.uk) - Design, fashion and decorative arts. *Often non-commercial.*
 
 ## Libraries and National Archives
 
 - [Library of Congress — Free to Use](https://www.loc.gov/free-to-use) - Themed sets of freely usable images. *Public domain.*
 - [NYPL Digital Collections](https://digitalcollections.nypl.org) - Photos, maps, menus, postcards and Victorian ephemera, with a public domain filter. *Public domain filter.*
 - [British Library on Flickr](https://www.flickr.com/photos/britishlibrary) - One million illustrations from 19th-century books. *Public domain.*
-- [Gallica](https://gallica.bnf.fr) - National Library of France: newspapers, posters, photos, manuscripts. *Free for non-commercial use.*
+- [Gallica (BnF)](https://gallica.bnf.fr) - National Library of France: newspapers, posters, photos, manuscripts. *Free for non-commercial use.*
 - [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de) - Digitised German libraries, archives and museums, including Gebrauchsgraphik and type specimens. *Mixed licences.*
 - [MDZ](https://www.digitale-sammlungen.de) - Digitised books from the Bavarian State Library. *Mixed licences.*
 - [Nationaal Archief](https://www.nationaalarchief.nl) - Dutch national archive with many 20th-century photos. *Partly CC0.*
@@ -89,8 +89,8 @@ Related: [Graphic Design History](graphic-design-history.md) · [Portugal](portu
 - [ukiyo-e.org](https://ukiyo-e.org) - Search across Japanese woodblock prints in museums worldwide. *View only.*
 - [David Rumsey Map Collection](https://www.davidrumsey.com) - 150,000 historical maps. *CC BY-NC.*
 - [Old Maps Online](https://www.oldmapsonline.org) - Search historical maps by place. *Mixed licences.*
-- [Letterform Archive](https://oa.letterformarchive.org) - Archive of lettering, typography and graphic design. *View only.*
-- [eMuseum (Museum für Gestaltung Zürich)](https://www.emuseum.ch) - One of the largest poster and design collections, strong on Swiss design. *View only.*
+- [Letterform Archive Online](https://oa.letterformarchive.org) - Archive of lettering, typography and graphic design. *View only.*
+- [Museum für Gestaltung Zürich, eMuseum](https://www.emuseum.ch) - One of the largest poster and design collections, strong on Swiss design. *View only.*
 - [Poster House](https://www.posterhouse.org) - Poster museum in New York. *View only.*
 - [International Poster Gallery](https://www.internationalposter.com) - Archive of vintage posters by country and theme. *View only (shop).*
 - [Numista](https://en.numista.com) - Catalogue of coins and banknotes of the world. *View only.*

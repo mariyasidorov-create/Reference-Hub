@@ -2069,7 +2069,7 @@
   {
    "topic": "photo-archives",
    "section": "Open Access Museums",
-   "name": "V&A",
+   "name": "V&A Collections",
    "url": "https://collections.vam.ac.uk",
    "description": "Design, fashion and decorative arts.",
    "access": "Often non-commercial"
@@ -2101,7 +2101,7 @@
   {
    "topic": "photo-archives",
    "section": "Libraries and National Archives",
-   "name": "Gallica",
+   "name": "Gallica (BnF)",
    "url": "https://gallica.bnf.fr",
    "description": "National Library of France: newspapers, posters, photos, manuscripts.",
    "access": "Free for non-commercial use"
@@ -2221,7 +2221,7 @@
   {
    "topic": "photo-archives",
    "section": "Specialist Archives",
-   "name": "Letterform Archive",
+   "name": "Letterform Archive Online",
    "url": "https://oa.letterformarchive.org",
    "description": "Archive of lettering, typography and graphic design.",
    "access": "View only"
@@ -2229,7 +2229,7 @@
   {
    "topic": "photo-archives",
    "section": "Specialist Archives",
-   "name": "eMuseum (Museum für Gestaltung Zürich)",
+   "name": "Museum für Gestaltung Zürich, eMuseum",
    "url": "https://www.emuseum.ch",
    "description": "One of the largest poster and design collections, strong on Swiss design.",
    "access": "View only"
@@ -2365,7 +2365,7 @@
   {
    "topic": "portugal",
    "section": "Archives and Image Collections",
-   "name": "Hemeroteca Digital de Lisboa",
+   "name": "Hemeroteca Digital de Lisboa (Lisbon Digital Newspaper Library)",
    "url": "https://hemerotecadigital.cm-lisboa.pt",
    "description": "Digitised Portuguese newspapers and magazines, including Ilustração Portuguesa.",
    "access": "Mixed licences"
@@ -9813,7 +9813,7 @@
   {
    "topic": "handoff",
    "section": "Platform Guidelines",
-   "name": "HIG: Right to left (Apple)",
+   "name": "Apple HIG — Right to left",
    "url": "https://developer.apple.com/design/human-interface-guidelines/right-to-left",
    "description": "Apple's rules for RTL layouts and icons",
    "access": "Free"
@@ -9829,7 +9829,7 @@
   {
    "topic": "handoff",
    "section": "Platform Guidelines",
-   "name": "Material Design: Bidirectionality",
+   "name": "Material Design — Bidirectionality",
    "url": "https://m2.material.io/design/usability/bidirectionality.html",
    "description": "Mirroring rules for RTL in Material",
    "access": "Free"
@@ -9869,7 +9869,7 @@
   {
    "topic": "handoff",
    "section": "Web",
-   "name": "MDN: CSS logical properties",
+   "name": "MDN — CSS logical properties",
    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values",
    "description": "Inline and block properties that mirror for RTL",
    "access": "Free"

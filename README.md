@@ -1,6 +1,6 @@
 # Awesome Design References [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated references for product and graphic designers: interface patterns, galleries, type, motion, component libraries, image archives, graphic design history, right-to-left scripts, early web history and UX writing from trusted curators.
+Curated references and learning material for product and graphic designers: interface patterns, galleries, type, motion, design systems, design to code, UX research and writing, product management and metrics, art and graphic design history, archives, museums, design schools and regions.
 
 The list holds 1346 checked links in 49 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
