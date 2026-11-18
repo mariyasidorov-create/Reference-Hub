@@ -39,4 +39,4 @@ Related: [Web Galleries](web-galleries.md) · [Graphic Design History](graphic-d
 
 ## Books
 
-- [Rob Ford, Julius Wiedemann — Web Design: The Evolution of the Digital World 1990–Today](https://www.taschen.com/) - 640-page Taschen history of web design through more than 200 websites. *Paid.*
+- [Rob Ford, Julius Wiedemann — Web Design: The Evolution of the Digital World 1990–Today](https://openlibrary.org/works/OL21655422W) - 640-page Taschen history of web design through more than 200 websites. Book page on Open Library (editions, library loans); publisher: taschen.com. *Book.*

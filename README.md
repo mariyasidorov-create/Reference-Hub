@@ -91,7 +91,7 @@ The list holds 1488 checked links in 50 topic files. Every topic file links to r
 
 ## Contributing
 
-Read the [contribution guidelines](contributing.md) first.
+Suggest a link with the [Suggest a resource form](https://github.com/mariyasidorov-create/Reference-Hub/issues/new?template=suggest-resource.yml), no file editing needed, or open a pull request following the [contribution guidelines](contributing.md).
 
 ## Footnotes
 

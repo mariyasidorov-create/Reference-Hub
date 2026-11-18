@@ -38,7 +38,7 @@ Related: [Graphic Design History](graphic-design-history.md) · [UX Curators and
 
 - [Meggs' History of Graphic Design (Philip B. Meggs, Alston W. Purvis)](https://www.wiley.com/en-us/Meggs%27+History+of+Graphic+Design%2C+7th+Edition-p-9781119893868) - The standard history of graphic design; the skeleton of the history topic. *Book to buy or borrow.*
 - [Ways of Seeing (John Berger)](https://www.penguin.co.uk/books/31055/ways-of-seeing-by-john-berger/9780141035796) - Essays on how we look at images, from the 1972 BBC series. *Book to buy or borrow.*
-- [The Elements of Typographic Style (Robert Bringhurst)](https://www.hartleyandmarks.com/) - The typographer's bible on proportion, rhythm and detail. *Book to buy or borrow.*
+- [The Elements of Typographic Style (Robert Bringhurst)](https://openlibrary.org/works/OL854086W) - The typographer's bible on proportion, rhythm and detail. Book page on Open Library (editions, library loans); publisher: hartleyandmarks.com. *Book to buy or borrow.*
 - [How to Be a Graphic Designer without Losing Your Soul (Adrian Shaughnessy)](https://openlibrary.org/search?q=how+to+be+a+graphic+designer+without+losing+your+soul) - Practical and ethical advice for working designers. *Book to buy or borrow.*
 - [Universal Methods of Design (Bruce Hanington, Bella Martin)](https://www.quarto.com/books/9781631597480/universal-methods-of-design-expanded-and-revised) - 125 research and design methods, expanded edition. *Book to buy or borrow.*
 - [Microcopy: The Complete Guide (Kinneret Yifrah)](https://www.microcopybook.com/) - The handbook of interface microcopy, 2nd edition. *Book to buy or borrow.*

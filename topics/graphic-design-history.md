@@ -73,7 +73,7 @@ Related: [Typography and Type Foundries](typography.md) · [Right-to-Left Script
 - [Type Specimens on Internet Archive](https://archive.org/search?query=type+specimen) - Specimens from German, American and French foundries such as Klingspor, Stempel and ATF. *Free.*
 - [Klingspor Museum (Offenbach)](https://www.klingspormuseum.de/) - Museum of type and the book; archive of the Klingspor foundry. *Free.*
 - [Hamilton Wood Type & Printing Museum](https://woodtype.org/) - Wood type and 19th-century American printing. *Free.*
-- [Cees W. de Jong — Type: A Visual History of Typefaces & Graphic Styles](https://www.taschen.com/) - Two volumes of type specimens from 1628 to 1938. *Paid.*
+- [Cees W. de Jong — Type: A Visual History of Typefaces & Graphic Styles](https://openlibrary.org/works/OL17586585W) - Two volumes of type specimens from 1628 to 1938. Book page on Open Library (editions, library loans); publisher: taschen.com. *Book.*
 - [U&lc Back Issues](https://fontsinuse.com/tags/1309/uandlc) - ITC's magazine art-directed by Herb Lubalin, 1973–1999; Monotype released the PDFs for free. *Free.*
 
 ## Victorian Era and Arts and Crafts
@@ -81,7 +81,7 @@ Related: [Typography and Type Foundries](typography.md) · [Right-to-Left Script
 - [William Morris Archive (University of Iowa)](https://morrisarchive.lib.uiowa.edu/) - Texts, Kelmscott Press editions and scans. *Free.*
 - [William Morris Gallery](https://www.wmgallery.org.uk/) - William Morris museum in London with an online collection. *Free.*
 - [Kelmscott Chaucer on Internet Archive](https://archive.org/search?query=Kelmscott+Chaucer) - Full scan of the Kelmscott Press masterpiece. *Free.*
-- [Fiona MacCarthy — William Morris: A Life for Our Time](https://www.faber.co.uk/) - The definitive biography of William Morris. *Paid.*
+- [Fiona MacCarthy — William Morris: A Life for Our Time](https://openlibrary.org/works/OL2862235W) - The definitive biography of William Morris. Book page on Open Library (editions, library loans); publisher: faber.co.uk. *Book.*
 - [NYPL Digital Collections](https://digitalcollections.nypl.org/) - Photos, maps, menus, postcards and Victorian ephemera, with a public domain filter. *Free.*
 - [V&A Collections](https://collections.vam.ac.uk/) - Posters, ephemera and Arts and Crafts. *Free.*
 - [Library of Congress Prints & Photographs](https://www.loc.gov/pictures/) - 19th-century circus and theatre posters, WPA posters. *Free.*
@@ -96,21 +96,21 @@ Related: [Typography and Type Foundries](typography.md) · [Right-to-Left Script
 
 - [Monoskop: Futurism](https://monoskop.org/Futurism) - Manifestos, books, parole in libertà and magazines. *Free.*
 - [MART — Casa d'Arte Futurista Depero](https://www.mart.tn.it/) - Depero's house museum and Futurism archive in Rovereto. *Free.*
-- [Guggenheim — Italian Futurism 1909–1944: Reconstructing the Universe](https://www.guggenheim.org/) - The major Futurism catalogue: Marinetti, Depero, Cangiullo. *Paid.*
-- [Marjorie Perloff — The Futurist Moment](https://press.uchicago.edu/) - Futurism as language: typography, manifestos, words in freedom. *Paid.*
+- [Guggenheim — Italian Futurism 1909–1944: Reconstructing the Universe](https://artbook.com/9780892074990.html) - The major Futurism catalogue: Marinetti, Depero, Cangiullo. *Book.*
+- [Marjorie Perloff — The Futurist Moment](https://openlibrary.org/works/OL41964W) - Futurism as language: typography, manifestos, words in freedom. Book page on Open Library (editions, library loans); publisher: press.uchicago.edu. *Book.*
 
 ## Russian Futurism and the Avant-Garde Book
 
-- [MoMA — The Russian Avant-Garde Book 1910–1934](https://www.moma.org/) - Catalogue by Margit Rowell and Deborah Wye: Kruchenykh, Iliazd, Terentiev, Lissitzky. *Paid.*
-- [Vladimir Markov — Russian Futurism: A History](https://www.ucpress.edu/) - The standard history of Russian Futurism in English. *Paid.*
+- [MoMA — The Russian Avant-Garde Book 1910–1934](https://openlibrary.org/works/OL19013887W) - Catalogue by Margit Rowell and Deborah Wye: Kruchenykh, Iliazd, Terentiev, Lissitzky. Book page on Open Library (editions, library loans); publisher: moma.org. *Book.*
+- [Vladimir Markov — Russian Futurism: A History](https://openlibrary.org/works/OL3105435W) - The standard history of Russian Futurism in English. Book page on Open Library (editions, library loans); publisher: ucpress.edu. *Book.*
 - [Monoskop: Constructivism](https://monoskop.org/Constructivism) - Scans of Russian avant-garde books and magazines, VKhUTEMAS and UNOVIS. *Free.*
 
 ## Constructivism and Soviet Graphic Design
 
-- [Leah Dickerman — Building the Collective: Soviet Graphic Design 1917–1937](https://papress.com/) - Posters, books and magazines by Rodchenko, Klutsis, Lissitzky and the Stenberg brothers. *Paid.*
-- [Christina Lodder — Russian Constructivism](https://yalebooks.yale.edu/) - Academic history of Constructivism. *Paid.*
-- [MoMA — Stenberg Brothers: Constructing a Revolution in Soviet Design](https://www.moma.org/) - Film posters by the Stenberg brothers. *Paid.*
-- [Moscow Design Museum — Soviet Design: From Constructivism to Modernism 1920–1980](https://www.scheidegger-spiess.ch/) - Survey of Soviet design by the Moscow Design Museum. *Paid.*
+- [Leah Dickerman — Building the Collective: Soviet Graphic Design 1917–1937](https://openlibrary.org/works/OL18264010W) - Posters, books and magazines by Rodchenko, Klutsis, Lissitzky and the Stenberg brothers. Book page on Open Library (editions, library loans); publisher: papress.com. *Book.*
+- [Christina Lodder — Russian Constructivism](https://openlibrary.org/works/OL5607752W) - Academic history of Constructivism. Book page on Open Library (editions, library loans); publisher: yalebooks.yale.edu. *Book.*
+- [MoMA — Stenberg Brothers: Constructing a Revolution in Soviet Design](https://openlibrary.org/works/OL2765433W) - Film posters by the Stenberg brothers. Book page on Open Library (editions, library loans); publisher: moma.org. *Book.*
+- [Moscow Design Museum — Soviet Design: From Constructivism to Modernism 1920–1980](https://openlibrary.org/works/OL22138378W) - Survey of Soviet design by the Moscow Design Museum. Book page on Open Library (editions, library loans); publisher: scheidegger-spiess.ch. *Book.*
 - [Van Abbemuseum (Lissitzky)](https://vanabbemuseum.nl/) - Largest collection of El Lissitzky's work. *Free.*
 - [USSR in Construction on Internet Archive](https://archive.org/search?query=USSR+in+Construction) - The magazine designed by Rodchenko, Stepanova and Lissitzky. *Free.*
 - [Hoover Institution Library & Archives — Posters](https://digitalcollections.hoover.org/) - Soviet propaganda and consumer posters. *Free.*
@@ -121,69 +121,69 @@ Related: [Typography and Type Foundries](typography.md) · [Right-to-Left Script
 - [RKD — Netherlands Institute for Art History](https://rkd.nl/) - Archives of Dutch designers, including Piet Zwart. *Free.*
 - [Kunstmuseum Den Haag](https://www.kunstmuseum.nl/) - Mondrian, De Stijl and Piet Zwart. *Free.*
 - [Stedelijk Museum Amsterdam](https://www.stedelijk.nl/) - Sandberg, Crouwel and Total Design. *Free.*
-- [Frederike Huygen — Jurriaan Schrofer: Restless Typographer](https://www.valiz.nl/) - Monograph on Jurriaan Schrofer. *Paid.*
+- [Frederike Huygen — Jurriaan Schrofer: Restless Typographer](https://www.valiz.nl/en/publications/jurriaan-schrofer-1926-1990/) - Monograph on Jurriaan Schrofer. *Book.*
 
 ## Dada and the Central European Avant-Garde
 
-- [Timothy O. Benson — Central European Avant-Gardes: Exchange and Transformation, 1910–1930](https://mitpress.mit.edu/) - Ma, Kassák, Zenit, Tank, Teige, Strzemiński and Berlewi. *Paid.*
-- [Leah Dickerman — Dada (NGA)](https://www.nga.gov/) - Catalogue covering Zurich, Berlin, Hanover, Cologne, New York and Paris Dada. *Paid.*
+- [Timothy O. Benson — Central European Avant-Gardes: Exchange and Transformation, 1910–1930](https://openlibrary.org/works/OL18403853W) - Ma, Kassák, Zenit, Tank, Teige, Strzemiński and Berlewi. Book page on Open Library (editions, library loans); publisher: mitpress.mit.edu. *Book.*
+- [Leah Dickerman — Dada (NGA)](https://openlibrary.org/works/OL5826788W) - Catalogue covering Zurich, Berlin, Hanover, Cologne, New York and Paris Dada. Book page on Open Library (editions, library loans); publisher: nga.gov. *Book.*
 - [Sprengel Museum Hannover (Schwitters)](https://www.sprengel-hannover.de/) - Archive and collection of Kurt Schwitters. *Free.*
 - [Muzeum Sztuki Łódź](https://msl.org.pl/) - Strzemiński, Kobro and the Polish avant-garde. *Free.*
-- [Ladislav Sutnar — Visual Design in Action (Reprint)](https://www.lars-mueller-publishers.com/) - Sutnar from the Czech avant-garde to information design. *Paid.*
+- [Ladislav Sutnar — Visual Design in Action (Reprint)](https://openlibrary.org/works/OL6028748W) - Sutnar from the Czech avant-garde to information design. Book page on Open Library (editions, library loans); publisher: lars-mueller-publishers.com. *Book.*
 
 ## Bauhaus and the New Typography
 
 - [Bauhaus-Archiv / Museum für Gestaltung](https://www.bauhaus.de/) - The main Bauhaus archive in Berlin. *Free.*
 - [Harvard Art Museums — The Bauhaus](https://harvardartmuseums.org/collections/special-collections/the-bauhaus) - More than 30,000 Bauhaus objects online. *Free.*
-- [Magdalena Droste — Bauhaus](https://www.taschen.com/) - Standard introduction to the Bauhaus. *Paid.*
+- [Magdalena Droste — Bauhaus](https://openlibrary.org/works/OL889935W) - Standard introduction to the Bauhaus. Book page on Open Library (editions, library loans); publisher: taschen.com. *Book.*
 - [Josef Albers — Interaction of Color (app)](https://interactionofcolor.com/) - Official Yale app based on Albers' book. *Paid.*
 - [Josef & Anni Albers Foundation](https://www.albersfoundation.org/) - Archive of Josef and Anni Albers. *Free.*
-- [Ellen Lupton, J. Abbott Miller — The ABCs of ▲■●: The Bauhaus and Design Theory](https://papress.com/) - Bauhaus theory of form and colour. *Paid.*
-- [Jan Tschichold — The New Typography (UC Press)](https://www.ucpress.edu/) - English translation of Die neue Typographie (1928). *Paid.*
-- [Christopher Burke — Active Literature: Jan Tschichold and New Typography](https://hyphenpress.co.uk/) - History of the New Typography. *Paid.*
+- [Ellen Lupton, J. Abbott Miller — The ABCs of ▲■●: The Bauhaus and Design Theory](https://openlibrary.org/works/OL2969842W) - Bauhaus theory of form and colour. Book page on Open Library (editions, library loans); publisher: papress.com. *Book.*
+- [Jan Tschichold — The New Typography (UC Press)](https://openlibrary.org/works/OL8063615W) - English translation of Die neue Typographie (1928). Book page on Open Library (editions, library loans); publisher: ucpress.edu. *Book.*
+- [Christopher Burke — Active Literature: Jan Tschichold and New Typography](https://openlibrary.org/works/OL13674135W) - History of the New Typography. Book page on Open Library (editions, library loans); publisher: hyphenpress.co.uk. *Book.*
 - [HfG-Archiv Ulm](https://hfg-archiv.museumulm.de/) - Archive of the Ulm School of Design: Otl Aicher, Max Bill. *Free.*
 
 ## Swiss Style
 
 - [Typografische Monatsblätter on Design Reviewed](https://designreviewed.com/) - TM issues since the 1930s: Ruder, Weingart, Zimmermann. *Free, some for members.*
-- [Emil Ruder — Typography](https://www.niggli.ch/) - Ruder's typography textbook. *Paid.*
-- [Karl Gerstner — Designing Programmes](https://www.lars-mueller-publishers.com/) - Programmatic design, reprint. *Paid.*
-- [Richard Hollis — Swiss Graphic Design: The Origins and Growth of an International Style](https://yalebooks.yale.edu/) - History of Swiss Style, 1920–1965. *Paid.*
+- [Emil Ruder — Typography](https://openlibrary.org/works/OL4926592W) - Ruder's typography textbook. Book page on Open Library (editions, library loans); publisher: niggli.ch. *Book.*
+- [Karl Gerstner — Designing Programmes](https://openlibrary.org/works/OL3554793W) - Programmatic design, reprint. Book page on Open Library (editions, library loans); publisher: lars-mueller-publishers.com. *Book.*
+- [Richard Hollis — Swiss Graphic Design: The Origins and Growth of an International Style](https://openlibrary.org/works/OL13663192W) - History of Swiss Style, 1920–1965. Book page on Open Library (editions, library loans); publisher: yalebooks.yale.edu. *Book.*
 
 ## Italian Modernism
 
 - [Fondazione Pirelli](https://www.fondazionepirelli.org/) - Pirelli advertising archive and Rivista Pirelli. *Free.*
 - [Vignelli Center for Design Studies (RIT)](https://vignellicenter.rit.edu/) - Archive of Massimo and Lella Vignelli. *Free.*
-- [Steven Heller, Louise Fili — Italian Art Deco](https://www.chroniclebooks.com/) - Italian graphic design between the wars. *Paid.*
+- [Steven Heller, Louise Fili — Italian Art Deco](https://openlibrary.org/works/OL15103190W) - Italian graphic design between the wars. Book page on Open Library (editions, library loans); publisher: chroniclebooks.com. *Book.*
 
 ## American Modernism and the New York School
 
 - [Herb Lubalin Study Center (Cooper Union)](https://lubalincenter.cooper.edu/) - Lubalin's archive: Fact, Eros, Avant Garde, U&lc. *Free, visit by appointment.*
-- [Adrian Shaughnessy — Herb Lubalin: American Graphic Designer](https://uniteditions.com/) - Monograph on Herb Lubalin. *Paid.*
-- [Paul Rand — Thoughts on Design](https://www.chroniclebooks.com/) - Paul Rand's manifesto. *Paid.*
+- [Adrian Shaughnessy — Herb Lubalin: American Graphic Designer](https://openlibrary.org/works/OL32646589W) - Monograph on Herb Lubalin. Book page on Open Library (editions, library loans); publisher: uniteditions.com. *Book.*
+- [Paul Rand — Thoughts on Design](https://openlibrary.org/works/OL10531504W) - Paul Rand's manifesto. Book page on Open Library (editions, library loans); publisher: chroniclebooks.com. *Book.*
 - [Clive Challis — Helmut Krone. The Book.](https://www.amazon.com/s?k=Helmut+Krone+The+Book) - Krone's advertising for VW and Audi. *Paid.*
 - [Milton Glaser Design Study Center and Archives (SVA)](https://glaserarchives.org/) - Milton Glaser's archive. *Free.*
-- [Vitra Design Museum — Alexander Girard: A Designer's Universe](https://www.design-museum.de/) - Girard's work for Braniff and La Fonda del Sol. *Paid.*
+- [Vitra Design Museum — Alexander Girard: A Designer's Universe](https://openlibrary.org/works/OL21126345W) - Girard's work for Braniff and La Fonda del Sol. Book page on Open Library (editions, library loans); publisher: design-museum.de. *Book.*
 - [RIT Cary Graphic Arts Collection](https://www.rit.edu/carycollection/) - Archives of American designers and printing history. *Free.*
 
 ## Japan and Poland
 
-- [Richard S. Thornton — Japanese Graphic Design](https://www.laurenceking.com/) - Kamekura, Yokoo, Tamura and the Japanese poster. *Paid.*
+- [Richard S. Thornton — Japanese Graphic Design](https://openlibrary.org/works/OL3768074W) - Kamekura, Yokoo, Tamura and the Japanese poster. Book page on Open Library (editions, library loans); publisher: laurenceking.com. *Book.*
 - [Muzeum Plakatu w Wilanowie](https://www.postermuseum.pl/) - Polish School of Posters: Cieślewicz, Tomaszewski. *Free.*
 
 ## Postmodernism, New Wave and Psychedelia
 
-- [Rudy VanderLans, Zuzana Licko — Emigre: Graphic Design into the Digital Realm](https://www.emigre.com/) - The story of Emigre by its founders. *Paid.*
-- [Mark Holt, Hamish Muir — 8vo: On the Outside](https://www.lars-mueller-publishers.com/) - 8vo studio and Octavo magazine. *Paid.*
-- [Jon Wozencroft — The Graphic Language of Neville Brody](https://thamesandhudson.com/) - Brody, The Face and Arena. *Paid.*
-- [Dan Friedman — Radical Modernism](https://yalebooks.yale.edu/) - Dan Friedman's book. *Paid.*
-- [Paul Grushkin — The Art of Rock](https://www.abbeville.com/) - Psychedelic posters, including Wes Wilson. *Paid.*
+- [Rudy VanderLans, Zuzana Licko — Emigre: Graphic Design into the Digital Realm](https://openlibrary.org/works/OL3927771W) - The story of Emigre by its founders. Book page on Open Library (editions, library loans); publisher: emigre.com. *Book.*
+- [Mark Holt, Hamish Muir — 8vo: On the Outside](https://openlibrary.org/works/OL13786260W) - 8vo studio and Octavo magazine. Book page on Open Library (editions, library loans); publisher: lars-mueller-publishers.com. *Book.*
+- [Jon Wozencroft — The Graphic Language of Neville Brody](https://openlibrary.org/works/OL3533178W) - Brody, The Face and Arena. Book page on Open Library (editions, library loans); publisher: thamesandhudson.com. *Book.*
+- [Dan Friedman — Radical Modernism](https://openlibrary.org/works/OL3927165W) - Dan Friedman's book. Book page on Open Library (editions, library loans); publisher: yalebooks.yale.edu. *Book.*
+- [Paul Grushkin — The Art of Rock](https://openlibrary.org/works/OL3966548W) - Psychedelic posters, including Wes Wilson. Book page on Open Library (editions, library loans); publisher: abbeville.com. *Book.*
 
 ## Concrete Poetry, Typewriter Art and Fluxus
 
 - [UbuWeb — Mary Ellen Solt, Concrete Poetry: A World View](https://www.ubu.com/papers/solt/) - Full text of Solt's anthology. *Free.*
 - [UbuWeb](https://www.ubu.com/) - Avant-garde archive: visual poetry, Fluxus, Lettrism. *Free.*
-- [Barrie Tullett — Typewriter Art: A Modern Anthology](https://www.laurenceking.com/) - Typewriter art from Werkman to today. *Paid.*
+- [Barrie Tullett — Typewriter Art: A Modern Anthology](https://openlibrary.org/works/OL19981965W) - Typewriter art from Werkman to today. Book page on Open Library (editions, library loans); publisher: laurenceking.com. *Book.*
 - [George Maciunas Foundation](https://georgemaciunas.com/) - Maciunas archive and Fluxus typography. *Free.*
 
 ## Op Art and Optical Illusions
@@ -195,10 +195,10 @@ Related: [Typography and Type Foundries](typography.md) · [Right-to-Left Script
 ## Collage and Personal Archives
 
 - [Alan Fletcher Archive](https://www.alanfletcherarchive.com/) - Archive of Alan Fletcher. *Free.*
-- [Alan Fletcher — The Art of Looking Sideways](https://www.phaidon.com/) - Notebook of visual thinking. *Paid.*
+- [Alan Fletcher — The Art of Looking Sideways](https://openlibrary.org/works/OL2423867W) - Notebook of visual thinking. Book page on Open Library (editions, library loans); publisher: phaidon.com. *Book.*
 - [Paula Scher (Pentagram)](https://www.pentagram.com/about/paula-scher) - Paula Scher's work and projects. *Free.*
 - [Paula Scher — BBC Maestro Course](https://www.bbcmaestro.com/courses/paula-scher) - Scher's video course on graphic design. *Paid.*
-- [Paula Scher — Make It Bigger](https://papress.com/) - Scher's book about her practice. *Paid.*
+- [Paula Scher — Make It Bigger](https://openlibrary.org/works/OL4120980W) - Scher's book about her practice. Book page on Open Library (editions, library loans); publisher: papress.com. *Book.*
 - [Archivio Accardi Sanfilippo](https://www.archivioaccardisanfilippo.it/) - Archive of Carla Accardi. *Free.*
 
 ## Kazakhstan and Central Asia

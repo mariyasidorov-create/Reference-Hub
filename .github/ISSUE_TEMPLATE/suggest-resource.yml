@@ -1,0 +1,95 @@
+name: Suggest a resource
+description: Propose a link for the hub. No need to edit any files.
+title: "Add: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping. Please check the link is not already in [all-resources.md](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/all-resources.md) and that it is legal (no pirated PDFs).
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Original name. If it is not in English, add an English translation in brackets.
+      placeholder: "MUDE — Museu do Design (Design Museum, Lisbon)"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: The specific page (for a book, the book's own page, not the publisher's home page).
+      placeholder: "https://"
+    validations:
+      required: true
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      options:
+        - accessibility
+        - ai-and-creative-tech
+        - architecture
+        - art-history
+        - awards
+        - awesome-lists
+        - benchmarks
+        - branding
+        - brazil
+        - cinema
+        - color
+        - component-libraries
+        - data-visualization
+        - design-schools
+        - design-systems
+        - design-to-code
+        - ecommerce
+        - egypt
+        - email-design
+        - english-for-designers
+        - forms
+        - graphic-design-history
+        - handoff
+        - icons-and-graphics
+        - images-and-moodboards
+        - learning
+        - magazines
+        - metrics-and-growth
+        - mobile-design
+        - motion
+        - museums-and-galleries
+        - off-topic
+        - online-learning
+        - photo-archives
+        - portugal
+        - product-management
+        - publishers
+        - regions
+        - research-and-testing
+        - rtl
+        - tables-and-dashboards
+        - tools
+        - typography
+        - ui-patterns
+        - ux-curators
+        - ux-process
+        - ux-research
+        - web-galleries
+        - web-history
+        - writing
+        - not sure
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs here
+      description: One or two sentences on what it is and who it helps.
+    validations:
+      required: true
+  - type: input
+    id: access
+    attributes:
+      label: Access
+      description: Free, Free + paid, Paid, Book, Shop, View only, Public domain…

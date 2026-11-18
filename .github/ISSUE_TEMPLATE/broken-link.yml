@@ -1,0 +1,24 @@
+name: Report a broken or outdated link
+description: A link no longer opens, moved, or changed access.
+title: "Broken: "
+labels: ["broken-link"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link that is broken
+    validations:
+      required: true
+  - type: input
+    id: topic
+    attributes:
+      label: Topic file
+      placeholder: "topics/typography.md"
+  - type: input
+    id: replacement
+    attributes:
+      label: New link, if you know it
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes

@@ -1,6 +1,10 @@
 # Contribution Guidelines
 
-Thank you for suggesting a reference. Please make sure your pull request meets these rules.
+Thank you for suggesting a reference.
+
+The easiest way: open an issue with the **Suggest a resource** form (Issues → New issue). You do not need to edit any files. Spotted a dead link? Use **Report a broken or outdated link**.
+
+If you prefer a pull request, please make sure it meets these rules.
 
 - Add one link per pull request, and say in the description why it belongs here.
 - Check that the link opens and is not behind a paywall you cannot describe honestly.

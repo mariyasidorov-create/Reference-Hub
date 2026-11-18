@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution guidelines
+    url: https://github.com/mariyasidorov-create/Reference-Hub/blob/main/contributing.md
+    about: Read this before opening a pull request.
