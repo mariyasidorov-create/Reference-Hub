@@ -120,17 +120,17 @@ Related: [Architecture](architecture.md) · [Graphic Design History](graphic-des
 ## Design Community and Fashion
 
 - [Clube da Criatividade de Portugal (Portuguese Creativity Club)](https://www.clubedacriatividade.pt/) - Portuguese awards for advertising, design and digital. *Free.*
-- [Umbigo](https://umbigomagazine.com/) - Portuguese magazine of contemporary art and culture. *Mixed: free site, paid entry.*
+- [Umbigo](https://umbigomagazine.com/) - Portuguese magazine of contemporary art and culture. *Partly paywalled.*
 - [ModaLisboa](https://modalisboa.pt/) - Lisbon Fashion Week. *Free.*
 - [Portugal Fashion](https://www.portugalfashion.com/) - Porto fashion week and showcase of Portuguese designers. *Free.*
-- [Sant'Anna](https://www.santanna.com.pt/) - Hand-painted azulejo factory in Lisbon since 1741. *Free.*
+- [Sant'Anna](https://www.santanna.com.pt/) - Hand-painted azulejo factory in Lisbon since 1741. *Shop and factory visits.*
 
 ## Bookshops, Publishers and Research
 
 - [Ler Devagar](https://lerdevagar.com/) - Bookshop in an old printing works at LX Factory. *Free.*
-- [Tinta-da-China](https://www.tintadachina.pt/) - Lisbon publisher with beautifully designed books. *Paid entry.*
-- [Relógio d'Água](https://relogiodagua.pt/) - Literary publisher in Lisbon. *Paid entry.*
-- [Ípsilon (Público)](https://www.publico.pt/culturaipsilon) - Culture section of the newspaper Público. *Mixed: free site, paid entry.*
+- [Tinta-da-China](https://www.tintadachina.pt/) - Lisbon publisher with beautifully designed books. *Shop.*
+- [Relógio d'Água](https://relogiodagua.pt/) - Literary publisher in Lisbon. *Shop.*
+- [Ípsilon (Público)](https://www.publico.pt/culturaipsilon) - Culture section of the newspaper Público. *Partly paywalled.*
 - [BLX — Bibliotecas de Lisboa (Lisbon Libraries)](https://blx.cm-lisboa.pt/) - Lisbon public library network. *Free.*
 - [ARTIS — Instituto de História da Arte (Institute of Art History)](https://www.artis.letras.ulisboa.pt/) - Art history research at the University of Lisbon. *Free.*
 - [CHAM — Centro de Humanidades (Centre for the Humanities)](https://cham.fcsh.unl.pt/) - NOVA University research centre on history and heritage. *Free.*

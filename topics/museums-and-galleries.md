@@ -95,19 +95,19 @@ Related: [Photo and Image Archives](photo-archives.md) · [Graphic Design Histor
 
 ## Art Magazines and Fairs
 
-- [The Art Newspaper](https://www.theartnewspaper.com/) - News and analysis about the art world. *Mixed: free site, paid entry.*
-- [ArtReview](https://artreview.com/) - International contemporary art magazine. *Mixed: free site, paid entry.*
-- [Frieze](https://www.frieze.com/) - Contemporary art magazine and fairs in London, New York, Seoul and Los Angeles. *Mixed: free site, paid entry.*
-- [Artforum](https://www.artforum.com/) - Contemporary art criticism since 1962. *Mixed: free site, paid entry.*
-- [ARTnews](https://www.artnews.com/) - The oldest US art magazine. *Mixed: free site, paid entry.*
-- [Art in America](https://www.artnews.com/c/art-in-america/) - American art criticism, now published with ARTnews. *Mixed: free site, paid entry.*
+- [The Art Newspaper](https://www.theartnewspaper.com/) - News and analysis about the art world. *Partly paywalled.*
+- [ArtReview](https://artreview.com/) - International contemporary art magazine. *Partly paywalled.*
+- [Frieze](https://www.frieze.com/) - Contemporary art magazine and fairs in London, New York, Seoul and Los Angeles. *Partly paywalled.*
+- [Artforum](https://www.artforum.com/) - Contemporary art criticism since 1962. *Partly paywalled.*
+- [ARTnews](https://www.artnews.com/) - The oldest US art magazine. *Partly paywalled.*
+- [Art in America](https://www.artnews.com/c/art-in-america/) - American art criticism, now published with ARTnews. *Partly paywalled.*
 - [Artnet News](https://news.artnet.com/) - Art market and art world news. *Free.*
-- [The Burlington Magazine](https://www.burlington.org.uk/) - Scholarly monthly on fine and decorative arts since 1903. *Paid entry.*
+- [The Burlington Magazine](https://www.burlington.org.uk/) - Scholarly monthly on fine and decorative arts since 1903. *Subscription.*
 - [Artsy](https://www.artsy.net/) - Database of artists, galleries and artworks with editorial. *Free.*
 - [Art Basel](https://www.artbasel.com/) - Art fairs in Basel, Miami Beach, Hong Kong and Paris. *Paid entry.*
-- [ICON](https://www.iconeye.com/) - London magazine on architecture and design. *Mixed: free site, paid entry.*
-- [Stack](https://www.stackmagazines.com/) - Subscription service and guide to independent magazines. *Paid entry.*
-- [Persephone Books](https://persephonebooks.co.uk/) - Reprints of neglected 20th-century writers with designed endpapers. *Paid entry.*
+- [ICON](https://www.iconeye.com/) - London magazine on architecture and design. *Partly paywalled.*
+- [Stack](https://www.stackmagazines.com/) - Subscription service and guide to independent magazines. *Shop.*
+- [Persephone Books](https://persephonebooks.co.uk/) - Reprints of neglected 20th-century writers with designed endpapers. *Shop.*
 
 ## Learning about Art
 

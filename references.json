@@ -2560,7 +2560,7 @@
    "name": "Umbigo",
    "url": "https://umbigomagazine.com/",
    "description": "Portuguese magazine of contemporary art and culture",
-   "access": "Mixed: free site, paid entry"
+   "access": "Partly paywalled"
   },
   {
    "topic": "portugal",
@@ -2584,7 +2584,7 @@
    "name": "Sant'Anna",
    "url": "https://www.santanna.com.pt/",
    "description": "Hand-painted azulejo factory in Lisbon since 1741",
-   "access": "Free"
+   "access": "Shop and factory visits"
   },
   {
    "topic": "portugal",
@@ -2600,7 +2600,7 @@
    "name": "Tinta-da-China",
    "url": "https://www.tintadachina.pt/",
    "description": "Lisbon publisher with beautifully designed books",
-   "access": "Paid entry"
+   "access": "Shop"
   },
   {
    "topic": "portugal",
@@ -2608,7 +2608,7 @@
    "name": "Relógio d'Água",
    "url": "https://relogiodagua.pt/",
    "description": "Literary publisher in Lisbon",
-   "access": "Paid entry"
+   "access": "Shop"
   },
   {
    "topic": "portugal",
@@ -2616,7 +2616,7 @@
    "name": "Ípsilon (Público)",
    "url": "https://www.publico.pt/culturaipsilon",
    "description": "Culture section of the newspaper Público",
-   "access": "Mixed: free site, paid entry"
+   "access": "Partly paywalled"
   },
   {
    "topic": "portugal",
@@ -5696,7 +5696,7 @@
    "name": "The Art Newspaper",
    "url": "https://www.theartnewspaper.com/",
    "description": "News and analysis about the art world",
-   "access": "Mixed: free site, paid entry"
+   "access": "Partly paywalled"
   },
   {
    "topic": "museums-and-galleries",
@@ -5704,7 +5704,7 @@
    "name": "ArtReview",
    "url": "https://artreview.com/",
    "description": "International contemporary art magazine",
-   "access": "Mixed: free site, paid entry"
+   "access": "Partly paywalled"
   },
   {
    "topic": "museums-and-galleries",
@@ -5712,7 +5712,7 @@
    "name": "Frieze",
    "url": "https://www.frieze.com/",
    "description": "Contemporary art magazine and fairs in London, New York, Seoul and Los Angeles",
-   "access": "Mixed: free site, paid entry"
+   "access": "Partly paywalled"
   },
   {
    "topic": "museums-and-galleries",
@@ -5720,7 +5720,7 @@
    "name": "Artforum",
    "url": "https://www.artforum.com/",
    "description": "Contemporary art criticism since 1962",
-   "access": "Mixed: free site, paid entry"
+   "access": "Partly paywalled"
   },
   {
    "topic": "museums-and-galleries",
@@ -5728,7 +5728,7 @@
    "name": "ARTnews",
    "url": "https://www.artnews.com/",
    "description": "The oldest US art magazine",
-   "access": "Mixed: free site, paid entry"
+   "access": "Partly paywalled"
   },
   {
    "topic": "museums-and-galleries",
@@ -5736,7 +5736,7 @@
    "name": "Art in America",
    "url": "https://www.artnews.com/c/art-in-america/",
    "description": "American art criticism, now published with ARTnews",
-   "access": "Mixed: free site, paid entry"
+   "access": "Partly paywalled"
   },
   {
    "topic": "museums-and-galleries",
@@ -5752,7 +5752,7 @@
    "name": "The Burlington Magazine",
    "url": "https://www.burlington.org.uk/",
    "description": "Scholarly monthly on fine and decorative arts since 1903",
-   "access": "Paid entry"
+   "access": "Subscription"
   },
   {
    "topic": "museums-and-galleries",
@@ -5776,7 +5776,7 @@
    "name": "ICON",
    "url": "https://www.iconeye.com/",
    "description": "London magazine on architecture and design",
-   "access": "Mixed: free site, paid entry"
+   "access": "Partly paywalled"
   },
   {
    "topic": "museums-and-galleries",
@@ -5784,7 +5784,7 @@
    "name": "Stack",
    "url": "https://www.stackmagazines.com/",
    "description": "Subscription service and guide to independent magazines",
-   "access": "Paid entry"
+   "access": "Shop"
   },
   {
    "topic": "museums-and-galleries",
@@ -5792,7 +5792,7 @@
    "name": "Persephone Books",
    "url": "https://persephonebooks.co.uk/",
    "description": "Reprints of neglected 20th-century writers with designed endpapers",
-   "access": "Paid entry"
+   "access": "Shop"
   },
   {
    "topic": "museums-and-galleries",
@@ -5880,7 +5880,7 @@
    "name": "Faculdade de Belas-Artes da Universidade de Lisboa (Faculty of Fine Arts, University of Lisbon)",
    "url": "https://www.belasartes.ulisboa.pt/",
    "description": "Fine arts, communication design and equipment design in Chiado",
-   "access": "Mixed: free site, paid entry"
+   "access": "Public university fees"
   },
   {
    "topic": "design-schools",
@@ -5888,7 +5888,7 @@
    "name": "Faculdade de Belas Artes da Universidade do Porto (Faculty of Fine Arts, University of Porto)",
    "url": "https://www.fba.up.pt/",
    "description": "Fine arts and communication design in Porto",
-   "access": "Mixed: free site, paid entry"
+   "access": "Public university fees"
   },
   {
    "topic": "design-schools",
@@ -5896,7 +5896,7 @@
    "name": "Faculdade de Arquitetura da Universidade de Lisboa (Faculty of Architecture, University of Lisbon)",
    "url": "https://www.fa.ulisboa.pt/",
    "description": "Architecture, urbanism, fashion and product design",
-   "access": "Mixed: free site, paid entry"
+   "access": "Public university fees"
   },
   {
    "topic": "design-schools",
@@ -5904,7 +5904,7 @@
    "name": "Ar.Co — Centro de Arte e Comunicação Visual (Ar.Co Centre for Art and Visual Communication)",
    "url": "https://arco.pt/",
    "description": "Independent art school in Lisbon since 1973",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -5912,7 +5912,7 @@
    "name": "IADE — Faculdade de Design, Tecnologia e Comunicação (IADE Faculty of Design, Technology and Communication)",
    "url": "https://www.iade.europeia.pt/",
    "description": "Design school of Universidade Europeia in Lisbon",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -5920,7 +5920,7 @@
    "name": "EDIT. Disruptive Digital Education",
    "url": "https://edit.com.pt/",
    "description": "UX/UI, digital and creative courses in Lisbon and Porto",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -5928,7 +5928,7 @@
    "name": "ESMAD — Escola Superior de Media Artes e Design (School of Media Arts and Design)",
    "url": "https://www.esmad.ipp.pt/",
    "description": "Polytechnic of Porto school of media arts and design",
-   "access": "Mixed: free site, paid entry"
+   "access": "Public university fees"
   },
   {
    "topic": "design-schools",
@@ -5936,7 +5936,7 @@
    "name": "EAAD — Escola de Arquitetura, Arte e Design da Universidade do Minho (School of Architecture, Art and Design, University of Minho)",
    "url": "https://www.eaad.uminho.pt/",
    "description": "Architecture, art and design in Guimarães",
-   "access": "Mixed: free site, paid entry"
+   "access": "Public university fees"
   },
   {
    "topic": "design-schools",
@@ -5944,7 +5944,7 @@
    "name": "MODATEX",
    "url": "https://www.modatex.pt/",
    "description": "Professional fashion and textile training",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -5960,7 +5960,7 @@
    "name": "Royal College of Art",
    "url": "https://www.rca.ac.uk/",
    "description": "Postgraduate art and design university in London",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -5968,7 +5968,7 @@
    "name": "Central Saint Martins (UAL)",
    "url": "https://www.arts.ac.uk/colleges/central-saint-martins",
    "description": "Art, design, fashion and communication in King's Cross",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -5976,7 +5976,7 @@
    "name": "Chelsea College of Arts (UAL)",
    "url": "https://www.arts.ac.uk/colleges/chelsea-college-of-arts",
    "description": "Fine art, interior and textile design next to Tate Britain",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -5984,7 +5984,7 @@
    "name": "Slade School of Fine Art (UCL)",
    "url": "https://www.ucl.ac.uk/slade/",
    "description": "Fine art school of University College London",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -5992,7 +5992,7 @@
    "name": "Royal School of Needlework",
    "url": "https://royal-needlework.org.uk/",
    "description": "Hand embroidery school at Hampton Court Palace since 1872",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6000,7 +6000,7 @@
    "name": "Design Academy Eindhoven",
    "url": "https://www.designacademy.nl/",
    "description": "Conceptual product and social design, Netherlands",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6008,7 +6008,7 @@
    "name": "Gerrit Rietveld Academie",
    "url": "https://rietveldacademie.nl/",
    "description": "Art and design academy in Amsterdam",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6016,7 +6016,7 @@
    "name": "KABK — Royal Academy of Art, The Hague",
    "url": "https://www.kabk.nl/en",
    "description": "Graphic design and type design (Type and Media)",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6024,7 +6024,7 @@
    "name": "ECAL — École cantonale d'art de Lausanne (Lausanne University of Art and Design)",
    "url": "https://ecal.ch/en/",
    "description": "Swiss school of graphic, product and photography design",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6032,7 +6032,7 @@
    "name": "Rhode Island School of Design (RISD)",
    "url": "https://www.risd.edu/",
    "description": "Art and design college in Providence, with the RISD Museum",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6040,7 +6040,7 @@
    "name": "Parsons School of Design",
    "url": "https://www.newschool.edu/parsons/",
    "description": "Design school of The New School, New York",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6048,7 +6048,7 @@
    "name": "School of Visual Arts (SVA)",
    "url": "https://sva.edu/",
    "description": "Art, design and illustration in New York",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6056,7 +6056,7 @@
    "name": "Pratt Institute",
    "url": "https://www.pratt.edu/",
    "description": "Art, design and architecture in Brooklyn",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6064,7 +6064,7 @@
    "name": "CalArts — California Institute of the Arts",
    "url": "https://calarts.edu/",
    "description": "Art, film, animation and graphic design; free courses on Coursera",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6072,7 +6072,7 @@
    "name": "ArtCenter College of Design",
    "url": "https://www.artcenter.edu/",
    "description": "Industrial, transportation and graphic design in Pasadena",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "design-schools",
@@ -6080,7 +6080,7 @@
    "name": "Musashino Art University (武蔵野美術大学)",
    "url": "https://www.musabi.ac.jp/en/",
    "description": "Tokyo art and design university with a design museum and library",
-   "access": "Paid entry"
+   "access": "Paid tuition"
   },
   {
    "topic": "art-history",
