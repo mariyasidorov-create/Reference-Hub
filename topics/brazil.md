@@ -1,6 +1,6 @@
 ---
 title: Brazil
-aliases: []
+aliases: [Бразилия, Brasil]
 tags: [brazil, latin-america, modernism]
 entries: 32
 ---
