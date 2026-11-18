@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1420,
+ "count": 1469,
  "references": [
   {
    "topic": "ui-patterns",
@@ -3385,6 +3385,22 @@
    "url": "https://iconoteka.com/",
    "description": "Icon library in several styles",
    "access": "Freemium"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons",
+   "name": "Iconoteka on GitHub",
+   "url": "https://github.com/iconoteka/iconoteka",
+   "description": "1,400 MIT icons in 7 weights, with MCP server and dev packages, by Oleg Turbaba.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons",
+   "name": "Iconoteka Figma plugin",
+   "url": "https://www.figma.com/community/plugin/1675995752572535073/iconoteka",
+   "description": "The full Iconoteka library inside Figma, with restyle mode.",
+   "access": "Free"
   },
   {
    "topic": "icons-and-graphics",
@@ -11361,6 +11377,382 @@
    "url": "https://www.productcompass.pm/",
    "description": "PM frameworks, pricing and AI for PMs.",
    "access": "Partly paywalled"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Pentagram",
+   "url": "https://www.pentagram.com/",
+   "description": "Partner-led studio since 1972, London and New York. Bierut, Scher, Shaughnessy.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Wolff Olins",
+   "url": "https://wolffolins.com/",
+   "description": "Brand consultancy since 1965: BT, Tate, London 2012, Uber.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Jones Knowles Ritchie (JKR)",
+   "url": "https://www.jkrglobal.com/",
+   "description": "Burger King and Intuit rebrands; strong packaging and brand systems.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Koto",
+   "url": "https://koto.com/",
+   "description": "Lyft's 2025 identity with NaN; offices in London, New York, Berlin and Sydney.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "DixonBaxi",
+   "url": "https://www.dixonbaxi.com/",
+   "description": "Brand and motion systems for sport, media and tech.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Moving Brands",
+   "url": "https://movingbrands.com/",
+   "description": "Digital-first identities since 1998.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Johnson Banks",
+   "url": "https://www.johnsonbanks.co.uk/",
+   "description": "Mozilla open-source rebrand; famous Thought for the Week blog.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Made Thought",
+   "url": "https://madethought.com/",
+   "description": "Luxury and culture brands, refined typography.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "SomeOne",
+   "url": "https://www.someoneinlondon.com/",
+   "description": "Brand worlds and identities, Eurostar among them.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Design Bridge and Partners",
+   "url": "https://www.designbridge.com/",
+   "description": "Packaging and brand design since 1986, London, Amsterdam, New York.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Pearlfisher",
+   "url": "https://pearlfisher.com/",
+   "description": "Food, drink and challenger brands, London and New York.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Saffron Brand Consultants",
+   "url": "https://saffron-consultants.com/",
+   "description": "Naming and identity, London, Madrid, Vienna.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Interbrand",
+   "url": "https://www.interbrand.com/",
+   "description": "Global consultancy behind the yearly Best Global Brands ranking.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: London",
+   "name": "Landor",
+   "url": "https://landor.com/",
+   "description": "Global brand consultancy since 1941 (FedEx, BP).",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: New York",
+   "name": "Chermayeff & Geismar & Haviv",
+   "url": "https://cghnyc.com/",
+   "description": "Since 1957: Chase, NBC, Mobil, National Geographic marks.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: New York",
+   "name": "Lippincott",
+   "url": "https://www.lippincott.com/",
+   "description": "Since 1943: corporate identity, brand strategy, Starbucks, Samsung.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: New York",
+   "name": "Siegel+Gale",
+   "url": "https://www.siegelgale.com/",
+   "description": "Simplicity-led brand strategy and identity since 1969.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: New York",
+   "name": "COLLINS",
+   "url": "https://wearecollins.com/",
+   "description": "Expressive identities such as Dropbox and Mailchimp.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: New York",
+   "name": "Mother Design",
+   "url": "https://www.motherdesign.com/",
+   "description": "Brand identity arm of Mother, New York and London.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: New York",
+   "name": "Order",
+   "url": "https://order.design/",
+   "description": "Systems-driven identity, publisher of Standards Manual reissues.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: New York",
+   "name": "Sagmeister",
+   "url": "https://sagmeister.com/",
+   "description": "Stefan Sagmeister's studio and talks on beauty and design.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: New York",
+   "name": "Base Design",
+   "url": "https://www.basedesign.com/",
+   "description": "Brussels, New York, Geneva; culture and fashion identities.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: Paris",
+   "name": "Dragon Rouge",
+   "url": "https://www.dragonrouge.com/",
+   "description": "French brand and innovation consultancy since 1985.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: Paris",
+   "name": "Carré Noir",
+   "url": "https://www.carrenoir.com/",
+   "description": "One of France's oldest branding agencies, founded 1973.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: Paris",
+   "name": "Lonsdale",
+   "url": "https://www.lonsdale.fr/fr/",
+   "description": "Brand design and retail architecture, Paris.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: Netherlands",
+   "name": "Studio Dumbar/DEPT",
+   "url": "https://studiodumbar.com/",
+   "description": "Rotterdam, since 1977: Dutch police and PTT identities, motion-led systems.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: Netherlands",
+   "name": "Edenspiekermann",
+   "url": "https://www.edenspiekermann.com/",
+   "description": "Amsterdam and Berlin; Erik Spiekermann's legacy, transport and digital brands.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: Netherlands",
+   "name": "Experimental Jetset",
+   "url": "https://www.jetset.nl/",
+   "description": "Amsterdam collective since 1997: Whitney Responsive W, Stedelijk.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: Netherlands",
+   "name": "Thonik",
+   "url": "https://thonik.nl/",
+   "description": "Amsterdam; bold political and cultural identities.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: Netherlands",
+   "name": "LAVA",
+   "url": "https://lava.nl/",
+   "description": "Amsterdam design studio for culture and public-sector brands.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Agencies: Europe",
+   "name": "MetaDesign",
+   "url": "https://metadesign.com/",
+   "description": "Berlin, founded by Erik Spiekermann in 1979: VW, BVG.",
+   "access": "View only"
+  },
+  {
+   "topic": "branding",
+   "section": "Case Studies and Press",
+   "name": "The Brand Identity",
+   "url": "https://the-brandidentity.com/",
+   "description": "Curated identity case studies and interviews. Shared by Oleg Turbaba.",
+   "access": "Free + shop"
+  },
+  {
+   "topic": "branding",
+   "section": "Case Studies and Press",
+   "name": "BP&O (Richard Baird)",
+   "url": "https://bpando.org/",
+   "description": "Branding, packaging and opinion: critical reviews of identities.",
+   "access": "Free"
+  },
+  {
+   "topic": "branding",
+   "section": "Case Studies and Press",
+   "name": "Mindsparkle Mag",
+   "url": "https://mindsparklemag.com/",
+   "description": "Daily branding, web and packaging projects.",
+   "access": "Free"
+  },
+  {
+   "topic": "branding",
+   "section": "Case Studies and Press",
+   "name": "Identity Designed",
+   "url": "https://identitydesigned.com/",
+   "description": "Long-form identity case studies by David Airey.",
+   "access": "Free"
+  },
+  {
+   "topic": "branding",
+   "section": "Case Studies and Press",
+   "name": "Brand New (UnderConsideration)",
+   "url": "https://www.underconsideration.com/brandnew/",
+   "description": "Opinions on corporate and brand identity work since 2006.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "branding",
+   "section": "Guidelines and Archives",
+   "name": "Standards Manual",
+   "url": "https://standardsmanual.com/",
+   "description": "Reissues of classic brand manuals: NASA, NYCTA, EPA.",
+   "access": "Shop"
+  },
+  {
+   "topic": "branding",
+   "section": "Guidelines and Archives",
+   "name": "Branding Style Guides",
+   "url": "https://brandingstyleguides.com/",
+   "description": "Searchable archive of public brand guidelines.",
+   "access": "Free"
+  },
+  {
+   "topic": "branding",
+   "section": "Guidelines and Archives",
+   "name": "Logo Archive",
+   "url": "https://www.logo-archive.org/",
+   "description": "Modernist logos and trademark history, with the Logo Archive zine.",
+   "access": "Free + shop"
+  },
+  {
+   "topic": "branding",
+   "section": "Custom Typefaces for Brands",
+   "name": "NaN",
+   "url": "https://nan.xyz/",
+   "description": "Foundry behind Lyft's Rebel Sans (with Koto). From Oleg Turbaba's posts.",
+   "access": "Paid licences"
+  },
+  {
+   "topic": "branding",
+   "section": "Custom Typefaces for Brands",
+   "name": "Swiss Typefaces",
+   "url": "https://www.swisstypefaces.com/",
+   "description": "Swiss Post Sans and many brand faces. From Oleg Turbaba's posts.",
+   "access": "Paid licences"
+  },
+  {
+   "topic": "branding",
+   "section": "Custom Typefaces for Brands",
+   "name": "MCKL (Jeremy Mickel)",
+   "url": "https://mckltype.com/",
+   "description": "Tally for Intuit's rebrand. From Oleg Turbaba's posts.",
+   "access": "Paid licences"
+  },
+  {
+   "topic": "branding",
+   "section": "Custom Typefaces for Brands",
+   "name": "Dalton Maag",
+   "url": "https://www.daltonmaag.com/",
+   "description": "Bespoke brand typefaces for Netflix, Amazon, Intel.",
+   "access": "Paid licences"
+  },
+  {
+   "topic": "branding",
+   "section": "Books",
+   "name": "Designing Brand Identity, 6th ed. (Alina Wheeler, Rob Meyerson)",
+   "url": "https://www.wiley-vch.de/en/areas-interest/art-culture/designing-brand-identity-978-1-119-98481-8",
+   "description": "The standard handbook: fundamentals, process, case studies.",
+   "access": "Book"
+  },
+  {
+   "topic": "branding",
+   "section": "Books",
+   "name": "The Brand Gap (Marty Neumeier)",
+   "url": "https://www.martyneumeier.com/the-brand-gap",
+   "description": "Short visual book bridging strategy and design.",
+   "access": "Book"
+  },
+  {
+   "topic": "branding",
+   "section": "Books",
+   "name": "How to (Michael Bierut)",
+   "url": "https://www.pentagram.com/work/how-to",
+   "description": "Bierut's monograph on using graphic design to sell, explain and change things.",
+   "access": "Book"
+  },
+  {
+   "topic": "branding",
+   "section": "People",
+   "name": "Oleg Turbaba",
+   "url": "https://turbaba.com/",
+   "description": "Brand Design Director at Clay; type, brand-system and poster commentary on LinkedIn.",
+   "access": "Free"
   }
  ]
 }

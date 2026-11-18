@@ -52,6 +52,7 @@ graph LR
   ai_and_creative_tech["AI and Creative Technology"]
   english_for_designers["English for Designers"]
   product_management["Product Management"]
+  branding["Branding and Identity"]
   ux_curators["UX Curators and Vitaly Friedman"]
   ui_patterns --- web_galleries
   ui_patterns --- ux_research
@@ -147,6 +148,9 @@ graph LR
   product_management --- metrics_and_growth
   product_management --- research_and_testing
   product_management --- ux_process
+  branding --- typography
+  branding --- graphic_design_history
+  branding --- design_systems
 ```
 
 ## Open as an Obsidian Vault

@@ -4,6 +4,10 @@ Every resource in the hub by name, grouped by topic. Authors are in brackets whe
 
 ## Visual References
 
+### [Branding and Identity](topics/branding.md)
+
+Base Design · BP&O (Richard Baird) · Brand New (UnderConsideration) · Branding Style Guides · Carré Noir · Chermayeff & Geismar & Haviv · COLLINS · Dalton Maag · Design Bridge and Partners · Designing Brand Identity, 6th ed. (Alina Wheeler, Rob Meyerson) · DixonBaxi · Dragon Rouge · Edenspiekermann · Experimental Jetset · How to (Michael Bierut) · Identity Designed · Interbrand · Johnson Banks · Jones Knowles Ritchie (JKR) · Koto · Landor · LAVA · Lippincott · Logo Archive · Lonsdale · Made Thought · MCKL (Jeremy Mickel) · MetaDesign · Mindsparkle Mag · Mother Design · Moving Brands · NaN · Oleg Turbaba · Order · Pearlfisher · Pentagram · Saffron Brand Consultants · Sagmeister · Siegel+Gale · SomeOne · Standards Manual · Studio Dumbar/DEPT · Swiss Typefaces · The Brand Gap (Marty Neumeier) · The Brand Identity · Thonik · Wolff Olins
+
 ### [UI Patterns and Real Products](topics/ui-patterns.md)
 
 Appshot Gallery · Azbuka UI (UI ABC) · Mobbin · Nicelydone · Page Flows · Paywall Screens · Refero · SaaS Interface · SaaSFrame · Screens Design · UI design principles (Figma) · UI Patterns · UX Archive · Welie.com Interaction Design Pattern Library
@@ -30,7 +34,7 @@ Color Hunt · Color theory (Figma) · Coolors · Huemint · Realtime Colors
 
 ### [Icons, Illustrations and Graphics](topics/icons-and-graphics.md)
 
-3dicons · Cutting Mat Generator · Emoji to PNG · Flaticon · Holosticker · Iconbuddy · Iconly · Iconoteka · Inkword · Kitbitz · Koboyo · LogoLounge · Lucide · Material Symbols · mmeshy · Noun Project · Phosphor Icons · PNGimg · Reicon · Sombra · Symbl
+3dicons · Cutting Mat Generator · Emoji to PNG · Flaticon · Holosticker · Iconbuddy · Iconly · Iconoteka · Iconoteka Figma plugin · Iconoteka on GitHub · Inkword · Kitbitz · Koboyo · LogoLounge · Lucide · Material Symbols · mmeshy · Noun Project · Phosphor Icons · PNGimg · Reicon · Sombra · Symbl
 
 ## Code and Tools
 
