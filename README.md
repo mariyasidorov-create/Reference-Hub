@@ -2,7 +2,7 @@
 
 Curated references for product and graphic designers: interface patterns, galleries, type, motion, component libraries, image archives, graphic design history, right-to-left scripts, early web history and UX writing from trusted curators.
 
-The list holds 1169 checked links in 47 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1184 checked links in 47 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -30,7 +30,7 @@ The list holds 1169 checked links in 47 topic files. Every topic file links to r
 - [Design Systems](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-systems.md) - Corporate design systems, their motion guidelines, official Figma kits and tools for documenting systems (57 links).
 - [Component Libraries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/component-libraries.md) - Copy-paste component libraries for React, Tailwind, shadcn and SwiftUI (66 links).
 - [Design to Code](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-to-code.md) - Figma Summer School Designer to Builder materials, Figma's official files, MCP and agent tools (24 links).
-- [Developer Handoff](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/handoff.md) - Tools for handing designs to engineering (6 links).
+- [Developer Handoff](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/handoff.md) - Tools for handing designs to engineering (20 links).
 - [Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/tools.md) - Mockups, inspiration and tools for branding, photo, AI and video (26 links).
 - [AI and Creative Technology](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ai-and-creative-tech.md) - AI tools, generative art, 3D and creative coding (14 links).
 - [Claude Skills and Awesome Lists](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/awesome-lists.md) - Skills for AI agents and other curated design lists on GitHub (20 links).
@@ -61,7 +61,7 @@ The list holds 1169 checked links in 47 topic files. Every topic file links to r
 - [Ancient Egypt](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/egypt.md) - Museums, primary sources and hieroglyph tools, from Turin's Museo Egizio to free Egyptology PDFs (12 links).
 - [Graphic Design History](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/graphic-design-history.md) - Archives, books and museums for every major movement from medieval manuscripts to Emigre (109 links).
 - [Early Web History](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/web-history.md) - Museums, archives and books on how the web looked from 1991 onwards (13 links).
-- [Right-to-Left Scripts](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/rtl.md) - Arabic, Hebrew and Persian typography, RTL interface layout, calligraphy and museums (33 links).
+- [Right-to-Left Scripts](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/rtl.md) - Arabic, Hebrew and Persian typography, RTL interface layout, calligraphy and museums (34 links).
 - [Photo and Image Archives](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/photo-archives.md) - Stock photography, open access museums, libraries and specialist archives without AI-generated images (66 links).
 
 ## Places and Institutions

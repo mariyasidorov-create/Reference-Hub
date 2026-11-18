@@ -2,7 +2,7 @@
 title: Right-to-Left Scripts
 aliases: [справа налево, арабский, иврит]
 tags: [rtl, arabic, hebrew, persian]
-entries: 33
+entries: 34
 ---
 
 # Right-to-Left Scripts
@@ -20,6 +20,7 @@ Related: [Typography and Type Foundries](typography.md) · [Graphic Design Histo
 - [RTL Layout and Interfaces](#rtl-layout-and-interfaces)
 - [Calligraphy and Art History](#calligraphy-and-art-history)
 - [Museums and Archives](#museums-and-archives)
+- [Interface Layout](#interface-layout)
 
 ## Arabic Typography and Type
 
@@ -68,3 +69,7 @@ Related: [Typography and Type Foundries](typography.md) · [Graphic Design Histo
 - [Israel Museum](https://www.imj.org.il/en) - Jewish art, manuscripts and Israeli design. *Free.*
 - [Arab Image Foundation](https://arabimagefoundation.org/) - Photography archive of the Arab world. *Free.*
 - [Palestine Poster Project Archives](https://www.palestineposterproject.org/) - Thousands of posters with Arabic typography. *Free.*
+
+## Interface Layout
+
+- [Flutter RTL Audit](https://github.com/TaheBenSaid/flutter-rtl-audit) - Agent skill that audits Flutter apps for RTL problems. *Free.*

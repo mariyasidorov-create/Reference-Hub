@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1169,
+ "count": 1184,
  "references": [
   {
    "topic": "ui-patterns",
@@ -5307,6 +5307,14 @@
    "access": "Free"
   },
   {
+   "topic": "rtl",
+   "section": "Interface Layout",
+   "name": "Flutter RTL Audit",
+   "url": "https://github.com/TaheBenSaid/flutter-rtl-audit",
+   "description": "Agent skill that audits Flutter apps for RTL problems",
+   "access": "Free"
+  },
+  {
    "topic": "architecture",
    "section": "Portugal",
    "name": "Casa da Arquitectura — Centro Português de Arquitectura (Portuguese Centre for Architecture)",
@@ -9144,6 +9152,118 @@
    "name": "Flutter: Building user interfaces",
    "url": "https://docs.flutter.dev/ui",
    "description": "Official Flutter docs on widgets, layout and adaptive design",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Platform Guidelines",
+   "name": "HIG: Right to left (Apple)",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/right-to-left",
+   "description": "Apple's rules for RTL layouts and icons",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Platform Guidelines",
+   "name": "Android: Support different languages and RTL",
+   "url": "https://developer.android.com/training/basics/supporting-devices/languages",
+   "description": "Android localisation and RTL support",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Platform Guidelines",
+   "name": "Material Design: Bidirectionality",
+   "url": "https://m2.material.io/design/usability/bidirectionality.html",
+   "description": "Mirroring rules for RTL in Material",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Platform Guidelines",
+   "name": "Flutter: Internationalization",
+   "url": "https://docs.flutter.dev/ui/internationalization",
+   "description": "Localisation and RTL in Flutter",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Platform Guidelines",
+   "name": "Flutter: Adaptive and responsive design",
+   "url": "https://docs.flutter.dev/ui/adaptive-responsive",
+   "description": "Breakpoints, navigation and input across devices",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Platform Guidelines",
+   "name": "Flutter: Cupertino widgets",
+   "url": "https://docs.flutter.dev/ui/design/cupertino",
+   "description": "iOS-style widgets in Flutter",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Platform Guidelines",
+   "name": "Material 3 in Compose",
+   "url": "https://developer.android.com/develop/ui/compose/designsystems/material3",
+   "description": "Theming Material 3 in Jetpack Compose",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Web",
+   "name": "MDN: CSS logical properties",
+   "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values",
+   "description": "Inline and block properties that mirror for RTL",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Web",
+   "name": "W3C: Structural markup and right-to-left text in HTML",
+   "url": "https://www.w3.org/International/questions/qa-html-dir",
+   "description": "How to use dir in HTML",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Web",
+   "name": "web.dev: Learn Responsive Design",
+   "url": "https://web.dev/learn/design",
+   "description": "Google's free course on responsive design",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Agent Skills",
+   "name": "SwiftUI Agent Skill (Paul Hudson)",
+   "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+   "description": "Agent skill for writing correct SwiftUI",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Agent Skills",
+   "name": "Claude Code Apple Skills",
+   "url": "https://github.com/rshankras/claude-code-apple-skills",
+   "description": "Skills for iOS, design and Apple platforms",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Agent Skills",
+   "name": "Flutter RTL Audit",
+   "url": "https://github.com/TaheBenSaid/flutter-rtl-audit",
+   "description": "Agent skill that audits Flutter apps for RTL problems",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Agent Skills",
+   "name": "Front-End Checklist",
+   "url": "https://github.com/thedaviddias/Front-End-Checklist",
+   "description": "Front-end checklist, also published as agent skills",
    "access": "Free"
   },
   {
