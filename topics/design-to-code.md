@@ -2,7 +2,7 @@
 title: Design to Code
 aliases: [дизайн в код, Figma MCP, вайбкодинг]
 tags: [figma, code, ai, mcp]
-entries: 42
+entries: 50
 ---
 
 # Design to Code
@@ -20,6 +20,7 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [Agents and Code](#agents-and-code)
 - [Vibe Coding and App Builders](#vibe-coding-and-app-builders)
 - [Backend for Designers](#backend-for-designers)
+- [Figma Agent Skills (Miggi from Figgi)](#figma-agent-skills-miggi-from-figgi)
 
 ## Figma Summer School: Designer to Builder
 
@@ -77,3 +78,14 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [n8n](https://n8n.io/) - Workflow automation, self-hostable. *Free + paid.*
 - [Tilda](https://tilda.cc/) - Website builder with Zero Block and an MCP server for AI agents. *Free + paid.*
 - [Zeroprompt](https://zeroprompt.ru/) - Animated Tilda sections by block ID or AI prompt, by Kris Anfalova (in Russian). *Free + paid.*
+
+## Figma Agent Skills (Miggi from Figgi)
+
+- [Figma Community: AI skills library](https://www.figma.com/community/ai-skills) - Official library of skills for the Figma agent. *Free.*
+- [make-a-type-scale (skill)](https://www.figma.com/community/skill/62736/make-a-type-scale) - Figma agent skill by Miggi from Figgi: builds a type scale. *Free.*
+- [image-audit (skill)](https://www.figma.com/community/skill/64144/image-audit) - Figma agent skill by Miggi: audits images in a file. *Free.*
+- [shader-starter (skill)](https://www.figma.com/community/skill/64012/shader-starter) - Figma agent skill by Miggi: starts a Figma shader. *Free.*
+- [camera-pan-and-zoom (skill)](https://www.figma.com/community/skill/65256/camera-pan-and-zoom) - Figma agent skill by Miggi for motion designers. *Free.*
+- [persona-critique (skill)](https://www.figma.com/community/skill/126911/persona-critique) - Critique a design with simulated personas inside Figma. *Free.*
+- [Workflow Lab: Staying in the flow with Figma's agent (Figma Blog)](https://www.figma.com/blog/workflow-lab-staying-in-the-flow-with-the-figma-agent/) - How Figma's team uses the agent day to day. *Free.*
+- [Slack Emoji Exporter (generative plugin)](https://www.figma.com/community/generative-plugin/1676682040139933886/slack-emoji-exporter) - Turns Figma Motion work into Slack emoji. By Miggi. *Free.*

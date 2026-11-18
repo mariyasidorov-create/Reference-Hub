@@ -2,7 +2,7 @@
 title: UX Curators and Vitaly Friedman
 aliases: [кураторы, LinkedIn]
 tags: [ux, linkedin, curators]
-entries: 46
+entries: 48
 ---
 
 # UX Curators and Vitaly Friedman
@@ -45,6 +45,8 @@ Related: [UX Research and Guidelines](ux-research.md) · [Learning](learning.md)
 - [Erika Hall](https://www.linkedin.com/in/erikahall/) - Just enough research; see [Mule Design](https://www.muledesign.com/). *Free.*
 - [Ioana Teleanu](https://www.linkedin.com/in/ioanateleanu/) - AI and UX, design careers. *Free.*
 - [Andy Budd](https://www.linkedin.com/in/andybudd/) - Design leadership and design maturity. *Free.*
+- [Miggi from Figgi](https://www.linkedin.com/in/miggi-from-figgi/) - Designer Advocate at Figma: Motion, 3D transforms, agent skills, Figma for Edu workshops. *Free.*
+- [Oleg Turbaba](https://www.linkedin.com/in/turbaba/) - Brand Design Director at Clay: type and identity commentary. *Free.*
 
 ## Vitaly Friedman, Sorted by Topic: Research
 

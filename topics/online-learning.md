@@ -2,7 +2,7 @@
 title: Online Learning
 aliases: [онлайн-обучение, курсы]
 tags: [learning, courses]
-entries: 16
+entries: 18
 ---
 
 # Online Learning
@@ -35,6 +35,8 @@ Related: [Learning](learning.md) · [UX Design Process](ux-process.md) · [Desig
 - [Google AI Essentials](https://grow.google/ai-essentials/) - Google's practical AI course with certificate. *Paid.*
 - [GitHub Certifications](https://resources.github.com/learn/certifications/) - GitHub Foundations, Copilot and other certifications. *Paid exam.*
 - [IBM SkillsBuild](https://skillsbuild.org/) - Free AI and tech courses with credentials. *Free.*
+- [Figma for Edu: Prototyping with animations (workshop)](https://www.youtube.com/watch?v=y9lZ5GMXNyU) - Recorded monthly workshop led by Miggi. *Free.*
+- [Figma for Edu: Working with typography systems (workshop)](https://youtu.be/rbxNV3_mb-A) - Recorded monthly workshop. *Free.*
 
 ## Books Online
 

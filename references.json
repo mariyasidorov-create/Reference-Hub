@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1469,
+ "count": 1488,
  "references": [
   {
    "topic": "ui-patterns",
@@ -1177,6 +1177,62 @@
    "url": "https://devouringdetails.com/",
    "description": "Interactive essays on interface details.",
    "access": "Paid"
+  },
+  {
+   "topic": "motion",
+   "section": "Figma Motion",
+   "name": "3D Image Gallery Animation (Figma Community)",
+   "url": "https://www.figma.com/community/file/1703328509059116208/3d-image-gallery-animation-free",
+   "description": "Free file: 3D sphere gallery with motion.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Figma Motion",
+   "name": "Orbiting glow (Figma shader)",
+   "url": "https://www.figma.com/community/shader/1682176055524297137/orbiting-glow",
+   "description": "Miggi's shader effect.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Figma Motion",
+   "name": "Custom animation styles in Figma Motion (video)",
+   "url": "https://www.youtube.com/shorts/IaIhjAITQ6w",
+   "description": "Official short on publishing reusable animation styles.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Figma Motion",
+   "name": "Learn 3D transform in Figma (video)",
+   "url": "https://youtu.be/9u_DZRaPTV8",
+   "description": "Official tutorial on 3D transforms and perspective.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Figma Motion",
+   "name": "How to make a 3D sphere with animation in Figma (UX-UI Heroes)",
+   "url": "https://youtu.be/_7l-IVpzG-0",
+   "description": "Step-by-step 3D sphere and motion tutorial.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Figma Motion",
+   "name": "Figmation",
+   "url": "https://figmation.framer.website/",
+   "description": "Large library of Figma motion components.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "motion",
+   "section": "Figma Motion",
+   "name": "Oddfellows x Figma",
+   "url": "https://oddfellows.tv/work/figma",
+   "description": "Motion studio case study for Figma's brand animation.",
+   "access": "View only"
   },
   {
    "topic": "ux-research",
@@ -5948,6 +6004,22 @@
   },
   {
    "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Miggi from Figgi",
+   "url": "https://www.linkedin.com/in/miggi-from-figgi/",
+   "description": "Designer Advocate at Figma: Motion, 3D transforms, agent skills, Figma for Edu workshops.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Oleg Turbaba",
+   "url": "https://www.linkedin.com/in/turbaba/",
+   "description": "Brand Design Director at Clay: type and identity commentary.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
    "section": "Vitaly Friedman, Sorted by Topic: Research",
    "name": "How Product Teams Use AI In UX Research",
    "url": "https://www.theresearchopsreview.com/p/how-to-ai-uxr-a-map",
@@ -8340,6 +8412,22 @@
   },
   {
    "topic": "online-learning",
+   "section": "Courses",
+   "name": "Figma for Edu: Prototyping with animations (workshop)",
+   "url": "https://www.youtube.com/watch?v=y9lZ5GMXNyU",
+   "description": "Recorded monthly workshop led by Miggi.",
+   "access": "Free"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "Figma for Edu: Working with typography systems (workshop)",
+   "url": "https://youtu.be/rbxNV3_mb-A",
+   "description": "Recorded monthly workshop.",
+   "access": "Free"
+  },
+  {
+   "topic": "online-learning",
    "section": "Books Online",
    "name": "Practical Typography",
    "url": "https://practicaltypography.com/",
@@ -9417,6 +9505,70 @@
    "url": "https://zeroprompt.ru/",
    "description": "Animated Tilda sections by block ID or AI prompt, by Kris Anfalova (in Russian).",
    "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Agent Skills (Miggi from Figgi)",
+   "name": "Figma Community: AI skills library",
+   "url": "https://www.figma.com/community/ai-skills",
+   "description": "Official library of skills for the Figma agent.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Agent Skills (Miggi from Figgi)",
+   "name": "make-a-type-scale (skill)",
+   "url": "https://www.figma.com/community/skill/62736/make-a-type-scale",
+   "description": "Figma agent skill by Miggi from Figgi: builds a type scale.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Agent Skills (Miggi from Figgi)",
+   "name": "image-audit (skill)",
+   "url": "https://www.figma.com/community/skill/64144/image-audit",
+   "description": "Figma agent skill by Miggi: audits images in a file.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Agent Skills (Miggi from Figgi)",
+   "name": "shader-starter (skill)",
+   "url": "https://www.figma.com/community/skill/64012/shader-starter",
+   "description": "Figma agent skill by Miggi: starts a Figma shader.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Agent Skills (Miggi from Figgi)",
+   "name": "camera-pan-and-zoom (skill)",
+   "url": "https://www.figma.com/community/skill/65256/camera-pan-and-zoom",
+   "description": "Figma agent skill by Miggi for motion designers.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Agent Skills (Miggi from Figgi)",
+   "name": "persona-critique (skill)",
+   "url": "https://www.figma.com/community/skill/126911/persona-critique",
+   "description": "Critique a design with simulated personas inside Figma.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Agent Skills (Miggi from Figgi)",
+   "name": "Workflow Lab: Staying in the flow with Figma's agent (Figma Blog)",
+   "url": "https://www.figma.com/blog/workflow-lab-staying-in-the-flow-with-the-figma-agent/",
+   "description": "How Figma's team uses the agent day to day.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Agent Skills (Miggi from Figgi)",
+   "name": "Slack Emoji Exporter (generative plugin)",
+   "url": "https://www.figma.com/community/generative-plugin/1676682040139933886/slack-emoji-exporter",
+   "description": "Turns Figma Motion work into Slack emoji. By Miggi.",
+   "access": "Free"
   },
   {
    "topic": "research-and-testing",

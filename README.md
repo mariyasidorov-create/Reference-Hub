@@ -2,7 +2,7 @@
 
 Curated references and learning material for product and graphic designers: interface patterns, galleries, type, motion, design systems, design to code, UX research and writing, product management and metrics, art and graphic design history, archives, museums, design schools and regions.
 
-The list holds 1469 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1488 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -23,14 +23,14 @@ The list holds 1469 checked links in 50 topic files. Every topic file links to r
 - [Images and Moodboards](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/images-and-moodboards.md) - Moodboard tools, logo archives, shapes and backgrounds (13 links).
 - [Color](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/color.md) - Palette generators and colour tools (5 links).
 - [Typography and Type Foundries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/typography.md) - Type in use, free typefaces and independent Cyrillic and Latin foundries (38 links).
-- [Motion and Micro-interactions](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/motion.md) - References for interface motion, delightful details and motion design tools (34 links).
+- [Motion and Micro-interactions](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/motion.md) - References for interface motion, delightful details and motion design tools (41 links).
 - [Icons, Illustrations and Graphics](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/icons-and-graphics.md) - Icon sets, illustration generators and graphic effects (23 links).
 
 ## Code and Tools
 
 - [Design Systems](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-systems.md) - Corporate design systems, their motion guidelines, official Figma kits and tools for documenting systems (58 links).
 - [Component Libraries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/component-libraries.md) - Copy-paste component libraries for React, Tailwind, shadcn and SwiftUI (70 links).
-- [Design to Code](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-to-code.md) - Figma Summer School Designer to Builder materials, Figma's official files, MCP and agent tools (42 links).
+- [Design to Code](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-to-code.md) - Figma Summer School Designer to Builder materials, Figma's official files, MCP and agent tools (50 links).
 - [Developer Handoff](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/handoff.md) - Tools for handing designs to engineering (21 links).
 - [Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/tools.md) - Mockups, inspiration and tools for branding, photo, AI and video (35 links).
 - [AI and Creative Technology](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ai-and-creative-tech.md) - AI tools, generative art, 3D and creative coding (37 links).
@@ -44,7 +44,7 @@ The list holds 1469 checked links in 50 topic files. Every topic file links to r
 - [Metrics and Growth](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/metrics-and-growth.md) - Growth books, product metrics and analytics tools (5 links).
 - [Product Management](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/product-management.md) - Strategy, metrics, unit economics, finance and delivery, structured after The Product Map (42 links).
 - [Benchmarks and Competitors](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/benchmarks.md) - Market data and industry players for competitive analysis (6 links).
-- [UX Curators and Vitaly Friedman](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ux-curators.md) - People who publish carefully curated UX material, and Vitaly Friedman's resources sorted by topic (46 links).
+- [UX Curators and Vitaly Friedman](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ux-curators.md) - People who publish carefully curated UX material, and Vitaly Friedman's resources sorted by topic (48 links).
 
 ## Interface Topics
 
@@ -85,7 +85,7 @@ The list holds 1469 checked links in 50 topic files. Every topic file links to r
 ## Learning
 
 - [Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/learning.md) - YouTube channels and books worth owning (35 links).
-- [Online Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/online-learning.md) - Courses and free online books on design, UX and art (16 links).
+- [Online Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/online-learning.md) - Courses and free online books on design, UX and art (18 links).
 - [English for Designers](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/english-for-designers.md) - Pronunciation, writing and speaking in English at work (3 links).
 - [Off Topic](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/off-topic.md) - Learning, utilities, games, radio and small delights for when you are not designing (72 links).
 

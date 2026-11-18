@@ -2,7 +2,7 @@
 title: Motion and Micro-interactions
 aliases: [моушн, анимация, animation]
 tags: [motion, micro-interactions]
-entries: 34
+entries: 41
 ---
 
 # Motion and Micro-interactions
@@ -19,6 +19,7 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [Motion Tools](#motion-tools)
 - [More Motion](#more-motion)
 - [Design Engineers](#design-engineers)
+- [Figma Motion](#figma-motion)
 
 ## Micro-interactions and Motion References
 
@@ -65,3 +66,13 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [Rauno Freiberg: Craft](https://rauno.me/craft) - Interaction experiments at Apple-level polish. Study, do not copy. *Free.*
 - [Emil Kowalski](https://emilkowal.ski/) - Animation and component craft, author of Sonner and Vaul. *Free.*
 - [Devouring Details](https://devouringdetails.com/) - Interactive essays on interface details. *Paid.*
+
+## Figma Motion
+
+- [3D Image Gallery Animation (Figma Community)](https://www.figma.com/community/file/1703328509059116208/3d-image-gallery-animation-free) - Free file: 3D sphere gallery with motion. *Free.*
+- [Orbiting glow (Figma shader)](https://www.figma.com/community/shader/1682176055524297137/orbiting-glow) - Miggi's shader effect. *Free.*
+- [Custom animation styles in Figma Motion (video)](https://www.youtube.com/shorts/IaIhjAITQ6w) - Official short on publishing reusable animation styles. *Free.*
+- [Learn 3D transform in Figma (video)](https://youtu.be/9u_DZRaPTV8) - Official tutorial on 3D transforms and perspective. *Free.*
+- [How to make a 3D sphere with animation in Figma (UX-UI Heroes)](https://youtu.be/_7l-IVpzG-0) - Step-by-step 3D sphere and motion tutorial. *Free.*
+- [Figmation](https://figmation.framer.website/) - Large library of Figma motion components. *Free + paid.*
+- [Oddfellows x Figma](https://oddfellows.tv/work/figma) - Motion studio case study for Figma's brand animation. *View only.*
