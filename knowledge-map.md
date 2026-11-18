@@ -163,7 +163,6 @@ Tags in each file's front matter (for example `history`, `portugal`, `rtl`) show
 
 ## Planned Topics
 
-- Second pass on regions: Latin American, African and Asian graphic design
 - Archive of saved Instagram posts with transcripts
 
 [Back to the index](README.md)

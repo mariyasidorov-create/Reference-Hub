@@ -2,7 +2,7 @@
 title: Regions of the World
 aliases: [регионы, страны]
 tags: [regions, museums, world]
-entries: 34
+entries: 62
 ---
 
 # Regions of the World
@@ -20,6 +20,11 @@ Related: [Museums, Galleries and Art Media](museums-and-galleries.md) · [Art Hi
 - [Oceania](#oceania)
 - [East Asia](#east-asia)
 - [Southeast Asia](#southeast-asia)
+- [Latin America: Graphic Design](#latin-america-graphic-design)
+- [Africa: Graphic Design](#africa-graphic-design)
+- [South Asia: Graphic Design](#south-asia-graphic-design)
+- [East Asia: Graphic Design](#east-asia-graphic-design)
+- [Global Histories](#global-histories)
 
 ## The Americas
 
@@ -69,3 +74,46 @@ Related: [Museums, Galleries and Art Media](museums-and-galleries.md) · [Art Hi
 - [Islamic Arts Museum Malaysia](https://www.iamm.org.my/) - Islamic arts from across Asia in Kuala Lumpur. *Paid.*
 - [ILHAM Gallery](https://www.ilhamgallery.com/) - Malaysian modern and contemporary art in Kuala Lumpur. *Free.*
 - [Grafis Nusantara](https://grafisnusantara.com/) - Archive of Indonesian graphic design history. *Free.*
+- [DesignSingapore Council](https://designsingapore.org/) - National design agency with research and the Singapore design archive. *Free.*
+
+## Latin America: Graphic Design
+
+- [BID — Bienal Iberoamericana de Diseño (Ibero-American Design Biennial)](https://www.bid-dimad.org/) - Biennial and archive of design from Spain, Portugal and Latin America. *Free.*
+- [Bienal Internacional del Cartel en México (International Poster Biennial in Mexico)](https://bienalcartel.org/) - One of the longest-running poster biennials, since 1990. *Free.*
+- [Museo Franz Mayer (Franz Mayer Museum, Mexico City)](https://franzmayer.org.mx/) - Decorative arts and design museum, hosts World Press Photo and design shows. *Paid entry.*
+- [MODO — Museo del Objeto del Objeto (Museum of the Object, Mexico City)](https://elmodo.mx/) - Collection of everyday packaging, labels and graphic ephemera. *Paid entry.*
+- [Center for the Study of Political Graphics](https://www.politicalgraphics.org/) - Large archive of protest posters, including Cuban OSPAAAL and Latin American work. *Free.*
+- [Memoria Chilena (Chilean Memory, National Library of Chile)](https://www.memoriachilena.gob.cl/) - Digital heritage portal with Chilean posters, magazines and graphic history. *Free.*
+- [Felipe Taborda, Julius Wiedemann — Latin American Graphic Design](https://openlibrary.org/works/OL16112440W) - Survey of graphic design across Latin America. Book page on Open Library; publisher: Taschen. *Book.*
+
+## Africa: Graphic Design
+
+- [Design Indaba](https://www.designindaba.com/) - Cape Town festival and media platform on African and global creativity. *Free.*
+- [Saki Mafundikwa — Afrikan Alphabets: The Story of Writing in Afrika](https://openlibrary.org/works/OL8836327W) - Indigenous African writing systems and their graphic forms. Book page on Open Library. *Book.*
+- [Anne H. Berry et al. — The Black Experience in Design](https://openlibrary.org/works/OL25455307W) - Essays on Black designers, identity and design education. Book page on Open Library; publisher: Allworth. *Book.*
+
+## South Asia: Graphic Design
+
+- [NID — National Institute of Design (Ahmedabad)](https://www.nid.edu/) - India's leading design school since 1961, with archive and publications. *Paid tuition.*
+- [Ek Type](https://ektype.in/) - Indian foundry for multi-script Indic typefaces, many open source. *Free + paid.*
+- [Indian Type Foundry](https://www.indiantypefoundry.com/) - Indian foundry behind Fontshare, Latin and Indic families. *Free + paid.*
+- [MAP — Museum of Art & Photography (Bengaluru)](https://map-india.org/) - Indian art, photography, popular and print culture, with an online collection. *Free online, paid entry.*
+- [Indian Memory Project](https://www.indianmemoryproject.com/) - Visual and oral archive of the Indian subcontinent through family photographs. *Free.*
+- [Kochi-Muziris Biennale](https://www.kochimuzirisbiennale.org/) - South Asia's largest contemporary art biennale. *Free + paid.*
+
+## East Asia: Graphic Design
+
+- [JAGDA — Japan Graphic Designers Association](https://www.jagda.or.jp/en/) - Association, awards and yearbooks of Japanese graphic design. *Free.*
+- [Tokyo TDC — Tokyo Type Directors Club](https://tdctokyo.org/en/) - Annual international typography competition, strong in Asian type. *Free.*
+- [Toyama Prefectural Museum of Art and Design](https://tad-toyama.jp/en/) - Home of the International Poster Triennial in Toyama and a major poster collection. *Paid entry.*
+- [Typojanchi (Seoul International Typography Biennale)](https://www.typojanchi.org/) - Typography biennale with archive of past editions. *Free.*
+- [Taiwan Design Research Institute](https://www.tdri.org.tw/) - Taiwan's national design institute, exhibitions and research. *Free.*
+- [justfont](https://justfont.com/) - Taiwanese foundry and writing on Chinese typography. *Free + paid.*
+- [Thomas S. Mullaney — The Chinese Typewriter: A History](https://openlibrary.org/works/OL19723940W) - How Chinese script met mechanical writing. Book page on Open Library; publisher: MIT Press. *Book.*
+
+## Global Histories
+
+- [Jens Müller — The History of Graphic Design](https://openlibrary.org/works/OL19740098W) - Two-volume visual history, 1890 to today. Book page on Open Library; publisher: Taschen. *Book.*
+- [Stephen J. Eskilson — Graphic Design: A New History](https://openlibrary.org/works/OL7914510W) - Survey of graphic design history in its social context. Book page on Open Library; publisher: Yale University Press. *Book.*
+- [Google Fonts Knowledge: The world's writing systems](https://fonts.google.com/knowledge/introducing_type/the_worlds_writing_systems) - Primer on scripts beyond Latin. *Free.*
+- [Typotheque](https://www.typotheque.com/) - Foundry and research on non-Latin scripts and multilingual type. *Free + paid.*

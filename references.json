@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1488,
+ "count": 1516,
  "references": [
   {
    "topic": "ui-patterns",
@@ -8705,6 +8705,230 @@
    "url": "https://grafisnusantara.com/",
    "description": "Archive of Indonesian graphic design history",
    "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Southeast Asia",
+   "name": "DesignSingapore Council",
+   "url": "https://designsingapore.org/",
+   "description": "National design agency with research and the Singapore design archive.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Latin America: Graphic Design",
+   "name": "BID — Bienal Iberoamericana de Diseño (Ibero-American Design Biennial)",
+   "url": "https://www.bid-dimad.org/",
+   "description": "Biennial and archive of design from Spain, Portugal and Latin America.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Latin America: Graphic Design",
+   "name": "Bienal Internacional del Cartel en México (International Poster Biennial in Mexico)",
+   "url": "https://bienalcartel.org/",
+   "description": "One of the longest-running poster biennials, since 1990.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Latin America: Graphic Design",
+   "name": "Museo Franz Mayer (Franz Mayer Museum, Mexico City)",
+   "url": "https://franzmayer.org.mx/",
+   "description": "Decorative arts and design museum, hosts World Press Photo and design shows.",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "regions",
+   "section": "Latin America: Graphic Design",
+   "name": "MODO — Museo del Objeto del Objeto (Museum of the Object, Mexico City)",
+   "url": "https://elmodo.mx/",
+   "description": "Collection of everyday packaging, labels and graphic ephemera.",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "regions",
+   "section": "Latin America: Graphic Design",
+   "name": "Center for the Study of Political Graphics",
+   "url": "https://www.politicalgraphics.org/",
+   "description": "Large archive of protest posters, including Cuban OSPAAAL and Latin American work.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Latin America: Graphic Design",
+   "name": "Memoria Chilena (Chilean Memory, National Library of Chile)",
+   "url": "https://www.memoriachilena.gob.cl/",
+   "description": "Digital heritage portal with Chilean posters, magazines and graphic history.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Latin America: Graphic Design",
+   "name": "Felipe Taborda, Julius Wiedemann — Latin American Graphic Design",
+   "url": "https://openlibrary.org/works/OL16112440W",
+   "description": "Survey of graphic design across Latin America. Book page on Open Library; publisher: Taschen.",
+   "access": "Book"
+  },
+  {
+   "topic": "regions",
+   "section": "Africa: Graphic Design",
+   "name": "Design Indaba",
+   "url": "https://www.designindaba.com/",
+   "description": "Cape Town festival and media platform on African and global creativity.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Africa: Graphic Design",
+   "name": "Saki Mafundikwa — Afrikan Alphabets: The Story of Writing in Afrika",
+   "url": "https://openlibrary.org/works/OL8836327W",
+   "description": "Indigenous African writing systems and their graphic forms. Book page on Open Library.",
+   "access": "Book"
+  },
+  {
+   "topic": "regions",
+   "section": "Africa: Graphic Design",
+   "name": "Anne H. Berry et al. — The Black Experience in Design",
+   "url": "https://openlibrary.org/works/OL25455307W",
+   "description": "Essays on Black designers, identity and design education. Book page on Open Library; publisher: Allworth.",
+   "access": "Book"
+  },
+  {
+   "topic": "regions",
+   "section": "South Asia: Graphic Design",
+   "name": "NID — National Institute of Design (Ahmedabad)",
+   "url": "https://www.nid.edu/",
+   "description": "India's leading design school since 1961, with archive and publications.",
+   "access": "Paid tuition"
+  },
+  {
+   "topic": "regions",
+   "section": "South Asia: Graphic Design",
+   "name": "Ek Type",
+   "url": "https://ektype.in/",
+   "description": "Indian foundry for multi-script Indic typefaces, many open source.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "regions",
+   "section": "South Asia: Graphic Design",
+   "name": "Indian Type Foundry",
+   "url": "https://www.indiantypefoundry.com/",
+   "description": "Indian foundry behind Fontshare, Latin and Indic families.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "regions",
+   "section": "South Asia: Graphic Design",
+   "name": "MAP — Museum of Art & Photography (Bengaluru)",
+   "url": "https://map-india.org/",
+   "description": "Indian art, photography, popular and print culture, with an online collection.",
+   "access": "Free online, paid entry"
+  },
+  {
+   "topic": "regions",
+   "section": "South Asia: Graphic Design",
+   "name": "Indian Memory Project",
+   "url": "https://www.indianmemoryproject.com/",
+   "description": "Visual and oral archive of the Indian subcontinent through family photographs.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "South Asia: Graphic Design",
+   "name": "Kochi-Muziris Biennale",
+   "url": "https://www.kochimuzirisbiennale.org/",
+   "description": "South Asia's largest contemporary art biennale.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia: Graphic Design",
+   "name": "JAGDA — Japan Graphic Designers Association",
+   "url": "https://www.jagda.or.jp/en/",
+   "description": "Association, awards and yearbooks of Japanese graphic design.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia: Graphic Design",
+   "name": "Tokyo TDC — Tokyo Type Directors Club",
+   "url": "https://tdctokyo.org/en/",
+   "description": "Annual international typography competition, strong in Asian type.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia: Graphic Design",
+   "name": "Toyama Prefectural Museum of Art and Design",
+   "url": "https://tad-toyama.jp/en/",
+   "description": "Home of the International Poster Triennial in Toyama and a major poster collection.",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia: Graphic Design",
+   "name": "Typojanchi (Seoul International Typography Biennale)",
+   "url": "https://www.typojanchi.org/",
+   "description": "Typography biennale with archive of past editions.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia: Graphic Design",
+   "name": "Taiwan Design Research Institute",
+   "url": "https://www.tdri.org.tw/",
+   "description": "Taiwan's national design institute, exhibitions and research.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia: Graphic Design",
+   "name": "justfont",
+   "url": "https://justfont.com/",
+   "description": "Taiwanese foundry and writing on Chinese typography.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia: Graphic Design",
+   "name": "Thomas S. Mullaney — The Chinese Typewriter: A History",
+   "url": "https://openlibrary.org/works/OL19723940W",
+   "description": "How Chinese script met mechanical writing. Book page on Open Library; publisher: MIT Press.",
+   "access": "Book"
+  },
+  {
+   "topic": "regions",
+   "section": "Global Histories",
+   "name": "Jens Müller — The History of Graphic Design",
+   "url": "https://openlibrary.org/works/OL19740098W",
+   "description": "Two-volume visual history, 1890 to today. Book page on Open Library; publisher: Taschen.",
+   "access": "Book"
+  },
+  {
+   "topic": "regions",
+   "section": "Global Histories",
+   "name": "Stephen J. Eskilson — Graphic Design: A New History",
+   "url": "https://openlibrary.org/works/OL7914510W",
+   "description": "Survey of graphic design history in its social context. Book page on Open Library; publisher: Yale University Press.",
+   "access": "Book"
+  },
+  {
+   "topic": "regions",
+   "section": "Global Histories",
+   "name": "Google Fonts Knowledge: The world's writing systems",
+   "url": "https://fonts.google.com/knowledge/introducing_type/the_worlds_writing_systems",
+   "description": "Primer on scripts beyond Latin.",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Global Histories",
+   "name": "Typotheque",
+   "url": "https://www.typotheque.com/",
+   "description": "Foundry and research on non-Latin scripts and multilingual type.",
+   "access": "Free + paid"
   },
   {
    "topic": "design-systems",

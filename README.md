@@ -2,7 +2,7 @@
 
 Curated references and learning material for product and graphic designers: interface patterns, galleries, type, motion, design systems, design to code, UX research and writing, product management and metrics, art and graphic design history, archives, museums, design schools and regions.
 
-The list holds 1488 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1516 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -72,7 +72,7 @@ The list holds 1488 checked links in 50 topic files. Every topic file links to r
 - [Brazil](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/brazil.md) - Brazilian type foundries, design history archives, museums, architecture, cinema and advertising (32 links).
 - [Architecture](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/architecture.md) - Archives, databases and centres for buildings and architects, starting with Portugal (4 links).
 - [Museums, Galleries and Art Media](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/museums-and-galleries.md) - Museums worldwide, including Scotland and Garage, with their online collections and free publications, galleries, art magazines and fairs (80 links).
-- [Regions of the World](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/regions.md) - Museums and archives by region: the Americas, Africa, Oceania, East and Southeast Asia (34 links).
+- [Regions of the World](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/regions.md) - Museums and archives by region: the Americas, Africa, Oceania, East and Southeast Asia (62 links).
 - [Design Schools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-schools.md) - Art and design schools in Portugal, the rest of Europe and beyond (26 links).
 
 ## Media and Culture
