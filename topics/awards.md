@@ -1,7 +1,7 @@
 ---
 title: Design Awards
 tags: [awards, inspiration]
-entries: 16
+entries: 17
 ---
 
 # Design Awards
@@ -36,6 +36,7 @@ Related: [Web Galleries](web-galleries.md) · [Magazines and Newspapers](magazin
 
 - [German Design Award](https://www.german-design-council.de/en/) - German Design Council awards for product and communication design. *Free.*
 - [Dutch Design Awards](https://www.dutchdesignawards.nl/) - Yearly awards during Dutch Design Week in Eindhoven. *Free.*
+- [European Design Awards](https://europeandesign.org/) - Communication design awards judged by European design magazines. *Free.*
 
 ## Asia and Oceania
 

@@ -1,7 +1,7 @@
 ---
 title: Icons, Illustrations and Graphics
 tags: [icons, illustration]
-entries: 15
+entries: 20
 ---
 
 # Icons, Illustrations and Graphics
@@ -15,6 +15,7 @@ Related: [Images and Moodboards](images-and-moodboards.md) · [Tools](tools.md)
 ## Contents
 
 - [Icons, Illustrations and Graphics](#icons-illustrations-and-graphics)
+- [Icons](#icons)
 
 ## Icons, Illustrations and Graphics
 
@@ -33,3 +34,11 @@ Related: [Images and Moodboards](images-and-moodboards.md) · [Tools](tools.md)
 - [Phosphor Icons](https://phosphoricons.com) - Flexible icon family in six weights. *Free.*
 - [3dicons](https://3dicons.co) - Open-source 3D icons. *Free.*
 - [Symbl](https://symbl.space) - Logo stress test: small sizes, blur, negative space, clearspace, mockups and a shareable brand book. *Free.*
+
+## Icons
+
+- [Noun Project](https://thenounproject.com/) - Millions of icons and photos. *Freemium.*
+- [Material Symbols](https://fonts.google.com/icons) - Google's variable icon font. *Free.*
+- [Flaticon](https://www.flaticon.com/) - Large icon library. *Freemium.*
+- [Iconbuddy](https://iconbuddy.app/) - 100,000+ open-source icons. *Free.*
+- [Iconoteka](https://iconoteka.com/) - Icon library in several styles. *Freemium.*

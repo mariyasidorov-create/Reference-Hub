@@ -1,0 +1,40 @@
+---
+title: AI and Creative Technology
+tags: [ai, 3d, creative-coding]
+entries: 12
+---
+
+# AI and Creative Technology
+
+AI tools, generative art, 3D and creative coding.
+
+Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](motion.md) · [Tools](tools.md)
+
+[Back to the index](../README.md)
+
+## Contents
+
+- [Tools](#tools)
+- [Artists and Experiments](#artists-and-experiments)
+- [Learning](#learning)
+
+## Tools
+
+- [Runway](https://runwayml.com/) - AI video generation and editing. *Freemium.*
+- [Midjourney](https://www.midjourney.com/) - Image and video generation. *Paid.*
+- [Synthesia](https://www.synthesia.io/) - AI avatar video. *Paid.*
+- [Vizcom](https://www.vizcom.ai/) - Sketch to render for industrial design. *Freemium.*
+- [Teachable Machine (Google)](https://teachablemachine.withgoogle.com/) - Train simple ML models in the browser. *Free.*
+- [Magenta (Google)](https://magenta.tensorflow.org/) - Machine learning for music and art. *Free.*
+- [Three.js](https://threejs.org/) - JavaScript 3D library for the web. *Free.*
+- [Shader Gradient](https://shadergradient.co/) - Animated 3D gradients for web and Figma. *Free.*
+
+## Artists and Experiments
+
+- [Refik Anadol](https://refikanadol.com/) - Data-driven AI art installations. *Free.*
+- [Sougwen Chung (愫君)](https://sougwen.com/) - Artist drawing in collaboration with robots. *Free.*
+- [Experiments with Google](https://experiments.withgoogle.com/) - Creative coding and AI experiments. *Free.*
+
+## Learning
+
+- [Claude Certified Architect – Foundations (Anthropic Academy)](https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification) - Anthropic certification course. *Free.*

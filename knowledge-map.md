@@ -34,6 +34,22 @@ graph LR
   publishers["Publishers"]
   online_learning["Online Learning"]
   regions["Regions of the World"]
+  design_systems["Design Systems"]
+  design_to_code["Design to Code"]
+  handoff["Developer Handoff"]
+  research_and_testing["Research and Testing Tools"]
+  metrics_and_growth["Metrics and Growth"]
+  benchmarks["Benchmarks and Competitors"]
+  ecommerce["E-commerce"]
+  forms["Forms"]
+  tables_and_dashboards["Tables and Dashboards"]
+  data_visualization["Data Visualization"]
+  email_design["Email Design"]
+  writing["Writing and UX Writing"]
+  accessibility["Accessibility and Inclusive Design"]
+  mobile_design["Mobile Design"]
+  ai_and_creative_tech["AI and Creative Technology"]
+  english_for_designers["English for Designers"]
   ux_curators["UX Curators and Vitaly Friedman"]
   ui_patterns --- web_galleries
   ui_patterns --- ux_research
@@ -91,6 +107,37 @@ graph LR
   online_learning --- design_schools
   regions --- museums_and_galleries
   regions --- art_history
+  design_systems --- component_libraries
+  design_systems --- design_to_code
+  design_systems --- motion
+  design_to_code --- component_libraries
+  design_to_code --- handoff
+  handoff --- design_systems
+  research_and_testing --- ux_research
+  research_and_testing --- metrics_and_growth
+  research_and_testing --- ux_process
+  metrics_and_growth --- benchmarks
+  metrics_and_growth --- ecommerce
+  benchmarks --- ecommerce
+  ecommerce --- ux_research
+  ecommerce --- forms
+  forms --- tables_and_dashboards
+  forms --- accessibility
+  forms --- writing
+  tables_and_dashboards --- data_visualization
+  tables_and_dashboards --- design_systems
+  data_visualization --- graphic_design_history
+  email_design --- writing
+  email_design --- web_galleries
+  writing --- english_for_designers
+  accessibility --- design_systems
+  accessibility --- mobile_design
+  mobile_design --- ui_patterns
+  mobile_design --- motion
+  ai_and_creative_tech --- design_to_code
+  ai_and_creative_tech --- motion
+  ai_and_creative_tech --- tools
+  english_for_designers --- learning
 ```
 
 ## Open as an Obsidian Vault

@@ -1,7 +1,7 @@
 ---
 title: Cinema
 tags: [cinema, titles, posters]
-entries: 14
+entries: 15
 ---
 
 # Cinema
@@ -23,6 +23,7 @@ Related: [Motion and Micro-interactions](motion.md) · [Typography and Type Foun
 
 - [Watch the Titles](https://www.watchthetitles.com/) - Archive of film and TV title sequences. *Free.*
 - [Typeset in the Future](https://typesetinthefuture.com/) - Dave Addey's deep dives into typography in science-fiction films. *Free.*
+- [The Movie Title Stills Collection](https://annyas.com/screenshots/) - Title-card screenshots of classic films. *Free.*
 
 ## Frames and Stills
 

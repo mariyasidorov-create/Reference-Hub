@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 885,
+ "count": 1060,
  "references": [
   {
    "topic": "ui-patterns",
@@ -88,6 +88,14 @@
    "name": "Appshot Gallery",
    "url": "https://appshot.gallery",
    "description": "App Store screenshots for inspiration.",
+   "access": "Free"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "More Patterns",
+   "name": "Welie.com Interaction Design Pattern Library",
+   "url": "http://www.welie.com/patterns/",
+   "description": "Classic pattern library",
    "access": "Free"
   },
   {
@@ -377,6 +385,54 @@
    "url": "https://404s.design",
    "description": "404 pages only.",
    "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Landingfolio",
+   "url": "https://www.landingfolio.com/",
+   "description": "Landing page inspiration and templates",
+   "access": "Freemium"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Designspiration",
+   "url": "https://www.designspiration.com/",
+   "description": "Search inspiration by colour",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Rebrand Gallery",
+   "url": "https://www.rebrand.gallery/",
+   "description": "Visual identity inspiration",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "The FWA",
+   "url": "https://thefwa.com/",
+   "description": "Awards for innovative websites since 2000",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Codrops",
+   "url": "https://tympanus.net/codrops/",
+   "description": "Web experiments and front-end tutorials",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Relume Library",
+   "url": "https://library.relume.io/",
+   "description": "Website sections and wireframes",
+   "access": "Freemium"
   },
   {
    "topic": "images-and-moodboards",
@@ -755,6 +811,54 @@
    "access": "Paid"
   },
   {
+   "topic": "typography",
+   "section": "Tools and Learning",
+   "name": "Type Scale",
+   "url": "https://typescale.com/",
+   "description": "Visual type scale calculator",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Tools and Learning",
+   "name": "Modular Scale",
+   "url": "https://www.modularscale.com/",
+   "description": "Ratios for harmonious type sizes",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Tools and Learning",
+   "name": "Better Web Type (Matej Latin)",
+   "url": "https://betterwebtype.com/",
+   "description": "Web typography course and articles by Matej Latin",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Tools and Learning",
+   "name": "WhatTheFont",
+   "url": "https://www.myfonts.com/pages/whatthefont",
+   "description": "Identify a font from an image",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Tools and Learning",
+   "name": "Rob Roy Kelly American Wood Type Collection",
+   "url": "https://rrk.finearts.utexas.edu/",
+   "description": "Digitised wood type specimens",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Tools and Learning",
+   "name": "Typographic Posters",
+   "url": "https://www.typographicposters.com/archive",
+   "description": "Archive of typographic posters",
+   "access": "Free"
+  },
+  {
    "topic": "motion",
    "section": "Micro-interactions and Motion References",
    "name": "Design Spells",
@@ -968,6 +1072,30 @@
    "name": "WigglyPaint",
    "url": "https://wigglypaint.com",
    "description": "Animated wiggly doodles.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "More Motion",
+   "name": "Moving Parts",
+   "url": "https://movingparts.supply/library/",
+   "description": "Web animation library",
+   "access": "Freemium"
+  },
+  {
+   "topic": "motion",
+   "section": "More Motion",
+   "name": "AEUX",
+   "url": "https://github.com/google/aeux",
+   "description": "Open-source plugin to move Figma layers into After Effects",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "More Motion",
+   "name": "Lusion Labs",
+   "url": "https://labs.lusion.co/",
+   "description": "WebGL experiments by Lusion",
    "access": "Free"
   },
   {
@@ -2067,6 +2195,22 @@
    "access": "View only"
   },
   {
+   "topic": "photo-archives",
+   "section": "Stock Video",
+   "name": "Mixkit",
+   "url": "https://mixkit.co/",
+   "description": "Free stock video, music and templates",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Video",
+   "name": "Artgrid",
+   "url": "https://artgrid.io/",
+   "description": "Cinematic stock footage",
+   "access": "Paid"
+  },
+  {
    "topic": "portugal",
    "section": "Archives and Image Collections",
    "name": "BNDigital",
@@ -2931,6 +3075,46 @@
    "access": "Free"
   },
   {
+   "topic": "icons-and-graphics",
+   "section": "Icons",
+   "name": "Noun Project",
+   "url": "https://thenounproject.com/",
+   "description": "Millions of icons and photos",
+   "access": "Freemium"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons",
+   "name": "Material Symbols",
+   "url": "https://fonts.google.com/icons",
+   "description": "Google's variable icon font",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons",
+   "name": "Flaticon",
+   "url": "https://www.flaticon.com/",
+   "description": "Large icon library",
+   "access": "Freemium"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons",
+   "name": "Iconbuddy",
+   "url": "https://iconbuddy.app/",
+   "description": "100,000+ open-source icons",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons",
+   "name": "Iconoteka",
+   "url": "https://iconoteka.com/",
+   "description": "Icon library in several styles",
+   "access": "Freemium"
+  },
+  {
    "topic": "tools",
    "section": "Inspiration and Mockups",
    "name": "Web Design Museum",
@@ -3129,6 +3313,14 @@
    "url": "https://vidclue.com",
    "description": "Ideas for short-form videos.",
    "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "LS.Graphics Free Mockups",
+   "url": "https://www.ls.graphics/free-mockups",
+   "description": "Free device and print mockups",
+   "access": "Free"
   },
   {
    "topic": "off-topic",
@@ -3712,6 +3904,62 @@
    "name": "DK — Design: The Definitive Visual Guide (2023)",
    "url": "https://openlibrary.org/isbn/0241631785",
    "description": "Visual history of design: graphics, objects, fashion, architecture.",
+   "access": "Paid"
+  },
+  {
+   "topic": "learning",
+   "section": "Books Worth Owning",
+   "name": "Meggs' History of Graphic Design (Philip B. Meggs, Alston W. Purvis)",
+   "url": "https://www.wiley.com/en-us/Meggs%27+History+of+Graphic+Design%2C+7th+Edition-p-9781119893868",
+   "description": "The standard history of graphic design; the skeleton of the history topic",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books Worth Owning",
+   "name": "Ways of Seeing (John Berger)",
+   "url": "https://www.penguin.co.uk/books/31055/ways-of-seeing-by-john-berger/9780141035796",
+   "description": "Essays on how we look at images, from the 1972 BBC series",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books Worth Owning",
+   "name": "The Elements of Typographic Style (Robert Bringhurst)",
+   "url": "https://www.hartleyandmarks.com/",
+   "description": "The typographer's bible on proportion, rhythm and detail",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books Worth Owning",
+   "name": "How to Be a Graphic Designer without Losing Your Soul (Adrian Shaughnessy)",
+   "url": "https://openlibrary.org/search?q=how+to+be+a+graphic+designer+without+losing+your+soul",
+   "description": "Practical and ethical advice for working designers",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books Worth Owning",
+   "name": "Universal Methods of Design (Bruce Hanington, Bella Martin)",
+   "url": "https://www.quarto.com/books/9781631597480/universal-methods-of-design-expanded-and-revised",
+   "description": "125 research and design methods, expanded edition",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books Worth Owning",
+   "name": "Microcopy: The Complete Guide (Kinneret Yifrah)",
+   "url": "https://www.microcopybook.com/",
+   "description": "The handbook of interface microcopy, 2nd edition",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Courses by Masters",
+   "name": "Paula Scher: Graphic Design (BBC Maestro)",
+   "url": "https://www.bbcmaestro.com/courses/paula-scher/graphic-design",
+   "description": "Video course by the Pentagram partner, with course notes",
    "access": "Paid"
   },
   {
@@ -5492,6 +5740,14 @@
   },
   {
    "topic": "museums-and-galleries",
+   "section": "Museums in the United States",
+   "name": "Ray Harlem (Galerie Magazine feature)",
+   "url": "https://galeriemagazine.com/ray-harlem-builds-a-vision-for-cultural-housing-in-new-york/",
+   "description": "Dasha Zhukova's art-centred housing above the National Black Theatre",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
    "section": "Online Collections and Publications",
    "name": "British Museum Collection Online",
    "url": "https://www.britishmuseum.org/collection",
@@ -6171,6 +6427,14 @@
    "access": "Free"
   },
   {
+   "topic": "art-history",
+   "section": "Artists",
+   "name": "Damien Hirst",
+   "url": "https://www.damienhirst.com/",
+   "description": "Official site, being rebuilt as his complete catalogue raisonné",
+   "access": "Free"
+  },
+  {
    "topic": "egypt",
    "section": "Museums and Collections",
    "name": "Museo Egizio (Egyptian Museum, Turin)",
@@ -6201,6 +6465,14 @@
    "url": "https://www.ucl.ac.uk/culture/petrie-museum",
    "description": "UCL collection of everyday objects, textiles and early writing",
    "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Museums and Collections",
+   "name": "Grand Egyptian Museum",
+   "url": "https://visit-gem.com/en/home",
+   "description": "New museum at Giza with the full Tutankhamun collection; official site and tickets",
+   "access": "Paid entry"
   },
   {
    "topic": "egypt",
@@ -6452,6 +6724,14 @@
   },
   {
    "topic": "awards",
+   "section": "Europe",
+   "name": "European Design Awards",
+   "url": "https://europeandesign.org/",
+   "description": "Communication design awards judged by European design magazines",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
    "section": "Asia and Oceania",
    "name": "Good Design Award (Japan)",
    "url": "https://www.g-mark.org/en",
@@ -6488,6 +6768,14 @@
    "name": "Typeset in the Future",
    "url": "https://typesetinthefuture.com/",
    "description": "Dave Addey's deep dives into typography in science-fiction films",
+   "access": "Free"
+  },
+  {
+   "topic": "cinema",
+   "section": "Titles and Typography",
+   "name": "The Movie Title Stills Collection",
+   "url": "https://annyas.com/screenshots/",
+   "description": "Title-card screenshots of classic films",
    "access": "Free"
   },
   {
@@ -6779,6 +7067,54 @@
    "access": "Paid"
   },
   {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Phaidon",
+   "url": "https://www.phaidon.com/",
+   "description": "Art, design, architecture and photography books, including The Story of Art",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Taschen",
+   "url": "https://www.taschen.com/",
+   "description": "Illustrated books from affordable basics to collector's editions",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Thames & Hudson",
+   "url": "https://thamesandhudson.com/",
+   "description": "London art publisher with the World of Art series",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Lars Müller Publishers",
+   "url": "https://www.lars-mueller-publishers.com/",
+   "description": "Swiss publisher of design, typography and architecture",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Hyphen Press",
+   "url": "https://hyphenpress.co.uk/",
+   "description": "London publisher of typography and design history",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "The MIT Press",
+   "url": "https://mitpress.mit.edu/",
+   "description": "Design, media and architecture titles, many open access",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
    "topic": "online-learning",
    "section": "Courses",
    "name": "Graphic Design Specialization (CalArts on Coursera)",
@@ -6940,6 +7276,14 @@
   },
   {
    "topic": "regions",
+   "section": "Africa",
+   "name": "Iziko Museums of South Africa",
+   "url": "https://www.iziko.org.za/",
+   "description": "Cape Town national museums of art and social history",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "regions",
    "section": "Oceania",
    "name": "National Gallery of Australia",
    "url": "https://nga.gov.au/",
@@ -6960,6 +7304,14 @@
    "name": "Te Papa Collections Online",
    "url": "https://collections.tepapa.govt.nz/",
    "description": "New Zealand's national collection, including Māori taonga",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Oceania",
+   "name": "Design & Art Australia Online",
+   "url": "https://daao.org.au/",
+   "description": "Biographies of Australian artists and designers",
    "access": "Free"
   },
   {
@@ -7080,6 +7432,1054 @@
    "name": "ILHAM Gallery",
    "url": "https://www.ilhamgallery.com/",
    "description": "Malaysian modern and contemporary art in Kuala Lumpur",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Carbon Design System (IBM)",
+   "url": "https://carbondesignsystem.com/",
+   "description": "IBM's open-source system with components, data viz and motion",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "IBM Design Language",
+   "url": "https://www.ibm.com/design/language/",
+   "description": "IBM's brand and product design language, including animation",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Fluent 2 (Microsoft)",
+   "url": "https://fluent2.microsoft.design/",
+   "description": "Microsoft's design system for web, Windows, iOS and Android",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Polaris (Shopify)",
+   "url": "https://polaris-react.shopify.com/",
+   "description": "Shopify admin design system: components, content and patterns",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Lightning Design System (Salesforce)",
+   "url": "https://www.lightningdesignsystem.com/",
+   "description": "Salesforce enterprise design system",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Atlassian Design System",
+   "url": "https://atlassian.design/",
+   "description": "Jira and Confluence foundations, components and content",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Spectrum (Adobe)",
+   "url": "https://spectrum.adobe.com/",
+   "description": "Adobe's design system across Creative Cloud",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Primer (GitHub)",
+   "url": "https://primer.style/",
+   "description": "GitHub's design system with Figma and React",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Gestalt (Pinterest)",
+   "url": "https://gestalt.pinterest.systems/",
+   "description": "Pinterest's design system",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "eBay Playbook",
+   "url": "https://playbook.ebay.com/",
+   "description": "eBay's design system and guidelines",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Base Web (Uber)",
+   "url": "https://baseweb.design/",
+   "description": "Uber's React component system",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Cloudscape (AWS)",
+   "url": "https://cloudscape.design/",
+   "description": "AWS console design system, open source",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Ant Design",
+   "url": "https://ant.design/",
+   "description": "Enterprise React design system from Ant Group",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "GOV.UK Design System",
+   "url": "https://design-system.service.gov.uk/",
+   "description": "Accessible public-service patterns from the UK government",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Decathlon Design System",
+   "url": "https://www.decathlon.design/",
+   "description": "Decathlon's Vitamin design system",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Motion in Design Systems",
+   "name": "Material 3: Motion",
+   "url": "https://m3.material.io/styles/motion/overview",
+   "description": "Easing, duration and transition patterns from Google",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Motion in Design Systems",
+   "name": "Apple HIG: Motion",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/motion",
+   "description": "Apple's guidance on purposeful animation",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Motion in Design Systems",
+   "name": "Carbon: Motion",
+   "url": "https://carbondesignsystem.com/elements/motion/overview/",
+   "description": "IBM's productive and expressive motion, with easing tokens",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Motion in Design Systems",
+   "name": "IBM Design Language: Animation",
+   "url": "https://www.ibm.com/design/language/animation/overview/",
+   "description": "IBM's brand-level animation principles",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Motion in Design Systems",
+   "name": "Fluent 2: Motion",
+   "url": "https://fluent2.microsoft.design/motion",
+   "description": "Microsoft's motion principles and curves",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Motion in Design Systems",
+   "name": "Spectrum: Motion",
+   "url": "https://spectrum.adobe.com/page/motion/",
+   "description": "Adobe's motion tokens and principles",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Motion in Design Systems",
+   "name": "Atlassian: Motion",
+   "url": "https://atlassian.design/foundations/motion",
+   "description": "Atlassian's motion foundations",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "zeroheight",
+   "url": "https://zeroheight.com/",
+   "description": "Documentation platform for design systems; also runs the Design System Awards",
+   "access": "Freemium"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "Design Systems Repo",
+   "url": "https://designsystemsrepo.com/design-systems/",
+   "description": "Directory of public design systems",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "DesignSystems.com (Figma)",
+   "url": "https://www.designsystems.com/",
+   "description": "Figma's articles on building design systems",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "Redesigning Design Systems",
+   "url": "https://redesigningdesign.systems/",
+   "description": "Process guide to building components",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "Figma best practices: Branching",
+   "url": "https://www.figma.com/best-practices/branching-in-figma/when-to-consider/",
+   "description": "When and how to branch a design system library",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "How Spotify's Design System Goes Beyond Platforms (Figma blog)",
+   "url": "https://www.figma.com/blog/creating-coherence-how-spotifys-design-system-goes-beyond-platforms/",
+   "description": "Spotify's Encore system explained",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "Design at Uber",
+   "url": "https://www.uber.design/",
+   "description": "Uber's design team site with case studies, including the 2018 rebrand",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "MUI",
+   "url": "https://mui.com/",
+   "description": "React components based on Material Design",
+   "access": "Freemium"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "Untitled UI",
+   "url": "https://www.untitledui.com/",
+   "description": "Large Figma UI kit and design system",
+   "access": "Freemium"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Apple Design Resources on Figma",
+   "url": "https://www.figma.com/@apple",
+   "description": "Official iOS, iPadOS, macOS, watchOS and visionOS kits and app icon templates",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "iOS and iPadOS 27 (Apple)",
+   "url": "https://www.figma.com/community/file/1651309003795292092/ios-and-ipados-27",
+   "description": "Apple's latest official iOS UI kit",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Material 3 Design Kit (Google)",
+   "url": "https://www.figma.com/community/file/1035203688168086460/material-3-design-kit",
+   "description": "Official Material Design kit",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "ServiceNow on Figma: Workspace kits",
+   "url": "https://www.figma.com/@servicenow",
+   "description": "Workspace components, AI components, conversational patterns, data viz and dashboards",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Workspace → AI Components (ServiceNow)",
+   "url": "https://www.figma.com/community/file/1630646961731119676/workspace-ai-components",
+   "description": "Original of the AI components kit",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Cloudscape Component Library (AWS)",
+   "url": "https://www.figma.com/community/file/1585292872561164967/cds-component-library-2-0-3",
+   "description": "Official AWS Cloudscape Figma library",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Summer School: Designer to Builder series",
+   "url": "https://fig-events.figma.com/designer-builder-series/",
+   "description": "Figma's 2026 series on going from design to shipped code",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Summer School starter file",
+   "url": "https://www.figma.com/community/file/1655994171720567013",
+   "description": "The Figma file used throughout the series",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "GitHub Hello World",
+   "url": "https://docs.github.com/en/get-started/start-your-journey/hello-world",
+   "description": "Repository and branch basics, 10 minutes",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Figma MCP server: remote installation",
+   "url": "https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/",
+   "description": "Connect AI coding agents to Figma",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Syncing design systems using the Variables REST API",
+   "url": "https://www.figma.com/community/file/1270821372236564565/syncing-design-systems-using-variables-rest-api",
+   "description": "FigJam walkthrough from variables to code tokens",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "Figma MCP Catalog",
+   "url": "https://www.figma.com/mcp-catalog/",
+   "description": "Tools that work with Figma's MCP server",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "Figma Skills: Code to Design Workflows",
+   "url": "https://www.figma.com/community/skills",
+   "description": "Agent skills shared in Figma Community",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "Figma on Figma Community (@figma)",
+   "url": "https://www.figma.com/@figma",
+   "description": "Figma's own files, shaders, generative plugins and skills",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "3D transforms playground (Figma)",
+   "url": "https://www.figma.com/community/file/1697663412897353944/3d-transforms-playground",
+   "description": "Original file for exploring 3D transforms",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "Figma motion updates (Figma)",
+   "url": "https://www.figma.com/community/file/1682540379260940278/figma-motion-updates",
+   "description": "What's new in Figma motion",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "Figma agent starter prompts (Figma)",
+   "url": "https://www.figma.com/community/file/1688567778927453616/figma-agent-starter-prompts",
+   "description": "Prompts for working with the Figma agent",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "Generative plugins and shaders playground (Figma)",
+   "url": "https://www.figma.com/community/file/1676067142735700190/generative-plugins-and-shaders-playground",
+   "description": "Examples of Figma shaders and generative plugins",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "Figma events and webinars",
+   "url": "https://www.figma.com/events-and-webinars/",
+   "description": "Office hours, Summer School and live sessions",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Agents and Code",
+   "name": "getdesign.md",
+   "url": "https://getdesign.md/",
+   "description": "Collection of DESIGN.md files for AI coding agents",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Agents and Code",
+   "name": "Lazyweb MCP",
+   "url": "https://www.lazyweb.com/mcp-install",
+   "description": "MCP server with UI references for coding agents",
+   "access": "Freemium"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Agents and Code",
+   "name": "Unicorn Studio",
+   "url": "https://www.unicorn.studio/",
+   "description": "No-code WebGL effects exportable to the web",
+   "access": "Freemium"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Agents and Code",
+   "name": "Memorisely AI Coding Bootcamp",
+   "url": "https://www.memorisely.com/online-ai-design-bootcamps/ai-coding-bootcamp",
+   "description": "Course on AI coding for designers",
+   "access": "Paid"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "Maze",
+   "url": "https://maze.co/",
+   "description": "Unmoderated tests, surveys and prototype testing",
+   "access": "Freemium"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "Optimal Workshop: Treejack",
+   "url": "https://www.optimalworkshop.com/treejack/",
+   "description": "Tree testing for navigation",
+   "access": "Paid"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "UserTesting",
+   "url": "https://www.usertesting.com/",
+   "description": "Video-based user tests with a recruited panel",
+   "access": "Paid"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "Useberry",
+   "url": "https://www.useberry.com/",
+   "description": "Prototype testing with heatmaps",
+   "access": "Freemium"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "Loop11",
+   "url": "https://www.loop11.com/",
+   "description": "Usability testing on live sites and prototypes",
+   "access": "Paid"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "Lyssna (formerly UsabilityHub)",
+   "url": "https://www.lyssna.com/",
+   "description": "First-click, preference and five-second tests",
+   "access": "Freemium"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "User Interviews",
+   "url": "https://www.userinterviews.com/",
+   "description": "Recruiting participants for research",
+   "access": "Paid"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "Dovetail",
+   "url": "https://dovetail.com/",
+   "description": "Repository and analysis of research data",
+   "access": "Freemium"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "TheyDo",
+   "url": "https://www.theydo.com/",
+   "description": "Journey management platform",
+   "access": "Freemium"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "Indeemo",
+   "url": "https://indeemo.com/",
+   "description": "Mobile diary studies and generative research",
+   "access": "Paid"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Secondary Research",
+   "name": "Baymard Institute: Research",
+   "url": "https://baymard.com/research",
+   "description": "Large-scale e-commerce UX research and guidelines",
+   "access": "Paid"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Secondary Research",
+   "name": "Coglode",
+   "url": "https://www.coglode.com/",
+   "description": "Behavioural science insights as cards",
+   "access": "Freemium"
+  },
+  {
+   "topic": "metrics-and-growth",
+   "section": "Books and Guides",
+   "name": "Product-Led Growth (Wes Bush)",
+   "url": "https://productled.com/book",
+   "description": "The PLG guide, free to read online, 2nd edition",
+   "access": "Free"
+  },
+  {
+   "topic": "metrics-and-growth",
+   "section": "Books and Guides",
+   "name": "Startup Metrics for Pirates (Dave McClure)",
+   "url": "https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version",
+   "description": "The AARRR funnel deck that started pirate metrics",
+   "access": "Free"
+  },
+  {
+   "topic": "metrics-and-growth",
+   "section": "Books and Guides",
+   "name": "UX Design KPI Examples (Eleken)",
+   "url": "https://www.eleken.co/blog-posts/ux-design-kpi-examples-learn-how-to-measure-user-experience",
+   "description": "How to choose and measure UX KPIs",
+   "access": "Free"
+  },
+  {
+   "topic": "metrics-and-growth",
+   "section": "Books and Guides",
+   "name": "How Tinder Designs Product (ADPList)",
+   "url": "https://adplist.substack.com/p/how-tinder-designs-product-and-why",
+   "description": "Growth design at Tinder",
+   "access": "Free"
+  },
+  {
+   "topic": "metrics-and-growth",
+   "section": "Tools",
+   "name": "Tableau",
+   "url": "https://www.tableau.com/",
+   "description": "Business intelligence and dashboards",
+   "access": "Paid"
+  },
+  {
+   "topic": "benchmarks",
+   "section": "Market Data",
+   "name": "Similarweb",
+   "url": "https://www.similarweb.com/",
+   "description": "Traffic and engagement data for competitor sites",
+   "access": "Freemium"
+  },
+  {
+   "topic": "benchmarks",
+   "section": "Market Data",
+   "name": "Crunchbase",
+   "url": "https://www.crunchbase.com/",
+   "description": "Companies, funding rounds and investors",
+   "access": "Freemium"
+  },
+  {
+   "topic": "benchmarks",
+   "section": "Market Data",
+   "name": "Sensor Tower (formerly data.ai)",
+   "url": "https://sensortower.com/",
+   "description": "App market intelligence: downloads, revenue, ratings",
+   "access": "Paid"
+  },
+  {
+   "topic": "benchmarks",
+   "section": "Industry Players",
+   "name": "Shopify POS",
+   "url": "https://www.shopify.com/pos",
+   "description": "Reference point-of-sale product",
+   "access": "Free"
+  },
+  {
+   "topic": "benchmarks",
+   "section": "Industry Players",
+   "name": "Zettle by PayPal",
+   "url": "https://www.zettle.com/gb/pos-systems/retail",
+   "description": "Retail POS competitor",
+   "access": "Free"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Research and Patterns",
+   "name": "Baymard: E-Commerce UX Benchmark",
+   "url": "https://baymard.com/ux-benchmark",
+   "description": "Benchmarks of the top e-commerce sites with screenshots",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Research and Patterns",
+   "name": "Shopify UX: Empty States",
+   "url": "https://medium.com/shopify-ux/empty-states-more-like-you-have-no-idea-how-much-work-goes-into-those-states-ami-26f4b8b6f2d3",
+   "description": "How Shopify designs empty states",
+   "access": "Free"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Research and Patterns",
+   "name": "Shopify Editions",
+   "url": "https://www.shopify.com/editions",
+   "description": "Twice-yearly showcase of Shopify product updates",
+   "access": "Free"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Research and Patterns",
+   "name": "Sears Catalog History",
+   "url": "http://www.searsarchives.com/catalogs/history.htm",
+   "description": "The mail-order catalogue that invented catalogue commerce",
+   "access": "Free"
+  },
+  {
+   "topic": "writing",
+   "section": "UX Writing",
+   "name": "Mailchimp Content Style Guide",
+   "url": "https://styleguide.mailchimp.com/",
+   "description": "The classic product content style guide",
+   "access": "Free"
+  },
+  {
+   "topic": "writing",
+   "section": "UX Writing",
+   "name": "Google Developer Documentation Style Guide",
+   "url": "https://developers.google.com/style",
+   "description": "Clear technical writing rules",
+   "access": "Free"
+  },
+  {
+   "topic": "writing",
+   "section": "UX Writing",
+   "name": "Readymag: How to Create an Awesome Long Read",
+   "url": "https://blog.readymag.com/how-to-create-an-awesome-long-read-3b0a040f5416",
+   "description": "Layout and pacing of long-form web stories",
+   "access": "Free"
+  },
+  {
+   "topic": "data-visualization",
+   "section": "Inspiration and History",
+   "name": "Dataviz Inspiration",
+   "url": "https://www.dataviz-inspiration.com/",
+   "description": "Hundreds of chart examples by type",
+   "access": "Free"
+  },
+  {
+   "topic": "data-visualization",
+   "section": "Inspiration and History",
+   "name": "Edward Tufte",
+   "url": "https://www.edwardtufte.com/",
+   "description": "The work and books of Edward Tufte, Graphics Press",
+   "access": "Paid"
+  },
+  {
+   "topic": "data-visualization",
+   "section": "Inspiration and History",
+   "name": "Analyzing Minard's Visualization of Napoleon's 1812 March",
+   "url": "https://thoughtbot.com/blog/analyzing-minards-visualization-of-napoleons-1812-march",
+   "description": "Close reading of the most famous chart",
+   "access": "Free"
+  },
+  {
+   "topic": "data-visualization",
+   "section": "Guides",
+   "name": "Datawrapper Academy",
+   "url": "https://academy.datawrapper.de/",
+   "description": "Practical guides to chart choice and colour",
+   "access": "Free"
+  },
+  {
+   "topic": "data-visualization",
+   "section": "Guides",
+   "name": "Carbon: Data Visualization",
+   "url": "https://carbondesignsystem.com/data-visualization/getting-started/",
+   "description": "IBM's chart guidelines and palettes",
+   "access": "Free"
+  },
+  {
+   "topic": "data-visualization",
+   "section": "Guides",
+   "name": "ServiceNow Workspace → Data Visualizations",
+   "url": "https://www.figma.com/community/file/1630642438912651772/workspace-data-visualizations",
+   "description": "Official chart components in Figma",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "tables-and-dashboards",
+   "section": "Data Tables",
+   "name": "The Ultimate Guide to Designing Data Tables",
+   "url": "https://medium.com/design-with-figma/the-ultimate-guide-to-designing-data-tables-7db29713a85a",
+   "description": "Anatomy, density and interactions of data tables",
+   "access": "Free"
+  },
+  {
+   "topic": "tables-and-dashboards",
+   "section": "Data Tables",
+   "name": "When You Cannot Run Away from Tables on Mobile",
+   "url": "https://medium.com/user-experience-design-1/when-you-cannot-runaway-of-using-tables-on-mobile-630923bcea72",
+   "description": "Patterns for tables on small screens",
+   "access": "Free"
+  },
+  {
+   "topic": "tables-and-dashboards",
+   "section": "Data Tables",
+   "name": "Carbon: Data Table",
+   "url": "https://carbondesignsystem.com/components/data-table/usage/",
+   "description": "IBM's data table usage and specs",
+   "access": "Free"
+  },
+  {
+   "topic": "tables-and-dashboards",
+   "section": "Dashboards",
+   "name": "ServiceNow Workspace → Dashboard Templates",
+   "url": "https://www.figma.com/community/file/1630640919585143272/workspace-dashboard-templates",
+   "description": "Official enterprise dashboard templates in Figma",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "forms",
+   "section": "Form Design",
+   "name": "Form Design Best Practices (Andrew Coyle)",
+   "url": "https://coyleandrew.medium.com/form-design-best-practices-9525c321d759",
+   "description": "The classic list of form design rules",
+   "access": "Free"
+  },
+  {
+   "topic": "forms",
+   "section": "Form Design",
+   "name": "GOV.UK: Question pages",
+   "url": "https://design-system.service.gov.uk/patterns/question-pages/",
+   "description": "One thing per page and other proven form patterns",
+   "access": "Free"
+  },
+  {
+   "topic": "forms",
+   "section": "Form Design",
+   "name": "Typeform",
+   "url": "https://www.typeform.com/",
+   "description": "Conversational forms and surveys",
+   "access": "Freemium"
+  },
+  {
+   "topic": "email-design",
+   "section": "Inspiration",
+   "name": "Really Good Emails",
+   "url": "https://reallygoodemails.com/",
+   "description": "Thousands of email designs by type and brand",
+   "access": "Free"
+  },
+  {
+   "topic": "email-design",
+   "section": "Tools",
+   "name": "beehiiv",
+   "url": "https://www.beehiiv.com/",
+   "description": "Newsletter platform for writing and growing lists",
+   "access": "Freemium"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Guidelines",
+   "name": "Understanding WCAG 2.2 (GOV.UK Service Manual)",
+   "url": "https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag",
+   "description": "Plain-language guide to WCAG 2.2",
+   "access": "Free"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Guidelines",
+   "name": "ARIA Authoring Practices: Patterns (W3C)",
+   "url": "https://www.w3.org/WAI/ARIA/apg/patterns/",
+   "description": "Accessible patterns for common components",
+   "access": "Free"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Guidelines",
+   "name": "Accessibility Not-Checklist (Intopia)",
+   "url": "https://not-checklist.intopia.digital/",
+   "description": "WCAG by role and task, not as a checklist",
+   "access": "Free"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Guidelines",
+   "name": "APCA contrast (Myndex)",
+   "url": "https://apcacontrast.com/",
+   "description": "Contrast calculator for the APCA method",
+   "access": "Free"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Figma Plugins",
+   "name": "Stark",
+   "url": "https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-tools",
+   "description": "Contrast and accessibility checks in Figma",
+   "access": "Freemium"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Figma Plugins",
+   "name": "Contrast",
+   "url": "https://www.figma.com/community/plugin/748533339900865323",
+   "description": "Quick WCAG contrast checks",
+   "access": "Free"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Figma Plugins",
+   "name": "Contrast Grid",
+   "url": "https://www.figma.com/community/plugin/993414361395505148/contrast-grid",
+   "description": "Contrast matrix for a whole palette",
+   "access": "Free"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Figma Plugins",
+   "name": "Adee Comprehensive Accessibility Tool",
+   "url": "https://www.figma.com/community/plugin/931280467863251825",
+   "description": "Contrast, text size and colour-blindness simulation",
+   "access": "Free"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Data",
+   "name": "StatCounter: Mobile Screen Resolutions",
+   "url": "https://gs.statcounter.com/screen-resolution-stats/mobile-tablet/worldwide",
+   "description": "Which screen sizes people really use",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Handoff",
+   "name": "Figma Dev Mode",
+   "url": "https://www.figma.com/dev-mode/",
+   "description": "Inspect, annotate and hand off designs",
+   "access": "Paid"
+  },
+  {
+   "topic": "handoff",
+   "section": "Handoff",
+   "name": "Figma Code Connect",
+   "url": "https://www.figma.com/developers/code-connect",
+   "description": "Link Figma components to code in Dev Mode",
+   "access": "Free"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Guides",
+   "name": "iOS vs. Android App UI Design (Learn UI Design)",
+   "url": "https://learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html",
+   "description": "Platform differences explained side by side",
+   "access": "Free"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Guides",
+   "name": "iOS Font Size Guidelines (Learn UI Design)",
+   "url": "https://learnui.design/blog/ios-font-size-guidelines.html",
+   "description": "Type sizes for iOS apps",
+   "access": "Free"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Guides",
+   "name": "The iOS Design Guidelines (Ivo Mynttinen)",
+   "url": "https://ivomynttinen.com/blog/ios-design-guidelines",
+   "description": "Illustrated summary of iOS guidelines",
+   "access": "Free"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Galleries",
+   "name": "Screenlane",
+   "url": "https://screenlane.com/",
+   "description": "Web and mobile UI patterns",
+   "access": "Freemium"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Galleries",
+   "name": "SCRNSHTS",
+   "url": "https://scrnshts.club/",
+   "description": "App Store screenshot designs",
+   "access": "Free"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Galleries",
+   "name": "UI Sources",
+   "url": "https://www.uisources.com/interactions",
+   "description": "Interactions recorded from real apps",
+   "access": "Freemium"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Galleries",
+   "name": "Webframe",
+   "url": "https://webframe.xyz/",
+   "description": "Web app screenshots by flow",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Runway",
+   "url": "https://runwayml.com/",
+   "description": "AI video generation and editing",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Midjourney",
+   "url": "https://www.midjourney.com/",
+   "description": "Image and video generation",
+   "access": "Paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Synthesia",
+   "url": "https://www.synthesia.io/",
+   "description": "AI avatar video",
+   "access": "Paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Vizcom",
+   "url": "https://www.vizcom.ai/",
+   "description": "Sketch to render for industrial design",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Teachable Machine (Google)",
+   "url": "https://teachablemachine.withgoogle.com/",
+   "description": "Train simple ML models in the browser",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Magenta (Google)",
+   "url": "https://magenta.tensorflow.org/",
+   "description": "Machine learning for music and art",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Three.js",
+   "url": "https://threejs.org/",
+   "description": "JavaScript 3D library for the web",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Shader Gradient",
+   "url": "https://shadergradient.co/",
+   "description": "Animated 3D gradients for web and Figma",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Artists and Experiments",
+   "name": "Refik Anadol",
+   "url": "https://refikanadol.com/",
+   "description": "Data-driven AI art installations",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Artists and Experiments",
+   "name": "Sougwen Chung (愫君)",
+   "url": "https://sougwen.com/",
+   "description": "Artist drawing in collaboration with robots",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Artists and Experiments",
+   "name": "Experiments with Google",
+   "url": "https://experiments.withgoogle.com/",
+   "description": "Creative coding and AI experiments",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Learning",
+   "name": "Claude Certified Architect – Foundations (Anthropic Academy)",
+   "url": "https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification",
+   "description": "Anthropic certification course",
+   "access": "Free"
+  },
+  {
+   "topic": "english-for-designers",
+   "section": "English",
+   "name": "BoldVoice",
+   "url": "https://start.boldvoice.com/",
+   "description": "Pronunciation coaching for non-native speakers",
+   "access": "Paid"
+  },
+  {
+   "topic": "english-for-designers",
+   "section": "English",
+   "name": "Grammarly Blog: Syntax",
+   "url": "https://www.grammarly.com/blog/grammar/syntax/",
+   "description": "Sentence structure explained",
+   "access": "Free"
+  },
+  {
+   "topic": "english-for-designers",
+   "section": "Communication",
+   "name": "How to Make Your Communication Memorable (Matt Abrahams, Stanford GSB)",
+   "url": "https://www.youtube.com/watch?v=Fsr4yrSAIAQ",
+   "description": "Talk on clear, memorable speaking",
    "access": "Free"
   }
  ]

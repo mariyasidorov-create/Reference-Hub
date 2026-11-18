@@ -1,7 +1,7 @@
 ---
 title: Ancient Egypt
 tags: [egypt, writing, archaeology]
-entries: 11
+entries: 12
 ---
 
 # Ancient Egypt
@@ -24,6 +24,7 @@ Related: [Art History and Artists](art-history.md) · [Museums, Galleries and Ar
 - [Museo Egizio Collections Online](https://collezioni.museoegizio.it/en-GB) - Search objects and papyri of the Turin collection. *Free.*
 - [Rivista del Museo Egizio (Museo Egizio Journal)](https://rivista.museoegizio.it/) - Open-access research journal of the Turin museum, mostly in English. *Free.*
 - [Petrie Museum of Egyptian and Sudanese Archaeology](https://www.ucl.ac.uk/culture/petrie-museum) - UCL collection of everyday objects, textiles and early writing. *Free.*
+- [Grand Egyptian Museum](https://visit-gem.com/en/home) - New museum at Giza with the full Tutankhamun collection; official site and tickets. *Paid entry.*
 
 ## Research and Primary Sources
 

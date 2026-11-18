@@ -1,7 +1,7 @@
 ---
 title: Motion and Micro-interactions
 tags: [motion, micro-interactions]
-entries: 27
+entries: 30
 ---
 
 # Motion and Micro-interactions
@@ -16,6 +16,7 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 
 - [Micro-interactions and Motion References](#micro-interactions-and-motion-references)
 - [Motion Tools](#motion-tools)
+- [More Motion](#more-motion)
 
 ## Micro-interactions and Motion References
 
@@ -49,3 +50,9 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [3D GIF Maker](https://3dgifmaker.com) - 3D GIF from a flat image. *Free.*
 - [Dasca](https://app.dasca.studio) - Real-time image effects. *Free.*
 - [WigglyPaint](https://wigglypaint.com) - Animated wiggly doodles. *Free.*
+
+## More Motion
+
+- [Moving Parts](https://movingparts.supply/library/) - Web animation library. *Freemium.*
+- [AEUX](https://github.com/google/aeux) - Open-source plugin to move Figma layers into After Effects. *Free.*
+- [Lusion Labs](https://labs.lusion.co/) - WebGL experiments by Lusion. *Free.*

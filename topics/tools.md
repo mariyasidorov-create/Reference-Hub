@@ -1,7 +1,7 @@
 ---
 title: Tools
 tags: [tools, mockups, branding]
-entries: 25
+entries: 26
 ---
 
 # Tools
@@ -16,6 +16,7 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 
 - [Inspiration and Mockups](#inspiration-and-mockups)
 - [Branding, Photo, AI and Video](#branding-photo-ai-and-video)
+- [More Tools](#more-tools)
 
 ## Inspiration and Mockups
 
@@ -47,3 +48,7 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 - [OpenCut](https://opencut.app) - Open-source video editor. *Free.*
 - [Vidsplay](https://www.vidsplay.com) - Free stock video. *Free.*
 - [Vidclue](https://vidclue.com) - Ideas for short-form videos. *Freemium.*
+
+## More Tools
+
+- [LS.Graphics Free Mockups](https://www.ls.graphics/free-mockups) - Free device and print mockups. *Free.*

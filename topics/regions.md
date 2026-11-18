@@ -1,7 +1,7 @@
 ---
 title: Regions of the World
 tags: [regions, museums, world]
-entries: 30
+entries: 32
 ---
 
 # Regions of the World
@@ -37,12 +37,14 @@ Related: [Museums, Galleries and Art Media](museums-and-galleries.md) · [Art Hi
 - [Zeitz MOCAA](https://zeitzmocaa.museum/) - Contemporary art from Africa in a converted grain silo, Cape Town. *Paid.*
 - [National Museum of African Art (Smithsonian)](https://africa.si.edu/) - Traditional and modern African art with online collection. *Free.*
 - [Contemporary And (C&)](https://contemporaryand.com/) - Magazine on contemporary art from Africa and the diaspora. *Free.*
+- [Iziko Museums of South Africa](https://www.iziko.org.za/) - Cape Town national museums of art and social history. *Paid entry.*
 
 ## Oceania
 
 - [National Gallery of Australia](https://nga.gov.au/) - Australian and Indigenous art in Canberra. *Free.*
 - [Powerhouse Collection](https://collection.powerhouse.com.au/) - Sydney museum of applied arts and design, fully online. *Free.*
 - [Te Papa Collections Online](https://collections.tepapa.govt.nz/) - New Zealand's national collection, including Māori taonga. *Free.*
+- [Design & Art Australia Online](https://daao.org.au/) - Biographies of Australian artists and designers. *Free.*
 
 ## East Asia
 

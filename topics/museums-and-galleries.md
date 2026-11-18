@@ -1,7 +1,7 @@
 ---
 title: Museums, Galleries and Art Media
 tags: [museums, collections, art, galleries]
-entries: 78
+entries: 79
 ---
 
 # Museums, Galleries and Art Media
@@ -61,6 +61,7 @@ Related: [Photo and Image Archives](photo-archives.md) · [Graphic Design Histor
 - [Neue Galerie New York](https://www.neuegalerie.org/) - Early 20th-century German and Austrian art and design: Klimt, Wiener Werkstätte. *Paid entry.*
 - [Brooklyn Museum](https://www.brooklynmuseum.org/) - Egyptian, African, American and feminist art. *Paid entry.*
 - [Getty](https://www.getty.edu/) - Getty Center and Villa, Los Angeles, plus research institute. *Free.*
+- [Ray Harlem (Galerie Magazine feature)](https://galeriemagazine.com/ray-harlem-builds-a-vision-for-cultural-housing-in-new-york/) - Dasha Zhukova's art-centred housing above the National Black Theatre. *Free.*
 
 ## Online Collections and Publications
 

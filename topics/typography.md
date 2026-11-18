@@ -1,7 +1,7 @@
 ---
 title: Typography and Type Foundries
 tags: [typography, fonts, cyrillic]
-entries: 30
+entries: 36
 ---
 
 # Typography and Type Foundries
@@ -18,6 +18,7 @@ Related: [Graphic Design History](graphic-design-history.md) · [Right-to-Left S
 - [Free Typefaces](#free-typefaces)
 - [Cyrillic Foundries](#cyrillic-foundries)
 - [Latin Foundries](#latin-foundries)
+- [Tools and Learning](#tools-and-learning)
 
 ## Type in Use
 
@@ -60,3 +61,12 @@ Related: [Graphic Design History](graphic-design-history.md) · [Right-to-Left S
 - [Displaay](https://displaay.net/) - Czech type foundry. *Paid.*
 - [Production Type](https://productiontype.com/) - French type foundry. *Paid.*
 - [Schick Toikka](https://www.schick-toikka.com/) - Type foundry from Berlin. *Paid.*
+
+## Tools and Learning
+
+- [Type Scale](https://typescale.com/) - Visual type scale calculator. *Free.*
+- [Modular Scale](https://www.modularscale.com/) - Ratios for harmonious type sizes. *Free.*
+- [Better Web Type (Matej Latin)](https://betterwebtype.com/) - Web typography course and articles by Matej Latin. *Free.*
+- [WhatTheFont](https://www.myfonts.com/pages/whatthefont) - Identify a font from an image. *Free.*
+- [Rob Roy Kelly American Wood Type Collection](https://rrk.finearts.utexas.edu/) - Digitised wood type specimens. *Free.*
+- [Typographic Posters](https://www.typographicposters.com/archive) - Archive of typographic posters. *Free.*

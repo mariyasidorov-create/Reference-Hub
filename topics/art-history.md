@@ -1,7 +1,7 @@
 ---
 title: Art History and Artists
 tags: [art, history, artists]
-entries: 11
+entries: 12
 ---
 
 # Art History and Artists
@@ -37,3 +37,4 @@ Related: [Museums, Galleries and Art Media](museums-and-galleries.md) · [Graphi
 - [Tate: Damien Hirst](https://www.tate.org.uk/art/artists/damien-hirst-2308) - Hirst works in the Tate collection with texts. *Free.*
 - [Gagosian: Damien Hirst](https://gagosian.com/artists/damien-hirst/) - Exhibitions, catalogues and press for Hirst at Gagosian. *Free.*
 - [White Cube](https://www.whitecube.com/) - London gallery behind the YBA generation, with artist pages and catalogues. *Free.*
+- [Damien Hirst](https://www.damienhirst.com/) - Official site, being rebuilt as his complete catalogue raisonné. *Free.*

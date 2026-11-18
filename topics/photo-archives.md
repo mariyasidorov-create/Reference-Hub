@@ -1,7 +1,7 @@
 ---
 title: Photo and Image Archives
 tags: [photography, archives, public-domain, museums]
-entries: 64
+entries: 66
 ---
 
 # Photo and Image Archives
@@ -19,6 +19,7 @@ Related: [Graphic Design History](graphic-design-history.md) · [Portugal](portu
 - [Open Access Museums](#open-access-museums)
 - [Libraries and National Archives](#libraries-and-national-archives)
 - [Specialist Archives](#specialist-archives)
+- [Stock Video](#stock-video)
 
 ## Stock Photos
 
@@ -98,3 +99,8 @@ Related: [Graphic Design History](graphic-design-history.md) · [Portugal](portu
 - [OldNYC](https://www.oldnyc.org) - Historical photos of New York on a map. *From NYPL.*
 - [Historypin](https://www.historypin.org) - Historical photos pinned to places. *Mixed licences.*
 - [Vintage Everyday](https://www.vintag.es) - Vintage photo collections by theme. *View only.*
+
+## Stock Video
+
+- [Mixkit](https://mixkit.co/) - Free stock video, music and templates. *Free.*
+- [Artgrid](https://artgrid.io/) - Cinematic stock footage. *Paid.*

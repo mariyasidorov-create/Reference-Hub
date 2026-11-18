@@ -1,7 +1,7 @@
 ---
 title: UI Patterns and Real Products
 tags: [ui, patterns, mobile, web]
-entries: 11
+entries: 12
 ---
 
 # UI Patterns and Real Products
@@ -15,6 +15,7 @@ Related: [Web Galleries](web-galleries.md) · [UX Research and Guidelines](ux-re
 ## Contents
 
 - [Pattern Libraries and Real Products](#pattern-libraries-and-real-products)
+- [More Patterns](#more-patterns)
 
 ## Pattern Libraries and Real Products
 
@@ -29,3 +30,7 @@ Related: [Web Galleries](web-galleries.md) · [UX Research and Guidelines](ux-re
 - [Paywall Screens](https://www.paywallscreens.com/) - Gallery of mobile app paywalls. *Free.*
 - [SaaS Interface](https://saasinterface.com) - SaaS product screens organised by pattern. *Free.*
 - [Appshot Gallery](https://appshot.gallery) - App Store screenshots for inspiration. *Free.*
+
+## More Patterns
+
+- [Welie.com Interaction Design Pattern Library](http://www.welie.com/patterns/) - Classic pattern library. *Free.*

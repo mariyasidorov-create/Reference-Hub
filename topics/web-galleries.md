@@ -1,7 +1,7 @@
 ---
 title: Web Galleries
 tags: [web, inspiration, layout]
-entries: 36
+entries: 42
 ---
 
 # Web Galleries
@@ -15,6 +15,7 @@ Related: [UI Patterns and Real Products](ui-patterns.md) · [Early Web History](
 ## Contents
 
 - [Web Galleries](#web-galleries)
+- [More Galleries](#more-galleries)
 
 ## Web Galleries
 
@@ -54,3 +55,12 @@ Related: [UI Patterns and Real Products](ui-patterns.md) · [Early Web History](
 - [CTA.gallery](https://cta.gallery) - Calls to action only. *Free.*
 - [Pricing Pages](https://pricingpages.design) - Pricing pages only. *Free.*
 - [404s](https://404s.design) - 404 pages only. *Free.*
+
+## More Galleries
+
+- [Landingfolio](https://www.landingfolio.com/) - Landing page inspiration and templates. *Freemium.*
+- [Designspiration](https://www.designspiration.com/) - Search inspiration by colour. *Free.*
+- [Rebrand Gallery](https://www.rebrand.gallery/) - Visual identity inspiration. *Free.*
+- [The FWA](https://thefwa.com/) - Awards for innovative websites since 2000. *Free.*
+- [Codrops](https://tympanus.net/codrops/) - Web experiments and front-end tutorials. *Free.*
+- [Relume Library](https://library.relume.io/) - Website sections and wireframes. *Freemium.*
