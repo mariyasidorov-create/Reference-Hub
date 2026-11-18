@@ -1,12 +1,12 @@
 ---
 title: Museums, Galleries and Art Media
 tags: [museums, collections, art, galleries]
-entries: 68
+entries: 78
 ---
 
 # Museums, Galleries and Art Media
 
-Museums worldwide with their online collections and free publications, galleries, art magazines and fairs.
+Museums worldwide, including Scotland and Garage, with their online collections and free publications, galleries, art magazines and fairs.
 
 Related: [Photo and Image Archives](photo-archives.md) · [Graphic Design History](graphic-design-history.md) · [Portugal](portugal.md) · [Design Schools](design-schools.md)
 
@@ -21,6 +21,7 @@ Related: [Photo and Image Archives](photo-archives.md) · [Graphic Design Histor
 - [Galleries and Art Centres](#galleries-and-art-centres)
 - [Art Magazines and Fairs](#art-magazines-and-fairs)
 - [Learning about Art](#learning-about-art)
+- [Museums in Scotland](#museums-in-scotland)
 
 ## Museums in the UK
 
@@ -50,6 +51,7 @@ Related: [Photo and Image Archives](photo-archives.md) · [Graphic Design Histor
 - [Rijksmuseum](https://www.rijksmuseum.nl/en) - Dutch art and history, Amsterdam; huge free image collection. *Mixed: free site, paid entry.*
 - [Van Gogh Museum](https://www.vangoghmuseum.nl/en) - The largest collection of Van Gogh, Amsterdam. *Paid entry.*
 - [Museo Guggenheim Bilbao](https://www.guggenheim-bilbao.eus/en) - Frank Gehry's building and modern and contemporary art. *Paid entry.*
+- [Garage Museum of Contemporary Art (Музей современного искусства «Гараж»)](https://garagemca.org/en) - Moscow museum in a Soviet pavilion rebuilt by OMA, with a library, archive and publishing programme. *Free.*
 
 ## Museums in the United States
 
@@ -79,6 +81,7 @@ Related: [Photo and Image Archives](photo-archives.md) · [Graphic Design Histor
 - [Getty Museum Collection](https://www.getty.edu/art/collection/) - Getty collection; Open Content images free to use. *Free.*
 - [Historic England Archive](https://historicengland.org.uk/images-books/) - Photographs and plans of English buildings and places. *Free.*
 - [Arts Council Collection](https://artscouncilcollection.org.uk/) - Britain's national loan collection of modern and contemporary art. *Free.*
+- [Art UK](https://artuk.org/) - Every oil painting and sculpture in UK public collections, searchable by artist and place. *Free.*
 
 ## Galleries and Art Centres
 
@@ -110,3 +113,14 @@ Related: [Photo and Image Archives](photo-archives.md) · [Graphic Design Histor
 
 - [Sotheby's Institute of Art](https://www.sothebysinstitute.com/) - Degrees and short courses in art business and art history. *Paid entry.*
 - [The Arts Society](https://theartssociety.org/) - Lectures on art and decorative arts across the UK. *Paid entry.*
+
+## Museums in Scotland
+
+- [V&A Dundee](https://www.vam.ac.uk/dundee) - Scotland's design museum in a building by Kengo Kuma, with the Scottish Design Galleries. *Free.*
+- [National Galleries of Scotland](https://www.nationalgalleries.org/) - Scottish National Gallery, Portrait Gallery and Modern Art galleries in Edinburgh. *Free.*
+- [National Galleries of Scotland: Art and Artists](https://www.nationalgalleries.org/art-and-artists) - Search the national collection, including the Glasgow Boys and Colourists. *Free.*
+- [Glasgow Museums (Kelvingrove, Burrell Collection)](https://www.glasgowlife.org.uk/museums) - City collections with the largest public holding of the Glasgow Boys and Mackintosh. *Free.*
+- [The Hunterian](https://www.gla.ac.uk/hunterian/) - University of Glasgow museum with the Mackintosh House and Whistler collection. *Free.*
+- [National Museums Scotland](https://www.nms.ac.uk/) - National Museum of Scotland in Edinburgh: design, fashion, decorative arts. *Free.*
+- [The Glasgow School of Art Archives and Collections](https://www.gsaarchives.net/) - Mackintosh drawings, student work and school records. *Free.*
+- [Charles Rennie Mackintosh Society](https://www.crmsociety.com/) - Mackintosh Queen's Cross church and a guide to Mackintosh buildings. *Free.*

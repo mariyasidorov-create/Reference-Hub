@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 749,
+ "count": 885,
  "references": [
   {
    "topic": "ui-patterns",
@@ -5436,6 +5436,14 @@
   },
   {
    "topic": "museums-and-galleries",
+   "section": "Museums in Europe",
+   "name": "Garage Museum of Contemporary Art (Музей современного искусства «Гараж»)",
+   "url": "https://garagemca.org/en",
+   "description": "Moscow museum in a Soviet pavilion rebuilt by OMA, with a library, archive and publishing programme",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
    "section": "Museums in the United States",
    "name": "The Metropolitan Museum of Art (The Met)",
    "url": "https://www.metmuseum.org/",
@@ -5620,6 +5628,14 @@
   },
   {
    "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Art UK",
+   "url": "https://artuk.org/",
+   "description": "Every oil painting and sculpture in UK public collections, searchable by artist and place",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
    "section": "Galleries and Art Centres",
    "name": "Saatchi Gallery",
    "url": "https://www.saatchigallery.com/",
@@ -5795,6 +5811,70 @@
    "access": "Paid entry"
   },
   {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Scotland",
+   "name": "V&A Dundee",
+   "url": "https://www.vam.ac.uk/dundee",
+   "description": "Scotland's design museum in a building by Kengo Kuma, with the Scottish Design Galleries",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Scotland",
+   "name": "National Galleries of Scotland",
+   "url": "https://www.nationalgalleries.org/",
+   "description": "Scottish National Gallery, Portrait Gallery and Modern Art galleries in Edinburgh",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Scotland",
+   "name": "National Galleries of Scotland: Art and Artists",
+   "url": "https://www.nationalgalleries.org/art-and-artists",
+   "description": "Search the national collection, including the Glasgow Boys and Colourists",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Scotland",
+   "name": "Glasgow Museums (Kelvingrove, Burrell Collection)",
+   "url": "https://www.glasgowlife.org.uk/museums",
+   "description": "City collections with the largest public holding of the Glasgow Boys and Mackintosh",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Scotland",
+   "name": "The Hunterian",
+   "url": "https://www.gla.ac.uk/hunterian/",
+   "description": "University of Glasgow museum with the Mackintosh House and Whistler collection",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Scotland",
+   "name": "National Museums Scotland",
+   "url": "https://www.nms.ac.uk/",
+   "description": "National Museum of Scotland in Edinburgh: design, fashion, decorative arts",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Scotland",
+   "name": "The Glasgow School of Art Archives and Collections",
+   "url": "https://www.gsaarchives.net/",
+   "description": "Mackintosh drawings, student work and school records",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Scotland",
+   "name": "Charles Rennie Mackintosh Society",
+   "url": "https://www.crmsociety.com/",
+   "description": "Mackintosh Queen's Cross church and a guide to Mackintosh buildings",
+   "access": "Free"
+  },
+  {
    "topic": "design-schools",
    "section": "Portugal",
    "name": "Faculdade de Belas-Artes da Universidade de Lisboa (Faculty of Fine Arts, University of Lisbon)",
@@ -5865,6 +5945,14 @@
    "url": "https://www.modatex.pt/",
    "description": "Professional fashion and textile training",
    "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Portugal",
+   "name": "ETIC — Escola de Tecnologias Inovação e Criação (School of Technology, Innovation and Creation)",
+   "url": "https://www.etic.pt/",
+   "description": "Lisbon creative school: film, games, photography, design and music",
+   "access": "Paid"
   },
   {
    "topic": "design-schools",
@@ -5993,6 +6081,1006 @@
    "url": "https://www.musabi.ac.jp/en/",
    "description": "Tokyo art and design university with a design museum and library",
    "access": "Paid entry"
+  },
+  {
+   "topic": "art-history",
+   "section": "Timelines and Overviews",
+   "name": "The Story of Art (Phaidon)",
+   "url": "https://www.phaidon.com/store/art/the-story-of-art-9780714832470/",
+   "description": "E. H. Gombrich's classic history of art; the chapter list is the skeleton of this topic",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "art-history",
+   "section": "Timelines and Overviews",
+   "name": "Heilbrunn Timeline of Art History (The Met)",
+   "url": "https://www.metmuseum.org/toah/",
+   "description": "Essays and timelines by region and period, written by Met curators",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Timelines and Overviews",
+   "name": "Smarthistory",
+   "url": "https://smarthistory.org/",
+   "description": "Free art history textbook with videos, ordered by period like Gombrich",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Timelines and Overviews",
+   "name": "Khan Academy: Arts and Humanities",
+   "url": "https://www.khanacademy.org/humanities/art-history",
+   "description": "Smarthistory courses from prehistory to today",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Image Databases",
+   "name": "Web Gallery of Art",
+   "url": "https://www.wga.hu/",
+   "description": "European painting and sculpture from 1000 to 1900 with commentary",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Image Databases",
+   "name": "Google Arts & Culture",
+   "url": "https://artsandculture.google.com/",
+   "description": "High-resolution artworks and virtual tours from thousands of museums",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Image Databases",
+   "name": "Europeana",
+   "url": "https://www.europeana.eu/en",
+   "description": "Millions of digitised works from European museums, libraries and archives",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Artists",
+   "name": "Newport Street Gallery",
+   "url": "https://www.newportstreetgallery.com/",
+   "description": "Free London gallery for Damien Hirst's own collection",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Artists",
+   "name": "Tate: Damien Hirst",
+   "url": "https://www.tate.org.uk/art/artists/damien-hirst-2308",
+   "description": "Hirst works in the Tate collection with texts",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Artists",
+   "name": "Gagosian: Damien Hirst",
+   "url": "https://gagosian.com/artists/damien-hirst/",
+   "description": "Exhibitions, catalogues and press for Hirst at Gagosian",
+   "access": "Free"
+  },
+  {
+   "topic": "art-history",
+   "section": "Artists",
+   "name": "White Cube",
+   "url": "https://www.whitecube.com/",
+   "description": "London gallery behind the YBA generation, with artist pages and catalogues",
+   "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Museums and Collections",
+   "name": "Museo Egizio (Egyptian Museum, Turin)",
+   "url": "https://museoegizio.it/en/",
+   "description": "The oldest museum devoted entirely to ancient Egypt, with English guides",
+   "access": "Paid"
+  },
+  {
+   "topic": "egypt",
+   "section": "Museums and Collections",
+   "name": "Museo Egizio Collections Online",
+   "url": "https://collezioni.museoegizio.it/en-GB",
+   "description": "Search objects and papyri of the Turin collection",
+   "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Museums and Collections",
+   "name": "Rivista del Museo Egizio (Museo Egizio Journal)",
+   "url": "https://rivista.museoegizio.it/",
+   "description": "Open-access research journal of the Turin museum, mostly in English",
+   "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Museums and Collections",
+   "name": "Petrie Museum of Egyptian and Sudanese Archaeology",
+   "url": "https://www.ucl.ac.uk/culture/petrie-museum",
+   "description": "UCL collection of everyday objects, textiles and early writing",
+   "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Research and Primary Sources",
+   "name": "Griffith Institute",
+   "url": "https://www.griffith.ox.ac.uk/",
+   "description": "Oxford archive of Egyptology, including Howard Carter's Tutankhamun records",
+   "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Research and Primary Sources",
+   "name": "Digital Giza",
+   "url": "http://giza.fas.harvard.edu/",
+   "description": "Harvard's archive of photos, plans and records of the Giza pyramids",
+   "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Research and Primary Sources",
+   "name": "Theban Mapping Project",
+   "url": "https://thebanmappingproject.com/",
+   "description": "Maps, plans and photographs of the Valley of the Kings",
+   "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Research and Primary Sources",
+   "name": "ISAC Publications (University of Chicago)",
+   "url": "https://isac.uchicago.edu/research/publications",
+   "description": "Hundreds of Egyptology books free as PDFs from the Oriental Institute",
+   "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Hieroglyphs and Writing",
+   "name": "Thesaurus Linguae Aegyptiae",
+   "url": "https://thesaurus-linguae-aegyptiae.de/",
+   "description": "Dictionary and text corpus of the Egyptian language",
+   "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Hieroglyphs and Writing",
+   "name": "JSesh",
+   "url": "https://jsesh.qenherkhopeshef.org/",
+   "description": "Free editor for typesetting hieroglyphic texts",
+   "access": "Free"
+  },
+  {
+   "topic": "egypt",
+   "section": "Hieroglyphs and Writing",
+   "name": "Noto Sans Egyptian Hieroglyphs",
+   "url": "https://fonts.google.com/noto/specimen/Noto+Sans+Egyptian+Hieroglyphs",
+   "description": "Free Unicode font with the full hieroglyph block",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Core Books",
+   "name": "About Face: The Essentials of Interaction Design",
+   "url": "https://www.wiley.com/en-us/About+Face%3A+The+Essentials+of+Interaction+Design%2C+4th+Edition-p-9781118766576",
+   "description": "Alan Cooper's goal-directed design; its chapters are the skeleton of the tag tree below",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Core Books",
+   "name": "Designing for Behavior Change",
+   "url": "https://www.oreilly.com/library/view/designing-for-behavior/9781492056027/",
+   "description": "Stephen Wendel on applying behavioural science to products, 2nd edition",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Core Books",
+   "name": "Articulating Design Decisions",
+   "url": "https://www.oreilly.com/library/view/articulating-design-decisions/9781098117863/",
+   "description": "Tom Greever on presenting and defending design to stakeholders, 2nd edition",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Core Books",
+   "name": "Hooked",
+   "url": "https://www.nirandfar.com/hooked/",
+   "description": "Nir Eyal's Hook Model for habit-forming products",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Goals and Mental Models",
+   "name": "NN/g: Mental Models",
+   "url": "https://www.nngroup.com/articles/mental-models/",
+   "description": "What mental models are and why designs should match them",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Product Behaviour",
+   "name": "Fogg Behavior Model",
+   "url": "https://behaviormodel.org/",
+   "description": "B = MAP: motivation, ability and prompt, by BJ Fogg",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Digital Etiquette",
+   "name": "Calm Technology",
+   "url": "https://calmtech.com/",
+   "description": "Amber Case's principles for technology that respects attention",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Platform and Posture",
+   "name": "Apple Human Interface Guidelines",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/",
+   "description": "Design guidance for iOS, macOS, watchOS, visionOS and tvOS",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Platform and Posture",
+   "name": "Material Design 3",
+   "url": "https://m3.material.io/",
+   "description": "Google's design system for Android, web and wearables",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Platform and Posture",
+   "name": "Wear OS design guidelines",
+   "url": "https://developer.android.com/design/ui/wear",
+   "description": "Designing glanceable apps, tiles and complications for watches",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-process",
+   "section": "Platform and Posture",
+   "name": "Alexa Design Guide",
+   "url": "https://developer.amazon.com/en-US/docs/alexa/alexa-design/get-started.html",
+   "description": "How to design voice conversations and multimodal skills",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "Red Dot Design Award",
+   "url": "https://www.red-dot.org/",
+   "description": "Product, brand and communication design awards with an online winners archive",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "iF Design Award",
+   "url": "https://ifdesign.com/",
+   "description": "Hanover award with a searchable database of winning projects since 1954",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "D&AD Awards",
+   "url": "https://www.dandad.org/",
+   "description": "London awards for design and advertising; the Pencil archive is a reference library",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "ADC Annual Awards (The One Club)",
+   "url": "https://www.oneclub.org/",
+   "description": "The Art Directors Club awards since 1921",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "Type Directors Club",
+   "url": "https://www.tdc.org/",
+   "description": "Typography and type design competitions with yearly winners",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "Cannes Lions",
+   "url": "https://www.canneslions.com/",
+   "description": "International festival of creativity in advertising",
+   "access": "Paid"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "The Webby Awards",
+   "url": "https://www.webbyawards.com/",
+   "description": "Awards for websites, apps, video and AI, with winner galleries",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "Apple Design Awards",
+   "url": "https://developer.apple.com/design/awards/",
+   "description": "Yearly awards for the best-designed apps and games on Apple platforms",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "Core77 Design Awards",
+   "url": "https://designawards.core77.com/",
+   "description": "Product, interaction and service design awards with full project write-ups",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "Pentawards",
+   "url": "https://pentawards.com/",
+   "description": "Packaging design awards with a winners gallery",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "International",
+   "name": "Information is Beautiful Awards",
+   "url": "https://www.informationisbeautifulawards.com/",
+   "description": "Data visualisation awards with a showcase of every shortlist",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "Europe",
+   "name": "German Design Award",
+   "url": "https://www.german-design-council.de/en/",
+   "description": "German Design Council awards for product and communication design",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "Europe",
+   "name": "Dutch Design Awards",
+   "url": "https://www.dutchdesignawards.nl/",
+   "description": "Yearly awards during Dutch Design Week in Eindhoven",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "Asia and Oceania",
+   "name": "Good Design Award (Japan)",
+   "url": "https://www.g-mark.org/en",
+   "description": "The Japanese G Mark since 1957, with a huge winners database",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "Asia and Oceania",
+   "name": "Golden Pin Design Award",
+   "url": "https://www.goldenpin.org.tw/en/",
+   "description": "Taiwan's award for design in Chinese-speaking regions",
+   "access": "Free"
+  },
+  {
+   "topic": "awards",
+   "section": "Asia and Oceania",
+   "name": "Good Design Australia",
+   "url": "https://good-design.org/",
+   "description": "Australia's oldest design awards",
+   "access": "Free"
+  },
+  {
+   "topic": "cinema",
+   "section": "Titles and Typography",
+   "name": "Watch the Titles",
+   "url": "https://www.watchthetitles.com/",
+   "description": "Archive of film and TV title sequences",
+   "access": "Free"
+  },
+  {
+   "topic": "cinema",
+   "section": "Titles and Typography",
+   "name": "Typeset in the Future",
+   "url": "https://typesetinthefuture.com/",
+   "description": "Dave Addey's deep dives into typography in science-fiction films",
+   "access": "Free"
+  },
+  {
+   "topic": "cinema",
+   "section": "Frames and Stills",
+   "name": "Film-Grab",
+   "url": "https://film-grab.com/",
+   "description": "High-quality stills from thousands of films",
+   "access": "Free"
+  },
+  {
+   "topic": "cinema",
+   "section": "Frames and Stills",
+   "name": "ShotDeck",
+   "url": "https://shotdeck.com/",
+   "description": "Searchable library of film frames by colour, lighting and lens",
+   "access": "Paid"
+  },
+  {
+   "topic": "cinema",
+   "section": "Posters",
+   "name": "Posteritati",
+   "url": "https://www.posteritati.com/",
+   "description": "Gallery and archive of original international film posters",
+   "access": "Free"
+  },
+  {
+   "topic": "cinema",
+   "section": "Posters",
+   "name": "IMP Awards",
+   "url": "http://www.impawards.com/",
+   "description": "Database of film posters by year",
+   "access": "Free"
+  },
+  {
+   "topic": "cinema",
+   "section": "Archives and Institutions",
+   "name": "BFI",
+   "url": "https://www.bfi.org.uk/",
+   "description": "British Film Institute: archive, library, Sight and Sound",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "cinema",
+   "section": "Archives and Institutions",
+   "name": "La Cinémathèque française",
+   "url": "https://www.cinematheque.fr/",
+   "description": "Paris film museum with poster and design collections",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "cinema",
+   "section": "Archives and Institutions",
+   "name": "Academy Museum of Motion Pictures",
+   "url": "https://www.academymuseum.org/",
+   "description": "Los Angeles museum of film by the Academy",
+   "access": "Paid"
+  },
+  {
+   "topic": "cinema",
+   "section": "Archives and Institutions",
+   "name": "Margaret Herrick Library Digital Collections",
+   "url": "https://digitalcollections.oscars.org/",
+   "description": "Posters, production art and photographs from the Academy library",
+   "access": "Free"
+  },
+  {
+   "topic": "cinema",
+   "section": "Archives and Institutions",
+   "name": "Hong Kong Film Archive",
+   "url": "https://www.filmarchive.gov.hk/en/",
+   "description": "Collections and research on Hong Kong cinema",
+   "access": "Free"
+  },
+  {
+   "topic": "cinema",
+   "section": "Archives and Institutions",
+   "name": "Cinemateca Portuguesa",
+   "url": "https://www.cinemateca.pt/",
+   "description": "Portuguese film museum in Lisbon with screenings and library",
+   "access": "Paid"
+  },
+  {
+   "topic": "cinema",
+   "section": "Archives and Institutions",
+   "name": "The Criterion Collection",
+   "url": "https://www.criterion.com/",
+   "description": "Restored classic films with essays and designed covers",
+   "access": "Paid"
+  },
+  {
+   "topic": "cinema",
+   "section": "Archives and Institutions",
+   "name": "MUBI",
+   "url": "https://mubi.com/",
+   "description": "Curated streaming of art-house cinema, with Notebook magazine",
+   "access": "Paid"
+  },
+  {
+   "topic": "magazines",
+   "section": "Design Magazines",
+   "name": "Monocle",
+   "url": "https://monocle.com/",
+   "description": "Global affairs, design and urbanism magazine, radio and books",
+   "access": "Paid"
+  },
+  {
+   "topic": "magazines",
+   "section": "Design Magazines",
+   "name": "Creative Review",
+   "url": "https://www.creativereview.co.uk/",
+   "description": "UK magazine on design, advertising and visual culture",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "magazines",
+   "section": "Design Magazines",
+   "name": "It's Nice That",
+   "url": "https://www.itsnicethat.com/",
+   "description": "Daily writing on graphic design, illustration and art",
+   "access": "Free"
+  },
+  {
+   "topic": "magazines",
+   "section": "Design Magazines",
+   "name": "AIGA Eye on Design",
+   "url": "https://eyeondesign.aiga.org/",
+   "description": "AIGA's magazine on emerging graphic designers",
+   "access": "Free"
+  },
+  {
+   "topic": "magazines",
+   "section": "Design Magazines",
+   "name": "Communication Arts",
+   "url": "https://www.commarts.com/",
+   "description": "US magazine and annuals of visual communication",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "magazines",
+   "section": "Design Magazines",
+   "name": "PRINT",
+   "url": "https://www.printmag.com/",
+   "description": "American graphic design magazine since 1940",
+   "access": "Free"
+  },
+  {
+   "topic": "magazines",
+   "section": "Design Magazines",
+   "name": "Brand New (UnderConsideration)",
+   "url": "https://www.underconsideration.com/brandnew/",
+   "description": "Daily reviews of new logos and identities",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "magazines",
+   "section": "Design Magazines",
+   "name": "Slanted",
+   "url": "https://www.slanted.de/",
+   "description": "German typography and graphic design magazine and blog",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "magazines",
+   "section": "Design Magazines",
+   "name": "IDEA (アイデア)",
+   "url": "http://www.idea-mag.com/en/",
+   "description": "Japanese graphic design and typography magazine since 1953",
+   "access": "Paid"
+  },
+  {
+   "topic": "magazines",
+   "section": "Architecture and Interiors",
+   "name": "Dezeen",
+   "url": "https://www.dezeen.com/",
+   "description": "Architecture and design news",
+   "access": "Free"
+  },
+  {
+   "topic": "magazines",
+   "section": "Architecture and Interiors",
+   "name": "Wallpaper*",
+   "url": "https://www.wallpaper.com/",
+   "description": "Design, interiors, fashion and travel",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "magazines",
+   "section": "Architecture and Interiors",
+   "name": "Domus",
+   "url": "https://www.domusweb.it/en.html",
+   "description": "Italian architecture and design magazine founded by Gio Ponti in 1928",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "magazines",
+   "section": "Architecture and Interiors",
+   "name": "Apartamento",
+   "url": "https://www.apartamentomagazine.com/",
+   "description": "Everyday-life interiors magazine",
+   "access": "Paid"
+  },
+  {
+   "topic": "magazines",
+   "section": "Architecture and Interiors",
+   "name": "Kinfolk",
+   "url": "https://www.kinfolk.com/",
+   "description": "Slow-living magazine with a recognisable editorial style",
+   "access": "Paid"
+  },
+  {
+   "topic": "magazines",
+   "section": "Shops and Newspapers",
+   "name": "magCulture",
+   "url": "https://magculture.com/",
+   "description": "London shop and journal about independent magazines",
+   "access": "Paid"
+  },
+  {
+   "topic": "magazines",
+   "section": "Shops and Newspapers",
+   "name": "The Guardian: Art and Design",
+   "url": "https://www.theguardian.com/artanddesign",
+   "description": "Free art, design and architecture journalism",
+   "access": "Free"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Rizzoli",
+   "url": "https://www.rizzoliusa.com/",
+   "description": "New York publisher of art, fashion, design and interiors books",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Unit Editions",
+   "url": "https://www.uniteditions.com/",
+   "description": "Graphic design monographs and archives in small runs",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Gestalten",
+   "url": "https://gestalten.com/",
+   "description": "Berlin publisher of visual culture and design",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Princeton Architectural Press",
+   "url": "https://www.papress.com/",
+   "description": "Architecture and graphic design books",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Niggli",
+   "url": "https://niggli.ch/",
+   "description": "Swiss publisher of typography and the Swiss style",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Counter-Print",
+   "url": "https://counter-print.co.uk/",
+   "description": "Small publisher and shop of graphic design books",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Spector Books",
+   "url": "https://spectorbooks.com/",
+   "description": "Leipzig publisher of art, design and theory",
+   "access": "Paid"
+  },
+  {
+   "topic": "publishers",
+   "section": "Art and Design Publishers",
+   "name": "Ad Marginem (Ад Маргинем)",
+   "url": "https://admarginem.ru/",
+   "description": "Moscow publisher of art and theory, partner of Garage",
+   "access": "Paid"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "Graphic Design Specialization (CalArts on Coursera)",
+   "url": "https://www.coursera.org/specializations/graphic-design",
+   "description": "CalArts course on image making, typography and brand",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "UI / UX Design Specialization (CalArts on Coursera)",
+   "url": "https://www.coursera.org/specializations/ui-ux-design",
+   "description": "CalArts course on visual elements, web design and UX research",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "MoMA on Coursera",
+   "url": "https://www.coursera.org/moma",
+   "description": "Free MoMA courses on modern art, photography and fashion",
+   "access": "Free"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "Google UX Design Certificate",
+   "url": "https://www.coursera.org/professional-certificates/google-ux-design",
+   "description": "Entry-level UX course from Google",
+   "access": "Paid"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "Interaction Design Foundation",
+   "url": "https://www.interaction-design.org/",
+   "description": "UX courses and a free encyclopedia of interaction design",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "Domestika",
+   "url": "https://www.domestika.org/",
+   "description": "Craft courses from illustration to type design",
+   "access": "Paid"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Courses",
+   "name": "Open Culture: Free Online Courses",
+   "url": "https://www.openculture.com/freeonlinecourses",
+   "description": "Index of free university courses, including art history",
+   "access": "Free"
+  },
+  {
+   "topic": "online-learning",
+   "section": "Books Online",
+   "name": "Practical Typography",
+   "url": "https://practicaltypography.com/",
+   "description": "Matthew Butterick's free online typography book",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "The Americas",
+   "name": "Cooper Hewitt, Smithsonian Design Museum",
+   "url": "https://www.cooperhewitt.org/",
+   "description": "US national design museum in New York",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "The Americas",
+   "name": "National Museum of the American Indian",
+   "url": "https://americanindian.si.edu/",
+   "description": "Smithsonian museum of Native cultures of the Americas",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "The Americas",
+   "name": "Museo Nacional de Antropología (National Museum of Anthropology, Mexico)",
+   "url": "https://www.mna.inah.gob.mx/",
+   "description": "Aztec, Maya and other pre-Columbian collections",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "The Americas",
+   "name": "Museo Larco",
+   "url": "https://www.museolarco.org/en/",
+   "description": "Pre-Columbian art of Peru with an online catalogue",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "The Americas",
+   "name": "Dumbarton Oaks: Pre-Columbian Studies",
+   "url": "https://www.doaks.org/research/pre-columbian",
+   "description": "Harvard research centre with free publications on pre-Columbian art",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "The Americas",
+   "name": "ICAA Documents of Latin American and Latino Art",
+   "url": "https://icaa.mfah.org/",
+   "description": "Museum of Fine Arts, Houston archive of primary sources in English and Spanish",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "The Americas",
+   "name": "MALBA",
+   "url": "https://www.malba.org.ar/en/",
+   "description": "Latin American art museum in Buenos Aires",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "The Americas",
+   "name": "MASP — Museu de Arte de São Paulo",
+   "url": "https://masp.org.br/en",
+   "description": "Lina Bo Bardi's museum with glass easels",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "The Americas",
+   "name": "National Gallery of Canada",
+   "url": "https://www.gallery.ca/",
+   "description": "Canadian and Indigenous art in Ottawa",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "Africa",
+   "name": "Zeitz MOCAA",
+   "url": "https://zeitzmocaa.museum/",
+   "description": "Contemporary art from Africa in a converted grain silo, Cape Town",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "Africa",
+   "name": "National Museum of African Art (Smithsonian)",
+   "url": "https://africa.si.edu/",
+   "description": "Traditional and modern African art with online collection",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Africa",
+   "name": "Contemporary And (C&)",
+   "url": "https://contemporaryand.com/",
+   "description": "Magazine on contemporary art from Africa and the diaspora",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Oceania",
+   "name": "National Gallery of Australia",
+   "url": "https://nga.gov.au/",
+   "description": "Australian and Indigenous art in Canberra",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Oceania",
+   "name": "Powerhouse Collection",
+   "url": "https://collection.powerhouse.com.au/",
+   "description": "Sydney museum of applied arts and design, fully online",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Oceania",
+   "name": "Te Papa Collections Online",
+   "url": "https://collections.tepapa.govt.nz/",
+   "description": "New Zealand's national collection, including Māori taonga",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "The Palace Museum (故宫博物院)",
+   "url": "https://en.dpm.org.cn/",
+   "description": "Forbidden City collection with a digital catalogue",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "National Palace Museum (國立故宮博物院)",
+   "url": "https://www.npm.gov.tw/en/",
+   "description": "Taipei collection of Chinese imperial art, with open data images",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "Chinese Text Project",
+   "url": "https://ctext.org/",
+   "description": "Pre-modern Chinese texts from the oracle bones onwards, with translations",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "International Dunhuang Programme",
+   "url": "https://idp.bl.uk/",
+   "description": "Manuscripts and paintings from the Silk Road",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "National Museum of Korea",
+   "url": "https://www.museum.go.kr/site/eng/home",
+   "description": "Korean art and archaeology in Seoul",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "MMCA — National Museum of Modern and Contemporary Art, Korea",
+   "url": "https://www.mmca.go.kr/eng/",
+   "description": "Korean modern art and design",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "ColBase (Japan National Museums)",
+   "url": "https://colbase.nich.go.jp/?locale=en",
+   "description": "Collections of Japan's four national museums",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "Japan Search",
+   "url": "https://jpsearch.go.jp/?lang=en",
+   "description": "Portal to Japanese digital archives",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "21_21 DESIGN SIGHT",
+   "url": "https://www.2121designsight.jp/en/",
+   "description": "Tokyo design museum founded by Issey Miyake",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "ginza graphic gallery (ggg)",
+   "url": "https://www.dnpfcp.jp/gallery/ggg/",
+   "description": "Tokyo gallery of graphic design run by DNP",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "East Asia",
+   "name": "M+",
+   "url": "https://www.mplus.org.hk/en/",
+   "description": "Hong Kong museum of visual culture, design and moving image",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "Southeast Asia",
+   "name": "National Gallery Singapore",
+   "url": "https://www.nationalgallery.sg/",
+   "description": "Southeast Asian modern art",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "Southeast Asia",
+   "name": "Roots.sg",
+   "url": "https://www.roots.gov.sg/",
+   "description": "Singapore heritage collections online",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Southeast Asia",
+   "name": "Islamic Arts Museum Malaysia",
+   "url": "https://www.iamm.org.my/",
+   "description": "Islamic arts from across Asia in Kuala Lumpur",
+   "access": "Paid"
+  },
+  {
+   "topic": "regions",
+   "section": "Southeast Asia",
+   "name": "ILHAM Gallery",
+   "url": "https://www.ilhamgallery.com/",
+   "description": "Malaysian modern and contemporary art in Kuala Lumpur",
+   "access": "Free"
   }
  ]
 }

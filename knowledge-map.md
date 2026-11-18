@@ -25,6 +25,15 @@ graph LR
   web_history["Early Web History"]
   museums_and_galleries["Museums, Galleries and Art Media"]
   design_schools["Design Schools"]
+  art_history["Art History and Artists"]
+  egypt["Ancient Egypt"]
+  ux_process["UX Design Process"]
+  awards["Design Awards"]
+  cinema["Cinema"]
+  magazines["Magazines and Newspapers"]
+  publishers["Publishers"]
+  online_learning["Online Learning"]
+  regions["Regions of the World"]
   ux_curators["UX Curators and Vitaly Friedman"]
   ui_patterns --- web_galleries
   ui_patterns --- ux_research
@@ -39,6 +48,7 @@ graph LR
   typography --- rtl
   typography --- portugal
   motion --- component_libraries
+  motion --- cinema
   ux_research --- ux_curators
   component_libraries --- awesome_lists
   photo_archives --- graphic_design_history
@@ -60,6 +70,27 @@ graph LR
   museums_and_galleries --- design_schools
   design_schools --- learning
   design_schools --- portugal
+  art_history --- museums_and_galleries
+  art_history --- graphic_design_history
+  art_history --- egypt
+  egypt --- museums_and_galleries
+  egypt --- rtl
+  ux_process --- ux_research
+  ux_process --- ux_curators
+  ux_process --- online_learning
+  awards --- web_galleries
+  awards --- magazines
+  awards --- regions
+  cinema --- typography
+  cinema --- regions
+  magazines --- publishers
+  magazines --- graphic_design_history
+  publishers --- learning
+  publishers --- art_history
+  online_learning --- learning
+  online_learning --- design_schools
+  regions --- museums_and_galleries
+  regions --- art_history
 ```
 
 ## Open as an Obsidian Vault
@@ -72,13 +103,8 @@ Tags in each file's front matter (for example `history`, `portugal`, `rtl`) show
 
 ## Planned Topics
 
-- Cinema and title design
-- Regions: the Americas, Africa, Oceania, East and South-East Asia, Scotland
-- Magazines and newspapers
-- Publishers
-- Museums
-- Online courses
-- Artists
-- Design awards
+- Personal library: books worth owning, with legal links
+- Second pass on regions: Latin American, African and Asian graphic design
+- Archive of saved Instagram posts with transcripts
 
 [Back to the index](README.md)

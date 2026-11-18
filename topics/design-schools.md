@@ -1,7 +1,7 @@
 ---
 title: Design Schools
 tags: [education, schools, design]
-entries: 25
+entries: 26
 ---
 
 # Design Schools
@@ -29,6 +29,7 @@ Related: [Learning](learning.md) · [Museums, Galleries and Art Media](museums-a
 - [ESMAD — Escola Superior de Media Artes e Design (School of Media Arts and Design)](https://www.esmad.ipp.pt/) - Polytechnic of Porto school of media arts and design. *Mixed: free site, paid entry.*
 - [EAAD — Escola de Arquitetura, Arte e Design da Universidade do Minho (School of Architecture, Art and Design, University of Minho)](https://www.eaad.uminho.pt/) - Architecture, art and design in Guimarães. *Mixed: free site, paid entry.*
 - [MODATEX](https://www.modatex.pt/) - Professional fashion and textile training. *Paid entry.*
+- [ETIC — Escola de Tecnologias Inovação e Criação (School of Technology, Innovation and Creation)](https://www.etic.pt/) - Lisbon creative school: film, games, photography, design and music. *Paid.*
 
 ## Europe
 

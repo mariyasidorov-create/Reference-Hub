@@ -8,7 +8,7 @@ entries: 27
 
 References for interface motion, delightful details and motion design tools.
 
-Related: [Component Libraries](component-libraries.md)
+Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 
 [Back to the index](../README.md)
 
