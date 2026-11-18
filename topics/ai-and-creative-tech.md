@@ -1,7 +1,8 @@
 ---
 title: AI and Creative Technology
+aliases: [AI, ИИ, 3D, креативный код]
 tags: [ai, 3d, creative-coding]
-entries: 12
+entries: 14
 ---
 
 # AI and Creative Technology
@@ -28,6 +29,7 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [Magenta (Google)](https://magenta.tensorflow.org/) - Machine learning for music and art. *Free.*
 - [Three.js](https://threejs.org/) - JavaScript 3D library for the web. *Free.*
 - [Shader Gradient](https://shadergradient.co/) - Animated 3D gradients for web and Figma. *Free.*
+- [Figma Weave](https://weave.figma.com/) - Node-based AI workflows for image, video and 3D (formerly Weavy). *Freemium.*
 
 ## Artists and Experiments
 
@@ -38,3 +40,4 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 ## Learning
 
 - [Claude Certified Architect – Foundations (Anthropic Academy)](https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification) - Anthropic certification course. *Free.*
+- [AI tools for UX designers (Figma)](https://www.figma.com/resource-library/ai-tools-for-ux-designers/) - Overview of AI tools in the UX process. *Free.*

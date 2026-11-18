@@ -1,5 +1,6 @@
 ---
 title: Architecture
+aliases: [архитектура]
 tags: [architecture]
 entries: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: Design Awards
+aliases: [премии, награды]
 tags: [awards, inspiration]
 entries: 17
 ---

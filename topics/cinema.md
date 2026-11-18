@@ -1,5 +1,6 @@
 ---
 title: Cinema
+aliases: [кино, титры]
 tags: [cinema, titles, posters]
 entries: 15
 ---

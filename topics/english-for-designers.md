@@ -1,5 +1,6 @@
 ---
 title: English for Designers
+aliases: [английский]
 tags: [english, communication]
 entries: 3
 ---

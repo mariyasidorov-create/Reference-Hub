@@ -6,11 +6,11 @@ Every resource in the hub by name, grouped by topic. Authors are in brackets whe
 
 ### [UI Patterns and Real Products](topics/ui-patterns.md)
 
-Appshot Gallery · Mobbin · Nicelydone · Page Flows · Paywall Screens · Refero · SaaS Interface · SaaSFrame · Screens Design · UI Patterns · UX Archive · Welie.com Interaction Design Pattern Library
+Appshot Gallery · Mobbin · Nicelydone · Page Flows · Paywall Screens · Refero · SaaS Interface · SaaSFrame · Screens Design · UI design principles (Figma) · UI Patterns · UX Archive · Welie.com Interaction Design Pattern Library
 
 ### [Web Galleries](topics/web-galleries.md)
 
-404s · Area 17 archive · Awwwards · Bento Grids · Brutalist Websites · Codrops · Collect UI · Craftwork · CSS Design Awards · CTA.gallery · Curated · d1s1 · Dark.design · Deck.gallery · Designspiration · Footer.design · Godly · Hover States · Httpster · Land-book · Landdding · Landingfolio · Landings.dev · Lapa Ninja · Minimal.gallery · Navbar.gallery · on.design · One Page Love · Pricing Pages · Rebrand Gallery · Recent.design · Refframe · Refs.gallery · Relume Library · SaaS Landing Page · SEESAW · Siiimple · Site of Sites · SiteInspire · Supahero · The FWA · Viewport UI
+404s · Area 17 archive · Awwwards · Bento Grids · Brutalist Websites · Codrops · Collect UI · Craftwork · CSS Design Awards · CTA.gallery · Curated · d1s1 · Dark.design · Deck.gallery · Designspiration · Footer.design · Godly · Hover States · Httpster · Land-book · Landdding · Landing page examples (Figma) · Landingfolio · Landings.dev · Lapa Ninja · Minimal.gallery · Navbar.gallery · on.design · One Page Love · Pricing Pages · Rebrand Gallery · Recent.design · Refframe · Refs.gallery · Relume Library · SaaS Landing Page · SEESAW · Siiimple · Site of Sites · SiteInspire · Supahero · The FWA · Viewport UI
 
 ### [Images and Moodboards](topics/images-and-moodboards.md)
 
@@ -18,15 +18,15 @@ Are.na · Backgrounds Supply · Behance · Coolshapes · Cosmos · Font in Logo 
 
 ### [Color](topics/color.md)
 
-Color Hunt · Coolors · Huemint · Realtime Colors
+Color Hunt · Color theory (Figma) · Coolors · Huemint · Realtime Colors
 
 ### [Typography and Type Foundries](topics/typography.md)
 
-205TF · ABC Dinamo · Art of the Title · Better Web Type (Matej Latin) · BoldItalic · Brownfox · CoFo · Colophon · Commercial Type · Cotype · CSTM Fonts · Displaay · Fedor Abroskin · Fonts From Folch · Fonts In Use · Fontshare · Google Fonts · Grilli Type · Klim · Lineto · Modular Scale · Optimo · Or Type · Pangram Pangram · Paratype · Production Type · Rob Roy Kelly American Wood Type Collection · Schick Toikka · Sharp Type · The Temporary State · Type Scale · type.today · TypeType · Typewolf · Typographic Posters · WhatTheFont
+205TF · ABC Dinamo · Art of the Title · Better Web Type (Matej Latin) · BoldItalic · Brownfox · CoFo · Colophon · Commercial Type · Cotype · CSTM Fonts · Displaay · Fedor Abroskin · Fonts From Folch · Fonts In Use · Fontshare · Google Fonts · Grilli Type · Klim · Lineto · Modular Scale · Optimo · Or Type · Pangram Pangram · Paratype · Production Type · Rob Roy Kelly American Wood Type Collection · Schick Toikka · Sharp Type · The Temporary State · Type Scale · type.today · TypeType · Typewolf · Typographic Posters · Typography in design (Figma) · WhatTheFont
 
 ### [Motion and Micro-interactions](topics/motion.md)
 
-3D GIF Maker · 60fps · Aceternity UI · AEUX · Anime.js · Bloop · Capptivate · Circle Loaders · CodePen · Dasca · Design Spells · Eyecandy · Gradient Buttons · GSAP · Ink overlays · Jitter · Kinetics · liquid-glass · LottieFiles · Lusion Labs · MicroKit · Motion · Moving Parts · Paper Animation · Ripplix · Spotted in Prod · Text Effects · Uiverse · WigglyPaint · Zajno Motion
+3D GIF Maker · 60fps · Aceternity UI · AEUX · Anime.js · Bloop · Capptivate · Circle Loaders · CodePen · Dasca · Design Spells · Eyecandy · Gradient Buttons · GSAP · Ink overlays · Jitter · Kinetics · liquid-glass · LottieFiles · Lusion Labs · MicroKit · Motion · Moving Parts · Paper Animation · Ripplix · Spotted in Prod · Text Effects · Uiverse · What is motion design (Figma) · WigglyPaint · Zajno Motion
 
 ### [Icons, Illustrations and Graphics](topics/icons-and-graphics.md)
 
@@ -36,7 +36,7 @@ Color Hunt · Coolors · Huemint · Realtime Colors
 
 ### [Design Systems](topics/design-systems.md)
 
-Ant Design · Apple Design Resources on Figma · Apple HIG: Motion · Atlassian Design System · Atlassian: Motion · Base Web (Uber) · Carbon Design System (IBM) · Carbon: Motion · Cloudscape (AWS) · Cloudscape Component Library (AWS) · Decathlon Design System · Design at Uber · Design Systems Repo · DesignSystems.com (Figma) · eBay Playbook · Figma best practices: Branching · Fluent 2 (Microsoft) · Fluent 2: Motion · Gestalt (Pinterest) · GOV.UK Design System · How Spotify's Design System Goes Beyond Platforms (Figma blog) · IBM Design Language · IBM Design Language: Animation · iOS and iPadOS 27 (Apple) · Lightning Design System (Salesforce) · Material 3 Design Kit (Google) · Material 3: Motion · MUI · Polaris (Shopify) · Primer (GitHub) · Redesigning Design Systems · ServiceNow on Figma: Workspace kits · Spectrum (Adobe) · Spectrum: Motion · Untitled UI · Workspace → AI Components (ServiceNow) · zeroheight
+Admin Extensions UI Kit (Shopify) · ADS Components (Atlassian) · ADS Foundations (Atlassian) · Ant Design · App Icon Template: iOS, iPadOS and watchOS 27 (Apple) · Apple Design Resources · Apple Design Resources on Figma · Apple HIG: Motion · Atlassian Design System · Atlassian: Motion · Base Web (Uber) · Button states (Figma) · Carbon Design System (IBM) · Carbon Design System v11 (IBM) · Carbon Native Mobile, beta (IBM) · Carbon: Motion · Cloudscape (AWS) · Cloudscape Component Library (AWS) · Decathlon Design System · Design at Uber · Design system examples (Figma) · Design Systems Repo · Design token architecture (Figma) · Design tokens (Figma) · DesignSystems.com (Figma) · eBay Playbook · Enterprise design systems (Figma) · Figma best practices: Branching · Fluent 2 (Microsoft) · Fluent 2: Motion · Gestalt (Pinterest) · GOV.UK Design System · How Spotify's Design System Goes Beyond Platforms (Figma blog) · IBM Design Language · IBM Design Language: Animation · iOS and iPadOS 27 (Apple) · IxDF: Design Systems · Lightning Design System (Salesforce) · Lightning Design System: Components for Web (Salesforce) · macOS 27 (Apple) · Material 3 Design Kit (Google) · Material 3: Motion · Microsoft Fluent 2 Web · MUI · Polaris (Shopify) · Polaris UI Kit (Shopify) · Primer (GitHub) · Primer Web (GitHub) · Redesigning Design Systems · ServiceNow on Figma: Workspace kits · Simple Design System (Figma) · SLDS Web Components v2 Style Guide (Salesforce) · Spectrum (Adobe) · Spectrum: Motion · Untitled UI · Workspace → AI Components (ServiceNow) · zeroheight
 
 ### [Component Libraries](topics/component-libraries.md)
 
@@ -44,11 +44,11 @@ Ant Design · Apple Design Resources on Figma · Apple HIG: Motion · Atlassian 
 
 ### [Design to Code](topics/design-to-code.md)
 
-3D transforms playground (Figma) · Figma agent starter prompts (Figma) · Figma events and webinars · Figma MCP Catalog · Figma motion updates (Figma) · Figma on Figma Community (@figma) · Figma Skills: Code to Design Workflows · Generative plugins and shaders playground (Figma) · getdesign.md · Lazyweb MCP · Memorisely AI Coding Bootcamp · Session 1: Figma MCP server remote installation · Session 1: GitHub Hello World · Session 1: Syncing design systems using the Variables REST API · Session 2: Guide to Dev Mode · Session 2: How to structure your Figma file for better code · Session 2: Prompting with Figma MCP · Session 3: About Git · Session 3: Code Connect CLI quickstart · Session 3: Code Connect template files · Summer School starter file · Summer School: Designer to Builder series · Unicorn Studio
+3D transforms playground (Figma) · Figma agent starter prompts (Figma) · Figma events and webinars · Figma MCP Catalog · Figma motion updates (Figma) · Figma on Figma Community (@figma) · Figma Skills: Code to Design Workflows · Generative plugins and shaders playground (Figma) · getdesign.md · Lazyweb MCP · Memorisely AI Coding Bootcamp · Session 1: Figma MCP server remote installation · Session 1: GitHub Hello World · Session 1: Syncing design systems using the Variables REST API · Session 2: Guide to Dev Mode · Session 2: How to structure your Figma file for better code · Session 2: Prompting with Figma MCP · Session 3: About Git · Session 3: Code Connect CLI quickstart · Session 3: Code Connect template files · Summer School starter file · Summer School: Designer to Builder series · Unicorn Studio · What is MCP (Figma)
 
 ### [Developer Handoff](topics/handoff.md)
 
-Figma Code Connect · Figma Dev Mode
+Android Design (Google) · Apple Human Interface Guidelines · Automated UI handoff (Figma) · Figma Code Connect · Figma Dev Mode · Flutter: Building user interfaces
 
 ### [Tools](topics/tools.md)
 
@@ -56,7 +56,7 @@ App Mockup Studio · AutoDraw · Cleanup.pictures · Contentcore · Design.com �
 
 ### [AI and Creative Technology](topics/ai-and-creative-tech.md)
 
-Claude Certified Architect – Foundations (Anthropic Academy) · Experiments with Google · Magenta (Google) · Midjourney · Refik Anadol · Runway · Shader Gradient · Sougwen Chung (愫君) · Synthesia · Teachable Machine (Google) · Three.js · Vizcom
+AI tools for UX designers (Figma) · Claude Certified Architect – Foundations (Anthropic Academy) · Experiments with Google · Figma Weave · Magenta (Google) · Midjourney · Refik Anadol · Runway · Shader Gradient · Sougwen Chung (愫君) · Synthesia · Teachable Machine (Google) · Three.js · Vizcom
 
 ### [Claude Skills and Awesome Lists](topics/awesome-lists.md)
 
@@ -66,7 +66,7 @@ anthropics/skills · Awesome Design Tools · awesome-claude-code · awesome-clau
 
 ### [UX Research and Guidelines](topics/ux-research.md)
 
-Baymard Institute · Growth.Design · Laws of UX · Nielsen Norman Group · Smart Interface Design Patterns · Smashing Magazine · UX Matters
+Baymard Institute · Growth.Design · IxDF: User Research · Laws of UX · Nielsen Norman Group · Service blueprint (Figma) · Smart Interface Design Patterns · Smashing Magazine · UX Matters · What is information architecture (Figma)
 
 ### [UX Design Process](topics/ux-process.md)
 
@@ -74,7 +74,7 @@ About Face: The Essentials of Interaction Design · Alexa Design Guide · Apple 
 
 ### [Research and Testing Tools](topics/research-and-testing.md)
 
-Baymard Institute: Research · Coglode · Dovetail · Indeemo · Loop11 · Lyssna (formerly UsabilityHub) · Maze · Optimal Workshop: Treejack · TheyDo · Useberry · User Interviews · UserTesting
+Baymard Institute: Research · Coglode · Concept testing examples (Figma) · Dovetail · Indeemo · Loop11 · Lyssna (formerly UsabilityHub) · Maze · MVP testing methods (Figma) · Optimal Workshop: Treejack · TheyDo · Useberry · User Interviews · UserTesting
 
 ### [Metrics and Growth](topics/metrics-and-growth.md)
 
@@ -82,7 +82,7 @@ How Tinder Designs Product (ADPList) · Product-Led Growth (Wes Bush) · Startup
 
 ### [Benchmarks and Competitors](topics/benchmarks.md)
 
-Crunchbase · Sensor Tower (formerly data.ai) · Shopify POS · Similarweb · Zettle by PayPal
+Competitive analysis (Figma) · Crunchbase · Sensor Tower (formerly data.ai) · Shopify POS · Similarweb · Zettle by PayPal
 
 ### [UX Curators and Vitaly Friedman](topics/ux-curators.md)
 
@@ -92,7 +92,7 @@ Agentic Experience Design · Andy Budd · Atlassian — Voice and Tone · Chris 
 
 ### [Forms](topics/forms.md)
 
-Form Design Best Practices (Andrew Coyle) · GOV.UK: Question pages · Typeform
+Apple HIG: Text fields · Baymard: Form Design · Carbon: Forms pattern (IBM) · Form Design Best Practices (Andrew Coyle) · Form Design Patterns (Adam Silver) · Forms that Work (Caroline Jarrett, Gerry Gaffney) · GOV.UK: Question pages · Material 3: Text fields (Google) · Typeform · Web Form Design: Filling in the Blanks (Luke Wroblewski) · Website Forms Usability: Top 10 Recommendations (NN/g)
 
 ### [Tables and Dashboards](topics/tables-and-dashboards.md)
 
@@ -104,23 +104,23 @@ Analyzing Minard's Visualization of Napoleon's 1812 March · Carbon: Data Visual
 
 ### [Mobile Design](topics/mobile-design.md)
 
-iOS Font Size Guidelines (Learn UI Design) · iOS vs. Android App UI Design (Learn UI Design) · Screenlane · SCRNSHTS · The iOS Design Guidelines (Ivo Mynttinen) · UI Sources · Webframe
+iOS Font Size Guidelines (Learn UI Design) · iOS vs. Android App UI Design (Learn UI Design) · IxDF: Mobile UX Design · Responsive website design (Figma) · Screenlane · SCRNSHTS · The iOS Design Guidelines (Ivo Mynttinen) · UI Sources · Webframe
 
 ### [Accessibility and Inclusive Design](topics/accessibility.md)
 
-Accessibility Not-Checklist (Intopia) · Adee Comprehensive Accessibility Tool · APCA contrast (Myndex) · ARIA Authoring Practices: Patterns (W3C) · Contrast · Contrast Grid · Stark · StatCounter: Mobile Screen Resolutions · Understanding WCAG 2.2 (GOV.UK Service Manual)
+Accessibility Not-Checklist (Intopia) · Adee Comprehensive Accessibility Tool · APCA contrast (Myndex) · ARIA Authoring Practices: Patterns (W3C) · Contrast · Contrast Grid · IxDF: Accessibility · Stark · StatCounter: Mobile Screen Resolutions · Understanding WCAG 2.2 (GOV.UK Service Manual)
 
 ### [E-commerce](topics/ecommerce.md)
 
-Baymard: E-Commerce UX Benchmark · Sears Catalog History · Shopify Editions · Shopify UX: Empty States
+Baymard Blog · Baymard: E-Commerce UX Benchmark · Cart Abandonment Rate Statistics · Checkout Usability · Dawn theme (Shopify) · E-Commerce Search UX · E-Commerce User Experience (NN/g report) · Ecomm.design · Homepage and Category Navigation · IxDF: E-commerce · Mobile E-Commerce UX · Polaris UI Kit (Shopify) · Pricing page best practices (Figma) · Product Lists and Filtering · Product Page UX · Sears Catalog History · Shopify Blog · Shopify Editions · Shopify POS · Shopify UX: Empty States
 
 ### [Email Design](topics/email-design.md)
 
-beehiiv · Really Good Emails
+Accessible Email · beehiiv · Can I email · Email Love · Email Newsletter Design (NN/g report) · Good Email Code · Litmus Blog · Milled · MJML · React Email · Really Good Emails
 
 ### [Writing and UX Writing](topics/writing.md)
 
-Google Developer Documentation Style Guide · Mailchimp Content Style Guide · Readymag: How to Create an Awesome Long Read
+Apple HIG: Writing · Content Design (Sarah Winters) · figma-ux-writing-style (Figma skill) · Google Developer Documentation Style Guide · GOV.UK: Content design · IxDF: UX Writing · Mailchimp Content Style Guide · Material 3: Content design · Microcopy: The Complete Guide (Kinneret Yifrah) · Polaris: Voice and tone (Shopify) · Readymag: How to Create an Awesome Long Read · Strategic Writing for UX (Torrey Podmajersky) · UX Writing Hub · Writing Is Designing (Michael J. Metts, Andy Welfle)
 
 ## History and Archives
 
@@ -192,7 +192,7 @@ ADC Annual Awards (The One Club) · Apple Design Awards · Cannes Lions · Core7
 
 ### [Learning](topics/learning.md)
 
-ARCHITIME.RU · DK — Art: The Definitive Visual Guide (2023) · DK — Design: The Definitive Visual Guide (2023) · How to Be a Graphic Designer without Losing Your Soul (Adrian Shaughnessy) · Meggs' History of Graphic Design (Philip B. Meggs, Alston W. Purvis) · Microcopy: The Complete Guide (Kinneret Yifrah) · Paula Scher: Graphic Design (BBC Maestro) · The Elements of Typographic Style (Robert Bringhurst) · Universal Methods of Design (Bruce Hanington, Bella Martin) · Ways of Seeing (John Berger) · Школа дизайна Алексея Ромашина (Alexey Romashin Design School)
+ARCHITIME.RU · Design for a Better World (Don Norman) · Designing Web Usability (Jakob Nielsen) · Digital Icons that Work (Kate Kaplan, Kelley Gordon) · DK — Art: The Definitive Visual Guide (2023) · DK — Design: The Definitive Visual Guide (2023) · Don't Make Me Think, Revisited (Steve Krug) · Emotional Design (Don Norman) · Eyetracking Web Usability (Jakob Nielsen, Kara Pernice) · Figma Resource Library · Friends of Figma · Homepage Usability (Jakob Nielsen, Marie Tahir) · How to Be a Graphic Designer without Losing Your Soul (Adrian Shaughnessy) · International User Interfaces (Jakob Nielsen) · Living with Complexity (Don Norman) · Meggs' History of Graphic Design (Philip B. Meggs, Alston W. Purvis) · Microcopy: The Complete Guide (Kinneret Yifrah) · Mobile Usability (Jakob Nielsen, Raluca Budiu) · Paula Scher: Graphic Design (BBC Maestro) · Prioritizing Web Usability (Hoa Loranger, Jakob Nielsen) · The Design of Everyday Things, Revised Edition (Don Norman) · The Design of Future Things (Don Norman) · The Elements of Typographic Style (Robert Bringhurst) · Tog on Interface (Bruce Tognazzini) · Universal Methods of Design (Bruce Hanington, Bella Martin) · Usability Engineering (Jakob Nielsen) · Usability Inspection Methods (Jakob Nielsen) · Ways of Seeing (John Berger) · Школа дизайна Алексея Ромашина (Alexey Romashin Design School)
 
 ### [Online Learning](topics/online-learning.md)
 

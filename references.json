@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1066,
+ "count": 1169,
  "references": [
   {
    "topic": "ui-patterns",
@@ -96,6 +96,14 @@
    "name": "Welie.com Interaction Design Pattern Library",
    "url": "http://www.welie.com/patterns/",
    "description": "Classic pattern library",
+   "access": "Free"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "More Patterns",
+   "name": "UI design principles (Figma)",
+   "url": "https://www.figma.com/resource-library/ui-design-principles/",
+   "description": "Core UI principles with examples",
    "access": "Free"
   },
   {
@@ -435,6 +443,14 @@
    "access": "Freemium"
   },
   {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Landing page examples (Figma)",
+   "url": "https://www.figma.com/resource-library/landing-page-examples/",
+   "description": "Annotated landing page examples",
+   "access": "Free"
+  },
+  {
    "topic": "images-and-moodboards",
    "section": "Images and Moodboards",
    "name": "Cosmos",
@@ -568,6 +584,14 @@
    "name": "Color Hunt",
    "url": "https://colorhunt.co/",
    "description": "Ready-made colour palettes.",
+   "access": "Free"
+  },
+  {
+   "topic": "color",
+   "section": "Learning",
+   "name": "Color theory (Figma)",
+   "url": "https://www.figma.com/resource-library/color-theory/",
+   "description": "Colour theory articles and tools",
    "access": "Free"
   },
   {
@@ -859,6 +883,14 @@
    "access": "Free"
   },
   {
+   "topic": "typography",
+   "section": "Tools and Learning",
+   "name": "Typography in design (Figma)",
+   "url": "https://www.figma.com/resource-library/typography-in-design/",
+   "description": "Type basics for interfaces",
+   "access": "Free"
+  },
+  {
    "topic": "motion",
    "section": "Micro-interactions and Motion References",
    "name": "Design Spells",
@@ -1099,6 +1131,14 @@
    "access": "Free"
   },
   {
+   "topic": "motion",
+   "section": "More Motion",
+   "name": "What is motion design (Figma)",
+   "url": "https://www.figma.com/resource-library/what-is-motion-design/",
+   "description": "Motion design basics",
+   "access": "Free"
+  },
+  {
    "topic": "ux-research",
    "section": "Research and Guidelines",
    "name": "Nielsen Norman Group",
@@ -1152,6 +1192,30 @@
    "name": "Smashing Magazine",
    "url": "https://www.smashingmagazine.com/",
    "description": "Articles on UX and front-end development.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Interaction Design Foundation",
+   "name": "IxDF: User Research",
+   "url": "https://ixdf.org/literature/topics/user-research",
+   "description": "Articles on research methods",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Figma Resource Library",
+   "name": "What is information architecture (Figma)",
+   "url": "https://www.figma.com/resource-library/what-is-information-architecture/",
+   "description": "IA explained with examples",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Figma Resource Library",
+   "name": "Service blueprint (Figma)",
+   "url": "https://www.figma.com/resource-library/service-blueprint/",
+   "description": "How to map a service",
    "access": "Free"
   },
   {
@@ -3956,11 +4020,155 @@
   },
   {
    "topic": "learning",
+   "section": "Books Worth Owning",
+   "name": "Don't Make Me Think, Revisited (Steve Krug)",
+   "url": "https://sensible.com/dont-make-me-think/",
+   "description": "The friendliest book on web usability",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
    "section": "Courses by Masters",
    "name": "Paula Scher: Graphic Design (BBC Maestro)",
    "url": "https://www.bbcmaestro.com/courses/paula-scher/graphic-design",
    "description": "Video course by the Pentagram partner, with course notes",
    "access": "Paid"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "The Design of Everyday Things, Revised Edition (Don Norman)",
+   "url": "https://www.nngroup.com/books/design-everyday-things-revised/",
+   "description": "The foundation of human-centred design",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Emotional Design (Don Norman)",
+   "url": "https://www.nngroup.com/books/emotional-design/",
+   "description": "Why attractive things work better",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Living with Complexity (Don Norman)",
+   "url": "https://www.nngroup.com/books/living-with-complexity/",
+   "description": "Good design tames complexity rather than removing it",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "The Design of Future Things (Don Norman)",
+   "url": "https://www.nngroup.com/books/design-of-future-things/",
+   "description": "Design of smart machines and automation",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Design for a Better World (Don Norman)",
+   "url": "https://www.nngroup.com/books/design-for-a-better-world-meaningful-sustainable-h/",
+   "description": "Meaningful, sustainable, humanity-centred design",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Digital Icons that Work (Kate Kaplan, Kelley Gordon)",
+   "url": "https://www.nngroup.com/books/digital-icons-that-work/",
+   "description": "Research-based guidelines for interface icons, 2024",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Mobile Usability (Jakob Nielsen, Raluca Budiu)",
+   "url": "https://www.nngroup.com/books/mobile-usability/",
+   "description": "Usability for small screens",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Eyetracking Web Usability (Jakob Nielsen, Kara Pernice)",
+   "url": "https://www.nngroup.com/books/eyetracking-web-usability/",
+   "description": "How eyes move across web pages",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Prioritizing Web Usability (Hoa Loranger, Jakob Nielsen)",
+   "url": "https://www.nngroup.com/books/prioritizing-web-usability/",
+   "description": "The web guidelines that matter most",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Homepage Usability (Jakob Nielsen, Marie Tahir)",
+   "url": "https://www.nngroup.com/books/homepage-usability/",
+   "description": "50 websites deconstructed",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Designing Web Usability (Jakob Nielsen)",
+   "url": "https://www.nngroup.com/books/designing-web-usability/",
+   "description": "The landmark web usability book",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Usability Engineering (Jakob Nielsen)",
+   "url": "https://www.nngroup.com/books/usability-engineering/",
+   "description": "Methods across the development lifecycle",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Usability Inspection Methods (Jakob Nielsen)",
+   "url": "https://www.nngroup.com/books/usability-inspection-methods/",
+   "description": "Heuristic evaluation and walkthroughs",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "International User Interfaces (Jakob Nielsen)",
+   "url": "https://www.nngroup.com/books/international-user-interfaces/",
+   "description": "Designing for other cultures and languages",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Books by NN/g Authors",
+   "name": "Tog on Interface (Bruce Tognazzini)",
+   "url": "https://www.nngroup.com/books/tog-on-interface/",
+   "description": "Classic principles of GUI design",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "learning",
+   "section": "Figma Resource Library",
+   "name": "Figma Resource Library",
+   "url": "https://www.figma.com/resource-library/",
+   "description": "Figma's how-to and best-practice articles across design, research and AI",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "Communities",
+   "name": "Friends of Figma",
+   "url": "https://friends.figma.com/",
+   "description": "Local Figma user groups and events worldwide, including Lisbon",
+   "access": "Free"
   },
   {
    "topic": "graphic-design-history",
@@ -7684,6 +7892,14 @@
   },
   {
    "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "IxDF: Design Systems",
+   "url": "https://ixdf.org/literature/topics/design-systems",
+   "description": "Articles on design systems",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
    "section": "Official Figma Kits",
    "name": "Apple Design Resources on Figma",
    "url": "https://www.figma.com/@apple",
@@ -7729,6 +7945,158 @@
    "url": "https://www.figma.com/community/file/1585292872561164967/cds-component-library-2-0-3",
    "description": "Official AWS Cloudscape Figma library",
    "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Microsoft Fluent 2 Web",
+   "url": "https://www.figma.com/community/file/836828295772957889/microsoft-fluent-2-web",
+   "description": "Official Fluent 2 web kit by Microsoft",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Carbon Design System v11 (IBM)",
+   "url": "https://www.figma.com/community/file/1157761560874207208/v11-carbon-design-system",
+   "description": "Official IBM Carbon kit",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Carbon Native Mobile, beta (IBM)",
+   "url": "https://www.figma.com/community/file/1344750386424877272/beta-carbon-native-mobile-carbon-design-system",
+   "description": "IBM's native mobile components",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Polaris UI Kit (Shopify)",
+   "url": "https://www.figma.com/community/file/1554895871000783188/polaris-ui-kit-community",
+   "description": "Official Shopify admin kit",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Admin Extensions UI Kit (Shopify)",
+   "url": "https://www.figma.com/community/file/1265417558571498993/admin-extensions-ui-kit",
+   "description": "Shopify kit for app extensions in the admin",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Primer Web (GitHub)",
+   "url": "https://www.figma.com/community/file/854767373644076713/primer-web",
+   "description": "Official GitHub Primer kit",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "ADS Foundations (Atlassian)",
+   "url": "https://www.figma.com/community/file/1527530559648073327/ads-foundations",
+   "description": "Atlassian colours, type, spacing and icons",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "ADS Components (Atlassian)",
+   "url": "https://www.figma.com/community/file/1527532229258392178/ads-components",
+   "description": "Atlassian component library",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Lightning Design System: Components for Web (Salesforce)",
+   "url": "https://www.figma.com/community/file/1399892502513202095/components-for-web-lightning-design-system-2",
+   "description": "Official SLDS 2 components",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "SLDS Web Components v2 Style Guide (Salesforce)",
+   "url": "https://www.figma.com/community/file/1415017035637927819/style-guide-slds-web-components-v2",
+   "description": "Salesforce style guide",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Simple Design System (Figma)",
+   "url": "https://www.figma.com/community/file/1380235722331273046/simple-design-system",
+   "description": "Figma's reference design system with variables and code",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "macOS 27 (Apple)",
+   "url": "https://www.figma.com/community/file/1651309434229735362/macos-27",
+   "description": "Apple's official macOS kit",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "App Icon Template: iOS, iPadOS and watchOS 27 (Apple)",
+   "url": "https://www.figma.com/community/file/1645923469870515372/app-icon-template-ios-ipados-and-watchos-27",
+   "description": "Apple's official app icon template",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Apple Design Resources",
+   "url": "https://developer.apple.com/design/resources/",
+   "description": "Apple's kits for Figma, Sketch and Photoshop, plus SF fonts and symbols",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Figma Resource Library",
+   "name": "Design tokens (Figma)",
+   "url": "https://www.figma.com/resource-library/design-tokens/",
+   "description": "What design tokens are and how to use them",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Figma Resource Library",
+   "name": "Design token architecture (Figma)",
+   "url": "https://www.figma.com/resource-library/design-token-architecture/",
+   "description": "How to structure token tiers",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Figma Resource Library",
+   "name": "Enterprise design systems (Figma)",
+   "url": "https://www.figma.com/resource-library/enterprise-design-systems/",
+   "description": "Scaling design systems in large organisations",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Figma Resource Library",
+   "name": "Design system examples (Figma)",
+   "url": "https://www.figma.com/resource-library/design-system-examples/",
+   "description": "Examples of public design systems",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Figma Resource Library",
+   "name": "Button states (Figma)",
+   "url": "https://www.figma.com/resource-library/button-states/",
+   "description": "Every state a button needs",
+   "access": "Free"
   },
   {
    "topic": "design-to-code",
@@ -7884,6 +8252,14 @@
   },
   {
    "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "What is MCP (Figma)",
+   "url": "https://www.figma.com/resource-library/what-is-mcp/",
+   "description": "Model Context Protocol explained for designers",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
    "section": "Agents and Code",
    "name": "getdesign.md",
    "url": "https://getdesign.md/",
@@ -8011,6 +8387,22 @@
    "access": "Freemium"
   },
   {
+   "topic": "research-and-testing",
+   "section": "Methods",
+   "name": "MVP testing methods (Figma)",
+   "url": "https://www.figma.com/resource-library/mvp-testing-methods/",
+   "description": "Ways to test an MVP",
+   "access": "Free"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Methods",
+   "name": "Concept testing examples (Figma)",
+   "url": "https://www.figma.com/resource-library/concept-testing-examples/",
+   "description": "How to test concepts before building",
+   "access": "Free"
+  },
+  {
    "topic": "metrics-and-growth",
    "section": "Books and Guides",
    "name": "Product-Led Growth (Wes Bush)",
@@ -8091,6 +8483,14 @@
    "access": "Free"
   },
   {
+   "topic": "benchmarks",
+   "section": "Methods",
+   "name": "Competitive analysis (Figma)",
+   "url": "https://www.figma.com/resource-library/competitive-analysis/",
+   "description": "Frameworks and templates for competitor analysis",
+   "access": "Free"
+  },
+  {
    "topic": "ecommerce",
    "section": "Research and Patterns",
    "name": "Baymard: E-Commerce UX Benchmark",
@@ -8123,6 +8523,134 @@
    "access": "Free"
   },
   {
+   "topic": "ecommerce",
+   "section": "Research and Patterns",
+   "name": "E-Commerce User Experience (NN/g report)",
+   "url": "https://www.nngroup.com/reports/ecommerce-user-experience/",
+   "description": "NN/g's multi-volume e-commerce research",
+   "access": "Paid"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Research and Patterns",
+   "name": "IxDF: E-commerce",
+   "url": "https://ixdf.org/literature/topics/e-commerce",
+   "description": "Interaction Design Foundation articles on e-commerce",
+   "access": "Free"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Research and Patterns",
+   "name": "Ecomm.design",
+   "url": "https://ecomm.design/",
+   "description": "Gallery of e-commerce sites by platform and category",
+   "access": "Free"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Research and Patterns",
+   "name": "Pricing page best practices (Figma)",
+   "url": "https://www.figma.com/resource-library/pricing-page-best-practices/",
+   "description": "How to design pricing pages",
+   "access": "Free"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Shopify",
+   "name": "Shopify Blog",
+   "url": "https://www.shopify.com/blog",
+   "description": "Articles on running and designing online stores",
+   "access": "Free"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Shopify",
+   "name": "Dawn theme (Shopify)",
+   "url": "https://themes.shopify.com/themes/dawn",
+   "description": "Shopify's reference storefront theme",
+   "access": "Free"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Shopify",
+   "name": "Polaris UI Kit (Shopify)",
+   "url": "https://www.figma.com/community/file/1554895871000783188/polaris-ui-kit-community",
+   "description": "Official Shopify admin kit in Figma",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Shopify",
+   "name": "Shopify POS",
+   "url": "https://www.shopify.com/pos",
+   "description": "Shopify's point-of-sale for retail",
+   "access": "Free"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Baymard Research",
+   "name": "Baymard Blog",
+   "url": "https://baymard.com/blog",
+   "description": "Weekly e-commerce UX research articles",
+   "access": "Free"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Baymard Research",
+   "name": "Checkout Usability",
+   "url": "https://baymard.com/research/checkout-usability",
+   "description": "Research on checkout flows",
+   "access": "Paid"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Baymard Research",
+   "name": "Product Page UX",
+   "url": "https://baymard.com/research/product-page",
+   "description": "Research on product detail pages",
+   "access": "Paid"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Baymard Research",
+   "name": "Mobile E-Commerce UX",
+   "url": "https://baymard.com/research/mcommerce-usability",
+   "description": "Research on mobile shopping",
+   "access": "Paid"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Baymard Research",
+   "name": "E-Commerce Search UX",
+   "url": "https://baymard.com/research/ecommerce-search",
+   "description": "Research on on-site search",
+   "access": "Paid"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Baymard Research",
+   "name": "Product Lists and Filtering",
+   "url": "https://baymard.com/research/ecommerce-product-lists",
+   "description": "Research on category pages and filters",
+   "access": "Paid"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Baymard Research",
+   "name": "Homepage and Category Navigation",
+   "url": "https://baymard.com/research/homepage-and-category-usability",
+   "description": "Research on store navigation",
+   "access": "Paid"
+  },
+  {
+   "topic": "ecommerce",
+   "section": "Baymard Research",
+   "name": "Cart Abandonment Rate Statistics",
+   "url": "https://baymard.com/lists/cart-abandonment-rate",
+   "description": "Benchmark data and reasons for abandonment",
+   "access": "Free"
+  },
+  {
    "topic": "writing",
    "section": "UX Writing",
    "name": "Mailchimp Content Style Guide",
@@ -8145,6 +8673,94 @@
    "url": "https://blog.readymag.com/how-to-create-an-awesome-long-read-3b0a040f5416",
    "description": "Layout and pacing of long-form web stories",
    "access": "Free"
+  },
+  {
+   "topic": "writing",
+   "section": "Books",
+   "name": "Microcopy: The Complete Guide (Kinneret Yifrah)",
+   "url": "https://www.microcopybook.com/",
+   "description": "The best book on interface microcopy, 2nd edition",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "writing",
+   "section": "Books",
+   "name": "Writing Is Designing (Michael J. Metts, Andy Welfle)",
+   "url": "https://rosenfeldmedia.com/books/writing-is-designing/",
+   "description": "Words as part of the user experience",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "writing",
+   "section": "Books",
+   "name": "Strategic Writing for UX (Torrey Podmajersky)",
+   "url": "https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/",
+   "description": "Voice charts and UX text patterns",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "writing",
+   "section": "Books",
+   "name": "Content Design (Sarah Winters)",
+   "url": "https://contentdesign.london/",
+   "description": "The book and school that defined content design",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "writing",
+   "section": "Guidelines",
+   "name": "Apple HIG: Writing",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/writing",
+   "description": "Apple's rules for interface text",
+   "access": "Free"
+  },
+  {
+   "topic": "writing",
+   "section": "Guidelines",
+   "name": "Material 3: Content design",
+   "url": "https://m3.material.io/foundations/content-design/overview",
+   "description": "Google's guidance on UX writing",
+   "access": "Free"
+  },
+  {
+   "topic": "writing",
+   "section": "Guidelines",
+   "name": "Polaris: Voice and tone (Shopify)",
+   "url": "https://polaris-react.shopify.com/content/voice-and-tone",
+   "description": "Shopify's content guidelines",
+   "access": "Free"
+  },
+  {
+   "topic": "writing",
+   "section": "Guidelines",
+   "name": "GOV.UK: Content design",
+   "url": "https://www.gov.uk/guidance/content-design",
+   "description": "Writing for public services",
+   "access": "Free"
+  },
+  {
+   "topic": "writing",
+   "section": "Guidelines",
+   "name": "figma-ux-writing-style (Figma skill)",
+   "url": "https://www.figma.com/community/skill/67176/figma-ux-writing-style",
+   "description": "Figma's own UX writing style as an agent skill",
+   "access": "Free"
+  },
+  {
+   "topic": "writing",
+   "section": "Learning",
+   "name": "IxDF: UX Writing",
+   "url": "https://ixdf.org/literature/topics/ux-writing",
+   "description": "Interaction Design Foundation articles on UX writing",
+   "access": "Free"
+  },
+  {
+   "topic": "writing",
+   "section": "Learning",
+   "name": "UX Writing Hub",
+   "url": "https://uxwritinghub.com/",
+   "description": "Courses and articles on UX writing",
+   "access": "Freemium"
   },
   {
    "topic": "data-visualization",
@@ -8251,6 +8867,70 @@
    "access": "Freemium"
   },
   {
+   "topic": "forms",
+   "section": "Books",
+   "name": "Web Form Design: Filling in the Blanks (Luke Wroblewski)",
+   "url": "https://rosenfeldmedia.com/books/web-form-design/",
+   "description": "The classic book on form design",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "forms",
+   "section": "Books",
+   "name": "Form Design Patterns (Adam Silver)",
+   "url": "https://www.smashingmagazine.com/printed-books/form-design-patterns/",
+   "description": "Accessible, inclusive form patterns with code, Smashing Magazine",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "forms",
+   "section": "Books",
+   "name": "Forms that Work (Caroline Jarrett, Gerry Gaffney)",
+   "url": "https://openlibrary.org/search?q=forms+that+work+jarrett",
+   "description": "Designing web forms for usability",
+   "access": "Book to buy or borrow"
+  },
+  {
+   "topic": "forms",
+   "section": "Research and Guidelines",
+   "name": "Website Forms Usability: Top 10 Recommendations (NN/g)",
+   "url": "https://www.nngroup.com/articles/web-form-design/",
+   "description": "Research-based form guidelines",
+   "access": "Free"
+  },
+  {
+   "topic": "forms",
+   "section": "Research and Guidelines",
+   "name": "Baymard: Form Design",
+   "url": "https://baymard.com/learn/form-design",
+   "description": "Form field usability from checkout research",
+   "access": "Free"
+  },
+  {
+   "topic": "forms",
+   "section": "Design System Patterns",
+   "name": "Carbon: Forms pattern (IBM)",
+   "url": "https://carbondesignsystem.com/patterns/forms-pattern/",
+   "description": "Form layout, validation and states",
+   "access": "Free"
+  },
+  {
+   "topic": "forms",
+   "section": "Design System Patterns",
+   "name": "Material 3: Text fields (Google)",
+   "url": "https://m3.material.io/components/text-fields/overview",
+   "description": "Text field anatomy and behaviour",
+   "access": "Free"
+  },
+  {
+   "topic": "forms",
+   "section": "Design System Patterns",
+   "name": "Apple HIG: Text fields",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/text-fields",
+   "description": "Text input on Apple platforms",
+   "access": "Free"
+  },
+  {
    "topic": "email-design",
    "section": "Inspiration",
    "name": "Really Good Emails",
@@ -8260,11 +8940,83 @@
   },
   {
    "topic": "email-design",
+   "section": "Inspiration",
+   "name": "Milled",
+   "url": "https://milled.com/",
+   "description": "Searchable archive of brand newsletters, strong on e-commerce",
+   "access": "Free"
+  },
+  {
+   "topic": "email-design",
+   "section": "Inspiration",
+   "name": "Email Love",
+   "url": "https://emaillove.com/",
+   "description": "Curated email designs with Figma templates",
+   "access": "Freemium"
+  },
+  {
+   "topic": "email-design",
    "section": "Tools",
    "name": "beehiiv",
    "url": "https://www.beehiiv.com/",
    "description": "Newsletter platform for writing and growing lists",
    "access": "Freemium"
+  },
+  {
+   "topic": "email-design",
+   "section": "Code and Testing",
+   "name": "Can I email",
+   "url": "https://www.caniemail.com/",
+   "description": "Which HTML and CSS features work in which email clients",
+   "access": "Free"
+  },
+  {
+   "topic": "email-design",
+   "section": "Code and Testing",
+   "name": "Good Email Code",
+   "url": "https://www.goodemailcode.com/",
+   "description": "Accessible email HTML patterns by Mark Robbins",
+   "access": "Free"
+  },
+  {
+   "topic": "email-design",
+   "section": "Code and Testing",
+   "name": "MJML",
+   "url": "https://mjml.io/",
+   "description": "Framework for responsive email",
+   "access": "Free"
+  },
+  {
+   "topic": "email-design",
+   "section": "Code and Testing",
+   "name": "React Email",
+   "url": "https://react.email/",
+   "description": "Build emails with React components",
+   "access": "Free"
+  },
+  {
+   "topic": "email-design",
+   "section": "Code and Testing",
+   "name": "Accessible Email",
+   "url": "https://www.accessible-email.org/",
+   "description": "Check emails for accessibility issues",
+   "access": "Free"
+  },
+  {
+   "topic": "email-design",
+   "section": "Research and Learning",
+   "name": "Litmus Blog",
+   "url": "https://www.litmus.com/blog",
+   "description": "Email design and marketing research",
+   "access": "Free"
+  },
+  {
+   "topic": "email-design",
+   "section": "Research and Learning",
+   "name": "Email Newsletter Design (NN/g report)",
+   "url": "https://www.nngroup.com/reports/email-newsletter-design/",
+   "description": "NN/g research on newsletters and transactional email",
+   "access": "Paid"
   },
   {
    "topic": "accessibility",
@@ -8296,6 +9048,14 @@
    "name": "APCA contrast (Myndex)",
    "url": "https://apcacontrast.com/",
    "description": "Contrast calculator for the APCA method",
+   "access": "Free"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Guidelines",
+   "name": "IxDF: Accessibility",
+   "url": "https://ixdf.org/literature/topics/accessibility",
+   "description": "Articles on accessible design",
    "access": "Free"
   },
   {
@@ -8355,6 +9115,38 @@
    "access": "Free"
   },
   {
+   "topic": "handoff",
+   "section": "Handoff",
+   "name": "Automated UI handoff (Figma)",
+   "url": "https://www.figma.com/resource-library/automated-ui-handoff/",
+   "description": "How to automate design-to-development handoff",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Platform Guidelines",
+   "name": "Apple Human Interface Guidelines",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/",
+   "description": "Source of truth for iOS, iPadOS, macOS, watchOS and visionOS handoff",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Platform Guidelines",
+   "name": "Android Design (Google)",
+   "url": "https://developer.android.com/design",
+   "description": "Android UI design guidance, layouts and adaptive apps",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Platform Guidelines",
+   "name": "Flutter: Building user interfaces",
+   "url": "https://docs.flutter.dev/ui",
+   "description": "Official Flutter docs on widgets, layout and adaptive design",
+   "access": "Free"
+  },
+  {
    "topic": "mobile-design",
    "section": "Guides",
    "name": "iOS vs. Android App UI Design (Learn UI Design)",
@@ -8376,6 +9168,22 @@
    "name": "The iOS Design Guidelines (Ivo Mynttinen)",
    "url": "https://ivomynttinen.com/blog/ios-design-guidelines",
    "description": "Illustrated summary of iOS guidelines",
+   "access": "Free"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Guides",
+   "name": "IxDF: Mobile UX Design",
+   "url": "https://ixdf.org/literature/topics/mobile-ux-design",
+   "description": "Articles on mobile UX",
+   "access": "Free"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Guides",
+   "name": "Responsive website design (Figma)",
+   "url": "https://www.figma.com/resource-library/responsive-website-design/",
+   "description": "Responsive layout principles",
    "access": "Free"
   },
   {
@@ -8476,6 +9284,14 @@
   },
   {
    "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Figma Weave",
+   "url": "https://weave.figma.com/",
+   "description": "Node-based AI workflows for image, video and 3D (formerly Weavy)",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
    "section": "Artists and Experiments",
    "name": "Refik Anadol",
    "url": "https://refikanadol.com/",
@@ -8504,6 +9320,14 @@
    "name": "Claude Certified Architect – Foundations (Anthropic Academy)",
    "url": "https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification",
    "description": "Anthropic certification course",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Learning",
+   "name": "AI tools for UX designers (Figma)",
+   "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers/",
+   "description": "Overview of AI tools in the UX process",
    "access": "Free"
   },
   {

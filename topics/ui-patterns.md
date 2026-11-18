@@ -1,7 +1,8 @@
 ---
 title: UI Patterns and Real Products
+aliases: [UI-паттерны, паттерны интерфейсов]
 tags: [ui, patterns, mobile, web]
-entries: 12
+entries: 13
 ---
 
 # UI Patterns and Real Products
@@ -34,3 +35,4 @@ Related: [Web Galleries](web-galleries.md) · [UX Research and Guidelines](ux-re
 ## More Patterns
 
 - [Welie.com Interaction Design Pattern Library](http://www.welie.com/patterns/) - Classic pattern library. *Free.*
+- [UI design principles (Figma)](https://www.figma.com/resource-library/ui-design-principles/) - Core UI principles with examples. *Free.*

@@ -1,5 +1,6 @@
 ---
 title: Regions of the World
+aliases: [регионы, страны]
 tags: [regions, museums, world]
 entries: 32
 ---

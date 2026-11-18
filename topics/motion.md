@@ -1,7 +1,8 @@
 ---
 title: Motion and Micro-interactions
+aliases: [моушн, анимация, animation]
 tags: [motion, micro-interactions]
-entries: 30
+entries: 31
 ---
 
 # Motion and Micro-interactions
@@ -56,3 +57,4 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [Moving Parts](https://movingparts.supply/library/) - Web animation library. *Freemium.*
 - [AEUX](https://github.com/google/aeux) - Open-source plugin to move Figma layers into After Effects. *Free.*
 - [Lusion Labs](https://labs.lusion.co/) - WebGL experiments by Lusion. *Free.*
+- [What is motion design (Figma)](https://www.figma.com/resource-library/what-is-motion-design/) - Motion design basics. *Free.*

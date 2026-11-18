@@ -1,5 +1,6 @@
 ---
 title: Off Topic
+aliases: [оффтоп]
 tags: [off-topic, radio, games]
 entries: 69
 ---

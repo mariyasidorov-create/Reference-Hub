@@ -1,5 +1,6 @@
 ---
 title: Claude Skills and Awesome Lists
+aliases: [скиллы, awesome-списки]
 tags: [ai, skills, github]
 entries: 20
 ---

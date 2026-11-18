@@ -1,7 +1,8 @@
 ---
 title: Web Galleries
+aliases: [галереи сайтов, веб-референсы]
 tags: [web, inspiration, layout]
-entries: 42
+entries: 43
 ---
 
 # Web Galleries
@@ -64,3 +65,4 @@ Related: [UI Patterns and Real Products](ui-patterns.md) · [Early Web History](
 - [The FWA](https://thefwa.com/) - Awards for innovative websites since 2000. *Free.*
 - [Codrops](https://tympanus.net/codrops/) - Web experiments and front-end tutorials. *Free.*
 - [Relume Library](https://library.relume.io/) - Website sections and wireframes. *Freemium.*
+- [Landing page examples (Figma)](https://www.figma.com/resource-library/landing-page-examples/) - Annotated landing page examples. *Free.*

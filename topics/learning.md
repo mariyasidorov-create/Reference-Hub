@@ -1,7 +1,8 @@
 ---
 title: Learning
+aliases: [обучение, книги, books]
 tags: [learning, books, youtube]
-entries: 11
+entries: 29
 ---
 
 # Learning
@@ -18,6 +19,9 @@ Related: [Graphic Design History](graphic-design-history.md) · [UX Curators and
 - [Books on the Shelf](#books-on-the-shelf)
 - [Books Worth Owning](#books-worth-owning)
 - [Courses by Masters](#courses-by-masters)
+- [Books by NN/g Authors](#books-by-nng-authors)
+- [Figma Resource Library](#figma-resource-library)
+- [Communities](#communities)
 
 ## YouTube Channels
 
@@ -37,7 +41,34 @@ Related: [Graphic Design History](graphic-design-history.md) · [UX Curators and
 - [How to Be a Graphic Designer without Losing Your Soul (Adrian Shaughnessy)](https://openlibrary.org/search?q=how+to+be+a+graphic+designer+without+losing+your+soul) - Practical and ethical advice for working designers. *Book to buy or borrow.*
 - [Universal Methods of Design (Bruce Hanington, Bella Martin)](https://www.quarto.com/books/9781631597480/universal-methods-of-design-expanded-and-revised) - 125 research and design methods, expanded edition. *Book to buy or borrow.*
 - [Microcopy: The Complete Guide (Kinneret Yifrah)](https://www.microcopybook.com/) - The handbook of interface microcopy, 2nd edition. *Book to buy or borrow.*
+- [Don't Make Me Think, Revisited (Steve Krug)](https://sensible.com/dont-make-me-think/) - The friendliest book on web usability. *Book to buy or borrow.*
 
 ## Courses by Masters
 
 - [Paula Scher: Graphic Design (BBC Maestro)](https://www.bbcmaestro.com/courses/paula-scher/graphic-design) - Video course by the Pentagram partner, with course notes. *Paid.*
+
+## Books by NN/g Authors
+
+- [The Design of Everyday Things, Revised Edition (Don Norman)](https://www.nngroup.com/books/design-everyday-things-revised/) - The foundation of human-centred design. *Book to buy or borrow.*
+- [Emotional Design (Don Norman)](https://www.nngroup.com/books/emotional-design/) - Why attractive things work better. *Book to buy or borrow.*
+- [Living with Complexity (Don Norman)](https://www.nngroup.com/books/living-with-complexity/) - Good design tames complexity rather than removing it. *Book to buy or borrow.*
+- [The Design of Future Things (Don Norman)](https://www.nngroup.com/books/design-of-future-things/) - Design of smart machines and automation. *Book to buy or borrow.*
+- [Design for a Better World (Don Norman)](https://www.nngroup.com/books/design-for-a-better-world-meaningful-sustainable-h/) - Meaningful, sustainable, humanity-centred design. *Book to buy or borrow.*
+- [Digital Icons that Work (Kate Kaplan, Kelley Gordon)](https://www.nngroup.com/books/digital-icons-that-work/) - Research-based guidelines for interface icons, 2024. *Book to buy or borrow.*
+- [Mobile Usability (Jakob Nielsen, Raluca Budiu)](https://www.nngroup.com/books/mobile-usability/) - Usability for small screens. *Book to buy or borrow.*
+- [Eyetracking Web Usability (Jakob Nielsen, Kara Pernice)](https://www.nngroup.com/books/eyetracking-web-usability/) - How eyes move across web pages. *Book to buy or borrow.*
+- [Prioritizing Web Usability (Hoa Loranger, Jakob Nielsen)](https://www.nngroup.com/books/prioritizing-web-usability/) - The web guidelines that matter most. *Book to buy or borrow.*
+- [Homepage Usability (Jakob Nielsen, Marie Tahir)](https://www.nngroup.com/books/homepage-usability/) - 50 websites deconstructed. *Book to buy or borrow.*
+- [Designing Web Usability (Jakob Nielsen)](https://www.nngroup.com/books/designing-web-usability/) - The landmark web usability book. *Book to buy or borrow.*
+- [Usability Engineering (Jakob Nielsen)](https://www.nngroup.com/books/usability-engineering/) - Methods across the development lifecycle. *Book to buy or borrow.*
+- [Usability Inspection Methods (Jakob Nielsen)](https://www.nngroup.com/books/usability-inspection-methods/) - Heuristic evaluation and walkthroughs. *Book to buy or borrow.*
+- [International User Interfaces (Jakob Nielsen)](https://www.nngroup.com/books/international-user-interfaces/) - Designing for other cultures and languages. *Book to buy or borrow.*
+- [Tog on Interface (Bruce Tognazzini)](https://www.nngroup.com/books/tog-on-interface/) - Classic principles of GUI design. *Book to buy or borrow.*
+
+## Figma Resource Library
+
+- [Figma Resource Library](https://www.figma.com/resource-library/) - Figma's how-to and best-practice articles across design, research and AI. *Free.*
+
+## Communities
+
+- [Friends of Figma](https://friends.figma.com/) - Local Figma user groups and events worldwide, including Lisbon. *Free.*

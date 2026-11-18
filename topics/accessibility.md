@@ -1,7 +1,8 @@
 ---
 title: Accessibility and Inclusive Design
+aliases: [доступность, инклюзивность, a11y, WCAG]
 tags: [accessibility, inclusive-design, wcag]
-entries: 9
+entries: 10
 ---
 
 # Accessibility and Inclusive Design
@@ -24,6 +25,7 @@ Related: [Forms](forms.md) · [Design Systems](design-systems.md) · [Mobile Des
 - [ARIA Authoring Practices: Patterns (W3C)](https://www.w3.org/WAI/ARIA/apg/patterns/) - Accessible patterns for common components. *Free.*
 - [Accessibility Not-Checklist (Intopia)](https://not-checklist.intopia.digital/) - WCAG by role and task, not as a checklist. *Free.*
 - [APCA contrast (Myndex)](https://apcacontrast.com/) - Contrast calculator for the APCA method. *Free.*
+- [IxDF: Accessibility](https://ixdf.org/literature/topics/accessibility) - Articles on accessible design. *Free.*
 
 ## Figma Plugins
 

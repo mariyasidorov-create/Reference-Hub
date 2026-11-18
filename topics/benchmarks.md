@@ -1,7 +1,8 @@
 ---
 title: Benchmarks and Competitors
+aliases: [бенчмарк, конкуренты, competitors]
 tags: [benchmark, competitors]
-entries: 5
+entries: 6
 ---
 
 # Benchmarks and Competitors
@@ -16,6 +17,7 @@ Related: [Metrics and Growth](metrics-and-growth.md) · [E-commerce](ecommerce.m
 
 - [Market Data](#market-data)
 - [Industry Players](#industry-players)
+- [Methods](#methods)
 
 ## Market Data
 
@@ -27,3 +29,7 @@ Related: [Metrics and Growth](metrics-and-growth.md) · [E-commerce](ecommerce.m
 
 - [Shopify POS](https://www.shopify.com/pos) - Reference point-of-sale product. *Free.*
 - [Zettle by PayPal](https://www.zettle.com/gb/pos-systems/retail) - Retail POS competitor. *Free.*
+
+## Methods
+
+- [Competitive analysis (Figma)](https://www.figma.com/resource-library/competitive-analysis/) - Frameworks and templates for competitor analysis. *Free.*

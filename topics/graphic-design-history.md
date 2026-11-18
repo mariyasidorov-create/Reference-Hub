@@ -1,5 +1,6 @@
 ---
 title: Graphic Design History
+aliases: [история графического дизайна]
 tags: [history, graphic-design, avant-garde, modernism]
 entries: 109
 ---

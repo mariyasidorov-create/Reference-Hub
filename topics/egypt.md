@@ -1,5 +1,6 @@
 ---
 title: Ancient Egypt
+aliases: [Египет]
 tags: [egypt, writing, archaeology]
 entries: 12
 ---

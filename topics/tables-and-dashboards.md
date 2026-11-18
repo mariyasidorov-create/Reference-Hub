@@ -1,5 +1,6 @@
 ---
 title: Tables and Dashboards
+aliases: [таблицы, дашборды, data tables]
 tags: [tables, dashboards, data]
 entries: 4
 ---

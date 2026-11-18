@@ -1,5 +1,6 @@
 ---
 title: UX Design Process
+aliases: [дизайн-процесс, About Face]
 tags: [ux, process, platforms]
 entries: 11
 ---

@@ -1,5 +1,6 @@
 ---
 title: Icons, Illustrations and Graphics
+aliases: [иконки, иллюстрации, icons]
 tags: [icons, illustration]
 entries: 20
 ---

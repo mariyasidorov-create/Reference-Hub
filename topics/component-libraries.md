@@ -1,5 +1,6 @@
 ---
 title: Component Libraries
+aliases: [библиотеки компонентов, UI-киты]
 tags: [code, components, react, swiftui]
 entries: 66
 ---

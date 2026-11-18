@@ -1,7 +1,8 @@
 ---
 title: Design to Code
+aliases: [дизайн в код, Figma MCP, вайбкодинг]
 tags: [figma, code, ai, mcp]
-entries: 23
+entries: 24
 ---
 
 # Design to Code
@@ -42,6 +43,7 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [Figma agent starter prompts (Figma)](https://www.figma.com/community/file/1688567778927453616/figma-agent-starter-prompts) - Prompts for working with the Figma agent. *Free Figma Community file.*
 - [Generative plugins and shaders playground (Figma)](https://www.figma.com/community/file/1676067142735700190/generative-plugins-and-shaders-playground) - Examples of Figma shaders and generative plugins. *Free Figma Community file.*
 - [Figma events and webinars](https://www.figma.com/events-and-webinars/) - Office hours, Summer School and live sessions. *Free.*
+- [What is MCP (Figma)](https://www.figma.com/resource-library/what-is-mcp/) - Model Context Protocol explained for designers. *Free.*
 
 ## Agents and Code
 

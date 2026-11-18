@@ -1,7 +1,8 @@
 ---
 title: Design Systems
+aliases: [дизайн-системы, киты Figma]
 tags: [design-systems, motion, figma]
-entries: 37
+entries: 57
 ---
 
 # Design Systems
@@ -18,6 +19,7 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Motion in Design Systems](#motion-in-design-systems)
 - [Tools, Books and Directories](#tools-books-and-directories)
 - [Official Figma Kits](#official-figma-kits)
+- [Figma Resource Library](#figma-resource-library)
 
 ## Corporate Design Systems
 
@@ -58,6 +60,7 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Design at Uber](https://www.uber.design/) - Uber's design team site with case studies, including the 2018 rebrand. *Free.*
 - [MUI](https://mui.com/) - React components based on Material Design. *Freemium.*
 - [Untitled UI](https://www.untitledui.com/) - Large Figma UI kit and design system. *Freemium.*
+- [IxDF: Design Systems](https://ixdf.org/literature/topics/design-systems) - Articles on design systems. *Free.*
 
 ## Official Figma Kits
 
@@ -67,3 +70,25 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [ServiceNow on Figma: Workspace kits](https://www.figma.com/@servicenow) - Workspace components, AI components, conversational patterns, data viz and dashboards. *Free Figma Community file.*
 - [Workspace → AI Components (ServiceNow)](https://www.figma.com/community/file/1630646961731119676/workspace-ai-components) - Original of the AI components kit. *Free Figma Community file.*
 - [Cloudscape Component Library (AWS)](https://www.figma.com/community/file/1585292872561164967/cds-component-library-2-0-3) - Official AWS Cloudscape Figma library. *Free Figma Community file.*
+- [Microsoft Fluent 2 Web](https://www.figma.com/community/file/836828295772957889/microsoft-fluent-2-web) - Official Fluent 2 web kit by Microsoft. *Free Figma Community file.*
+- [Carbon Design System v11 (IBM)](https://www.figma.com/community/file/1157761560874207208/v11-carbon-design-system) - Official IBM Carbon kit. *Free Figma Community file.*
+- [Carbon Native Mobile, beta (IBM)](https://www.figma.com/community/file/1344750386424877272/beta-carbon-native-mobile-carbon-design-system) - IBM's native mobile components. *Free Figma Community file.*
+- [Polaris UI Kit (Shopify)](https://www.figma.com/community/file/1554895871000783188/polaris-ui-kit-community) - Official Shopify admin kit. *Free Figma Community file.*
+- [Admin Extensions UI Kit (Shopify)](https://www.figma.com/community/file/1265417558571498993/admin-extensions-ui-kit) - Shopify kit for app extensions in the admin. *Free Figma Community file.*
+- [Primer Web (GitHub)](https://www.figma.com/community/file/854767373644076713/primer-web) - Official GitHub Primer kit. *Free Figma Community file.*
+- [ADS Foundations (Atlassian)](https://www.figma.com/community/file/1527530559648073327/ads-foundations) - Atlassian colours, type, spacing and icons. *Free Figma Community file.*
+- [ADS Components (Atlassian)](https://www.figma.com/community/file/1527532229258392178/ads-components) - Atlassian component library. *Free Figma Community file.*
+- [Lightning Design System: Components for Web (Salesforce)](https://www.figma.com/community/file/1399892502513202095/components-for-web-lightning-design-system-2) - Official SLDS 2 components. *Free Figma Community file.*
+- [SLDS Web Components v2 Style Guide (Salesforce)](https://www.figma.com/community/file/1415017035637927819/style-guide-slds-web-components-v2) - Salesforce style guide. *Free Figma Community file.*
+- [Simple Design System (Figma)](https://www.figma.com/community/file/1380235722331273046/simple-design-system) - Figma's reference design system with variables and code. *Free Figma Community file.*
+- [macOS 27 (Apple)](https://www.figma.com/community/file/1651309434229735362/macos-27) - Apple's official macOS kit. *Free Figma Community file.*
+- [App Icon Template: iOS, iPadOS and watchOS 27 (Apple)](https://www.figma.com/community/file/1645923469870515372/app-icon-template-ios-ipados-and-watchos-27) - Apple's official app icon template. *Free Figma Community file.*
+- [Apple Design Resources](https://developer.apple.com/design/resources/) - Apple's kits for Figma, Sketch and Photoshop, plus SF fonts and symbols. *Free.*
+
+## Figma Resource Library
+
+- [Design tokens (Figma)](https://www.figma.com/resource-library/design-tokens/) - What design tokens are and how to use them. *Free.*
+- [Design token architecture (Figma)](https://www.figma.com/resource-library/design-token-architecture/) - How to structure token tiers. *Free.*
+- [Enterprise design systems (Figma)](https://www.figma.com/resource-library/enterprise-design-systems/) - Scaling design systems in large organisations. *Free.*
+- [Design system examples (Figma)](https://www.figma.com/resource-library/design-system-examples/) - Examples of public design systems. *Free.*
+- [Button states (Figma)](https://www.figma.com/resource-library/button-states/) - Every state a button needs. *Free.*

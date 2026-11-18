@@ -1,5 +1,6 @@
 ---
 title: Early Web History
+aliases: [история веба]
 tags: [web, history, geocities]
 entries: 13
 ---

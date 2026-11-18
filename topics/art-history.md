@@ -1,5 +1,6 @@
 ---
 title: Art History and Artists
+aliases: [история искусства, художники, Гомбрих]
 tags: [art, history, artists]
 entries: 12
 ---

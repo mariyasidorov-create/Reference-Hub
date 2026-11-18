@@ -1,5 +1,6 @@
 ---
 title: Publishers
+aliases: [издательства]
 tags: [books, publishers]
 entries: 14
 ---

@@ -1,7 +1,8 @@
 ---
 title: Research and Testing Tools
+aliases: [тестирование, исследования]
 tags: [research, testing]
-entries: 12
+entries: 14
 ---
 
 # Research and Testing Tools
@@ -16,6 +17,7 @@ Related: [UX Research and Guidelines](ux-research.md) · [Metrics and Growth](me
 
 - [Testing Tools](#testing-tools)
 - [Secondary Research](#secondary-research)
+- [Methods](#methods)
 
 ## Testing Tools
 
@@ -34,3 +36,8 @@ Related: [UX Research and Guidelines](ux-research.md) · [Metrics and Growth](me
 
 - [Baymard Institute: Research](https://baymard.com/research) - Large-scale e-commerce UX research and guidelines. *Paid.*
 - [Coglode](https://www.coglode.com/) - Behavioural science insights as cards. *Freemium.*
+
+## Methods
+
+- [MVP testing methods (Figma)](https://www.figma.com/resource-library/mvp-testing-methods/) - Ways to test an MVP. *Free.*
+- [Concept testing examples (Figma)](https://www.figma.com/resource-library/concept-testing-examples/) - How to test concepts before building. *Free.*

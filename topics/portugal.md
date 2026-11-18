@@ -1,5 +1,6 @@
 ---
 title: Portugal
+aliases: [Португалия]
 tags: [portugal, lisbon, azulejo, modernism]
 entries: 73
 ---

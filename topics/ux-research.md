@@ -1,7 +1,8 @@
 ---
 title: UX Research and Guidelines
+aliases: [UX-исследования]
 tags: [ux, research]
-entries: 7
+entries: 10
 ---
 
 # UX Research and Guidelines
@@ -15,6 +16,8 @@ Related: [UX Curators and Vitaly Friedman](ux-curators.md) · [UI Patterns and R
 ## Contents
 
 - [Research and Guidelines](#research-and-guidelines)
+- [Interaction Design Foundation](#interaction-design-foundation)
+- [Figma Resource Library](#figma-resource-library)
 
 ## Research and Guidelines
 
@@ -25,3 +28,12 @@ Related: [UX Curators and Vitaly Friedman](ux-curators.md) · [UI Patterns and R
 - [Growth.Design](https://growth.design/) - Product teardowns told as comics. *Free.*
 - [UX Matters](https://www.uxmatters.com/) - Articles on UX practice. *Free.*
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Articles on UX and front-end development. *Free.*
+
+## Interaction Design Foundation
+
+- [IxDF: User Research](https://ixdf.org/literature/topics/user-research) - Articles on research methods. *Free.*
+
+## Figma Resource Library
+
+- [What is information architecture (Figma)](https://www.figma.com/resource-library/what-is-information-architecture/) - IA explained with examples. *Free.*
+- [Service blueprint (Figma)](https://www.figma.com/resource-library/service-blueprint/) - How to map a service. *Free.*

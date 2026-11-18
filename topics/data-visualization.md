@@ -1,5 +1,6 @@
 ---
 title: Data Visualization
+aliases: [визуализация данных, графики, dataviz]
 tags: [dataviz, charts]
 entries: 6
 ---

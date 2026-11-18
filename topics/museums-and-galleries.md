@@ -1,5 +1,6 @@
 ---
 title: Museums, Galleries and Art Media
+aliases: [музеи, галереи]
 tags: [museums, collections, art, galleries]
 entries: 79
 ---

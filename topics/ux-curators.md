@@ -1,5 +1,6 @@
 ---
 title: UX Curators and Vitaly Friedman
+aliases: [кураторы, LinkedIn]
 tags: [ux, linkedin, curators]
 entries: 33
 ---

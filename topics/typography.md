@@ -1,7 +1,8 @@
 ---
 title: Typography and Type Foundries
+aliases: [типографика, шрифты, fonts]
 tags: [typography, fonts, cyrillic]
-entries: 36
+entries: 37
 ---
 
 # Typography and Type Foundries
@@ -70,3 +71,4 @@ Related: [Graphic Design History](graphic-design-history.md) · [Right-to-Left S
 - [WhatTheFont](https://www.myfonts.com/pages/whatthefont) - Identify a font from an image. *Free.*
 - [Rob Roy Kelly American Wood Type Collection](https://rrk.finearts.utexas.edu/) - Digitised wood type specimens. *Free.*
 - [Typographic Posters](https://www.typographicposters.com/archive) - Archive of typographic posters. *Free.*
+- [Typography in design (Figma)](https://www.figma.com/resource-library/typography-in-design/) - Type basics for interfaces. *Free.*

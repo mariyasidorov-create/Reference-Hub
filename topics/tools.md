@@ -1,5 +1,6 @@
 ---
 title: Tools
+aliases: [инструменты]
 tags: [tools, mockups, branding]
 entries: 26
 ---

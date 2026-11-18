@@ -1,5 +1,6 @@
 ---
 title: Metrics and Growth
+aliases: [метрики, рост, growth]
 tags: [metrics, growth]
 entries: 5
 ---

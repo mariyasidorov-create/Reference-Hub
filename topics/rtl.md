@@ -1,5 +1,6 @@
 ---
 title: Right-to-Left Scripts
+aliases: [справа налево, арабский, иврит]
 tags: [rtl, arabic, hebrew, persian]
 entries: 33
 ---

@@ -1,5 +1,6 @@
 ---
 title: Images and Moodboards
+aliases: [мудборды, картинки]
 tags: [images, moodboards, branding]
 entries: 13
 ---

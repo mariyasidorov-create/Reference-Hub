@@ -1,5 +1,6 @@
 ---
 title: Design Schools
+aliases: [школы дизайна, образование]
 tags: [education, schools, design]
 entries: 26
 ---

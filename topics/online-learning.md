@@ -1,5 +1,6 @@
 ---
 title: Online Learning
+aliases: [онлайн-обучение, курсы]
 tags: [learning, courses]
 entries: 8
 ---

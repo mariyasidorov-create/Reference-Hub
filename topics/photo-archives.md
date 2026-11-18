@@ -1,5 +1,6 @@
 ---
 title: Photo and Image Archives
+aliases: [фотоархивы, стоки, stock]
 tags: [photography, archives, public-domain, museums]
 entries: 66
 ---

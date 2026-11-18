@@ -1,5 +1,6 @@
 ---
 title: Magazines and Newspapers
+aliases: [журналы, газеты]
 tags: [magazines, press]
 entries: 16
 ---
