@@ -1,0 +1,4918 @@
+{
+ "license": "CC0-1.0",
+ "count": 614,
+ "references": [
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "Mobbin",
+   "url": "https://mobbin.com/",
+   "description": "Screens, flows and website sections from real products.",
+   "access": "MCP server"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "Page Flows",
+   "url": "https://pageflows.com/",
+   "description": "Full recorded flows: onboarding, checkout, upgrade, cancellation.",
+   "access": "Login"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "Refero",
+   "url": "https://refero.design/",
+   "description": "Web and iOS screens and flows, searchable by pattern.",
+   "access": "Partly paid"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "UI Patterns",
+   "url": "https://ui-patterns.com/",
+   "description": "Named UI patterns, including persuasive patterns.",
+   "access": "Free"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "Screens Design",
+   "url": "https://screensdesign.com/",
+   "description": "Mobile screens, paywalls and app store screenshots.",
+   "access": "Free"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "SaaSFrame",
+   "url": "https://www.saasframe.io/",
+   "description": "SaaS patterns: pricing, onboarding, dashboards.",
+   "access": "Partly paid"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "Nicelydone",
+   "url": "https://nicelydone.club/",
+   "description": "Flows from SaaS products.",
+   "access": "Partly paid"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "UX Archive",
+   "url": "https://uxarchive.com/",
+   "description": "Mobile flows organised by task.",
+   "access": "Free"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "Paywall Screens",
+   "url": "https://www.paywallscreens.com/",
+   "description": "Gallery of mobile app paywalls.",
+   "access": "Free"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "SaaS Interface",
+   "url": "https://saasinterface.com",
+   "description": "SaaS product screens organised by pattern.",
+   "access": "Free"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "Pattern Libraries and Real Products",
+   "name": "Appshot Gallery",
+   "url": "https://appshot.gallery",
+   "description": "App Store screenshots for inspiration.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Godly",
+   "url": "https://godly.design/",
+   "description": "The boldest websites with motion.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Recent.design",
+   "url": "https://recent.design/",
+   "description": "Fresh web design; the old godly.website address now redirects here.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "SiteInspire",
+   "url": "https://www.siteinspire.com/",
+   "description": "Websites by style and industry.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Minimal.gallery",
+   "url": "https://minimal.gallery/",
+   "description": "Minimalist websites.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Awwwards",
+   "url": "https://www.awwwards.com/",
+   "description": "Award-winning websites, browsable by category.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "CSS Design Awards",
+   "url": "https://www.cssdesignawards.com/",
+   "description": "Website of the day and other awards.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Land-book",
+   "url": "https://land-book.com/",
+   "description": "Landing pages.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Lapa Ninja",
+   "url": "https://www.lapa.ninja/",
+   "description": "Landing pages and portfolios.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Dark.design",
+   "url": "https://www.dark.design/",
+   "description": "Websites with dark interfaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "d1s1",
+   "url": "https://d1s1.com/",
+   "description": "Design spotlight for web and identity work.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Craftwork",
+   "url": "https://craftwork.design/",
+   "description": "Curated selection of websites.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Refs.gallery",
+   "url": "https://refs.gallery/",
+   "description": "UI references.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Refframe",
+   "url": "https://refframe.com/",
+   "description": "UI references.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "One Page Love",
+   "url": "https://onepagelove.com/",
+   "description": "One-page websites.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Httpster",
+   "url": "https://httpster.net/",
+   "description": "Websites with strong typography.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Navbar.gallery",
+   "url": "https://www.navbar.gallery/",
+   "description": "Navigation bars only.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Footer.design",
+   "url": "https://www.footer.design/",
+   "description": "Website footers only.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Area 17 archive",
+   "url": "https://archive.area17.com/",
+   "description": "Archive of the AREA 17 agency.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Deck.gallery",
+   "url": "https://www.deck.gallery/",
+   "description": "Presentation design.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Siiimple",
+   "url": "https://siiimple.com",
+   "description": "Minimalist websites.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Curated",
+   "url": "https://curated.design",
+   "description": "Live websites for inspiration.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "SEESAW",
+   "url": "https://seesaw.website",
+   "description": "Curated website gallery.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Site of Sites",
+   "url": "https://siteofsites.co",
+   "description": "More than 329 hand-picked websites.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Landings.dev",
+   "url": "https://landings.dev",
+   "description": "Hundreds of real landing pages.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "SaaS Landing Page",
+   "url": "https://saaslandingpage.com",
+   "description": "Landing pages of SaaS products.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Landdding",
+   "url": "https://landdding.com",
+   "description": "Landing pages.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Viewport UI",
+   "url": "https://viewport-ui.design",
+   "description": "Curated UI gallery.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Hover States",
+   "url": "https://hoverstat.es",
+   "description": "Experimental web projects.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Brutalist Websites",
+   "url": "https://brutalistwebsites.com",
+   "description": "Brutalism on the web.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "on.design",
+   "url": "https://on.design",
+   "description": "Web design gallery.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Collect UI",
+   "url": "https://collectui.com",
+   "description": "Daily UI collection organised by screen type.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Bento Grids",
+   "url": "https://bentogrids.com",
+   "description": "Bento grid layouts only.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Supahero",
+   "url": "https://supahero.io",
+   "description": "Hero sections only.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "CTA.gallery",
+   "url": "https://cta.gallery",
+   "description": "Calls to action only.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "Pricing Pages",
+   "url": "https://pricingpages.design",
+   "description": "Pricing pages only.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "Web Galleries",
+   "name": "404s",
+   "url": "https://404s.design",
+   "description": "404 pages only.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Cosmos",
+   "url": "https://www.cosmos.so/",
+   "description": "Visual moodboards.",
+   "access": "Account"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Savee",
+   "url": "https://savee.com/",
+   "description": "Designers' moodboards.",
+   "access": "Account"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Are.na",
+   "url": "https://www.are.na/",
+   "description": "Collections and research boards.",
+   "access": "Account"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Behance",
+   "url": "https://www.behance.net/",
+   "description": "Curated projects in the Curated section.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Maneken",
+   "url": "https://maneken.app/",
+   "description": "Photo mockups with an online editor.",
+   "access": "Partly paid"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Logobook",
+   "url": "https://logobook.com",
+   "description": "Archive of logos and trademarks.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Logoinspo",
+   "url": "https://logoinspo.com",
+   "description": "More than 1,200 hand-picked logos.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Font in Logo",
+   "url": "https://fontinlogo.com",
+   "description": "Which typefaces brands use in their logos.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "posts.design",
+   "url": "https://posts.design",
+   "description": "Social media post design.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "OGFolio",
+   "url": "https://ogfolio.com",
+   "description": "Gallery of Open Graph preview images.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Coolshapes",
+   "url": "https://coolshap.es",
+   "description": "Free abstract shapes.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Grainient",
+   "url": "https://grainient.supply",
+   "description": "Gradients, animated gradients and backgrounds.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Backgrounds Supply",
+   "url": "https://backgrounds.supply",
+   "description": "Backgrounds for projects.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "color",
+   "section": "Color Tools",
+   "name": "Realtime Colors",
+   "url": "https://www.realtimecolors.com/",
+   "description": "Preview a palette on a live website layout.",
+   "access": "Free"
+  },
+  {
+   "topic": "color",
+   "section": "Color Tools",
+   "name": "Huemint",
+   "url": "https://huemint.com/",
+   "description": "AI-generated palettes for brands and websites.",
+   "access": "Free"
+  },
+  {
+   "topic": "color",
+   "section": "Color Tools",
+   "name": "Coolors",
+   "url": "https://coolors.co/",
+   "description": "Palette generator and gallery.",
+   "access": "Free"
+  },
+  {
+   "topic": "color",
+   "section": "Color Tools",
+   "name": "Color Hunt",
+   "url": "https://colorhunt.co/",
+   "description": "Ready-made colour palettes.",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Type in Use",
+   "name": "Typewolf",
+   "url": "https://www.typewolf.com/",
+   "description": "Typefaces used on real websites, with pairings.",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Type in Use",
+   "name": "Fonts In Use",
+   "url": "https://fontsinuse.com/",
+   "description": "Archive of typefaces in real-world work, including many historical pieces.",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Type in Use",
+   "name": "Art of the Title",
+   "url": "https://www.artofthetitle.com/",
+   "description": "Title sequences from film and television.",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Free Typefaces",
+   "name": "Fontshare",
+   "url": "https://www.fontshare.com/",
+   "description": "Free high-quality typefaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Free Typefaces",
+   "name": "Google Fonts",
+   "url": "https://fonts.google.com/",
+   "description": "Free typefaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Cyrillic Foundries",
+   "name": "BoldItalic",
+   "url": "https://bolditalic.studio/",
+   "description": "Cyrillic type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Cyrillic Foundries",
+   "name": "The Temporary State",
+   "url": "https://type.tmpstate.net/",
+   "description": "Cyrillic type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Cyrillic Foundries",
+   "name": "Fedor Abroskin",
+   "url": "https://fa-fa-fa.xyz/",
+   "description": "Cyrillic type designer.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Cyrillic Foundries",
+   "name": "CoFo",
+   "url": "https://contrastfoundry.com/",
+   "description": "Contrast Foundry, Cyrillic and Latin type.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Cyrillic Foundries",
+   "name": "TypeType",
+   "url": "https://typetype.org/",
+   "description": "Cyrillic and Latin type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Cyrillic Foundries",
+   "name": "Paratype",
+   "url": "https://paratype.ru/",
+   "description": "Major Cyrillic type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Cyrillic Foundries",
+   "name": "type.today",
+   "url": "https://type.today/",
+   "description": "Cyrillic type foundry and shop.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Cyrillic Foundries",
+   "name": "CSTM Fonts",
+   "url": "https://cstmfonts.com/",
+   "description": "Cyrillic type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Cyrillic Foundries",
+   "name": "Brownfox",
+   "url": "https://brownfox.org/",
+   "description": "Cyrillic type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Cyrillic Foundries",
+   "name": "Cotype",
+   "url": "https://cotypefoundry.com/",
+   "description": "Cyrillic and Latin type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "205TF",
+   "url": "https://www.205.tf/",
+   "description": "French type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Grilli Type",
+   "url": "https://www.grillitype.com/",
+   "description": "Swiss type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Pangram Pangram",
+   "url": "https://pangrampangram.com/",
+   "description": "Type foundry with free trial fonts.",
+   "access": "Free trials"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Fonts From Folch",
+   "url": "https://www.fontsfromfolch.com/",
+   "description": "Type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Klim",
+   "url": "https://klim.co.nz/",
+   "description": "New Zealand type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "ABC Dinamo",
+   "url": "https://abcdinamo.com/",
+   "description": "Swiss type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Commercial Type",
+   "url": "https://commercialtype.com/",
+   "description": "Type foundry from New York and London.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Sharp Type",
+   "url": "https://sharptype.co/",
+   "description": "Type foundry from New York.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Lineto",
+   "url": "https://lineto.com/",
+   "description": "Swiss type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Colophon",
+   "url": "https://www.colophon-foundry.org/",
+   "description": "Type foundry from London.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Optimo",
+   "url": "https://optimo.ch/",
+   "description": "Swiss type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Or Type",
+   "url": "https://ortype.is/",
+   "description": "Icelandic type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Displaay",
+   "url": "https://displaay.net/",
+   "description": "Czech type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Production Type",
+   "url": "https://productiontype.com/",
+   "description": "French type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "typography",
+   "section": "Latin Foundries",
+   "name": "Schick Toikka",
+   "url": "https://www.schick-toikka.com/",
+   "description": "Type foundry from Berlin.",
+   "access": "Paid"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Design Spells",
+   "url": "https://designspells.com/",
+   "description": "Easter eggs and delightful details in interfaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "60fps",
+   "url": "https://60fps.design/",
+   "description": "More than 2,000 iOS interactions with SwiftUI code.",
+   "access": "Free, MCP"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Spotted in Prod",
+   "url": "https://www.spottedinprod.com/",
+   "description": "Videos of iOS interfaces with frame-by-frame scrubbing.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Ripplix",
+   "url": "https://www.ripplix.com/",
+   "description": "Library of UI animations.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Capptivate",
+   "url": "https://github.com/capptivateco/capptivate",
+   "description": "Archive of classic iOS animations.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "GSAP",
+   "url": "https://gsap.com/",
+   "description": "Web animation library with buildable examples.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Eyecandy",
+   "url": "https://eyecannndy.com/",
+   "description": "Visual dictionary of video and film techniques.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Uiverse",
+   "url": "https://uiverse.io/",
+   "description": "Open-source UI elements with hover effects.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "CodePen",
+   "url": "https://codepen.io/",
+   "description": "Interaction demos with code.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Aceternity UI",
+   "url": "https://ui.aceternity.com/",
+   "description": "Animated components for Tailwind and Next.js.",
+   "access": "Partly paid"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "MicroKit",
+   "url": "https://microkit.co",
+   "description": "Copy-paste micro-interactions in React and CSS.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Kinetics",
+   "url": "https://kinetics.colorion.co",
+   "description": "Spring animation examples in CSS and React Spring.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Text Effects",
+   "url": "https://text-effects.colorion.co",
+   "description": "123 text effects in CSS.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Gradient Buttons",
+   "url": "https://gradientbuttons.colorion.co",
+   "description": "Buttons with CSS gradients.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Circle Loaders",
+   "url": "https://circleloaders.dominikakissi.com",
+   "description": "24 monochrome 'agent is thinking' loaders.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "liquid-glass",
+   "url": "https://glass.samasante.com",
+   "description": "Liquid glass effect over the live DOM.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Motion",
+   "url": "https://motion.dev",
+   "description": "Animation library for JavaScript and React, formerly Framer Motion.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Anime.js",
+   "url": "https://animejs.com",
+   "description": "JavaScript animation engine with demos.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Micro-interactions and Motion References",
+   "name": "Zajno Motion",
+   "url": "https://motion.zajno.com",
+   "description": "Motion design principles as interactive examples.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Jitter",
+   "url": "https://jitter.video",
+   "description": "Motion design in the browser.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "LottieFiles",
+   "url": "https://lottiefiles.com",
+   "description": "Library and editor for Lottie animations.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Bloop",
+   "url": "https://bloop.wtf/templates",
+   "description": "Template-based motion animation for images.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Paper Animation",
+   "url": "https://paperanimation.ai",
+   "description": "Match-cut effect.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Ink overlays",
+   "url": "https://arnoldfrancisca.com/tools/ink",
+   "description": "Animated handwritten overlays.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "3D GIF Maker",
+   "url": "https://3dgifmaker.com",
+   "description": "3D GIF from a flat image.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Dasca",
+   "url": "https://app.dasca.studio",
+   "description": "Real-time image effects.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "WigglyPaint",
+   "url": "https://wigglypaint.com",
+   "description": "Animated wiggly doodles.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Research and Guidelines",
+   "name": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/",
+   "description": "UX research, articles and guidelines.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Research and Guidelines",
+   "name": "Baymard Institute",
+   "url": "https://baymard.com/",
+   "description": "E-commerce usability research: forms, checkout.",
+   "access": "Partly paid"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Research and Guidelines",
+   "name": "Smart Interface Design Patterns",
+   "url": "https://smart-interface-design-patterns.com/",
+   "description": "Vitaly Friedman's blog and courses on interface patterns.",
+   "access": "Partly paid"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Research and Guidelines",
+   "name": "Laws of UX",
+   "url": "https://lawsofux.com/",
+   "description": "Psychological principles behind UX.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Research and Guidelines",
+   "name": "Growth.Design",
+   "url": "https://growth.design/",
+   "description": "Product teardowns told as comics.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Research and Guidelines",
+   "name": "UX Matters",
+   "url": "https://www.uxmatters.com/",
+   "description": "Articles on UX practice.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Research and Guidelines",
+   "name": "Smashing Magazine",
+   "url": "https://www.smashingmagazine.com/",
+   "description": "Articles on UX and front-end development.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "iOS and SwiftUI",
+   "name": "SwiftUI Catalog",
+   "url": "https://github.com/barbaramartina/swiftuicatalog",
+   "description": "Catalogue of SwiftUI components that runs in Xcode.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "iOS and SwiftUI",
+   "name": "SwiftUI-Kit",
+   "url": "https://github.com/jordansinger/SwiftUI-Kit",
+   "description": "Demo of system SwiftUI components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "iOS and SwiftUI",
+   "name": "awesome-swiftui-libraries",
+   "url": "https://github.com/Toni77777/awesome-swiftui-libraries",
+   "description": "List of SwiftUI libraries.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Apple Vibe",
+   "name": "Bencho",
+   "url": "https://bencho.dev",
+   "description": "Interactive blocks with iOS-like physics.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Apple Vibe",
+   "name": "Smooth UI",
+   "url": "https://smoothui.dev",
+   "description": "Dynamic Island, morphing and cursor-following components.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Apple Vibe",
+   "name": "Unlumen UI",
+   "url": "https://ui.unlumen.com",
+   "description": "132 components, including an Apple-style switch.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Apple Vibe",
+   "name": "Nexus UI",
+   "url": "https://nexus-ui.com",
+   "description": "84 components, including a Mac keyboard with sound.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Apple Vibe",
+   "name": "Kokonut UI",
+   "url": "https://kokonutui.com",
+   "description": "Components including an Apple Activity card with rings.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Apple Vibe",
+   "name": "amicro",
+   "url": "https://amicro.dev",
+   "description": "Card stack in the style of Time Machine.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Apple Vibe",
+   "name": "Joly UI",
+   "url": "https://jolyui.dev",
+   "description": "iOS-style wheel date picker and other components.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Apple Vibe",
+   "name": "Guglielmo Giannattasio",
+   "url": "https://guglielmogiannattasio.it",
+   "description": "Liquid glass rendered in WebGL.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Apple Vibe",
+   "name": "Beautiful UI",
+   "url": "https://beautifului.dev",
+   "description": "Primitives for AI interfaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Motion Primitives",
+   "url": "https://motion-primitives.com",
+   "description": "Animated UI primitives.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Fancy Components",
+   "url": "https://fancycomponents.dev",
+   "description": "Animated components and micro-interactions.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Animate UI",
+   "url": "https://animate-ui.com",
+   "description": "Minimal animations, including a sliding number.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Sora UI",
+   "url": "https://ui.soralabs.io.vn",
+   "description": "Motion-first registry that respects reduced motion.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Cult UI",
+   "url": "https://www.cult-ui.com",
+   "description": "Expressive animated components.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "React Bits",
+   "url": "https://reactbits.dev",
+   "description": "Animated React components and prompts.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Loading.dev",
+   "url": "https://loading.dev",
+   "description": "Loaders and spinners.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Three UI",
+   "url": "https://threeui.com",
+   "description": "Components built with Three.js.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Transitions.dev",
+   "url": "https://transitions.dev",
+   "description": "UI transitions for AI agents.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Originkit",
+   "url": "https://originkit.dev",
+   "description": "Large free library of animated components, with an MCP server.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "beUI",
+   "url": "https://beui.dev",
+   "description": "Free tier of beUI animated components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Apex UI",
+   "url": "https://apex-ui.in",
+   "description": "118 animated React components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "mewo",
+   "url": "https://mewo-ui.vercel.app",
+   "description": "18 animated React components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Ovio",
+   "url": "https://ovioui.vercel.app",
+   "description": "20 animated shadcn components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "FeralUI",
+   "url": "https://feralui.dev",
+   "description": "Playful physics-based UI elements.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Pin UI",
+   "url": "https://pinui.xyz",
+   "description": "Unusual copy-paste components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Thinking Orbs",
+   "url": "https://thinkingorbs.com",
+   "description": "Animated 'AI is thinking' indicators.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Magic UI",
+   "url": "https://magicui.design",
+   "description": "More than 150 animated components for landing pages.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Canvas UI",
+   "url": "https://canvasui.dev",
+   "description": "Components built with Canvas, WebGL and WebGPU.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "dithercn",
+   "url": "https://dithercn.dev",
+   "description": "Dithering shaders for shadcn.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Vanta Supply",
+   "url": "https://vanta.supply",
+   "description": "Animated backgrounds and visuals for websites.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Skiper UI",
+   "url": "https://skiper-ui.com",
+   "description": "Unusual animated components for shadcn/ui: cards, drag, scroll.",
+   "access": "Freemium, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Animmaster Lib",
+   "url": "https://animmasterlib.dev",
+   "description": "300 Awwwards-style animated components: scroll, WebGL shaders, heroes, sliders.",
+   "access": "Paid"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Particles (Casberry)",
+   "url": "https://particles.casberry.in",
+   "description": "WebGL2 3D particle simulator with code export to Vanilla JS, React and Three.js.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Componentry",
+   "url": "https://componentry.dev",
+   "description": "Open-source UI elements.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "ReactVibe",
+   "url": "https://reactvibe.com",
+   "description": "Landing page sections and components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Watermelon UI",
+   "url": "https://ui.watermelon.sh",
+   "description": "React UI components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "With Animation",
+   "url": "https://withanimation.app",
+   "description": "Animated SwiftUI components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "MotionSites",
+   "url": "https://motionsites.ai",
+   "description": "Prompts for generating websites.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Arc UI",
+   "url": "https://uiarc.dev",
+   "description": "Animated components and blocks, with an MCP server for AI agents.",
+   "access": "Free, shadcn CLI"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "beUI Pro",
+   "url": "https://pro.beui.dev",
+   "description": "Animated blocks, screens and templates for React and React Native.",
+   "access": "Paid"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Mahero",
+   "url": "https://mahero.supply",
+   "description": "More than 150 website prompts, backgrounds, motion sections and gradients.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "AICSS",
+   "url": "https://aicss.dev",
+   "description": "UI components for AI agents.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Coss UI",
+   "url": "https://coss.com/ui",
+   "description": "Clean React components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Astryx",
+   "url": "https://astryx.atmeta.com",
+   "description": "More than 170 customisable React components.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Once UI",
+   "url": "https://once-ui.com",
+   "description": "Design system for Next.js.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Intent UI",
+   "url": "https://intentui.com",
+   "description": "Accessible components built on React Aria, formerly Justd.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Cue",
+   "url": "https://cuedesign.space",
+   "description": "Premium components for web and React Native.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Shadcnblocks",
+   "url": "https://shadcnblocks.com",
+   "description": "Ready-made blocks built with shadcn/ui.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "UIAble",
+   "url": "https://uiable.com",
+   "description": "Design system built on shadcn.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "mapcn",
+   "url": "https://mapcn.dev",
+   "description": "Beautiful maps for React.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Motion Sections",
+   "url": "https://motionin.design",
+   "description": "Interactive web sections.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "HorizonX",
+   "url": "https://horizonx.so",
+   "description": "UI kits, textures, shaders and mockups.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "DESIGN.md",
+   "url": "https://designmd.ai",
+   "description": "Design systems in Markdown for AI agents.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Framer Marketplace — Components",
+   "url": "https://www.framer.com/marketplace/components/",
+   "description": "Ready-made Framer components such as galleries, albums and carousels.",
+   "access": "Free and paid ($5–20)"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "daisyUI",
+   "url": "https://daisyui.com",
+   "description": "Tailwind CSS component plugin with ready-made classes and dozens of themes.",
+   "access": "Open source"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Where to Find New Libraries",
+   "name": "21st.dev",
+   "url": "https://21st.dev/community/libraries/s/motion",
+   "description": "Hundreds of component libraries with live previews.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Where to Find New Libraries",
+   "name": "awesome-shadcn-ui",
+   "url": "https://github.com/birobirobiro/awesome-shadcn-ui",
+   "description": "Curated list of shadcn libraries.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Where to Find New Libraries",
+   "name": "Libraries.dev",
+   "url": "https://libraries.dev",
+   "description": "Catalogue of React libraries and UI tools.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Where to Find New Libraries",
+   "name": "Component Gallery",
+   "url": "https://component.gallery",
+   "description": "More than 2,600 component examples from real design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Where to Find New Libraries",
+   "name": "Pixlpin",
+   "url": "https://pixlpin.com",
+   "description": "58,000 UI designs, screens and motion examples.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Where to Find New Libraries",
+   "name": "Design Hub",
+   "url": "https://designrefs.com/en",
+   "description": "397 websites with design resources.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Where to Find New Libraries",
+   "name": "Designeer",
+   "url": "https://designeer.xyz",
+   "description": "Catalogue of inspiration, libraries and AI tools.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Where to Find New Libraries",
+   "name": "Product Disrupt",
+   "url": "https://productdisrupt.com",
+   "description": "Collection of product design resources.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "Unsplash",
+   "url": "https://unsplash.com",
+   "description": "Largest free stock photo library.",
+   "access": "Free, Unsplash+ paid"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "Pexels",
+   "url": "https://www.pexels.com",
+   "description": "Free photos and videos.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "Pixabay",
+   "url": "https://pixabay.com",
+   "description": "Photos, illustrations and videos; AI images can be filtered out.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "Burst",
+   "url": "https://burst.shopify.com",
+   "description": "20,000 free photos from Shopify, many for e-commerce.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "Kaboompics",
+   "url": "https://kaboompics.com",
+   "description": "Lifestyle and interior photos, each with a colour palette.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "StockSnap",
+   "url": "https://stocksnap.io",
+   "description": "CC0 photos.",
+   "access": "CC0"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "Gratisography",
+   "url": "https://gratisography.com",
+   "description": "Quirky and funny photos.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "Life of Pix",
+   "url": "https://www.lifeofpix.com",
+   "description": "Atmospheric photos from an agency.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "Nappy",
+   "url": "https://nappy.co",
+   "description": "Photos of Black people and diverse teams.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "Dupe",
+   "url": "https://dupephotos.com",
+   "description": "Independent stock library without AI or ads.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "Reshot",
+   "url": "https://www.reshot.com",
+   "description": "Unstaged photos and icons.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Stock Photos",
+   "name": "New Old Stock",
+   "url": "https://nos.twnsnd.co",
+   "description": "Vintage photos from public archives.",
+   "access": "Public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org",
+   "description": "More than 100 million freely licensed files.",
+   "access": "CC / Public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "WikiArt",
+   "url": "https://www.wikiart.org",
+   "description": "Encyclopedia of painting by artist and style.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "Internet Archive",
+   "url": "https://archive.org",
+   "description": "Books, magazines, films and type specimens; public domain scans and controlled lending.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "Internet Archive Book Images",
+   "url": "https://www.flickr.com/photos/internetarchivebookimages",
+   "description": "Millions of illustrations clipped from old books.",
+   "access": "Mostly public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "Flickr Commons",
+   "url": "https://www.flickr.com/commons",
+   "description": "Photo archives of hundreds of museums and libraries.",
+   "access": "No known restrictions"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "Openverse",
+   "url": "https://openverse.org",
+   "description": "Search across more than 800 million openly licensed images.",
+   "access": "CC / Public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "Arkivism",
+   "url": "https://arkivism.com",
+   "description": "More than 4 million images and videos from 51 archives, searchable by frame.",
+   "access": "Public domain, account"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "Public Domain Image Archive",
+   "url": "https://pdimagearchive.org",
+   "description": "Hand-picked images from The Public Domain Review, updated weekly.",
+   "access": "Public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "Rawpixel Public Domain",
+   "url": "https://www.rawpixel.com/public-domain",
+   "description": "Restored vintage illustrations and photos.",
+   "access": "Public domain, some need sign-up"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "Europeana",
+   "url": "https://www.europeana.eu",
+   "description": "Collections of thousands of European museums and archives.",
+   "access": "Filter by licence"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Search Across Archives",
+   "name": "Digital Public Library of America",
+   "url": "https://dp.la",
+   "description": "US archives and libraries in one search.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "Rijksmuseum",
+   "url": "https://www.rijksmuseum.nl/en/collection",
+   "description": "Entire collection in high resolution.",
+   "access": "Public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "The Met",
+   "url": "https://www.metmuseum.org/art/collection/search",
+   "description": "470,000 works with an Open Access filter.",
+   "access": "CC0"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "Art Institute of Chicago",
+   "url": "https://www.artic.edu/collection",
+   "description": "Collection with a public domain filter.",
+   "access": "CC0"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "Smithsonian Open Access",
+   "url": "https://www.si.edu/openaccess",
+   "description": "Millions of objects from 19 museums.",
+   "access": "CC0"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "National Gallery of Art",
+   "url": "https://www.nga.gov/open-access-images.html",
+   "description": "Paintings and works on paper.",
+   "access": "CC0"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "Cleveland Museum of Art",
+   "url": "https://www.clevelandart.org/open-access",
+   "description": "Open access collection.",
+   "access": "CC0"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "Paris Musées",
+   "url": "https://www.parismuseescollections.paris.fr",
+   "description": "14 Paris museums, including photographs and posters.",
+   "access": "CC0"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "SMK Open",
+   "url": "https://www.smk.dk/en/article/smk-open",
+   "description": "National Gallery of Denmark.",
+   "access": "Public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "LACMA",
+   "url": "https://collections.lacma.org",
+   "description": "Los Angeles County Museum of Art collection.",
+   "access": "Partly public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "Getty Open Content",
+   "url": "https://www.getty.edu/projects/open-content-program",
+   "description": "Images from the Getty collections.",
+   "access": "Free"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Open Access Museums",
+   "name": "V&A",
+   "url": "https://collections.vam.ac.uk",
+   "description": "Design, fashion and decorative arts.",
+   "access": "Often non-commercial"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "Library of Congress — Free to Use",
+   "url": "https://www.loc.gov/free-to-use",
+   "description": "Themed sets of freely usable images.",
+   "access": "Public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "NYPL Digital Collections",
+   "url": "https://digitalcollections.nypl.org",
+   "description": "Photos, maps, menus, postcards and Victorian ephemera, with a public domain filter.",
+   "access": "Public domain filter"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "British Library on Flickr",
+   "url": "https://www.flickr.com/photos/britishlibrary",
+   "description": "One million illustrations from 19th-century books.",
+   "access": "Public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "Gallica",
+   "url": "https://gallica.bnf.fr",
+   "description": "National Library of France: newspapers, posters, photos, manuscripts.",
+   "access": "Free for non-commercial use"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "Deutsche Digitale Bibliothek",
+   "url": "https://www.deutsche-digitale-bibliothek.de",
+   "description": "Digitised German libraries, archives and museums, including Gebrauchsgraphik and type specimens.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "MDZ",
+   "url": "https://www.digitale-sammlungen.de",
+   "description": "Digitised books from the Bavarian State Library.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "Nationaal Archief",
+   "url": "https://www.nationaalarchief.nl",
+   "description": "Dutch national archive with many 20th-century photos.",
+   "access": "Partly CC0"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "US National Archives",
+   "url": "https://www.archives.gov/research/still-pictures",
+   "description": "Photos and graphics of the US government.",
+   "access": "Mostly public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/images",
+   "description": "History of medicine and the human body in images.",
+   "access": "Mostly CC BY / Public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "Smithsonian Libraries Image Gallery",
+   "url": "https://library.si.edu/image-gallery",
+   "description": "Illustrations from rare books.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "Calisphere",
+   "url": "https://calisphere.org",
+   "description": "California archives.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Libraries and National Archives",
+   "name": "Digital Commonwealth",
+   "url": "https://www.digitalcommonwealth.org",
+   "description": "Massachusetts archives, with many vintage postcards.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "Old Book Illustrations",
+   "url": "https://www.oldbookillustrations.com",
+   "description": "Engravings and illustrations from old books.",
+   "access": "Public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "Biodiversity Heritage Library",
+   "url": "https://www.biodiversitylibrary.org",
+   "description": "Botanical and zoological illustrations.",
+   "access": "Mostly public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "Plant Illustrations",
+   "url": "https://www.plantillustrations.org",
+   "description": "Botanical illustrations only.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "ukiyo-e.org",
+   "url": "https://ukiyo-e.org",
+   "description": "Search across Japanese woodblock prints in museums worldwide.",
+   "access": "View only"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "David Rumsey Map Collection",
+   "url": "https://www.davidrumsey.com",
+   "description": "150,000 historical maps.",
+   "access": "CC BY-NC"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "Old Maps Online",
+   "url": "https://www.oldmapsonline.org",
+   "description": "Search historical maps by place.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "Letterform Archive",
+   "url": "https://oa.letterformarchive.org",
+   "description": "Archive of lettering, typography and graphic design.",
+   "access": "View only"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "eMuseum (Museum für Gestaltung Zürich)",
+   "url": "https://www.emuseum.ch",
+   "description": "One of the largest poster and design collections, strong on Swiss design.",
+   "access": "View only"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "Poster House",
+   "url": "https://www.posterhouse.org",
+   "description": "Poster museum in New York.",
+   "access": "View only"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "International Poster Gallery",
+   "url": "https://www.internationalposter.com",
+   "description": "Archive of vintage posters by country and theme.",
+   "access": "View only (shop)"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "Numista",
+   "url": "https://en.numista.com",
+   "description": "Catalogue of coins and banknotes of the world.",
+   "access": "View only"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "American Numismatic Society",
+   "url": "https://numismatics.org/search",
+   "description": "Museum collection of coins and medals.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "CoinArchives",
+   "url": "https://www.coinarchives.com",
+   "description": "Archive of auction lots with coin photos.",
+   "access": "View only"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "NASA Image Library",
+   "url": "https://images.nasa.gov",
+   "description": "Space, missions and astronauts.",
+   "access": "Mostly public domain"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "ESA Images",
+   "url": "https://www.esa.int/ESA_Multimedia/Images",
+   "description": "Photos from the European Space Agency.",
+   "access": "Mostly CC BY-SA"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "OldNYC",
+   "url": "https://www.oldnyc.org",
+   "description": "Historical photos of New York on a map.",
+   "access": "From NYPL"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "Historypin",
+   "url": "https://www.historypin.org",
+   "description": "Historical photos pinned to places.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "Vintage Everyday",
+   "url": "https://www.vintag.es",
+   "description": "Vintage photo collections by theme.",
+   "access": "View only"
+  },
+  {
+   "topic": "portugal",
+   "section": "Archives and Image Collections",
+   "name": "BNDigital",
+   "url": "https://bndigital.bnportugal.gov.pt",
+   "description": "Digital National Library of Portugal: books, maps, prints.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "portugal",
+   "section": "Archives and Image Collections",
+   "name": "Digitarq",
+   "url": "https://digitarq.arquivos.pt",
+   "description": "Portuguese state archives, including Torre do Tombo.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "portugal",
+   "section": "Archives and Image Collections",
+   "name": "Arquivo Municipal de Lisboa",
+   "url": "https://arquivomunicipal.cm-lisboa.pt",
+   "description": "Lisbon photo archive from the 19th century onwards.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "portugal",
+   "section": "Archives and Image Collections",
+   "name": "Hemeroteca Digital de Lisboa",
+   "url": "https://hemerotecadigital.cm-lisboa.pt",
+   "description": "Digitised Portuguese newspapers and magazines, including Ilustração Portuguesa.",
+   "access": "Mixed licences"
+  },
+  {
+   "topic": "portugal",
+   "section": "Archives and Image Collections",
+   "name": "MatrizNet",
+   "url": "http://www.matriznet.dgpc.pt",
+   "description": "Collections of Portuguese state museums, including azulejos.",
+   "access": "View only"
+  },
+  {
+   "topic": "portugal",
+   "section": "Archives and Image Collections",
+   "name": "Restos de Colecção",
+   "url": "https://restosdecoleccao.blogspot.com",
+   "description": "History of Portuguese shops, brands and signage in photos.",
+   "access": "View only"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Museum and Libraries",
+   "name": "MUDE — Museu do Design (Design Museum, Lisbon)",
+   "url": "https://mude.pt/",
+   "description": "Lisbon's design museum on Rua Augusta: graphic and product design, fashion, jewellery; visitable storage of graphic design.",
+   "access": "Free on Fridays after 17:00 and Sunday mornings"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Museum and Libraries",
+   "name": "MUDE — Biblioteca e Centro de Documentação (MUDE Library and Documentation Centre)",
+   "url": "https://nyronmude.cm-lisboa.pt/catalog/",
+   "description": "Design library catalogue with 12 special collections (Centro Português de Design, João Machado, Helena Cardoso, Miguel Rios Design and others) and a historical archive.",
+   "access": "Free, reading room by appointment"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Museum and Libraries",
+   "name": "MUDE — Acervo Online (MUDE Online Collection)",
+   "url": "https://inwebmude.cm-lisboa.pt/",
+   "description": "Searchable museum collection; prefixes MUDE.G (graphic design), MUDE.P (product), MUDE.M (fashion), MUDE.J (jewellery).",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Museum and Libraries",
+   "name": "Biblioteca de Arte Gulbenkian (Gulbenkian Art Library)",
+   "url": "https://gulbenkian.pt/biblioteca-arte/",
+   "description": "Portugal's main art library with about 180 photographic collections, many digitised.",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Museum and Libraries",
+   "name": "Biblioteca de Arte Gulbenkian on Flickr (Gulbenkian Art Library on Flickr)",
+   "url": "https://www.flickr.com/people/26577438@N06",
+   "description": "Photos from Estúdio Mário Novais, Portuguese azulejos and gilt woodwork, Amadeo de Souza-Cardoso's estate.",
+   "access": "CC BY 4.0 for most images"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Museum and Libraries",
+   "name": "Imprensa Nacional — Coleção D (Portuguese Designers Series)",
+   "url": "https://imprensanacional.pt/wp-content/uploads/2022/07/D8-LMC-WEB.pdf",
+   "description": "Monographs on Portuguese designers such as Victor Palla, Sebastião Rodrigues, Paulo-Guilherme and Roberto Nobre; publisher PDFs.",
+   "access": "Free PDF from the publisher"
+  },
+  {
+   "topic": "portugal",
+   "section": "Magazines and Modernism",
+   "name": "Hemeroteca Digital de Lisboa (Lisbon Digital Newspaper Library)",
+   "url": "https://hemerotecadigital.cm-lisboa.pt/",
+   "description": "Digitised newspapers and magazines, including Ilustração Portuguesa (1903–1993) and Contemporânea.",
+   "access": "Free PDF"
+  },
+  {
+   "topic": "portugal",
+   "section": "Magazines and Modernism",
+   "name": "Revistas de Ideias e Cultura (Magazines of Ideas and Culture)",
+   "url": "https://pt.revistasdeideias.net/",
+   "description": "Fully digitised 20th-century magazines: Orpheu, Contemporânea, A Águia, Seara Nova, O Tempo e o Modo.",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Magazines and Modernism",
+   "name": "Modernismo — Arquivo Virtual da Geração de Orpheu (Virtual Archive of the Orpheu Generation)",
+   "url": "https://modernismo.pt/",
+   "description": "Archives of Almada Negreiros, Sarah Affonso and the Orpheu writers, with magazine covers and graphic work.",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Magazines and Modernism",
+   "name": "Casa Comum — Diário de Lisboa (Lisbon Daily Archive)",
+   "url": "https://casacomum.org/",
+   "description": "Every issue of Diário de Lisboa, 1921–1990, plus other archives.",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Magazines and Modernism",
+   "name": "Purl.pt — Biblioteca Nacional Digital (National Digital Library)",
+   "url": "https://purl.pt/",
+   "description": "Digitised books, prints, maps and posters from the National Library of Portugal.",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Posters and Ephemera",
+   "name": "Ephemera — Biblioteca e Arquivo de José Pacheco Pereira (Ephemera Library and Archive)",
+   "url": "https://ephemerajpp.com/",
+   "description": "Largest private archive in Portugal: tens of thousands of posters, pamphlets, stickers and photos.",
+   "access": "Free to browse"
+  },
+  {
+   "topic": "portugal",
+   "section": "Azulejo",
+   "name": "Az Infinitum — Sistema de Referência e Indexação de Azulejo (Azulejo Indexation and Referencing System)",
+   "url": "https://redeazulejo.letras.ulisboa.pt/pesquisa-az/",
+   "description": "Largest database of tiles produced or applied in Portugal, with the National Azulejo Museum.",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Type Foundries",
+   "name": "R-Typography",
+   "url": "https://www.r-typography.com/",
+   "description": "Portuguese type foundry.",
+   "access": "Paid"
+  },
+  {
+   "topic": "portugal",
+   "section": "Type Foundries",
+   "name": "Feliciano Type Foundry",
+   "url": "https://www.felicianotypefoundry.com/",
+   "description": "Portuguese type foundry with revivals of Portuguese lettering.",
+   "access": "Paid"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums and Events",
+   "name": "MAAT — Museu de Arte, Arquitetura e Tecnologia (Museum of Art, Architecture and Technology)",
+   "url": "https://www.maat.pt/",
+   "description": "Lisbon museum of contemporary art, architecture and technology.",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums and Events",
+   "name": "Museu Calouste Gulbenkian (Calouste Gulbenkian Museum)",
+   "url": "https://gulbenkian.pt/museu/",
+   "description": "Founder's collection and modern Portuguese art (CAM).",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums and Events",
+   "name": "Serralves",
+   "url": "https://www.serralves.pt/",
+   "description": "Porto museum of contemporary art in a Siza building with a park.",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums and Events",
+   "name": "Porto Design Biennale",
+   "url": "https://portodesignbiennale.pt/",
+   "description": "Biennial design festival in Porto and Matosinhos with an online archive of past editions.",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums and Events",
+   "name": "ESAD — Escola Superior de Artes e Design (School of Art and Design, Matosinhos)",
+   "url": "https://esad.pt/",
+   "description": "Design school and research centre (ESAD—idea) behind many exhibitions on Portuguese graphic design.",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Lisbon Design Week",
+   "name": "Lisbon Design Week",
+   "url": "https://lisbondesignweek.com/",
+   "description": "Citywide design festival held each May across about 80 venues in 11 neighbourhoods, focused on Portuguese makers and craft.",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Lisbon Design Week",
+   "name": "Lisbon by Design",
+   "url": "https://www.lisbonbydesign.com/",
+   "description": "Collectible design fair that runs alongside Lisbon Design Week.",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Lisbon Design Week",
+   "name": "Burel Factory",
+   "url": "https://burelfactory.com/",
+   "description": "Wool textile mill from Serra da Estrela; a regular Lisbon Design Week participant.",
+   "access": "Shop"
+  },
+  {
+   "topic": "portugal",
+   "section": "Lisbon Design Week",
+   "name": "Cutipol",
+   "url": "https://www.cutipol.pt/en",
+   "description": "Portuguese cutlery brand; a Lisbon Design Week participant.",
+   "access": "Shop"
+  },
+  {
+   "topic": "portugal",
+   "section": "Lisbon Design Week",
+   "name": "Constança Entrudo",
+   "url": "https://www.constancaentrudo.com/",
+   "description": "Textile designer working with modular surfaces; shown at Lisbon Design Week 2026.",
+   "access": "Shop"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "anthropics/skills",
+   "url": "https://github.com/anthropics/skills",
+   "description": "Official Anthropic skills and format examples.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "skills.sh",
+   "url": "https://skills.sh",
+   "description": "Searchable catalogue of agent skills.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "awesome-claude-skills (ComposioHQ)",
+   "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+   "description": "Large community list of Claude skills.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "awesome-claude-skills (travisvn)",
+   "url": "https://github.com/travisvn/awesome-claude-skills",
+   "description": "Curated list of Claude skills.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "awesome-claude-skills (VoltAgent)",
+   "url": "https://github.com/VoltAgent/awesome-claude-skills",
+   "description": "Claude skills organised by category.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "awesome-claude-code",
+   "url": "https://github.com/hesreallyhim/awesome-claude-code",
+   "description": "Skills, commands, hooks and plugins for Claude Code.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-design-systems (alexpate)",
+   "url": "https://github.com/alexpate/awesome-design-systems",
+   "description": "Company design systems with links.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-design-systems (klaufel)",
+   "url": "https://github.com/klaufel/awesome-design-systems",
+   "description": "Articles, tools and examples of design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-design",
+   "url": "https://github.com/gztchan/awesome-design",
+   "description": "General list of design resources.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "Awesome Design Tools",
+   "url": "https://github.com/goabstract/Awesome-Design-Tools",
+   "description": "Tools and plugins for designers.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "Design Resources for Developers",
+   "url": "https://github.com/bradtraversy/design-resources-for-developers",
+   "description": "Fonts, icons, photos, colour and UI kits.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "motion-ui-design",
+   "url": "https://github.com/fliptheweb/motion-ui-design",
+   "description": "Resources on motion design and UI animation.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-ui-component-library",
+   "url": "https://github.com/anubhavsrivastava/awesome-ui-component-library",
+   "description": "Component libraries by framework.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-react-components",
+   "url": "https://github.com/brillout/awesome-react-components",
+   "description": "React components and libraries.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-creative-coding",
+   "url": "https://github.com/terkelg/awesome-creative-coding",
+   "description": "Generative art, shaders and WebGL.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-icons",
+   "url": "https://github.com/notlmn/awesome-icons",
+   "description": "Icon sets.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-css",
+   "url": "https://github.com/awesome-css-group/awesome-css",
+   "description": "CSS techniques and tools.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "awesome-stock-resources",
+   "url": "https://github.com/neutraltone/awesome-stock-resources",
+   "description": "Free stock photos, videos and illustrations.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "free-for-dev",
+   "url": "https://github.com/ripienaar/free-for-dev",
+   "description": "Free tiers of services for projects.",
+   "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Design Lists on GitHub",
+   "name": "sindresorhus/awesome",
+   "url": "https://github.com/sindresorhus/awesome",
+   "description": "The list of awesome lists, with a Design section.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Lucide",
+   "url": "https://lucide.dev",
+   "description": "Open-source SVG icons.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Iconly",
+   "url": "https://iconly.pro",
+   "description": "More than 40,000 icons, including animated ones.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Koboyo",
+   "url": "https://koboyo.com/icons",
+   "description": "292,000 hand-drawn icons.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Kitbitz",
+   "url": "https://kitbitz.art",
+   "description": "More than 2,000 hand-drawn illustrations.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Inkword",
+   "url": "https://inkword.app",
+   "description": "Generator of minimalist illustrations.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "PNGimg",
+   "url": "https://pngimg.com",
+   "description": "PNG images with transparent backgrounds.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Emoji to PNG",
+   "url": "https://emoji.aranja.com",
+   "description": "Any emoji as a PNG.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "mmeshy",
+   "url": "https://mmeshy.com",
+   "description": "Mesh gradient editor and gallery.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Cutting Mat Generator",
+   "url": "https://cutting-mat-generator.vercel.app",
+   "description": "Backgrounds in the style of a cutting mat.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Holosticker",
+   "url": "https://holosticker.dev",
+   "description": "Holographic foil effect for logos.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Reicon",
+   "url": "https://reicon.dev",
+   "description": "More than 2,700 open-source SVG icons.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Sombra",
+   "url": "https://sombra.design",
+   "description": "Gradient builder.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Phosphor Icons",
+   "url": "https://phosphoricons.com",
+   "description": "Flexible icon family in six weights.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "3dicons",
+   "url": "https://3dicons.co",
+   "description": "Open-source 3D icons.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Symbl",
+   "url": "https://symbl.space",
+   "description": "Logo stress test: small sizes, blur, negative space, clearspace, mockups and a shareable brand book.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "Web Design Museum",
+   "url": "https://www.webdesignmuseum.org",
+   "description": "History of web design.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "Pafolios",
+   "url": "https://pafolios.com",
+   "description": "Designer portfolios.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "Logosystem",
+   "url": "https://logosystem.co",
+   "description": "Collection of logos.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "Wellmade",
+   "url": "https://wellmade.fyi",
+   "description": "Design inspiration in one place.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "Launch Videos",
+   "url": "https://launchvideos.gallery",
+   "description": "Product launch videos.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "Contentcore",
+   "url": "https://contentcore.xyz",
+   "description": "Mockups of iPhone screens",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "App Mockup Studio",
+   "url": "https://studio.app-mockup.com",
+   "description": "App Store screenshots.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "EZ Screenshots",
+   "url": "https://ezscreenshots.com",
+   "description": "Screenshots for the App Store and Google Play.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "TextLab",
+   "url": "https://textlab.javii.tools",
+   "description": "Chat conversation mockups.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Namelix",
+   "url": "https://namelix.com",
+   "description": "Brand name ideas.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Design.com",
+   "url": "https://www.design.com",
+   "description": "Logo generator.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Photopea",
+   "url": "https://www.photopea.com",
+   "description": "Photoshop-like editor in the browser.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Cleanup.pictures",
+   "url": "https://cleanup.pictures",
+   "description": "Remove objects from photos.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Remove.photos",
+   "url": "https://remove.photos",
+   "description": "Background removal.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "iLoveIMG",
+   "url": "https://www.iloveimg.com",
+   "description": "Set of image tools.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Text Behind Image",
+   "url": "https://textbehindimage.com",
+   "description": "Place text behind the subject of a photo.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "AutoDraw",
+   "url": "https://www.autodraw.com",
+   "description": "Turns scribbles into drawings.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "The Bézier Game",
+   "url": "https://bezier.method.ac",
+   "description": "Pen tool trainer.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Eye2",
+   "url": "https://eye2.ai",
+   "description": "Compare answers from several AI models.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Meshy",
+   "url": "https://www.meshy.ai",
+   "description": "3D models from an image.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Napkin",
+   "url": "https://www.napkin.ai",
+   "description": "Turns text into diagrams and visuals.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Vidmix",
+   "url": "https://vidmix.app",
+   "description": "Video editor in the browser.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "OpenCut",
+   "url": "https://opencut.app",
+   "description": "Open-source video editor.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Vidsplay",
+   "url": "https://www.vidsplay.com",
+   "description": "Free stock video.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Branding, Photo, AI and Video",
+   "name": "Vidclue",
+   "url": "https://vidclue.com",
+   "description": "Ideas for short-form videos.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Oh Shit, Git!?!",
+   "url": "https://ohshitgit.com",
+   "description": "How to get out of git trouble.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Hacking with Swift",
+   "url": "https://www.hackingwithswift.com",
+   "description": "Free iOS course.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Hacking with Flutter",
+   "url": "https://hackingwithflutter.com",
+   "description": "Free Flutter course.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Full Stack Open",
+   "url": "https://fullstackopen.com",
+   "description": "Free full-stack course.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Learn Anything",
+   "url": "https://learn-anything.xyz",
+   "description": "Learning paths for any topic.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "The Pudding",
+   "url": "https://pudding.cool",
+   "description": "Visual essays.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Anatomy Atelier",
+   "url": "https://anatomyatelier.vercel.app",
+   "description": "Human anatomy reference.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Cymath",
+   "url": "https://www.cymath.com",
+   "description": "Step-by-step equation solver.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "ChemEquations",
+   "url": "https://chemequations.com",
+   "description": "Balances chemical equations.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Loecsen",
+   "url": "https://www.loecsen.com",
+   "description": "Basic phrases in many languages.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Learning",
+   "name": "Babadum",
+   "url": "https://babadum.com",
+   "description": "Vocabulary games in 21 languages, including Portuguese.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Typing",
+   "name": "Human Benchmark",
+   "url": "https://humanbenchmark.com",
+   "description": "Reaction and memory tests.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Typing",
+   "name": "TypingClub",
+   "url": "https://www.typingclub.com",
+   "description": "Touch typing from scratch.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Typing",
+   "name": "Entertrained",
+   "url": "https://entertrained.app",
+   "description": "Typing practice on book texts.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Typing",
+   "name": "TypingBird",
+   "url": "https://typingbird.com",
+   "description": "Typing practice through games.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Typing",
+   "name": "ZType",
+   "url": "https://zty.pe",
+   "description": "Shooter game where you type words.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "Reactive Resume",
+   "url": "https://rxresu.me",
+   "description": "Open-source resume builder.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "MagiCV",
+   "url": "https://magicv.art",
+   "description": "Resume builder.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "Keepa",
+   "url": "https://keepa.com",
+   "description": "Amazon price history.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "Versus",
+   "url": "https://versus.com",
+   "description": "Compare two products.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "WeTransfer",
+   "url": "https://wetransfer.com",
+   "description": "Send large files.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "Wayback Machine",
+   "url": "https://web.archive.org",
+   "description": "Archive of old versions of websites.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "iFixit",
+   "url": "https://www.ifixit.com",
+   "description": "Repair guides for devices.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "HomeByMe",
+   "url": "https://home.by.me",
+   "description": "3D home design.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "Desk Spacing",
+   "url": "https://deskspacing.com",
+   "description": "Design your dream workspace.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "Sweezy Cursors",
+   "url": "https://sweezy-cursors.com",
+   "description": "Custom browser cursors.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "YoPrintables",
+   "url": "https://yoprintables.com",
+   "description": "Colouring page generator.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Utilities",
+   "name": "Supermeme",
+   "url": "https://supermeme.ai",
+   "description": "Memes from text.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Fitness",
+   "name": "Muscle & Strength",
+   "url": "https://www.muscleandstrength.com",
+   "description": "Workout programmes.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Fitness",
+   "name": "Darebee",
+   "url": "https://darebee.com",
+   "description": "Free workout programmes.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Fitness",
+   "name": "Workout.cool",
+   "url": "https://workout.cool",
+   "description": "Personal workout plans.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Windows on the World",
+   "name": "Radio Garden",
+   "url": "https://radio.garden",
+   "description": "Radio stations of the world on a globe.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Windows on the World",
+   "name": "Drive & Listen",
+   "url": "https://driveandlisten.app",
+   "description": "Drive through cities with local radio.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Windows on the World",
+   "name": "WindowSwap",
+   "url": "https://www.window-swap.com",
+   "description": "The view from someone else's window.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Windows on the World",
+   "name": "Wndws",
+   "url": "https://wndws.space",
+   "description": "Windows from around the world.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "ArcadeSpot",
+   "url": "https://arcadespot.com",
+   "description": "Classic arcade games.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "Quenq",
+   "url": "https://quenq.com",
+   "description": "Museum of games playable in the browser.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "GeoFS",
+   "url": "https://www.geo-fs.com",
+   "description": "Flight simulator in the browser.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "LostGamer",
+   "url": "https://lostgamer.io",
+   "description": "GeoGuessr-style game.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "Tree Men Games",
+   "url": "https://treemengames.itch.io",
+   "description": "Driving simulator.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "Slow Roads",
+   "url": "https://slowroads.io",
+   "description": "Meditative endless road.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "Sandspiel",
+   "url": "https://sandspiel.club",
+   "description": "Falling-sand particle sandbox.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "Jellymar",
+   "url": "https://jellymar.io",
+   "description": "Jelly physics platformer.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "Hordes.io",
+   "url": "https://hordes.io",
+   "description": "MMORPG in the browser.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "HammyHome",
+   "url": "https://hammyhome.com",
+   "description": "Cosy hamster game.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "ApexDrawn",
+   "url": "https://apexdrawn.com",
+   "description": "Draw a track and race on it.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "Minecraft (WASM Arcade)",
+   "url": "https://wasmarcade.com/minecraft",
+   "description": "Minecraft in the browser.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Browser Games",
+   "name": "Bruno Simon",
+   "url": "https://bruno-simon.com",
+   "description": "Portfolio as a Three.js driving game.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "Garden Letters",
+   "url": "https://gardenletters.online",
+   "description": "Digital letters to loved ones.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "Absurd Trolley Problems",
+   "url": "https://neal.fun/absurd-trolley-problems",
+   "description": "Absurd trolley problems.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "Printing Money",
+   "url": "https://neal.fun/printing-money",
+   "description": "How much professionals earn per hour.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "Digital Postcard",
+   "url": "https://digitalpostcard.app",
+   "description": "Digital postcards.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "Messenger (Abeto)",
+   "url": "https://messenger.abeto.co",
+   "description": "Interactive messenger world.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "Idea Critters",
+   "url": "https://ideacritters.com",
+   "description": "Cute idea creatures.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "My Sketchbooth",
+   "url": "https://mysketchbooth.com",
+   "description": "Vintage photo booth.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "Little Voice Note",
+   "url": "https://littlevoicenote.com",
+   "description": "Voice postcard with a photo.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "Peanutize",
+   "url": "https://peanutize.xyz",
+   "description": "Turn yourself into a Peanuts character.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "DigicamFX",
+   "url": "https://digicamfx.com/editor",
+   "description": "Old point-and-shoot camera effect.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Toys and Small Delights",
+   "name": "Ransomizer",
+   "url": "https://ransomizer.com",
+   "description": "Ransom-note style lettering.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Radio and Music",
+   "name": "Radiooooo",
+   "url": "https://radiooooo.com",
+   "description": "Music time machine by country and decade.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Radio and Music",
+   "name": "Poolsuite",
+   "url": "https://poolside.fm",
+   "description": "Retro radio with a classic Mac interface.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Radio and Music",
+   "name": "lofi.cafe",
+   "url": "https://lofi.cafe",
+   "description": "Lo-fi radio with cosy visuals.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Radio and Music",
+   "name": "Nightride FM",
+   "url": "https://nightride.fm",
+   "description": "Synthwave radio 24/7.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Radio and Music",
+   "name": "NTS",
+   "url": "https://www.nts.live",
+   "description": "Independent online radio.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Radio and Music",
+   "name": "Worldwide FM",
+   "url": "https://worldwidefm.net",
+   "description": "Gilles Peterson's radio station.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Radio and Music",
+   "name": "Radiomap.eu",
+   "url": "https://radiomap.eu",
+   "description": "Map of European radio stations.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Radio and Music",
+   "name": "Every Noise at Once",
+   "url": "https://everynoise.com",
+   "description": "Map of every music genre.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Radio and Music",
+   "name": "Musicmap",
+   "url": "https://musicmap.info",
+   "description": "Genealogy of popular music genres.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Career",
+   "name": "GOODList Freelance Rates Report",
+   "url": "https://ilovecreatives.com/3d-blender-course-resources-toolbox/freelance-rate-report",
+   "description": "Annual survey of creative freelancers' day rates by role.",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "YouTube Channels",
+   "name": "Школа дизайна Алексея Ромашина (Alexey Romashin Design School)",
+   "url": "https://www.youtube.com/@Romashin",
+   "description": "Short lectures on grids, design logic, logos, pricing and the history of graphic design. In Russian.",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "YouTube Channels",
+   "name": "ARCHITIME.RU",
+   "url": "https://www.youtube.com/@ArchitimeRu",
+   "description": "Long lectures on design history, Soviet avant-garde, architecture and urbanism. In Russian.",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "Books on the Shelf",
+   "name": "DK — Art: The Definitive Visual Guide (2023)",
+   "url": "https://openlibrary.org/isbn/0241629039",
+   "description": "Visual encyclopedia of art from prehistory to today.",
+   "access": "Paid"
+  },
+  {
+   "topic": "learning",
+   "section": "Books on the Shelf",
+   "name": "DK — Design: The Definitive Visual Guide (2023)",
+   "url": "https://openlibrary.org/isbn/0241631785",
+   "description": "Visual history of design: graphics, objects, fashion, architecture.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Monoskop: Avant-garde and modernist magazines",
+   "url": "https://monoskop.org/Journals",
+   "description": "Guide to avant-garde magazines of 1900–1940 with links to digitised copies.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Digital Dada Library (University of Iowa)",
+   "url": "https://dada.lib.uiowa.edu/",
+   "description": "Full scans of Dada magazines and related publications.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Blue Mountain Project (Princeton)",
+   "url": "https://bluemountain.princeton.edu/",
+   "description": "Full-text issues of European avant-garde magazines, 1848–1923.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Letterform Archive Online",
+   "url": "https://oa.letterformarchive.org/",
+   "description": "Online collection of lettering, posters, magazines and type specimens in high resolution.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Design Reviewed",
+   "url": "https://designreviewed.com/",
+   "description": "Scans of 20th-century graphic design magazines such as Gebrauchsgraphik, TM and Neue Grafik.",
+   "access": "Free, some for members"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "People's Graphic Design Archive",
+   "url": "https://peoplesgdarchive.org/",
+   "description": "Crowd-sourced archive of graphic design history.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Museum für Gestaltung Zürich, eMuseum",
+   "url": "https://www.emuseum.ch/",
+   "description": "Posters and graphic design, especially the Swiss school.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Cooper Hewitt Collection",
+   "url": "https://collection.cooperhewitt.org/",
+   "description": "Smithsonian design museum collection: graphics, posters, type.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "AIGA Design Archives",
+   "url": "https://designarchives.aiga.org/",
+   "description": "Work from AIGA competitions since the 1920s.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Internet Archive",
+   "url": "https://archive.org/",
+   "description": "Books, magazines, films and type specimens; public domain scans and controlled lending.",
+   "access": "Free, account for lending"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Open Library",
+   "url": "https://openlibrary.org/",
+   "description": "Legal digital lending of books, like a library.",
+   "access": "Free, account"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Getty Publications Virtual Library",
+   "url": "https://www.getty.edu/publications/virtuallibrary/",
+   "description": "Hundreds of Getty books as free, legal PDFs.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Eye Magazine archive",
+   "url": "https://www.eyemagazine.com/",
+   "description": "Articles from Eye magazine on graphic design history and criticism.",
+   "access": "Partly free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Fonts In Use",
+   "url": "https://fontsinuse.com/",
+   "description": "Archive of typefaces in real-world work, including many historical pieces.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Deutsche Digitale Bibliothek",
+   "url": "https://www.deutsche-digitale-bibliothek.de/",
+   "description": "Digitised German libraries, archives and museums, including Gebrauchsgraphik and type specimens.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "Heidelberg historic literature – digitized",
+   "url": "https://digi.ub.uni-heidelberg.de/",
+   "description": "Digitised Ver Sacrum, Jugend, Deutsche Kunst und Dekoration and manuscripts.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "General Archives and Libraries",
+   "name": "НЭБ — Национальная электронная библиотека (National Electronic Library of Russia)",
+   "url": "https://rusneb.ru/",
+   "description": "Russian publications: Niva magazine, type specimens, avant-garde books.",
+   "access": "Free, some in reading rooms"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Medieval Manuscripts and Calligraphy",
+   "name": "e-codices",
+   "url": "https://www.e-codices.unifr.ch/",
+   "description": "Swiss manuscripts, including the Abbey Library of St. Gallen.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Medieval Manuscripts and Calligraphy",
+   "name": "Gallica (BnF)",
+   "url": "https://gallica.bnf.fr/",
+   "description": "French manuscripts, incunabula and L'ornementation des manuscrits.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Medieval Manuscripts and Calligraphy",
+   "name": "Digital Bodleian",
+   "url": "https://digital.bodleian.ox.ac.uk/",
+   "description": "Oxford manuscripts and printed ephemera.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Medieval Manuscripts and Calligraphy",
+   "name": "Mira Calligraphiae Monumenta (Getty)",
+   "url": "https://www.getty.edu/publications/",
+   "description": "Calligraphy by Georg Bocskay and Joris Hoefnagel for the court of Rudolf II.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Medieval Manuscripts and Calligraphy",
+   "name": "Christopher de Hamel — Meetings with Remarkable Manuscripts",
+   "url": "https://www.penguin.co.uk/books/",
+   "description": "Twelve great manuscripts from the Gospels to the late Middle Ages.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Type, Specimens and Printing",
+   "name": "D. B. Updike — Printing Types (1922)",
+   "url": "https://archive.org/search?query=Updike+Printing+Types",
+   "description": "Classic history of printing types, in the public domain.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Type, Specimens and Printing",
+   "name": "Edward Johnston — Manuscript and Inscription Letters (1909)",
+   "url": "https://archive.org/search?query=Johnston+Manuscript+and+Inscription+Letters",
+   "description": "Johnston's lettering plates, in the public domain.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Type, Specimens and Printing",
+   "name": "F. W. Goudy — The Alphabet and Elements of Lettering (1918)",
+   "url": "https://archive.org/search?query=Goudy+Alphabet+Elements+of+Lettering",
+   "description": "Goudy's lettering textbook, in the public domain.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Type, Specimens and Printing",
+   "name": "Type Specimens on Internet Archive",
+   "url": "https://archive.org/search?query=type+specimen",
+   "description": "Specimens from German, American and French foundries such as Klingspor, Stempel and ATF.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Type, Specimens and Printing",
+   "name": "Klingspor Museum (Offenbach)",
+   "url": "https://www.klingspormuseum.de/",
+   "description": "Museum of type and the book; archive of the Klingspor foundry.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Type, Specimens and Printing",
+   "name": "Hamilton Wood Type & Printing Museum",
+   "url": "https://woodtype.org/",
+   "description": "Wood type and 19th-century American printing.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Type, Specimens and Printing",
+   "name": "Cees W. de Jong — Type: A Visual History of Typefaces & Graphic Styles",
+   "url": "https://www.taschen.com/",
+   "description": "Two volumes of type specimens from 1628 to 1938.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Type, Specimens and Printing",
+   "name": "U&lc Back Issues",
+   "url": "https://fontsinuse.com/tags/1309/uandlc",
+   "description": "ITC's magazine art-directed by Herb Lubalin, 1973–1999; Monotype released the PDFs for free.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Victorian Era and Arts and Crafts",
+   "name": "William Morris Archive (University of Iowa)",
+   "url": "https://morrisarchive.lib.uiowa.edu/",
+   "description": "Texts, Kelmscott Press editions and scans.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Victorian Era and Arts and Crafts",
+   "name": "William Morris Gallery",
+   "url": "https://www.wmgallery.org.uk/",
+   "description": "William Morris museum in London with an online collection.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Victorian Era and Arts and Crafts",
+   "name": "Kelmscott Chaucer on Internet Archive",
+   "url": "https://archive.org/search?query=Kelmscott+Chaucer",
+   "description": "Full scan of the Kelmscott Press masterpiece.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Victorian Era and Arts and Crafts",
+   "name": "Fiona MacCarthy — William Morris: A Life for Our Time",
+   "url": "https://www.faber.co.uk/",
+   "description": "The definitive biography of William Morris.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Victorian Era and Arts and Crafts",
+   "name": "NYPL Digital Collections",
+   "url": "https://digitalcollections.nypl.org/",
+   "description": "Photos, maps, menus, postcards and Victorian ephemera, with a public domain filter.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Victorian Era and Arts and Crafts",
+   "name": "V&A Collections",
+   "url": "https://collections.vam.ac.uk/",
+   "description": "Posters, ephemera and Arts and Crafts.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Victorian Era and Arts and Crafts",
+   "name": "Library of Congress Prints & Photographs",
+   "url": "https://www.loc.gov/pictures/",
+   "description": "19th-century circus and theatre posters, WPA posters.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Secession, Art Nouveau and Wendingen",
+   "name": "Ver Sacrum (Heidelberg)",
+   "url": "https://digi.ub.uni-heidelberg.de/diglit/ver_sacrum",
+   "description": "Full issues of the Vienna Secession magazine, 1898–1903.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Secession, Art Nouveau and Wendingen",
+   "name": "Jugend (Heidelberg)",
+   "url": "https://digi.ub.uni-heidelberg.de/diglit/jugend",
+   "description": "The Munich magazine that gave Jugendstil its name.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Secession, Art Nouveau and Wendingen",
+   "name": "Wendingen on Internet Archive",
+   "url": "https://archive.org/search?query=Wendingen",
+   "description": "Dutch magazine edited by Wijdeveld, 1918–1932.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Italian Futurism",
+   "name": "Monoskop: Futurism",
+   "url": "https://monoskop.org/Futurism",
+   "description": "Manifestos, books, parole in libertà and magazines.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Italian Futurism",
+   "name": "MART — Casa d'Arte Futurista Depero",
+   "url": "https://www.mart.tn.it/",
+   "description": "Depero's house museum and Futurism archive in Rovereto.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Italian Futurism",
+   "name": "Guggenheim — Italian Futurism 1909–1944: Reconstructing the Universe",
+   "url": "https://www.guggenheim.org/",
+   "description": "The major Futurism catalogue: Marinetti, Depero, Cangiullo.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Italian Futurism",
+   "name": "Marjorie Perloff — The Futurist Moment",
+   "url": "https://press.uchicago.edu/",
+   "description": "Futurism as language: typography, manifestos, words in freedom.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Russian Futurism and the Avant-Garde Book",
+   "name": "MoMA — The Russian Avant-Garde Book 1910–1934",
+   "url": "https://www.moma.org/",
+   "description": "Catalogue by Margit Rowell and Deborah Wye: Kruchenykh, Iliazd, Terentiev, Lissitzky.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Russian Futurism and the Avant-Garde Book",
+   "name": "Vladimir Markov — Russian Futurism: A History",
+   "url": "https://www.ucpress.edu/",
+   "description": "The standard history of Russian Futurism in English.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Russian Futurism and the Avant-Garde Book",
+   "name": "Monoskop: Constructivism",
+   "url": "https://monoskop.org/Constructivism",
+   "description": "Scans of Russian avant-garde books and magazines, VKhUTEMAS and UNOVIS.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Constructivism and Soviet Graphic Design",
+   "name": "Leah Dickerman — Building the Collective: Soviet Graphic Design 1917–1937",
+   "url": "https://papress.com/",
+   "description": "Posters, books and magazines by Rodchenko, Klutsis, Lissitzky and the Stenberg brothers.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Constructivism and Soviet Graphic Design",
+   "name": "Christina Lodder — Russian Constructivism",
+   "url": "https://yalebooks.yale.edu/",
+   "description": "Academic history of Constructivism.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Constructivism and Soviet Graphic Design",
+   "name": "MoMA — Stenberg Brothers: Constructing a Revolution in Soviet Design",
+   "url": "https://www.moma.org/",
+   "description": "Film posters by the Stenberg brothers.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Constructivism and Soviet Graphic Design",
+   "name": "Moscow Design Museum — Soviet Design: From Constructivism to Modernism 1920–1980",
+   "url": "https://www.scheidegger-spiess.ch/",
+   "description": "Survey of Soviet design by the Moscow Design Museum.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Constructivism and Soviet Graphic Design",
+   "name": "Van Abbemuseum (Lissitzky)",
+   "url": "https://vanabbemuseum.nl/",
+   "description": "Largest collection of El Lissitzky's work.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Constructivism and Soviet Graphic Design",
+   "name": "USSR in Construction on Internet Archive",
+   "url": "https://archive.org/search?query=USSR+in+Construction",
+   "description": "The magazine designed by Rodchenko, Stepanova and Lissitzky.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Constructivism and Soviet Graphic Design",
+   "name": "Hoover Institution Library & Archives — Posters",
+   "url": "https://digitalcollections.hoover.org/",
+   "description": "Soviet propaganda and consumer posters.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "De Stijl and Dutch Modernism",
+   "name": "Monoskop: De Stijl",
+   "url": "https://monoskop.org/De_Stijl",
+   "description": "Scans of the De Stijl magazine, 1917–1932.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "De Stijl and Dutch Modernism",
+   "name": "RKD — Netherlands Institute for Art History",
+   "url": "https://rkd.nl/",
+   "description": "Archives of Dutch designers, including Piet Zwart.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "De Stijl and Dutch Modernism",
+   "name": "Kunstmuseum Den Haag",
+   "url": "https://www.kunstmuseum.nl/",
+   "description": "Mondrian, De Stijl and Piet Zwart.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "De Stijl and Dutch Modernism",
+   "name": "Stedelijk Museum Amsterdam",
+   "url": "https://www.stedelijk.nl/",
+   "description": "Sandberg, Crouwel and Total Design.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "De Stijl and Dutch Modernism",
+   "name": "Frederike Huygen — Jurriaan Schrofer: Restless Typographer",
+   "url": "https://www.valiz.nl/",
+   "description": "Monograph on Jurriaan Schrofer.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Dada and the Central European Avant-Garde",
+   "name": "Timothy O. Benson — Central European Avant-Gardes: Exchange and Transformation, 1910–1930",
+   "url": "https://mitpress.mit.edu/",
+   "description": "Ma, Kassák, Zenit, Tank, Teige, Strzemiński and Berlewi.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Dada and the Central European Avant-Garde",
+   "name": "Leah Dickerman — Dada (NGA)",
+   "url": "https://www.nga.gov/",
+   "description": "Catalogue covering Zurich, Berlin, Hanover, Cologne, New York and Paris Dada.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Dada and the Central European Avant-Garde",
+   "name": "Sprengel Museum Hannover (Schwitters)",
+   "url": "https://www.sprengel-hannover.de/",
+   "description": "Archive and collection of Kurt Schwitters.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Dada and the Central European Avant-Garde",
+   "name": "Muzeum Sztuki Łódź",
+   "url": "https://msl.org.pl/",
+   "description": "Strzemiński, Kobro and the Polish avant-garde.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Dada and the Central European Avant-Garde",
+   "name": "Ladislav Sutnar — Visual Design in Action (Reprint)",
+   "url": "https://www.lars-mueller-publishers.com/",
+   "description": "Sutnar from the Czech avant-garde to information design.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Bauhaus and the New Typography",
+   "name": "Bauhaus-Archiv / Museum für Gestaltung",
+   "url": "https://www.bauhaus.de/",
+   "description": "The main Bauhaus archive in Berlin.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Bauhaus and the New Typography",
+   "name": "Harvard Art Museums — The Bauhaus",
+   "url": "https://harvardartmuseums.org/collections/special-collections/the-bauhaus",
+   "description": "More than 30,000 Bauhaus objects online.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Bauhaus and the New Typography",
+   "name": "Magdalena Droste — Bauhaus",
+   "url": "https://www.taschen.com/",
+   "description": "Standard introduction to the Bauhaus.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Bauhaus and the New Typography",
+   "name": "Josef Albers — Interaction of Color (app)",
+   "url": "https://interactionofcolor.com/",
+   "description": "Official Yale app based on Albers' book.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Bauhaus and the New Typography",
+   "name": "Josef & Anni Albers Foundation",
+   "url": "https://www.albersfoundation.org/",
+   "description": "Archive of Josef and Anni Albers.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Bauhaus and the New Typography",
+   "name": "Ellen Lupton, J. Abbott Miller — The ABCs of ▲■●: The Bauhaus and Design Theory",
+   "url": "https://papress.com/",
+   "description": "Bauhaus theory of form and colour.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Bauhaus and the New Typography",
+   "name": "Jan Tschichold — The New Typography (UC Press)",
+   "url": "https://www.ucpress.edu/",
+   "description": "English translation of Die neue Typographie (1928).",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Bauhaus and the New Typography",
+   "name": "Christopher Burke — Active Literature: Jan Tschichold and New Typography",
+   "url": "https://hyphenpress.co.uk/",
+   "description": "History of the New Typography.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Bauhaus and the New Typography",
+   "name": "HfG-Archiv Ulm",
+   "url": "https://hfg-archiv.museumulm.de/",
+   "description": "Archive of the Ulm School of Design: Otl Aicher, Max Bill.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Swiss Style",
+   "name": "Typografische Monatsblätter on Design Reviewed",
+   "url": "https://designreviewed.com/",
+   "description": "TM issues since the 1930s: Ruder, Weingart, Zimmermann.",
+   "access": "Free, some for members"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Swiss Style",
+   "name": "Emil Ruder — Typography",
+   "url": "https://www.niggli.ch/",
+   "description": "Ruder's typography textbook.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Swiss Style",
+   "name": "Karl Gerstner — Designing Programmes",
+   "url": "https://www.lars-mueller-publishers.com/",
+   "description": "Programmatic design, reprint.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Swiss Style",
+   "name": "Richard Hollis — Swiss Graphic Design: The Origins and Growth of an International Style",
+   "url": "https://yalebooks.yale.edu/",
+   "description": "History of Swiss Style, 1920–1965.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Italian Modernism",
+   "name": "Fondazione Pirelli",
+   "url": "https://www.fondazionepirelli.org/",
+   "description": "Pirelli advertising archive and Rivista Pirelli.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Italian Modernism",
+   "name": "Vignelli Center for Design Studies (RIT)",
+   "url": "https://vignellicenter.rit.edu/",
+   "description": "Archive of Massimo and Lella Vignelli.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Italian Modernism",
+   "name": "Steven Heller, Louise Fili — Italian Art Deco",
+   "url": "https://www.chroniclebooks.com/",
+   "description": "Italian graphic design between the wars.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "American Modernism and the New York School",
+   "name": "Herb Lubalin Study Center (Cooper Union)",
+   "url": "https://lubalincenter.cooper.edu/",
+   "description": "Lubalin's archive: Fact, Eros, Avant Garde, U&lc.",
+   "access": "Free, visit by appointment"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "American Modernism and the New York School",
+   "name": "Adrian Shaughnessy — Herb Lubalin: American Graphic Designer",
+   "url": "https://uniteditions.com/",
+   "description": "Monograph on Herb Lubalin.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "American Modernism and the New York School",
+   "name": "Paul Rand — Thoughts on Design",
+   "url": "https://www.chroniclebooks.com/",
+   "description": "Paul Rand's manifesto.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "American Modernism and the New York School",
+   "name": "Clive Challis — Helmut Krone. The Book.",
+   "url": "https://www.amazon.com/s?k=Helmut+Krone+The+Book",
+   "description": "Krone's advertising for VW and Audi.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "American Modernism and the New York School",
+   "name": "Milton Glaser Design Study Center and Archives (SVA)",
+   "url": "https://glaserarchives.org/",
+   "description": "Milton Glaser's archive.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "American Modernism and the New York School",
+   "name": "Vitra Design Museum — Alexander Girard: A Designer's Universe",
+   "url": "https://www.design-museum.de/",
+   "description": "Girard's work for Braniff and La Fonda del Sol.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "American Modernism and the New York School",
+   "name": "RIT Cary Graphic Arts Collection",
+   "url": "https://www.rit.edu/carycollection/",
+   "description": "Archives of American designers and printing history.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Japan and Poland",
+   "name": "Richard S. Thornton — Japanese Graphic Design",
+   "url": "https://www.laurenceking.com/",
+   "description": "Kamekura, Yokoo, Tamura and the Japanese poster.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Japan and Poland",
+   "name": "Muzeum Plakatu w Wilanowie",
+   "url": "https://www.postermuseum.pl/",
+   "description": "Polish School of Posters: Cieślewicz, Tomaszewski.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Postmodernism, New Wave and Psychedelia",
+   "name": "Rudy VanderLans, Zuzana Licko — Emigre: Graphic Design into the Digital Realm",
+   "url": "https://www.emigre.com/",
+   "description": "The story of Emigre by its founders.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Postmodernism, New Wave and Psychedelia",
+   "name": "Mark Holt, Hamish Muir — 8vo: On the Outside",
+   "url": "https://www.lars-mueller-publishers.com/",
+   "description": "8vo studio and Octavo magazine.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Postmodernism, New Wave and Psychedelia",
+   "name": "Jon Wozencroft — The Graphic Language of Neville Brody",
+   "url": "https://thamesandhudson.com/",
+   "description": "Brody, The Face and Arena.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Postmodernism, New Wave and Psychedelia",
+   "name": "Dan Friedman — Radical Modernism",
+   "url": "https://yalebooks.yale.edu/",
+   "description": "Dan Friedman's book.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Postmodernism, New Wave and Psychedelia",
+   "name": "Paul Grushkin — The Art of Rock",
+   "url": "https://www.abbeville.com/",
+   "description": "Psychedelic posters, including Wes Wilson.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Concrete Poetry, Typewriter Art and Fluxus",
+   "name": "UbuWeb — Mary Ellen Solt, Concrete Poetry: A World View",
+   "url": "https://www.ubu.com/papers/solt/",
+   "description": "Full text of Solt's anthology.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Concrete Poetry, Typewriter Art and Fluxus",
+   "name": "UbuWeb",
+   "url": "https://www.ubu.com/",
+   "description": "Avant-garde archive: visual poetry, Fluxus, Lettrism.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Concrete Poetry, Typewriter Art and Fluxus",
+   "name": "Barrie Tullett — Typewriter Art: A Modern Anthology",
+   "url": "https://www.laurenceking.com/",
+   "description": "Typewriter art from Werkman to today.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Concrete Poetry, Typewriter Art and Fluxus",
+   "name": "George Maciunas Foundation",
+   "url": "https://georgemaciunas.com/",
+   "description": "Maciunas archive and Fluxus typography.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Op Art and Optical Illusions",
+   "name": "Akiyoshi Kitaoka — Illusion pages",
+   "url": "https://www.ritsumei.ac.jp/~akitaoka/index-e.html",
+   "description": "Thousands of motion illusions by a Japanese psychologist.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Op Art and Optical Illusions",
+   "name": "Michael Bach — Optical Illusions & Visual Phenomena",
+   "url": "https://michaelbach.de/ot/",
+   "description": "Interactive illusions with explanations.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Op Art and Optical Illusions",
+   "name": "Fondation Vasarely",
+   "url": "https://www.fondationvasarely.org/",
+   "description": "Vasarely Foundation in Aix-en-Provence.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Collage and Personal Archives",
+   "name": "Alan Fletcher Archive",
+   "url": "https://www.alanfletcherarchive.com/",
+   "description": "Archive of Alan Fletcher.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Collage and Personal Archives",
+   "name": "Alan Fletcher — The Art of Looking Sideways",
+   "url": "https://www.phaidon.com/",
+   "description": "Notebook of visual thinking.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Collage and Personal Archives",
+   "name": "Paula Scher (Pentagram)",
+   "url": "https://www.pentagram.com/about/paula-scher",
+   "description": "Paula Scher's work and projects.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Collage and Personal Archives",
+   "name": "Paula Scher — BBC Maestro Course",
+   "url": "https://www.bbcmaestro.com/courses/paula-scher",
+   "description": "Scher's video course on graphic design.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Collage and Personal Archives",
+   "name": "Paula Scher — Make It Bigger",
+   "url": "https://papress.com/",
+   "description": "Scher's book about her practice.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Collage and Personal Archives",
+   "name": "Archivio Accardi Sanfilippo",
+   "url": "https://www.archivioaccardisanfilippo.it/",
+   "description": "Archive of Carla Accardi.",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Kazakhstan and Central Asia",
+   "name": "Ерлан Кожабаев — Казахские орнаменты как пиктограммы тенгрианской культуры (Yerlan Kozhabayev — Kazakh Ornaments as Pictograms of Tengrian Culture)",
+   "url": "https://sxodim.com/almaty/event/prezentatsiya-knigi-erlana-kozhabaeva-kazahskij-ornament",
+   "description": "Meaning and modular combinatorics of Kazakh ornament. In Russian and Kazakh.",
+   "access": "Paid"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Kazakhstan and Central Asia",
+   "name": "Эркен Кагаров — LiveJournal (Erken Kagarov's Blog)",
+   "url": "https://kagarov.livejournal.com/",
+   "description": "Type in film, matchbox labels, Soviet graphics, optical illusions. In Russian.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Arabic Typography and Type",
+   "name": "Bahia Shehab, Haytham Nawar — A History of Arab Graphic Design (AUC Press, 2020)",
+   "url": "https://aucpress.com/9789774168918",
+   "description": "First book-length history of Arab graphic design, with more than 600 illustrations.",
+   "access": "Paid, table of contents online"
+  },
+  {
+   "topic": "rtl",
+   "section": "Arabic Typography and Type",
+   "name": "Titus Nemeth — Arabic Type-Making in the Machine Age (Brill, 2017)",
+   "url": "https://brill.com/search?q=Arabic+Type-Making+in+the+Machine+Age",
+   "description": "Arabic type from the Linotype to digital, 1908–1993, with a chapter on Persian type.",
+   "access": "Paid"
+  },
+  {
+   "topic": "rtl",
+   "section": "Arabic Typography and Type",
+   "name": "Huda Smitshuijzen AbiFarès — Arabic Typography: A Comprehensive Sourcebook",
+   "url": "https://www.saqibooks.com/",
+   "description": "Standard sourcebook on Arabic typography.",
+   "access": "Paid"
+  },
+  {
+   "topic": "rtl",
+   "section": "Arabic Typography and Type",
+   "name": "Khatt Foundation",
+   "url": "https://www.khtt.net/",
+   "description": "Huda AbiFarès' centre for Arabic typography: projects, articles, books.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Arabic Typography and Type",
+   "name": "29LT (Pascal Zoghbi)",
+   "url": "https://www.29lt.com/",
+   "description": "Arabic and multi-script typefaces, articles on Arabic type design.",
+   "access": "Free to browse"
+  },
+  {
+   "topic": "rtl",
+   "section": "Arabic Typography and Type",
+   "name": "Mamoun Sakkal",
+   "url": "https://www.sakkal.com/",
+   "description": "Calligrapher and type designer; articles on Arabic script styles.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Arabic Typography and Type",
+   "name": "Google Fonts — Arabic",
+   "url": "https://fonts.google.com/?subset=arabic",
+   "description": "Free Arabic typefaces for web and interfaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Hebrew Typography and Type",
+   "name": "AlefAlefAlef",
+   "url": "https://alefalefalef.co.il/en/",
+   "description": "Hebrew type foundry and magazine, reviving historical typefaces.",
+   "access": "Free to read"
+  },
+  {
+   "topic": "rtl",
+   "section": "Hebrew Typography and Type",
+   "name": "Hebrew Typography in German-Speaking Regions (TH Köln)",
+   "url": "https://www.gm.th-koeln.de/hebrewtype/englisch/e_willkommen.html",
+   "description": "Research project on Hebrew typefaces cast in German-speaking regions, 16th century to 1939.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Hebrew Typography and Type",
+   "name": "Ada Yardeni — The Book of Hebrew Script",
+   "url": "https://www.oakknoll.com/",
+   "description": "History, palaeography, script styles, calligraphy and design of Hebrew letters.",
+   "access": "Paid"
+  },
+  {
+   "topic": "rtl",
+   "section": "Hebrew Typography and Type",
+   "name": "Ismar David — The Hebrew Letter: Calligraphic Variations",
+   "url": "https://www.amazon.com/s?k=Ismar+David+The+Hebrew+Letter",
+   "description": "Calligraphy by the designer of David Hebrew.",
+   "access": "Paid"
+  },
+  {
+   "topic": "rtl",
+   "section": "Hebrew Typography and Type",
+   "name": "National Library of Israel — Ktiv (Hebrew Manuscripts)",
+   "url": "https://nli.org.il/en/discover/manuscripts/hebrew-manuscripts/about",
+   "description": "Digitised Hebrew manuscripts from libraries around the world.",
+   "access": "Free, research and personal use"
+  },
+  {
+   "topic": "rtl",
+   "section": "Hebrew Typography and Type",
+   "name": "Google Fonts — Hebrew",
+   "url": "https://fonts.google.com/?subset=hebrew",
+   "description": "Free typefaces with Hebrew.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "RTL Layout and Interfaces",
+   "name": "Apple HIG — Right to left",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/right-to-left",
+   "description": "Mirroring interfaces, icons, numerals and text on Apple platforms.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "RTL Layout and Interfaces",
+   "name": "Material Design — Bidirectionality",
+   "url": "https://m2.material.io/design/usability/bidirectionality.html",
+   "description": "What to mirror and what not to in RTL interfaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "RTL Layout and Interfaces",
+   "name": "W3C — Arabic & Persian Layout Requirements (alreq)",
+   "url": "https://www.w3.org/TR/alreq/",
+   "description": "Requirements for typesetting Arabic and Persian text.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "RTL Layout and Interfaces",
+   "name": "W3C — Hebrew Layout Requirements (hlreq)",
+   "url": "https://w3c.github.io/hlreq/",
+   "description": "Requirements for typesetting Hebrew text.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "RTL Layout and Interfaces",
+   "name": "Ahmad Shadeed — RTL Styling 101",
+   "url": "https://rtlstyling.com/",
+   "description": "In-depth guide to RTL styling in CSS.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "RTL Layout and Interfaces",
+   "name": "MDN — CSS logical properties",
+   "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values",
+   "description": "CSS logical properties, the basis of RTL layouts.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "RTL Layout and Interfaces",
+   "name": "RTLCSS",
+   "url": "https://rtlcss.com/",
+   "description": "Tool that converts LTR CSS to RTL automatically.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Calligraphy and Art History",
+   "name": "Met — Islamic Calligraphy (Annemarie Schimmel, 1992)",
+   "url": "https://www.metmuseum.org/met-publications/islamic-calligraphy-the-metropolitan-museum-of-art-bulletin-v-50-no-1-summer-1992",
+   "description": "Metropolitan Museum bulletin on Islamic calligraphy.",
+   "access": "Free PDF"
+  },
+  {
+   "topic": "rtl",
+   "section": "Calligraphy and Art History",
+   "name": "Met — Masterpieces from the Department of Islamic Art",
+   "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf",
+   "description": "Catalogue of the Met's Islamic collection by region and period.",
+   "access": "Free PDF"
+  },
+  {
+   "topic": "rtl",
+   "section": "Calligraphy and Art History",
+   "name": "Met — Art of the Islamic World: Arabic Script and the Art of Calligraphy",
+   "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-two",
+   "description": "Teaching unit on Arabic script styles.",
+   "access": "Free PDF"
+  },
+  {
+   "topic": "rtl",
+   "section": "Calligraphy and Art History",
+   "name": "Annemarie Schimmel — Calligraphy and Islamic Culture",
+   "url": "https://nyupress.org/",
+   "description": "Classic study of calligraphy in Islamic culture, including Persian nastaliq.",
+   "access": "Paid"
+  },
+  {
+   "topic": "rtl",
+   "section": "Calligraphy and Art History",
+   "name": "Sheila Blair — Islamic Calligraphy",
+   "url": "https://edinburghuniversitypress.com/",
+   "description": "Comprehensive history of Islamic calligraphy.",
+   "access": "Paid"
+  },
+  {
+   "topic": "rtl",
+   "section": "Calligraphy and Art History",
+   "name": "Robert Hillenbrand — Islamic Art and Architecture",
+   "url": "https://thamesandhudson.com/",
+   "description": "Concise history of Islamic art (World of Art series).",
+   "access": "Paid"
+  },
+  {
+   "topic": "rtl",
+   "section": "Calligraphy and Art History",
+   "name": "Bahia Shehab — A Thousand Times No: The Visual History of Lam-Alif",
+   "url": "https://www.kehrerverlag.com/",
+   "description": "A thousand variations of the lam-alif ligature through history.",
+   "access": "Paid"
+  },
+  {
+   "topic": "rtl",
+   "section": "Museums and Archives",
+   "name": "Museum of Islamic Art, Doha",
+   "url": "https://mia.org.qa/",
+   "description": "Islamic art from Spain to Central Asia.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Museums and Archives",
+   "name": "Aga Khan Museum",
+   "url": "https://agakhanmuseum.org/",
+   "description": "Islamic art and manuscripts, online collection.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Museums and Archives",
+   "name": "Chester Beatty",
+   "url": "https://chesterbeatty.ie/",
+   "description": "Qur'anic and Persian manuscripts in Dublin.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Museums and Archives",
+   "name": "Israel Museum",
+   "url": "https://www.imj.org.il/en",
+   "description": "Jewish art, manuscripts and Israeli design.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Museums and Archives",
+   "name": "Arab Image Foundation",
+   "url": "https://arabimagefoundation.org/",
+   "description": "Photography archive of the Arab world.",
+   "access": "Free"
+  },
+  {
+   "topic": "rtl",
+   "section": "Museums and Archives",
+   "name": "Palestine Poster Project Archives",
+   "url": "https://www.palestineposterproject.org/",
+   "description": "Thousands of posters with Arabic typography.",
+   "access": "Free"
+  },
+  {
+   "topic": "architecture",
+   "section": "Portugal",
+   "name": "Casa da Arquitectura — Centro Português de Arquitectura (Portuguese Centre for Architecture)",
+   "url": "https://www.casadaarquitectura.pt/en/",
+   "description": "Architecture archive and museum in Matosinhos holding the archives of Paulo Mendes da Rocha and Lucio Costa; bilingual digital archive.",
+   "access": "Free online, paid entry"
+  },
+  {
+   "topic": "architecture",
+   "section": "Portugal",
+   "name": "Fundação Marques da Silva (Marques da Silva Foundation)",
+   "url": "https://fims.up.pt/",
+   "description": "University of Porto foundation with the archives of José Marques da Silva, Fernando Távora and other architects.",
+   "access": "Free"
+  },
+  {
+   "topic": "architecture",
+   "section": "Portugal",
+   "name": "Ordem dos Arquitectos (Portuguese Order of Architects)",
+   "url": "https://www.ordemdosarquitectos.org/",
+   "description": "Professional body; publisher of Arquitectura Popular em Portugal.",
+   "access": "Free"
+  },
+  {
+   "topic": "architecture",
+   "section": "Portugal",
+   "name": "ArchDaily — Portugal",
+   "url": "https://www.archdaily.com/country/portugal",
+   "description": "Contemporary Portuguese architecture projects.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "Museums and Archives",
+   "name": "Web Design Museum",
+   "url": "https://www.webdesignmuseum.org/",
+   "description": "Curated screenshots and videos of websites, apps and software from 1991 to the mid-2000s, by Petr Kovář.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "Museums and Archives",
+   "name": "Wayback Machine",
+   "url": "https://web.archive.org/",
+   "description": "Archived versions of websites, including early Apple and Microsoft homepages.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "Museums and Archives",
+   "name": "The First Website (CERN)",
+   "url": "https://info.cern.ch/",
+   "description": "Restoration of the first website from 1991.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "Museums and Archives",
+   "name": "Version Museum",
+   "url": "https://www.versionmuseum.com/",
+   "description": "Visual history of websites, operating systems and apps over time.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "Museums and Archives",
+   "name": "GUIdebook",
+   "url": "https://guidebookgallery.org/",
+   "description": "Gallery of historical graphical user interfaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "Museums and Archives",
+   "name": "Toasty Tech GUI Gallery",
+   "url": "http://toastytech.com/guis/",
+   "description": "Screenshots of historical operating systems and GUIs.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "Museums and Archives",
+   "name": "Computer History Museum",
+   "url": "https://www.computerhistory.org/",
+   "description": "Museum in Mountain View with online exhibitions on computing and the web.",
+   "access": "Free online"
+  },
+  {
+   "topic": "web-history",
+   "section": "GeoCities and the Personal Web",
+   "name": "Cameron's World",
+   "url": "https://www.cameronsworld.net/",
+   "description": "Collage of GeoCities fragments from 1994–2009.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "GeoCities and the Personal Web",
+   "name": "One Terabyte of Kilobyte Age",
+   "url": "https://oneterabyteofkilobyteage.tumblr.com/",
+   "description": "Screenshots of rescued GeoCities pages rendered in period browsers.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "GeoCities and the Personal Web",
+   "name": "GeoCities Research Institute",
+   "url": "https://blog.geocities.institute/",
+   "description": "Research blog on the GeoCities archive.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "GeoCities and the Personal Web",
+   "name": "Space Jam (1996)",
+   "url": "https://www.spacejam.com/1996/",
+   "description": "The original 1996 movie website, still online.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "GeoCities and the Personal Web",
+   "name": "Neocities",
+   "url": "https://neocities.org/",
+   "description": "Free hosting continuing the personal homepage tradition.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-history",
+   "section": "Books",
+   "name": "Rob Ford, Julius Wiedemann — Web Design: The Evolution of the Digital World 1990–Today",
+   "url": "https://www.taschen.com/",
+   "description": "640-page Taschen history of web design through more than 200 websites.",
+   "access": "Paid"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Vitaly Friedman",
+   "url": "https://www.linkedin.com/in/vitalyfriedman/",
+   "description": "Practical UX patterns, checklists and curated resource round-ups; founder of Smashing Magazine; see [Smashing Magazine](https://www.smashingmagazine.com/), [Smart Interface Design Patterns](https://smart-interface-design-patterns.com/), [Measure UX](https://measure-ux.com/), [Design Patterns For AI](https://ai-design-patterns.com/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "John Maeda",
+   "url": "https://www.linkedin.com/in/johnmaeda/",
+   "description": "Design, computation and AI, with a view across the US and Asia; see [Design in Tech Report](https://designintech.report/), [maeda.pm](https://maeda.pm/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Don Norman",
+   "url": "https://www.linkedin.com/in/donnorman/",
+   "description": "Cognitive psychology and human-centred design; author of The Design of Everyday Things; see [jnd.org](https://jnd.org/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Jakob Nielsen",
+   "url": "https://www.linkedin.com/in/jakobnielsen/",
+   "description": "Usability, heuristics, AI and UX; see [Nielsen Norman Group](https://www.nngroup.com/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Debbie Levitt",
+   "url": "https://www.linkedin.com/in/debbielevitt/",
+   "description": "Customer experience, research and process maturity; see [Delta CX](https://deltacx.com/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Zander Whitehurst",
+   "url": "https://www.linkedin.com/in/zanderwhitehurst/",
+   "description": "UI courses, AI prototyping and design skills for Claude and Cursor; see [Memorisely](https://www.memorisely.com/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Luke Wroblewski",
+   "url": "https://www.linkedin.com/in/lukew/",
+   "description": "Mobile, forms and AI interfaces; see [lukew.com](https://www.lukew.com/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Jared Spool",
+   "url": "https://www.linkedin.com/in/jmspool/",
+   "description": "UX strategy and training UX teams; see [Center Centre](https://www.centercentre.com/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Indi Young",
+   "url": "https://www.linkedin.com/in/indiyoung/",
+   "description": "Mental models and listening sessions; see [indiyoung.com](https://indiyoung.com/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Teresa Torres",
+   "url": "https://www.linkedin.com/in/teresatorres/",
+   "description": "Continuous discovery and interviewing; see [Product Talk](https://www.producttalk.org/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Erika Hall",
+   "url": "https://www.linkedin.com/in/erikahall/",
+   "description": "Just enough research; see [Mule Design](https://www.muledesign.com/).",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Ioana Teleanu",
+   "url": "https://www.linkedin.com/in/ioanateleanu/",
+   "description": "AI and UX, design careers.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "LinkedIn Curators",
+   "name": "Andy Budd",
+   "url": "https://www.linkedin.com/in/andybudd/",
+   "description": "Design leadership and design maturity.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Research",
+   "name": "How Product Teams Use AI In UX Research",
+   "url": "https://www.theresearchopsreview.com/p/how-to-ai-uxr-a-map",
+   "description": "Map of AI in UX research with maturity levels and practices, by Kate Towsey; free PDF.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: AI Product Behaviour",
+   "name": "Agentic Experience Design",
+   "url": "https://www.agentexperiences.com",
+   "description": "How people and AI agents work together: agent journey map, interaction modes, trust and oversight.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: AI Product Behaviour",
+   "name": "Emily Campbell — The Six Layers of AI Experience",
+   "url": "https://emilycampbell.co/writing/layers-of-ai-experience",
+   "description": "Model of the six layers that shape an AI product experience.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Components",
+   "name": "NN/g — Contextual Menus",
+   "url": "https://www.nngroup.com/articles/contextual-menus/",
+   "description": "Context menus without deep nesting or gear icons.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Layout",
+   "name": "Chris Butler — The Rhythm of Your Screen",
+   "url": "https://www.chrbutler.com/the-rhythm-of-your-screen",
+   "description": "The fold exists, but rhythm and attention matter more.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Typography",
+   "name": "Fontsight",
+   "url": "https://fontsight.xyz",
+   "description": "Browser extension that identifies the typeface on any page.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Typography",
+   "name": "Utopia Type Calculator",
+   "url": "https://utopia.fyi/type/calculator/",
+   "description": "Fluid type scale calculator.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Typography",
+   "name": "The Good Line-Height",
+   "url": "https://thegoodlineheight.com",
+   "description": "Line-height calculator.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Data Visualisation",
+   "name": "Open Visualization Academy",
+   "url": "https://openvisualizationacademy.org",
+   "description": "Free school of information design by Alberto Cairo: accessibility, storytelling, Figma for data visualisation.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Data Visualisation",
+   "name": "FT Visual Vocabulary",
+   "url": "https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary",
+   "description": "Which chart to use for which task, by the Financial Times.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: UX Writing",
+   "name": "Duolingo — Voice",
+   "url": "https://design.duolingo.com/writing/voice",
+   "description": "Brand voice guidelines from a design system.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: UX Writing",
+   "name": "Atlassian — Voice and Tone",
+   "url": "https://atlassian.design/content/voice-and-tone-principles",
+   "description": "Voice and tone principles from a design system.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: UX Writing",
+   "name": "Nick DiLallo — What I've Learned Writing For Billions of Users",
+   "url": "https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb",
+   "description": "Write for one person, across dozens of languages.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Privacy and Digital Etiquette",
+   "name": "IF — Data Patterns Catalogue",
+   "url": "https://catalogue.projectsbyif.com/",
+   "description": "Patterns for privacy and control over data.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Privacy and Digital Etiquette",
+   "name": "TTC Labs — Design for People",
+   "url": "https://toolkit.ttclabs.net/toolkit/design-for-people",
+   "description": "Toolkit for trustworthy, privacy-respecting design.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: DesignOps and Teamwork",
+   "name": "NN/g — DesignOps 101",
+   "url": "https://www.nngroup.com/articles/design-operations-101/",
+   "description": "Basics of DesignOps: people, process, tools.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Strategy",
+   "name": "The Strategic Product Designer",
+   "url": "https://durran.notion.site/The-Strategic-Product-Designer-1749449aeae2801aad83c1451430e070",
+   "description": "Books, articles and courses on UX strategy and business, by Daniel Andor.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: AI Skills for Design",
+   "name": "Design Engineering AI Skills",
+   "url": "https://craft.gustavofior.com",
+   "description": "Skills for agents on typography, colour, layout, motion and data.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: AI Skills for Design",
+   "name": "Good Practices",
+   "url": "https://goodpractices.design/",
+   "description": "Design engineering practices for AI agents.",
+   "access": "Free"
+  },
+  {
+   "topic": "ux-curators",
+   "section": "Vitaly Friedman, Sorted by Topic: Events",
+   "name": "Smashing AI Conf 2027",
+   "url": "https://smashingconf.com/ai-2027-conference",
+   "description": "Online conference on AI-ready design systems, research and trust patterns, 1 December.",
+   "access": "Free"
+  }
+ ]
+}

@@ -57,4 +57,4 @@ Read the [contribution guidelines](contributing.md) first.
 
 ## Footnotes
 
-See the [knowledge map](knowledge-map.md) for how topics connect. Sources include Denis Masharov's Facebook albums on graphic design history, Erken Kagarov's writing, and posts by Vitaly Friedman.
+See the [knowledge map](knowledge-map.md) for how topics connect. Every entry is also in [references.json](references.json) for scripts and AI agents. Sources include Denis Masharov's Facebook albums on graphic design history, Erken Kagarov's writing, and posts by Vitaly Friedman.
