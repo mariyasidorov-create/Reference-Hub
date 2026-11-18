@@ -2,7 +2,7 @@
 title: Icons, Illustrations and Graphics
 aliases: [иконки, иллюстрации, icons]
 tags: [icons, illustration]
-entries: 20
+entries: 21
 ---
 
 # Icons, Illustrations and Graphics
@@ -17,6 +17,7 @@ Related: [Images and Moodboards](images-and-moodboards.md) · [Tools](tools.md)
 
 - [Icons, Illustrations and Graphics](#icons-illustrations-and-graphics)
 - [Icons](#icons)
+- [Logos](#logos)
 
 ## Icons, Illustrations and Graphics
 
@@ -43,3 +44,7 @@ Related: [Images and Moodboards](images-and-moodboards.md) · [Tools](tools.md)
 - [Flaticon](https://www.flaticon.com/) - Large icon library. *Freemium.*
 - [Iconbuddy](https://iconbuddy.app/) - 100,000+ open-source icons. *Free.*
 - [Iconoteka](https://iconoteka.com/) - Icon library in several styles. *Freemium.*
+
+## Logos
+
+- [LogoLounge](https://www.logolounge.com/) - Logo trend reports and searchable logo database. *Paid.*

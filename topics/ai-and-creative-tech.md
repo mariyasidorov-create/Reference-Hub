@@ -2,7 +2,7 @@
 title: AI and Creative Technology
 aliases: [AI, ИИ, 3D, креативный код]
 tags: [ai, 3d, creative-coding]
-entries: 14
+entries: 20
 ---
 
 # AI and Creative Technology
@@ -30,6 +30,12 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [Three.js](https://threejs.org/) - JavaScript 3D library for the web. *Free.*
 - [Shader Gradient](https://shadergradient.co/) - Animated 3D gradients for web and Figma. *Free.*
 - [Figma Weave](https://weave.figma.com/) - Node-based AI workflows for image, video and 3D (formerly Weavy). *Freemium.*
+- [Krea](https://www.krea.ai/) - Real-time AI image, video and 3D generation. *Freemium.*
+- [ElevenLabs](https://elevenlabs.io/) - AI voice, sound effects and music. *Freemium.*
+- [Suno](https://suno.com/) - AI music generation. *Freemium.*
+- [LTX Studio](https://ltx.studio/) - AI storyboards and video production. *Freemium.*
+- [Kling AI](https://klingai.com/) - AI video generation. *Freemium.*
+- [Higgsfield](https://higgsfield.ai/) - AI video and image studio with camera presets. *Freemium.*
 
 ## Artists and Experiments
 

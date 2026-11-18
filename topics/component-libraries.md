@@ -2,7 +2,7 @@
 title: Component Libraries
 aliases: [библиотеки компонентов, UI-киты]
 tags: [code, components, react, swiftui]
-entries: 66
+entries: 70
 ---
 
 # Component Libraries
@@ -20,6 +20,7 @@ Related: [Motion and Micro-interactions](motion.md) · [UI Patterns and Real Pro
 - [Motion and Micro-interactions](#motion-and-micro-interactions)
 - [Sections and UI Kits](#sections-and-ui-kits)
 - [Where to Find New Libraries](#where-to-find-new-libraries)
+- [Web Toolkits](#web-toolkits)
 
 ## iOS and SwiftUI
 
@@ -101,3 +102,10 @@ Related: [Motion and Micro-interactions](motion.md) · [UI Patterns and Real Pro
 - [Design Hub](https://designrefs.com/en) - 397 websites with design resources. *Free.*
 - [Designeer](https://designeer.xyz) - Catalogue of inspiration, libraries and AI tools. *Free.*
 - [Product Disrupt](https://productdisrupt.com) - Collection of product design resources. *Free.*
+
+## Web Toolkits
+
+- [Osmo Supply](https://osmo.supply/) - Developer toolkit of web animations and components for Webflow and code. *Paid.*
+- [BYQ Supply](https://www.byq.supply/) - Copy-paste sections and design system for Webflow, Figma, Framer and AI agents. *Paid.*
+- [Lenis](https://lenis.darkroom.engineering/) - Smooth scroll library used by award-winning sites. *Free.*
+- [Barba.js](https://barba.js.org/) - Page transitions library. *Free.*

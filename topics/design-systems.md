@@ -2,7 +2,7 @@
 title: Design Systems
 aliases: [дизайн-системы, киты Figma]
 tags: [design-systems, motion, figma]
-entries: 57
+entries: 58
 ---
 
 # Design Systems
@@ -61,6 +61,7 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [MUI](https://mui.com/) - React components based on Material Design. *Freemium.*
 - [Untitled UI](https://www.untitledui.com/) - Large Figma UI kit and design system. *Freemium.*
 - [IxDF: Design Systems](https://ixdf.org/literature/topics/design-systems) - Articles on design systems. *Free.*
+- [Spotify Design](https://spotify.design/) - Spotify's design team blog and tools. *Free.*
 
 ## Official Figma Kits
 

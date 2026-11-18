@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1184,
+ "count": 1239,
  "references": [
   {
    "topic": "ui-patterns",
@@ -1747,6 +1747,38 @@
    "access": "Free"
   },
   {
+   "topic": "component-libraries",
+   "section": "Web Toolkits",
+   "name": "Osmo Supply",
+   "url": "https://osmo.supply/",
+   "description": "Developer toolkit of web animations and components for Webflow and code",
+   "access": "Paid"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Web Toolkits",
+   "name": "BYQ Supply",
+   "url": "https://www.byq.supply/",
+   "description": "Copy-paste sections and design system for Webflow, Figma, Framer and AI agents",
+   "access": "Paid"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Web Toolkits",
+   "name": "Lenis",
+   "url": "https://lenis.darkroom.engineering/",
+   "description": "Smooth scroll library used by award-winning sites",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Web Toolkits",
+   "name": "Barba.js",
+   "url": "https://barba.js.org/",
+   "description": "Page transitions library",
+   "access": "Free"
+  },
+  {
    "topic": "photo-archives",
    "section": "Stock Photos",
    "name": "Unsplash",
@@ -2273,6 +2305,14 @@
    "url": "https://artgrid.io/",
    "description": "Cinematic stock footage",
    "access": "Paid"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Public Domain",
+   "name": "The Public Domain Review",
+   "url": "https://publicdomainreview.org/",
+   "description": "Essays and collections of out-of-copyright images and texts",
+   "access": "Free"
   },
   {
    "topic": "portugal",
@@ -3179,6 +3219,14 @@
    "access": "Freemium"
   },
   {
+   "topic": "icons-and-graphics",
+   "section": "Logos",
+   "name": "LogoLounge",
+   "url": "https://www.logolounge.com/",
+   "description": "Logo trend reports and searchable logo database",
+   "access": "Paid"
+  },
+  {
    "topic": "tools",
    "section": "Inspiration and Mockups",
    "name": "Web Design Museum",
@@ -3385,6 +3433,38 @@
    "url": "https://www.ls.graphics/free-mockups",
    "description": "Free device and print mockups",
    "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "Paper",
+   "url": "https://paper.design/",
+   "description": "Design tool that works with code and AI agents",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "Spline",
+   "url": "https://spline.design/",
+   "description": "3D design tool for the web",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "Endless Tools",
+   "url": "https://endlesstools.io/",
+   "description": "No-code 3D assets and key visuals",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "aescripts + aeplugins",
+   "url": "https://aescripts.com/",
+   "description": "Scripts and plugins for After Effects",
+   "access": "Paid"
   },
   {
    "topic": "off-topic",
@@ -5043,6 +5123,22 @@
    "access": "Free"
   },
   {
+   "topic": "graphic-design-history",
+   "section": "Archives and Libraries",
+   "name": "Monoskop",
+   "url": "https://monoskop.org/",
+   "description": "Wiki and library on avant-garde art, media and design",
+   "access": "Free"
+  },
+  {
+   "topic": "graphic-design-history",
+   "section": "Archives and Libraries",
+   "name": "Source Library",
+   "url": "https://www.sourcelibrary.org/",
+   "description": "Digital library of historical texts on alchemy, magic and esotericism",
+   "access": "Free"
+  },
+  {
    "topic": "rtl",
    "section": "Arabic Typography and Type",
    "name": "Bahia Shehab, Haytham Nawar — A History of Arab Graphic Design (AUC Press, 2020)",
@@ -5905,6 +6001,14 @@
    "url": "https://garagemca.org/en",
    "description": "Moscow museum in a Soviet pavilion rebuilt by OMA, with a library, archive and publishing programme",
    "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Europe",
+   "name": "La Biennale di Venezia",
+   "url": "https://www.labiennale.org/en",
+   "description": "Venice art and architecture biennales",
+   "access": "Paid"
   },
   {
    "topic": "museums-and-galleries",
@@ -7388,6 +7492,14 @@
   },
   {
    "topic": "online-learning",
+   "section": "Courses",
+   "name": "02UI",
+   "url": "https://www.02ui.com/",
+   "description": "Course on designing and shipping real digital products",
+   "access": "Paid"
+  },
+  {
+   "topic": "online-learning",
    "section": "Books Online",
    "name": "Practical Typography",
    "url": "https://practicaltypography.com/",
@@ -7620,6 +7732,14 @@
   },
   {
    "topic": "regions",
+   "section": "East Asia",
+   "name": "East Asian Graphics Archive",
+   "url": "https://eastasiangraphicsarchive.com/",
+   "description": "Graphic design from Tokyo to Pyongyang",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
    "section": "Southeast Asia",
    "name": "National Gallery Singapore",
    "url": "https://www.nationalgallery.sg/",
@@ -7648,6 +7768,14 @@
    "name": "ILHAM Gallery",
    "url": "https://www.ilhamgallery.com/",
    "description": "Malaysian modern and contemporary art in Kuala Lumpur",
+   "access": "Free"
+  },
+  {
+   "topic": "regions",
+   "section": "Southeast Asia",
+   "name": "Grafis Nusantara",
+   "url": "https://grafisnusantara.com/",
+   "description": "Archive of Indonesian graphic design history",
    "access": "Free"
   },
   {
@@ -7904,6 +8032,14 @@
    "name": "IxDF: Design Systems",
    "url": "https://ixdf.org/literature/topics/design-systems",
    "description": "Articles on design systems",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Tools, Books and Directories",
+   "name": "Spotify Design",
+   "url": "https://spotify.design/",
+   "description": "Spotify's design team blog and tools",
    "access": "Free"
   },
   {
@@ -9412,6 +9548,54 @@
   },
   {
    "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Krea",
+   "url": "https://www.krea.ai/",
+   "description": "Real-time AI image, video and 3D generation",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "ElevenLabs",
+   "url": "https://elevenlabs.io/",
+   "description": "AI voice, sound effects and music",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Suno",
+   "url": "https://suno.com/",
+   "description": "AI music generation",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "LTX Studio",
+   "url": "https://ltx.studio/",
+   "description": "AI storyboards and video production",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Kling AI",
+   "url": "https://klingai.com/",
+   "description": "AI video generation",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Higgsfield",
+   "url": "https://higgsfield.ai/",
+   "description": "AI video and image studio with camera presets",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
    "section": "Artists and Experiments",
    "name": "Refik Anadol",
    "url": "https://refikanadol.com/",
@@ -9472,6 +9656,262 @@
    "name": "How to Make Your Communication Memorable (Matt Abrahams, Stanford GSB)",
    "url": "https://www.youtube.com/watch?v=Fsr4yrSAIAQ",
    "description": "Talk on clear, memorable speaking",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Type Foundries and Typography",
+   "name": "Plau",
+   "url": "https://plau.co/",
+   "description": "Rio type foundry of Rodrigo Saiani and Daniel Sabino; retail and custom typefaces",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Type Foundries and Typography",
+   "name": "Blackletra",
+   "url": "https://blackletra.com/",
+   "description": "Brazilian foundry known for display and text families",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Type Foundries and Typography",
+   "name": "Outras Fontes (Other Fonts)",
+   "url": "https://outrasfontes.com/",
+   "description": "Independent Brazilian type foundry",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Type Foundries and Typography",
+   "name": "Tipos Latinos (Latin Types)",
+   "url": "https://www.tiposlatinos.com/",
+   "description": "Biennial exhibition of Latin American type design with online catalogues",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Design History and Archives",
+   "name": "CASCA Archive",
+   "url": "https://casca-archive.org/",
+   "description": "Graphic design and visual culture of Northeast Brazil from the 1950s: cordel, signage, posters",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Design History and Archives",
+   "name": "Enciclopédia Itaú Cultural (Itaú Cultural Encyclopedia)",
+   "url": "https://enciclopedia.itaucultural.org.br/",
+   "description": "Biographies of Brazilian artists and designers: Aloísio Magalhães, Alexandre Wollner, Rogério Duarte, Ziraldo, Benício, Elifas Andreato",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Design History and Archives",
+   "name": "Hemeroteca Digital Brasileira (Brazilian Digital Newspaper Library)",
+   "url": "https://bndigital.bn.gov.br/hemeroteca-digital/",
+   "description": "Digitised newspapers and magazines, including O Cruzeiro and Revista da Semana",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Design History and Archives",
+   "name": "Brasiliana Fotográfica (Brazilian Photography Portal)",
+   "url": "https://brasilianafotografica.bn.gov.br/",
+   "description": "Historical photography from Brazilian collections",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Design History and Archives",
+   "name": "Biblioteca Brasiliana Guita e José Mindlin (Brasiliana Library, USP)",
+   "url": "https://digital.bbm.usp.br/",
+   "description": "Rare Brazilian books, prints and periodicals online",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Design History and Archives",
+   "name": "ADG Brasil — Associação dos Designers Gráficos (Brazilian Graphic Designers Association)",
+   "url": "https://www.adg.org.br/",
+   "description": "Runs the Bienal Brasileira de Design Gráfico and its catalogues",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Design History and Archives",
+   "name": "Ubu Editora",
+   "url": "https://www.ubueditora.com.br/",
+   "description": "Publisher of design and art books, successor to Cosac Naify titles on Brazilian graphic design",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Design History and Archives",
+   "name": "ESDI — Escola Superior de Desenho Industrial (Higher School of Industrial Design)",
+   "url": "https://www.esdi.uerj.br/",
+   "description": "Rio school founded in 1963, the cradle of modern Brazilian design",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "MASP — Museu de Arte de São Paulo",
+   "url": "https://masp.org.br/en",
+   "description": "Lina Bo Bardi's museum with glass easels",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "Pinacoteca de São Paulo",
+   "url": "https://pinacoteca.org.br/",
+   "description": "Brazilian art from the 19th century to today",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "Museu da Casa Brasileira (Museum of the Brazilian House)",
+   "url": "https://mcb.org.br/",
+   "description": "Design and architecture museum that runs the Prêmio Design MCB",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "MAM Rio — Museu de Arte Moderna do Rio de Janeiro",
+   "url": "https://mam.rio/",
+   "description": "Modern art in Affonso Eduardo Reidy's building",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "MAC USP — Museu de Arte Contemporânea",
+   "url": "https://mac.usp.br/",
+   "description": "University of São Paulo contemporary art collection",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "Museu Afro Brasil Emanoel Araujo",
+   "url": "https://www.museuafrobrasil.org.br/",
+   "description": "Afro-Brazilian art and history in Ibirapuera",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "Instituto Tomie Ohtake",
+   "url": "https://www.institutotomieohtake.org.br/",
+   "description": "Art, architecture and design exhibitions in São Paulo",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "Inhotim",
+   "url": "https://www.inhotim.org.br/",
+   "description": "Contemporary art and botanical garden in Minas Gerais",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "Museu Oscar Niemeyer",
+   "url": "https://www.museuoscarniemeyer.org.br/",
+   "description": "Art museum in Curitiba designed by Niemeyer",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "Museu do Amanhã (Museum of Tomorrow)",
+   "url": "https://museudoamanha.org.br/",
+   "description": "Science museum by Santiago Calatrava in Rio",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "Instituto Moreira Salles",
+   "url": "https://ims.com.br/",
+   "description": "Photography, music and literature archives",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Museums",
+   "name": "Bienal de São Paulo",
+   "url": "https://bienal.org.br/",
+   "description": "The second-oldest art biennial in the world, with its Wanda Svevo archive",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Architecture and Landscape",
+   "name": "Instituto Bardi / Casa de Vidro (Glass House)",
+   "url": "https://institutobardi.org/",
+   "description": "Lina Bo Bardi and Pietro Maria Bardi's house and archive",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "brazil",
+   "section": "Architecture and Landscape",
+   "name": "Fundação Oscar Niemeyer",
+   "url": "https://www.niemeyer.org.br/",
+   "description": "Niemeyer's works, drawings and archive",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Architecture and Landscape",
+   "name": "Sesc Pompeia",
+   "url": "https://www.sescsp.org.br/unidades/pompeia/",
+   "description": "Lina Bo Bardi's converted factory turned cultural centre",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Architecture and Landscape",
+   "name": "Instituto Burle Marx",
+   "url": "https://institutoburlemarx.org/",
+   "description": "Archive and legacy of landscape designer Roberto Burle Marx",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Architecture and Landscape",
+   "name": "Sítio Roberto Burle Marx",
+   "url": "https://sitioburlemarx.org/",
+   "description": "Burle Marx's estate and plant collection in Rio",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Cinema",
+   "name": "Cinemateca Brasileira",
+   "url": "https://cinemateca.org.br/",
+   "description": "Brazil's national film archive, including Cinema Novo posters",
+   "access": "Free"
+  },
+  {
+   "topic": "brazil",
+   "section": "Cinema",
+   "name": "Mostra Internacional de Cinema em São Paulo",
+   "url": "https://mostra.org/",
+   "description": "São Paulo International Film Festival, known for its commissioned posters",
+   "access": "Paid"
+  },
+  {
+   "topic": "brazil",
+   "section": "Advertising and Creative Industry",
+   "name": "Clube de Criação",
+   "url": "https://www.clubedecriacao.com.br/",
+   "description": "Brazilian creative club and annual for advertising and design",
    "access": "Free"
   }
  ]

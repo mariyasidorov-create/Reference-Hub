@@ -2,7 +2,7 @@
 title: Graphic Design History
 aliases: [история графического дизайна]
 tags: [history, graphic-design, avant-garde, modernism]
-entries: 109
+entries: 111
 ---
 
 # Graphic Design History
@@ -35,6 +35,7 @@ Related: [Typography and Type Foundries](typography.md) · [Right-to-Left Script
 - [Op Art and Optical Illusions](#op-art-and-optical-illusions)
 - [Collage and Personal Archives](#collage-and-personal-archives)
 - [Kazakhstan and Central Asia](#kazakhstan-and-central-asia)
+- [Archives and Libraries](#archives-and-libraries)
 
 ## General Archives and Libraries
 
@@ -204,3 +205,8 @@ Related: [Typography and Type Foundries](typography.md) · [Right-to-Left Script
 
 - [Ерлан Кожабаев — Казахские орнаменты как пиктограммы тенгрианской культуры (Yerlan Kozhabayev — Kazakh Ornaments as Pictograms of Tengrian Culture)](https://sxodim.com/almaty/event/prezentatsiya-knigi-erlana-kozhabaeva-kazahskij-ornament) - Meaning and modular combinatorics of Kazakh ornament. In Russian and Kazakh. *Paid.*
 - [Эркен Кагаров — LiveJournal (Erken Kagarov's Blog)](https://kagarov.livejournal.com/) - Type in film, matchbox labels, Soviet graphics, optical illusions. In Russian. *Free.*
+
+## Archives and Libraries
+
+- [Monoskop](https://monoskop.org/) - Wiki and library on avant-garde art, media and design. *Free.*
+- [Source Library](https://www.sourcelibrary.org/) - Digital library of historical texts on alchemy, magic and esotericism. *Free.*

@@ -2,7 +2,7 @@
 title: Regions of the World
 aliases: [регионы, страны]
 tags: [regions, museums, world]
-entries: 32
+entries: 34
 ---
 
 # Regions of the World
@@ -60,6 +60,7 @@ Related: [Museums, Galleries and Art Media](museums-and-galleries.md) · [Art Hi
 - [21_21 DESIGN SIGHT](https://www.2121designsight.jp/en/) - Tokyo design museum founded by Issey Miyake. *Paid.*
 - [ginza graphic gallery (ggg)](https://www.dnpfcp.jp/gallery/ggg/) - Tokyo gallery of graphic design run by DNP. *Free.*
 - [M+](https://www.mplus.org.hk/en/) - Hong Kong museum of visual culture, design and moving image. *Paid.*
+- [East Asian Graphics Archive](https://eastasiangraphicsarchive.com/) - Graphic design from Tokyo to Pyongyang. *Free.*
 
 ## Southeast Asia
 
@@ -67,3 +68,4 @@ Related: [Museums, Galleries and Art Media](museums-and-galleries.md) · [Art Hi
 - [Roots.sg](https://www.roots.gov.sg/) - Singapore heritage collections online. *Free.*
 - [Islamic Arts Museum Malaysia](https://www.iamm.org.my/) - Islamic arts from across Asia in Kuala Lumpur. *Paid.*
 - [ILHAM Gallery](https://www.ilhamgallery.com/) - Malaysian modern and contemporary art in Kuala Lumpur. *Free.*
+- [Grafis Nusantara](https://grafisnusantara.com/) - Archive of Indonesian graphic design history. *Free.*

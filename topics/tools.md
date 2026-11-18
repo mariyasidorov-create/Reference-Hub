@@ -2,7 +2,7 @@
 title: Tools
 aliases: [инструменты]
 tags: [tools, mockups, branding]
-entries: 26
+entries: 30
 ---
 
 # Tools
@@ -53,3 +53,7 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 ## More Tools
 
 - [LS.Graphics Free Mockups](https://www.ls.graphics/free-mockups) - Free device and print mockups. *Free.*
+- [Paper](https://paper.design/) - Design tool that works with code and AI agents. *Freemium.*
+- [Spline](https://spline.design/) - 3D design tool for the web. *Freemium.*
+- [Endless Tools](https://endlesstools.io/) - No-code 3D assets and key visuals. *Freemium.*
+- [aescripts + aeplugins](https://aescripts.com/) - Scripts and plugins for After Effects. *Paid.*

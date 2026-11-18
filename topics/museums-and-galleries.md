@@ -2,7 +2,7 @@
 title: Museums, Galleries and Art Media
 aliases: [музеи, галереи]
 tags: [museums, collections, art, galleries]
-entries: 79
+entries: 80
 ---
 
 # Museums, Galleries and Art Media
@@ -53,6 +53,7 @@ Related: [Photo and Image Archives](photo-archives.md) · [Graphic Design Histor
 - [Van Gogh Museum](https://www.vangoghmuseum.nl/en) - The largest collection of Van Gogh, Amsterdam. *Paid entry.*
 - [Museo Guggenheim Bilbao](https://www.guggenheim-bilbao.eus/en) - Frank Gehry's building and modern and contemporary art. *Paid entry.*
 - [Garage Museum of Contemporary Art (Музей современного искусства «Гараж»)](https://garagemca.org/en) - Moscow museum in a Soviet pavilion rebuilt by OMA, with a library, archive and publishing programme. *Free.*
+- [La Biennale di Venezia](https://www.labiennale.org/en) - Venice art and architecture biennales. *Paid.*
 
 ## Museums in the United States
 

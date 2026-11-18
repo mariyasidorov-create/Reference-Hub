@@ -21,6 +21,7 @@ graph LR
   learning["Learning"]
   graphic_design_history["Graphic Design History"]
   rtl["Right-to-Left Scripts"]
+  brazil["Brazil"]
   architecture["Architecture"]
   web_history["Early Web History"]
   museums_and_galleries["Museums, Galleries and Art Media"]
@@ -79,6 +80,10 @@ graph LR
   learning --- ux_curators
   graphic_design_history --- rtl
   graphic_design_history --- web_history
+  brazil --- portugal
+  brazil --- regions
+  brazil --- typography
+  brazil --- architecture
   architecture --- graphic_design_history
   museums_and_galleries --- photo_archives
   museums_and_galleries --- graphic_design_history

@@ -2,7 +2,7 @@
 
 Curated references for product and graphic designers: interface patterns, galleries, type, motion, component libraries, image archives, graphic design history, right-to-left scripts, early web history and UX writing from trusted curators.
 
-The list holds 1184 checked links in 47 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1239 checked links in 48 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -23,16 +23,16 @@ The list holds 1184 checked links in 47 topic files. Every topic file links to r
 - [Color](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/color.md) - Palette generators and colour tools (5 links).
 - [Typography and Type Foundries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/typography.md) - Type in use, free typefaces and independent Cyrillic and Latin foundries (37 links).
 - [Motion and Micro-interactions](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/motion.md) - References for interface motion, delightful details and motion design tools (31 links).
-- [Icons, Illustrations and Graphics](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/icons-and-graphics.md) - Icon sets, illustration generators and graphic effects (20 links).
+- [Icons, Illustrations and Graphics](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/icons-and-graphics.md) - Icon sets, illustration generators and graphic effects (21 links).
 
 ## Code and Tools
 
-- [Design Systems](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-systems.md) - Corporate design systems, their motion guidelines, official Figma kits and tools for documenting systems (57 links).
-- [Component Libraries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/component-libraries.md) - Copy-paste component libraries for React, Tailwind, shadcn and SwiftUI (66 links).
+- [Design Systems](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-systems.md) - Corporate design systems, their motion guidelines, official Figma kits and tools for documenting systems (58 links).
+- [Component Libraries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/component-libraries.md) - Copy-paste component libraries for React, Tailwind, shadcn and SwiftUI (70 links).
 - [Design to Code](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-to-code.md) - Figma Summer School Designer to Builder materials, Figma's official files, MCP and agent tools (24 links).
 - [Developer Handoff](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/handoff.md) - Tools for handing designs to engineering (20 links).
-- [Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/tools.md) - Mockups, inspiration and tools for branding, photo, AI and video (26 links).
-- [AI and Creative Technology](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ai-and-creative-tech.md) - AI tools, generative art, 3D and creative coding (14 links).
+- [Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/tools.md) - Mockups, inspiration and tools for branding, photo, AI and video (30 links).
+- [AI and Creative Technology](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ai-and-creative-tech.md) - AI tools, generative art, 3D and creative coding (20 links).
 - [Claude Skills and Awesome Lists](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/awesome-lists.md) - Skills for AI agents and other curated design lists on GitHub (20 links).
 
 ## UX
@@ -59,17 +59,18 @@ The list holds 1184 checked links in 47 topic files. Every topic file links to r
 
 - [Art History and Artists](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/art-history.md) - Overviews of art history following Gombrich's The Story of Art, image databases and artists' official resources (12 links).
 - [Ancient Egypt](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/egypt.md) - Museums, primary sources and hieroglyph tools, from Turin's Museo Egizio to free Egyptology PDFs (12 links).
-- [Graphic Design History](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/graphic-design-history.md) - Archives, books and museums for every major movement from medieval manuscripts to Emigre (109 links).
+- [Graphic Design History](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/graphic-design-history.md) - Archives, books and museums for every major movement from medieval manuscripts to Emigre (111 links).
 - [Early Web History](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/web-history.md) - Museums, archives and books on how the web looked from 1991 onwards (13 links).
 - [Right-to-Left Scripts](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/rtl.md) - Arabic, Hebrew and Persian typography, RTL interface layout, calligraphy and museums (34 links).
-- [Photo and Image Archives](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/photo-archives.md) - Stock photography, open access museums, libraries and specialist archives without AI-generated images (66 links).
+- [Photo and Image Archives](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/photo-archives.md) - Stock photography, open access museums, libraries and specialist archives without AI-generated images (67 links).
 
 ## Places and Institutions
 
 - [Portugal](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/portugal.md) - Portuguese design, modernist magazines, azulejos, posters, type, museums, palaces, galleries, publishers and Lisbon Design Week (73 links).
+- [Brazil](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/brazil.md) - Brazilian type foundries, design history archives, museums, architecture, cinema and advertising (32 links).
 - [Architecture](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/architecture.md) - Archives, databases and centres for buildings and architects, starting with Portugal (4 links).
-- [Museums, Galleries and Art Media](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/museums-and-galleries.md) - Museums worldwide, including Scotland and Garage, with their online collections and free publications, galleries, art magazines and fairs (79 links).
-- [Regions of the World](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/regions.md) - Museums and archives by region: the Americas, Africa, Oceania, East and Southeast Asia (32 links).
+- [Museums, Galleries and Art Media](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/museums-and-galleries.md) - Museums worldwide, including Scotland and Garage, with their online collections and free publications, galleries, art magazines and fairs (80 links).
+- [Regions of the World](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/regions.md) - Museums and archives by region: the Americas, Africa, Oceania, East and Southeast Asia (34 links).
 - [Design Schools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-schools.md) - Art and design schools in Portugal, the rest of Europe and beyond (26 links).
 
 ## Media and Culture
@@ -82,7 +83,7 @@ The list holds 1184 checked links in 47 topic files. Every topic file links to r
 ## Learning
 
 - [Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/learning.md) - YouTube channels and books worth owning (29 links).
-- [Online Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/online-learning.md) - Courses and free online books on design, UX and art (8 links).
+- [Online Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/online-learning.md) - Courses and free online books on design, UX and art (9 links).
 - [English for Designers](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/english-for-designers.md) - Pronunciation, writing and speaking in English at work (3 links).
 - [Off Topic](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/off-topic.md) - Learning, utilities, games, radio and small delights for when you are not designing (69 links).
 

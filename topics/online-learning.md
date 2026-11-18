@@ -2,7 +2,7 @@
 title: Online Learning
 aliases: [онлайн-обучение, курсы]
 tags: [learning, courses]
-entries: 8
+entries: 9
 ---
 
 # Online Learning
@@ -27,6 +27,7 @@ Related: [Learning](learning.md) · [UX Design Process](ux-process.md) · [Desig
 - [Interaction Design Foundation](https://www.interaction-design.org/) - UX courses and a free encyclopedia of interaction design. *Mixed: free site, paid entry.*
 - [Domestika](https://www.domestika.org/) - Craft courses from illustration to type design. *Paid.*
 - [Open Culture: Free Online Courses](https://www.openculture.com/freeonlinecourses) - Index of free university courses, including art history. *Free.*
+- [02UI](https://www.02ui.com/) - Course on designing and shipping real digital products. *Paid.*
 
 ## Books Online
 
