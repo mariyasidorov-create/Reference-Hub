@@ -48,7 +48,7 @@ Admin Extensions UI Kit (Shopify) · ADS Components (Atlassian) · ADS Foundatio
 
 ### [Developer Handoff](topics/handoff.md)
 
-Android Design (Google) · Android: Support different languages and RTL · Apple HIG — Right to left · Apple Human Interface Guidelines · Automated UI handoff (Figma) · Claude Code Apple Skills · Figma Code Connect · Figma Dev Mode · Flutter RTL Audit · Flutter: Adaptive and responsive design · Flutter: Building user interfaces · Flutter: Cupertino widgets · Flutter: Internationalization · Front-End Checklist · Material 3 in Compose · Material Design — Bidirectionality · MDN — CSS logical properties · SwiftUI Agent Skill (Paul Hudson) · W3C: Structural markup and right-to-left text in HTML · web.dev: Learn Responsive Design
+Android Design (Google) · Android: Support different languages and RTL · Apple HIG — Right to left · Apple Human Interface Guidelines · Automated UI handoff (Figma) · Claude Code Apple Skills · Figma Code Connect · Figma Dev Mode · Flutter RTL Audit · Flutter: Adaptive and responsive design · Flutter: Building user interfaces · Flutter: Cupertino widgets · Flutter: Internationalization · Front-End Checklist · Material 3 in Compose · Material Design — Bidirectionality · MDN — CSS logical properties · Platform Design Skills (ehmo) · SwiftUI Agent Skill (Paul Hudson) · W3C: Structural markup and right-to-left text in HTML · web.dev: Learn Responsive Design
 
 ### [Tools](topics/tools.md)
 
@@ -60,7 +60,7 @@ AI tools for UX designers (Figma) · Arcads · Artlist · Claude Certified Archi
 
 ### [Claude Skills and Awesome Lists](topics/awesome-lists.md)
 
-anthropics/skills · Awesome Design Tools · awesome-a11y · awesome-claude-code · awesome-claude-skills (ComposioHQ) · awesome-claude-skills (travisvn) · awesome-claude-skills (VoltAgent) · awesome-creative-coding · awesome-css · awesome-design · awesome-design-systems (alexpate) · awesome-design-systems (klaufel) · awesome-icons · awesome-react-components · awesome-stock-resources · awesome-ui-component-library · awesome-web-design · Claude Code Router · Design Resources for Developers · Firecrawl plugin for Claude · free-for-dev · Humanizer (blader) · Impeccable (Paul Bakaus) · Matt Pocock's skills (Grill Me) · motion-ui-design · Public APIs · sindresorhus/awesome · skills.sh · Superpowers (obra)
+anthropics/skills · Apple HIG Skills (Raintree) · Awesome Design Tools · awesome-a11y · awesome-claude-code · awesome-claude-skills (ComposioHQ) · awesome-claude-skills (travisvn) · awesome-claude-skills (VoltAgent) · awesome-creative-coding · awesome-css · awesome-design · awesome-design-systems (alexpate) · awesome-design-systems (klaufel) · awesome-icons · awesome-react-components · awesome-stock-resources · awesome-ui-component-library · awesome-web-design · Claude Code Repos Index (Daniel Rosehill) · Claude Code Router · Claude-Mem · Design Resources for Developers · Everything Claude Code (affaan-m) · Firecrawl plugin for Claude · free-for-dev · Humanizer (blader) · Impeccable (Paul Bakaus) · Matt Pocock's skills (Grill Me) · motion-ui-design · Open Design (nexu-io) · Platform Design Skills (ehmo) · Public APIs · sindresorhus/awesome · skills.sh · Superpowers (obra) · Vercel Skills (find-skills)
 
 ## UX
 

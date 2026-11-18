@@ -2,7 +2,7 @@
 title: Claude Skills and Awesome Lists
 aliases: [скиллы, awesome-списки]
 tags: [ai, skills, github]
-entries: 29
+entries: 36
 ---
 
 # Claude Skills and Awesome Lists
@@ -32,6 +32,12 @@ Related: [Component Libraries](component-libraries.md) · [Tools](tools.md)
 - [Impeccable (Paul Bakaus)](https://github.com/pbakaus/impeccable) - Design skill that makes vibe-coded UI look less generic. Recommended by Nelson (nels_ysng). *Free.*
 - [Firecrawl plugin for Claude](https://github.com/firecrawl/firecrawl-claude-plugin) - Reliable web scraping for Claude. *Free + paid API.*
 - [Claude Code Router](https://github.com/musistudio/claude-code-router) - Route Claude Code to other model providers. *Free.*
+- [Open Design (nexu-io)](https://github.com/nexu-io/open-design) - Open-source, local-first alternative to Claude Design: hundreds of skills and DESIGN.md systems for Linear, Stripe, Apple and more. Shown by Joshua Stevenson. *Free.*
+- [Claude-Mem](https://github.com/thedotmack/claude-mem) - Memory across Claude Code sessions. Shown by Nelson (nels_ysng). *Free.*
+- [Vercel Skills (find-skills)](https://github.com/vercel-labs/skills) - npx skills installer; find-skills searches and installs skills for a task. *Free.*
+- [Platform Design Skills (ehmo)](https://github.com/ehmo/platform-design-skills) - 300+ rules from Apple HIG, Material 3 and WCAG 2.2 for building and auditing apps. Close match to the Apple design skill shown by Nelson. *Free.*
+- [Apple HIG Skills (Raintree)](https://github.com/raintree-technology/apple-hig-skills) - Apple Human Interface Guidelines split into installable skills. *Free.*
+- [Everything Claude Code (affaan-m)](https://github.com/affaan-m/everything-claude-code) - Configs for token optimisation, memory, verification loops and subagents. *Free.*
 
 ## Design Lists on GitHub
 
@@ -52,3 +58,4 @@ Related: [Component Libraries](component-libraries.md) · [Tools](tools.md)
 - [awesome-a11y](https://github.com/brunopulis/awesome-a11y) - Accessibility resources. *Free.*
 - [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - Books, tools and inspiration for web design (last updated 2023). *Free.*
 - [Public APIs](https://github.com/public-apis/public-apis) - Thousands of free APIs by category, handy for prototypes. *Free.*
+- [Claude Code Repos Index (Daniel Rosehill)](https://github.com/danielrosehill/Claude-Code-Repos-Index) - Index of Claude Code repositories by use case. *Free.*

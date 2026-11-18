@@ -2,7 +2,7 @@
 title: Developer Handoff
 aliases: [хендофф, передача в разработку, dev handoff]
 tags: [handoff, figma]
-entries: 20
+entries: 21
 ---
 
 # Developer Handoff
@@ -19,6 +19,7 @@ Related: [Design to Code](design-to-code.md) · [Design Systems](design-systems.
 - [Platform Guidelines](#platform-guidelines)
 - [Web](#web)
 - [Agent Skills](#agent-skills)
+- [Platform Guidelines as Skills](#platform-guidelines-as-skills)
 
 ## Handoff
 
@@ -51,3 +52,7 @@ Related: [Design to Code](design-to-code.md) · [Design Systems](design-systems.
 - [Claude Code Apple Skills](https://github.com/rshankras/claude-code-apple-skills) - Skills for iOS, design and Apple platforms. *Free.*
 - [Flutter RTL Audit](https://github.com/TaheBenSaid/flutter-rtl-audit) - Agent skill that audits Flutter apps for RTL problems. *Free.*
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - Front-end checklist, also published as agent skills. *Free.*
+
+## Platform Guidelines as Skills
+
+- [Platform Design Skills (ehmo)](https://github.com/ehmo/platform-design-skills) - Apple HIG, Material 3 and WCAG 2.2 rules as agent skills for checking designs before handoff. *Free.*
