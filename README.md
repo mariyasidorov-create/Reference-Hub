@@ -2,7 +2,7 @@
 
 Curated references for product and graphic designers: interface patterns, galleries, type, motion, component libraries, image archives, graphic design history, right-to-left scripts, early web history and UX writing from trusted curators.
 
-The list holds 614 checked links in 20 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 749 checked links in 22 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -10,7 +10,7 @@ The list holds 614 checked links in 20 topic files. Every topic file links to re
 - [Code and Tools](#code-and-tools)
 - [UX](#ux)
 - [History and Archives](#history-and-archives)
-- [Places](#places)
+- [Places and Institutions](#places-and-institutions)
 - [Learning](#learning)
 
 ## Visual References
@@ -41,10 +41,12 @@ The list holds 614 checked links in 20 topic files. Every topic file links to re
 - [Right-to-Left Scripts](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/rtl.md) - Arabic, Hebrew and Persian typography, RTL interface layout, calligraphy and museums (33 links).
 - [Photo and Image Archives](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/photo-archives.md) - Stock photography, open access museums, libraries and specialist archives without AI-generated images (64 links).
 
-## Places
+## Places and Institutions
 
-- [Portugal](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/portugal.md) - Portuguese design, modernist magazines, azulejos, posters, type, museums and Lisbon Design Week (31 links).
+- [Portugal](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/portugal.md) - Portuguese design, modernist magazines, azulejos, posters, type, museums, palaces, galleries, publishers and Lisbon Design Week (73 links).
 - [Architecture](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/architecture.md) - Archives, databases and centres for buildings and architects, starting with Portugal (4 links).
+- [Museums, Galleries and Art Media](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/museums-and-galleries.md) - Museums worldwide with their online collections and free publications, galleries, art magazines and fairs (68 links).
+- [Design Schools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-schools.md) - Art and design schools in Portugal, the rest of Europe and beyond (25 links).
 
 ## Learning
 

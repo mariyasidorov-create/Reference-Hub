@@ -1,12 +1,12 @@
 ---
 title: Portugal
 tags: [portugal, lisbon, azulejo, modernism]
-entries: 31
+entries: 73
 ---
 
 # Portugal
 
-Portuguese design, modernist magazines, azulejos, posters, type, museums and Lisbon Design Week.
+Portuguese design, modernist magazines, azulejos, posters, type, museums, palaces, galleries, publishers and Lisbon Design Week.
 
 Related: [Architecture](architecture.md) · [Graphic Design History](graphic-design-history.md) · [Photo and Image Archives](photo-archives.md)
 
@@ -22,6 +22,10 @@ Related: [Architecture](architecture.md) · [Graphic Design History](graphic-des
 - [Type Foundries](#type-foundries)
 - [Museums and Events](#museums-and-events)
 - [Lisbon Design Week](#lisbon-design-week)
+- [Museums, Palaces and Heritage](#museums-palaces-and-heritage)
+- [Galleries and Cultural Centres](#galleries-and-cultural-centres)
+- [Design Community and Fashion](#design-community-and-fashion)
+- [Bookshops, Publishers and Research](#bookshops-publishers-and-research)
 
 ## Archives and Image Collections
 
@@ -77,3 +81,57 @@ Related: [Architecture](architecture.md) · [Graphic Design History](graphic-des
 - [Burel Factory](https://burelfactory.com/) - Wool textile mill from Serra da Estrela; a regular Lisbon Design Week participant. *Shop.*
 - [Cutipol](https://www.cutipol.pt/en) - Portuguese cutlery brand; a Lisbon Design Week participant. *Shop.*
 - [Constança Entrudo](https://www.constancaentrudo.com/) - Textile designer working with modular surfaces; shown at Lisbon Design Week 2026. *Shop.*
+
+## Museums, Palaces and Heritage
+
+- [Museus e Monumentos de Portugal (Museums and Monuments of Portugal)](https://www.museusemonumentos.pt/) - Public body running 37 national museums and monuments, including the Azulejo, Costume, Ethnology and Coach museums and Mafra. *Mixed: free site, paid entry.*
+- [Museu Nacional de Arte Contemporânea do Chiado (National Museum of Contemporary Art, Chiado)](https://www.museuartecontemporanea.gov.pt/) - Portuguese art from 1850 to today. *Paid entry.*
+- [Museu Bordalo Pinheiro (Bordalo Pinheiro Museum)](https://museubordalopinheiro.pt/) - Caricatures, ceramics and graphic work of Rafael Bordalo Pinheiro. *Paid entry.*
+- [Atelier-Museu Júlio Pomar (Júlio Pomar Studio Museum)](https://ateliermuseujuliopomar.pt/) - Painter Júlio Pomar's studio, converted by Siza Vieira. *Free.*
+- [Casa Fernando Pessoa (Fernando Pessoa House)](https://www.casafernandopessoa.pt/) - The poet's last home, with his personal library online. *Paid entry.*
+- [Museu do Aljube — Resistência e Liberdade (Aljube Museum of Resistance and Freedom)](https://www.museudoaljube.pt/) - Political prison turned museum of the dictatorship and resistance. *Paid entry.*
+- [Museu Arqueológico do Carmo (Carmo Archaeological Museum)](https://www.museuarqueologicodocarmo.pt/) - Museum in the ruins of the Carmo convent, roofless since 1755. *Paid entry.*
+- [Fundação das Comunicações — Museu das Comunicações (Communications Museum)](https://www.fpc.pt/) - Post, telegraph and telecom history, including stamps and posters. *Paid entry.*
+- [Parques de Sintra (Parks of Sintra)](https://www.parquesdesintra.pt/) - Pena, Monserrate, Queluz and other palaces and parks of Sintra. *Paid entry.*
+- [Quinta da Regaleira](https://www.regaleira.pt/) - Neo-Manueline palace and initiation well in Sintra. *Paid entry.*
+- [Castelo de São Jorge (St George's Castle)](https://castelodesaojorge.pt/) - Moorish castle above Lisbon. *Paid entry.*
+- [Palácio Fronteira (Fronteira Palace)](https://www.fronteira-alorna.pt/) - 17th-century palace with some of the finest azulejo gardens. *Paid entry.*
+- [Palácio da Bolsa (Stock Exchange Palace, Porto)](https://palaciodabolsa.com/) - 19th-century palace with the Arab Room. *Paid entry.*
+- [Fundação Eugénio de Almeida (Eugénio de Almeida Foundation)](https://www.fea.pt/) - Art centre and heritage in Évora. *Mixed: free site, paid entry.*
+- [e-cultura](https://www.e-cultura.pt/) - Directory of Portuguese cultural venues and events by the Centro Nacional de Cultura. *Free.*
+- [Centro Nacional de Cultura (National Culture Centre)](https://www.cnc.pt/) - Cultural association running walks, talks and e-cultura. *Free.*
+- [ICOM Portugal](https://icom-portugal.org/) - Portuguese committee of the International Council of Museums. *Free.*
+
+## Galleries and Cultural Centres
+
+- [Galerias Municipais de Lisboa (Lisbon Municipal Galleries)](https://galeriasmunicipais.pt/) - Network of free contemporary art spaces in Lisbon. *Free.*
+- [Galeria Municipal do Porto (Porto Municipal Gallery)](https://galeriamunicipaldoporto.pt/) - Contemporary art and design exhibitions in the Crystal Palace gardens. *Free.*
+- [ZDB — Galeria Zé dos Bois](https://zedosbois.org/) - Experimental art and music space in Bairro Alto. *Mixed: free site, paid entry.*
+- [Galeria Vera Cortês](https://veracortes.com/) - Contemporary art gallery in Lisbon. *Free.*
+- [Centro de Arte Oliva (Oliva Art Centre)](https://www.centrodearteoliva.pt/) - Art brut and contemporary collections in a former factory, São João da Madeira. *Paid entry.*
+- [Porta33](https://www.porta33.com/) - Contemporary art centre in Funchal, Madeira. *Free.*
+- [LX Factory](https://lxfactory.com/) - Creative quarter in a former textile factory in Alcântara. *Free.*
+- [Cinema São Jorge](https://www.cinemasaojorge.pt/) - Historic cinema on Avenida da Liberdade, home of Lisbon film festivals. *Paid entry.*
+- [Batalha Centro de Cinema (Batalha Film Centre)](https://www.batalhacentrodecinema.pt/) - Restored modernist cinema in Porto. *Paid entry.*
+- [Casa da Animação (House of Animation)](https://www.casadaanimacao.pt/) - Animation film centre in Porto. *Mixed: free site, paid entry.*
+- [Teatro Nacional D. Maria II (D. Maria II National Theatre)](https://www.tndm.pt/) - National theatre on Rossio. *Paid entry.*
+- [Agenda Cultural de Lisboa (Lisbon Cultural Agenda)](https://www.agendalx.pt/) - What's on in Lisbon: exhibitions, theatre, music. *Free.*
+
+## Design Community and Fashion
+
+- [Clube da Criatividade de Portugal (Portuguese Creativity Club)](https://www.clubedacriatividade.pt/) - Portuguese awards for advertising, design and digital. *Free.*
+- [Umbigo](https://umbigomagazine.com/) - Portuguese magazine of contemporary art and culture. *Mixed: free site, paid entry.*
+- [ModaLisboa](https://modalisboa.pt/) - Lisbon Fashion Week. *Free.*
+- [Portugal Fashion](https://www.portugalfashion.com/) - Porto fashion week and showcase of Portuguese designers. *Free.*
+- [Sant'Anna](https://www.santanna.com.pt/) - Hand-painted azulejo factory in Lisbon since 1741. *Free.*
+
+## Bookshops, Publishers and Research
+
+- [Ler Devagar](https://lerdevagar.com/) - Bookshop in an old printing works at LX Factory. *Free.*
+- [Tinta-da-China](https://www.tintadachina.pt/) - Lisbon publisher with beautifully designed books. *Paid entry.*
+- [Relógio d'Água](https://relogiodagua.pt/) - Literary publisher in Lisbon. *Paid entry.*
+- [Ípsilon (Público)](https://www.publico.pt/culturaipsilon) - Culture section of the newspaper Público. *Mixed: free site, paid entry.*
+- [BLX — Bibliotecas de Lisboa (Lisbon Libraries)](https://blx.cm-lisboa.pt/) - Lisbon public library network. *Free.*
+- [ARTIS — Instituto de História da Arte (Institute of Art History)](https://www.artis.letras.ulisboa.pt/) - Art history research at the University of Lisbon. *Free.*
+- [CHAM — Centro de Humanidades (Centre for the Humanities)](https://cham.fcsh.unl.pt/) - NOVA University research centre on history and heritage. *Free.*
+- [FLAD — Fundação Luso-Americana (Luso-American Development Foundation)](https://www.flad.pt/) - Grants and programmes for art, science and culture. *Free.*

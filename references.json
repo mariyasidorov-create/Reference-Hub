@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 614,
+ "count": 749,
  "references": [
   {
    "topic": "ui-patterns",
@@ -2313,6 +2313,342 @@
    "url": "https://www.constancaentrudo.com/",
    "description": "Textile designer working with modular surfaces; shown at Lisbon Design Week 2026.",
    "access": "Shop"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Museus e Monumentos de Portugal (Museums and Monuments of Portugal)",
+   "url": "https://www.museusemonumentos.pt/",
+   "description": "Public body running 37 national museums and monuments, including the Azulejo, Costume, Ethnology and Coach museums and Mafra",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Museu Nacional de Arte Contemporânea do Chiado (National Museum of Contemporary Art, Chiado)",
+   "url": "https://www.museuartecontemporanea.gov.pt/",
+   "description": "Portuguese art from 1850 to today",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Museu Bordalo Pinheiro (Bordalo Pinheiro Museum)",
+   "url": "https://museubordalopinheiro.pt/",
+   "description": "Caricatures, ceramics and graphic work of Rafael Bordalo Pinheiro",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Atelier-Museu Júlio Pomar (Júlio Pomar Studio Museum)",
+   "url": "https://ateliermuseujuliopomar.pt/",
+   "description": "Painter Júlio Pomar's studio, converted by Siza Vieira",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Casa Fernando Pessoa (Fernando Pessoa House)",
+   "url": "https://www.casafernandopessoa.pt/",
+   "description": "The poet's last home, with his personal library online",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Museu do Aljube — Resistência e Liberdade (Aljube Museum of Resistance and Freedom)",
+   "url": "https://www.museudoaljube.pt/",
+   "description": "Political prison turned museum of the dictatorship and resistance",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Museu Arqueológico do Carmo (Carmo Archaeological Museum)",
+   "url": "https://www.museuarqueologicodocarmo.pt/",
+   "description": "Museum in the ruins of the Carmo convent, roofless since 1755",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Fundação das Comunicações — Museu das Comunicações (Communications Museum)",
+   "url": "https://www.fpc.pt/",
+   "description": "Post, telegraph and telecom history, including stamps and posters",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Parques de Sintra (Parks of Sintra)",
+   "url": "https://www.parquesdesintra.pt/",
+   "description": "Pena, Monserrate, Queluz and other palaces and parks of Sintra",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Quinta da Regaleira",
+   "url": "https://www.regaleira.pt/",
+   "description": "Neo-Manueline palace and initiation well in Sintra",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Castelo de São Jorge (St George's Castle)",
+   "url": "https://castelodesaojorge.pt/",
+   "description": "Moorish castle above Lisbon",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Palácio Fronteira (Fronteira Palace)",
+   "url": "https://www.fronteira-alorna.pt/",
+   "description": "17th-century palace with some of the finest azulejo gardens",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Palácio da Bolsa (Stock Exchange Palace, Porto)",
+   "url": "https://palaciodabolsa.com/",
+   "description": "19th-century palace with the Arab Room",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Fundação Eugénio de Almeida (Eugénio de Almeida Foundation)",
+   "url": "https://www.fea.pt/",
+   "description": "Art centre and heritage in Évora",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "e-cultura",
+   "url": "https://www.e-cultura.pt/",
+   "description": "Directory of Portuguese cultural venues and events by the Centro Nacional de Cultura",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "Centro Nacional de Cultura (National Culture Centre)",
+   "url": "https://www.cnc.pt/",
+   "description": "Cultural association running walks, talks and e-cultura",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Museums, Palaces and Heritage",
+   "name": "ICOM Portugal",
+   "url": "https://icom-portugal.org/",
+   "description": "Portuguese committee of the International Council of Museums",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "Galerias Municipais de Lisboa (Lisbon Municipal Galleries)",
+   "url": "https://galeriasmunicipais.pt/",
+   "description": "Network of free contemporary art spaces in Lisbon",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "Galeria Municipal do Porto (Porto Municipal Gallery)",
+   "url": "https://galeriamunicipaldoporto.pt/",
+   "description": "Contemporary art and design exhibitions in the Crystal Palace gardens",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "ZDB — Galeria Zé dos Bois",
+   "url": "https://zedosbois.org/",
+   "description": "Experimental art and music space in Bairro Alto",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "Galeria Vera Cortês",
+   "url": "https://veracortes.com/",
+   "description": "Contemporary art gallery in Lisbon",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "Centro de Arte Oliva (Oliva Art Centre)",
+   "url": "https://www.centrodearteoliva.pt/",
+   "description": "Art brut and contemporary collections in a former factory, São João da Madeira",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "Porta33",
+   "url": "https://www.porta33.com/",
+   "description": "Contemporary art centre in Funchal, Madeira",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "LX Factory",
+   "url": "https://lxfactory.com/",
+   "description": "Creative quarter in a former textile factory in Alcântara",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "Cinema São Jorge",
+   "url": "https://www.cinemasaojorge.pt/",
+   "description": "Historic cinema on Avenida da Liberdade, home of Lisbon film festivals",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "Batalha Centro de Cinema (Batalha Film Centre)",
+   "url": "https://www.batalhacentrodecinema.pt/",
+   "description": "Restored modernist cinema in Porto",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "Casa da Animação (House of Animation)",
+   "url": "https://www.casadaanimacao.pt/",
+   "description": "Animation film centre in Porto",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "Teatro Nacional D. Maria II (D. Maria II National Theatre)",
+   "url": "https://www.tndm.pt/",
+   "description": "National theatre on Rossio",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Galleries and Cultural Centres",
+   "name": "Agenda Cultural de Lisboa (Lisbon Cultural Agenda)",
+   "url": "https://www.agendalx.pt/",
+   "description": "What's on in Lisbon: exhibitions, theatre, music",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Community and Fashion",
+   "name": "Clube da Criatividade de Portugal (Portuguese Creativity Club)",
+   "url": "https://www.clubedacriatividade.pt/",
+   "description": "Portuguese awards for advertising, design and digital",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Community and Fashion",
+   "name": "Umbigo",
+   "url": "https://umbigomagazine.com/",
+   "description": "Portuguese magazine of contemporary art and culture",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Community and Fashion",
+   "name": "ModaLisboa",
+   "url": "https://modalisboa.pt/",
+   "description": "Lisbon Fashion Week",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Community and Fashion",
+   "name": "Portugal Fashion",
+   "url": "https://www.portugalfashion.com/",
+   "description": "Porto fashion week and showcase of Portuguese designers",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Community and Fashion",
+   "name": "Sant'Anna",
+   "url": "https://www.santanna.com.pt/",
+   "description": "Hand-painted azulejo factory in Lisbon since 1741",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Bookshops, Publishers and Research",
+   "name": "Ler Devagar",
+   "url": "https://lerdevagar.com/",
+   "description": "Bookshop in an old printing works at LX Factory",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Bookshops, Publishers and Research",
+   "name": "Tinta-da-China",
+   "url": "https://www.tintadachina.pt/",
+   "description": "Lisbon publisher with beautifully designed books",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Bookshops, Publishers and Research",
+   "name": "Relógio d'Água",
+   "url": "https://relogiodagua.pt/",
+   "description": "Literary publisher in Lisbon",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Bookshops, Publishers and Research",
+   "name": "Ípsilon (Público)",
+   "url": "https://www.publico.pt/culturaipsilon",
+   "description": "Culture section of the newspaper Público",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "portugal",
+   "section": "Bookshops, Publishers and Research",
+   "name": "BLX — Bibliotecas de Lisboa (Lisbon Libraries)",
+   "url": "https://blx.cm-lisboa.pt/",
+   "description": "Lisbon public library network",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Bookshops, Publishers and Research",
+   "name": "ARTIS — Instituto de História da Arte (Institute of Art History)",
+   "url": "https://www.artis.letras.ulisboa.pt/",
+   "description": "Art history research at the University of Lisbon",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Bookshops, Publishers and Research",
+   "name": "CHAM — Centro de Humanidades (Centre for the Humanities)",
+   "url": "https://cham.fcsh.unl.pt/",
+   "description": "NOVA University research centre on history and heritage",
+   "access": "Free"
+  },
+  {
+   "topic": "portugal",
+   "section": "Bookshops, Publishers and Research",
+   "name": "FLAD — Fundação Luso-Americana (Luso-American Development Foundation)",
+   "url": "https://www.flad.pt/",
+   "description": "Grants and programmes for art, science and culture",
+   "access": "Free"
   },
   {
    "topic": "awesome-lists",
@@ -4913,6 +5249,750 @@
    "url": "https://smashingconf.com/ai-2027-conference",
    "description": "Online conference on AI-ready design systems, research and trust patterns, 1 December.",
    "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Victoria and Albert Museum (V&A)",
+   "url": "https://www.vam.ac.uk/",
+   "description": "The world's leading museum of art, design and performance, with V&A East and V&A Dundee",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Design Museum",
+   "url": "https://designmuseum.org/",
+   "description": "London museum of contemporary design and architecture",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "British Museum",
+   "url": "https://www.britishmuseum.org/",
+   "description": "Two million years of human history, from Egypt to Japan",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "National Gallery",
+   "url": "https://www.nationalgallery.org.uk/",
+   "description": "Western European painting from the 13th to the 20th century",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "National Portrait Gallery",
+   "url": "https://www.npg.org.uk/",
+   "description": "Portraits of people who shaped British history and culture",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Tate",
+   "url": "https://www.tate.org.uk/",
+   "description": "Tate Britain, Tate Modern, Tate Liverpool and Tate St Ives",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Royal Academy of Arts",
+   "url": "https://www.royalacademy.org.uk/",
+   "description": "Artist-led academy with exhibitions and its own collection and library",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Somerset House",
+   "url": "https://www.somersethouse.org.uk/",
+   "description": "Arts centre on the Thames for design, fashion and contemporary culture",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "The Wallace Collection",
+   "url": "https://www.wallacecollection.org/",
+   "description": "Old Masters, French 18th-century art and arms in a London townhouse",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/",
+   "description": "Museum and library about health and the human experience",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Museum of the Home",
+   "url": "https://www.museumofthehome.org.uk/",
+   "description": "How people lived at home from 1600 to today: interiors room by room",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Horniman Museum and Gardens",
+   "url": "https://www.horniman.ac.uk/",
+   "description": "Anthropology, musical instruments and natural history in south London",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Fitzwilliam Museum",
+   "url": "https://fitzmuseum.cam.ac.uk/",
+   "description": "Cambridge University museum of art and antiquities",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Ashmolean Museum",
+   "url": "https://www.ashmolean.org/",
+   "description": "Oxford University museum of art and archaeology, founded 1683",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Fashion Museum Bath",
+   "url": "https://www.fashionmuseum.co.uk/",
+   "description": "Fashion and dress from the 17th century onwards",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Watts Gallery",
+   "url": "https://www.wattsgallery.org.uk/",
+   "description": "Artists' village of G. F. and Mary Watts, Arts and Crafts chapel",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Dorich House Museum",
+   "url": "https://dorichhousemuseum.org.uk/",
+   "description": "Sculptor Dora Gordine's modernist studio house",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the UK",
+   "name": "Historic Royal Palaces",
+   "url": "https://www.hrp.org.uk/",
+   "description": "Tower of London, Hampton Court, Kensington Palace and others",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Europe",
+   "name": "Musée du Louvre",
+   "url": "https://www.louvre.fr/en",
+   "description": "Paris museum from antiquity to the 19th century",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Europe",
+   "name": "Musée de l'Orangerie",
+   "url": "https://www.musee-orangerie.fr/en",
+   "description": "Monet's Water Lilies and the Walter-Guillaume collection, Paris",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Europe",
+   "name": "Rijksmuseum",
+   "url": "https://www.rijksmuseum.nl/en",
+   "description": "Dutch art and history, Amsterdam; huge free image collection",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Europe",
+   "name": "Van Gogh Museum",
+   "url": "https://www.vangoghmuseum.nl/en",
+   "description": "The largest collection of Van Gogh, Amsterdam",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in Europe",
+   "name": "Museo Guggenheim Bilbao",
+   "url": "https://www.guggenheim-bilbao.eus/en",
+   "description": "Frank Gehry's building and modern and contemporary art",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the United States",
+   "name": "The Metropolitan Museum of Art (The Met)",
+   "url": "https://www.metmuseum.org/",
+   "description": "New York encyclopedic museum of 5,000 years of art",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the United States",
+   "name": "Whitney Museum of American Art",
+   "url": "https://whitney.org/",
+   "description": "20th and 21st-century American art, New York",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the United States",
+   "name": "The Frick Collection",
+   "url": "https://www.frick.org/",
+   "description": "Old Masters and decorative arts in Henry Clay Frick's mansion",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the United States",
+   "name": "Neue Galerie New York",
+   "url": "https://www.neuegalerie.org/",
+   "description": "Early 20th-century German and Austrian art and design: Klimt, Wiener Werkstätte",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the United States",
+   "name": "Brooklyn Museum",
+   "url": "https://www.brooklynmuseum.org/",
+   "description": "Egyptian, African, American and feminist art",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Museums in the United States",
+   "name": "Getty",
+   "url": "https://www.getty.edu/",
+   "description": "Getty Center and Villa, Los Angeles, plus research institute",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "British Museum Collection Online",
+   "url": "https://www.britishmuseum.org/collection",
+   "description": "Millions of objects with images, many free for non-commercial use",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "National Gallery: Search the Collection",
+   "url": "https://www.nationalgallery.org.uk/paintings/search-the-collection",
+   "description": "Every painting with high-resolution images",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Tate: Art and Artists",
+   "url": "https://www.tate.org.uk/art",
+   "description": "Search Tate's collection of British and international art",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Royal Academy Collection",
+   "url": "https://www.royalacademy.org.uk/art-artists/search/search-the-collection",
+   "description": "Works, archives and library of the Royal Academy",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "National Portrait Gallery Collections",
+   "url": "https://www.npg.org.uk/collections",
+   "description": "Over 250,000 portraits searchable online",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Wellcome Collection Catalogue",
+   "url": "https://wellcomecollection.org/collections",
+   "description": "Digitised books, manuscripts and images, many in the public domain",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Louvre Collections",
+   "url": "https://collections.louvre.fr/en/",
+   "description": "Database of almost 500,000 Louvre works",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Van Gogh: The Letters",
+   "url": "https://vangoghletters.org/",
+   "description": "All of Van Gogh's letters with sketches, translated and annotated",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "The Met Collection",
+   "url": "https://www.metmuseum.org/art/collection",
+   "description": "Search the Met's collection; Open Access images are public domain",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "MetPublications",
+   "url": "https://www.metmuseum.org/met-publications",
+   "description": "Hundreds of Met exhibition catalogues to read or download",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "MoMA Collection",
+   "url": "https://www.moma.org/collection/",
+   "description": "Painting, design, photography and film in MoMA's collection",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Guggenheim Collection Online",
+   "url": "https://www.guggenheim.org/collection-online",
+   "description": "Works and artist essays from the Guggenheim collection",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Guggenheim Publications",
+   "url": "https://www.guggenheim.org/publications",
+   "description": "Exhibition catalogues, some free to read online",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Whitney Collection",
+   "url": "https://whitney.org/collection/works",
+   "description": "Search the Whitney collection of American art",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Getty Museum Collection",
+   "url": "https://www.getty.edu/art/collection/",
+   "description": "Getty collection; Open Content images free to use",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Historic England Archive",
+   "url": "https://historicengland.org.uk/images-books/",
+   "description": "Photographs and plans of English buildings and places",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Online Collections and Publications",
+   "name": "Arts Council Collection",
+   "url": "https://artscouncilcollection.org.uk/",
+   "description": "Britain's national loan collection of modern and contemporary art",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Galleries and Art Centres",
+   "name": "Saatchi Gallery",
+   "url": "https://www.saatchigallery.com/",
+   "description": "Contemporary art gallery in Chelsea, London",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Galleries and Art Centres",
+   "name": "Serpentine",
+   "url": "https://www.serpentinegalleries.org/",
+   "description": "Contemporary art in Kensington Gardens and the yearly Serpentine Pavilion",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Galleries and Art Centres",
+   "name": "Hayward Gallery",
+   "url": "https://www.southbankcentre.co.uk/venues/hayward-gallery",
+   "description": "Brutalist gallery at London's Southbank Centre",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Galleries and Art Centres",
+   "name": "Whitechapel Gallery",
+   "url": "https://www.whitechapelgallery.org/",
+   "description": "East London public gallery since 1901",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Galleries and Art Centres",
+   "name": "Ikon Gallery",
+   "url": "https://www.ikon-gallery.org/",
+   "description": "Contemporary art in Birmingham",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Galleries and Art Centres",
+   "name": "Studio Voltaire",
+   "url": "https://www.studiovoltaire.org/",
+   "description": "Non-profit gallery and studios in south London",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Galleries and Art Centres",
+   "name": "Art on the Underground",
+   "url": "https://art.tfl.gov.uk/",
+   "description": "Contemporary art commissions across the London Underground",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "The Art Newspaper",
+   "url": "https://www.theartnewspaper.com/",
+   "description": "News and analysis about the art world",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "ArtReview",
+   "url": "https://artreview.com/",
+   "description": "International contemporary art magazine",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "Frieze",
+   "url": "https://www.frieze.com/",
+   "description": "Contemporary art magazine and fairs in London, New York, Seoul and Los Angeles",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "Artforum",
+   "url": "https://www.artforum.com/",
+   "description": "Contemporary art criticism since 1962",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "ARTnews",
+   "url": "https://www.artnews.com/",
+   "description": "The oldest US art magazine",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "Art in America",
+   "url": "https://www.artnews.com/c/art-in-america/",
+   "description": "American art criticism, now published with ARTnews",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "Artnet News",
+   "url": "https://news.artnet.com/",
+   "description": "Art market and art world news",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "The Burlington Magazine",
+   "url": "https://www.burlington.org.uk/",
+   "description": "Scholarly monthly on fine and decorative arts since 1903",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "Artsy",
+   "url": "https://www.artsy.net/",
+   "description": "Database of artists, galleries and artworks with editorial",
+   "access": "Free"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "Art Basel",
+   "url": "https://www.artbasel.com/",
+   "description": "Art fairs in Basel, Miami Beach, Hong Kong and Paris",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "ICON",
+   "url": "https://www.iconeye.com/",
+   "description": "London magazine on architecture and design",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "Stack",
+   "url": "https://www.stackmagazines.com/",
+   "description": "Subscription service and guide to independent magazines",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Art Magazines and Fairs",
+   "name": "Persephone Books",
+   "url": "https://persephonebooks.co.uk/",
+   "description": "Reprints of neglected 20th-century writers with designed endpapers",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Learning about Art",
+   "name": "Sotheby's Institute of Art",
+   "url": "https://www.sothebysinstitute.com/",
+   "description": "Degrees and short courses in art business and art history",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "museums-and-galleries",
+   "section": "Learning about Art",
+   "name": "The Arts Society",
+   "url": "https://theartssociety.org/",
+   "description": "Lectures on art and decorative arts across the UK",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Portugal",
+   "name": "Faculdade de Belas-Artes da Universidade de Lisboa (Faculty of Fine Arts, University of Lisbon)",
+   "url": "https://www.belasartes.ulisboa.pt/",
+   "description": "Fine arts, communication design and equipment design in Chiado",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Portugal",
+   "name": "Faculdade de Belas Artes da Universidade do Porto (Faculty of Fine Arts, University of Porto)",
+   "url": "https://www.fba.up.pt/",
+   "description": "Fine arts and communication design in Porto",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Portugal",
+   "name": "Faculdade de Arquitetura da Universidade de Lisboa (Faculty of Architecture, University of Lisbon)",
+   "url": "https://www.fa.ulisboa.pt/",
+   "description": "Architecture, urbanism, fashion and product design",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Portugal",
+   "name": "Ar.Co — Centro de Arte e Comunicação Visual (Ar.Co Centre for Art and Visual Communication)",
+   "url": "https://arco.pt/",
+   "description": "Independent art school in Lisbon since 1973",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Portugal",
+   "name": "IADE — Faculdade de Design, Tecnologia e Comunicação (IADE Faculty of Design, Technology and Communication)",
+   "url": "https://www.iade.europeia.pt/",
+   "description": "Design school of Universidade Europeia in Lisbon",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Portugal",
+   "name": "EDIT. Disruptive Digital Education",
+   "url": "https://edit.com.pt/",
+   "description": "UX/UI, digital and creative courses in Lisbon and Porto",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Portugal",
+   "name": "ESMAD — Escola Superior de Media Artes e Design (School of Media Arts and Design)",
+   "url": "https://www.esmad.ipp.pt/",
+   "description": "Polytechnic of Porto school of media arts and design",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Portugal",
+   "name": "EAAD — Escola de Arquitetura, Arte e Design da Universidade do Minho (School of Architecture, Art and Design, University of Minho)",
+   "url": "https://www.eaad.uminho.pt/",
+   "description": "Architecture, art and design in Guimarães",
+   "access": "Mixed: free site, paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Portugal",
+   "name": "MODATEX",
+   "url": "https://www.modatex.pt/",
+   "description": "Professional fashion and textile training",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Europe",
+   "name": "Royal College of Art",
+   "url": "https://www.rca.ac.uk/",
+   "description": "Postgraduate art and design university in London",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Europe",
+   "name": "Central Saint Martins (UAL)",
+   "url": "https://www.arts.ac.uk/colleges/central-saint-martins",
+   "description": "Art, design, fashion and communication in King's Cross",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Europe",
+   "name": "Chelsea College of Arts (UAL)",
+   "url": "https://www.arts.ac.uk/colleges/chelsea-college-of-arts",
+   "description": "Fine art, interior and textile design next to Tate Britain",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Europe",
+   "name": "Slade School of Fine Art (UCL)",
+   "url": "https://www.ucl.ac.uk/slade/",
+   "description": "Fine art school of University College London",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Europe",
+   "name": "Royal School of Needlework",
+   "url": "https://royal-needlework.org.uk/",
+   "description": "Hand embroidery school at Hampton Court Palace since 1872",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Europe",
+   "name": "Design Academy Eindhoven",
+   "url": "https://www.designacademy.nl/",
+   "description": "Conceptual product and social design, Netherlands",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Europe",
+   "name": "Gerrit Rietveld Academie",
+   "url": "https://rietveldacademie.nl/",
+   "description": "Art and design academy in Amsterdam",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Europe",
+   "name": "KABK — Royal Academy of Art, The Hague",
+   "url": "https://www.kabk.nl/en",
+   "description": "Graphic design and type design (Type and Media)",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Europe",
+   "name": "ECAL — École cantonale d'art de Lausanne (Lausanne University of Art and Design)",
+   "url": "https://ecal.ch/en/",
+   "description": "Swiss school of graphic, product and photography design",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Outside Europe",
+   "name": "Rhode Island School of Design (RISD)",
+   "url": "https://www.risd.edu/",
+   "description": "Art and design college in Providence, with the RISD Museum",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Outside Europe",
+   "name": "Parsons School of Design",
+   "url": "https://www.newschool.edu/parsons/",
+   "description": "Design school of The New School, New York",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Outside Europe",
+   "name": "School of Visual Arts (SVA)",
+   "url": "https://sva.edu/",
+   "description": "Art, design and illustration in New York",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Outside Europe",
+   "name": "Pratt Institute",
+   "url": "https://www.pratt.edu/",
+   "description": "Art, design and architecture in Brooklyn",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Outside Europe",
+   "name": "CalArts — California Institute of the Arts",
+   "url": "https://calarts.edu/",
+   "description": "Art, film, animation and graphic design; free courses on Coursera",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Outside Europe",
+   "name": "ArtCenter College of Design",
+   "url": "https://www.artcenter.edu/",
+   "description": "Industrial, transportation and graphic design in Pasadena",
+   "access": "Paid entry"
+  },
+  {
+   "topic": "design-schools",
+   "section": "Outside Europe",
+   "name": "Musashino Art University (武蔵野美術大学)",
+   "url": "https://www.musabi.ac.jp/en/",
+   "description": "Tokyo art and design university with a design museum and library",
+   "access": "Paid entry"
   }
  ]
 }

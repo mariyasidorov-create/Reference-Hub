@@ -23,6 +23,8 @@ graph LR
   rtl["Right-to-Left Scripts"]
   architecture["Architecture"]
   web_history["Early Web History"]
+  museums_and_galleries["Museums, Galleries and Art Media"]
+  design_schools["Design Schools"]
   ux_curators["UX Curators and Vitaly Friedman"]
   ui_patterns --- web_galleries
   ui_patterns --- ux_research
@@ -52,6 +54,12 @@ graph LR
   graphic_design_history --- rtl
   graphic_design_history --- web_history
   architecture --- graphic_design_history
+  museums_and_galleries --- photo_archives
+  museums_and_galleries --- graphic_design_history
+  museums_and_galleries --- portugal
+  museums_and_galleries --- design_schools
+  design_schools --- learning
+  design_schools --- portugal
 ```
 
 ## Open as an Obsidian Vault
