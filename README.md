@@ -2,7 +2,7 @@
 
 Curated references for product and graphic designers: interface patterns, galleries, type, motion, component libraries, image archives, graphic design history, right-to-left scripts, early web history and UX writing from trusted curators.
 
-The list holds 1060 checked links in 47 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1066 checked links in 47 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -29,7 +29,7 @@ The list holds 1060 checked links in 47 topic files. Every topic file links to r
 
 - [Design Systems](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-systems.md) - Corporate design systems, their motion guidelines, official Figma kits and tools for documenting systems (37 links).
 - [Component Libraries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/component-libraries.md) - Copy-paste component libraries for React, Tailwind, shadcn and SwiftUI (66 links).
-- [Design to Code](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-to-code.md) - Figma Summer School Designer to Builder materials, Figma's official files, MCP and agent tools (17 links).
+- [Design to Code](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-to-code.md) - Figma Summer School Designer to Builder materials, Figma's official files, MCP and agent tools (23 links).
 - [Developer Handoff](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/handoff.md) - Tools for handing designs to engineering (2 links).
 - [Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/tools.md) - Mockups, inspiration and tools for branding, photo, AI and video (26 links).
 - [AI and Creative Technology](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ai-and-creative-tech.md) - AI tools, generative art, 3D and creative coding (12 links).

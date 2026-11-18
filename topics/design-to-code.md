@@ -1,7 +1,7 @@
 ---
 title: Design to Code
 tags: [figma, code, ai, mcp]
-entries: 17
+entries: 23
 ---
 
 # Design to Code
@@ -22,9 +22,15 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 
 - [Summer School: Designer to Builder series](https://fig-events.figma.com/designer-builder-series/) - Figma's 2026 series on going from design to shipped code. *Free.*
 - [Summer School starter file](https://www.figma.com/community/file/1655994171720567013) - The Figma file used throughout the series. *Free Figma Community file.*
-- [GitHub Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world) - Repository and branch basics, 10 minutes. *Free.*
-- [Figma MCP server: remote installation](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/) - Connect AI coding agents to Figma. *Free.*
-- [Syncing design systems using the Variables REST API](https://www.figma.com/community/file/1270821372236564565/syncing-design-systems-using-variables-rest-api) - FigJam walkthrough from variables to code tokens. *Free Figma Community file.*
+- [Session 1: GitHub Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world) - Repository and branch basics, 10 minutes. *Free.*
+- [Session 1: Figma MCP server remote installation](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/) - Connect AI coding agents to Figma. *Free.*
+- [Session 1: Syncing design systems using the Variables REST API](https://www.figma.com/community/file/1270821372236564565/syncing-design-systems-using-variables-rest-api) - FigJam walkthrough from variables to code tokens. *Free Figma Community file.*
+- [Session 2: Guide to Dev Mode](https://help.figma.com/hc/en-us/articles/15023124644247-Guide-to-Dev-Mode) - Inspecting components in Dev Mode, 7 minutes. *Free.*
+- [Session 2: How to structure your Figma file for better code](https://developers.figma.com/docs/figma-mcp-server/structure-figma-file/) - Best practices so the MCP server reads your file well, 2 minutes. *Free.*
+- [Session 2: Prompting with Figma MCP](https://developers.figma.com/docs/figma-mcp-server/write-effective-prompts/) - How to write effective prompts for the Figma MCP server. *Free.*
+- [Session 3: Code Connect CLI quickstart](https://developers.figma.com/docs/code-connect/quickstart-guide/) - Initial setup of the Code Connect CLI, 5 minutes. *Free.*
+- [Session 3: Code Connect template files](https://developers.figma.com/docs/code-connect/template-files/) - Mapping components to code with template files, 5 to 10 minutes. *Free.*
+- [Session 3: About Git](https://docs.github.com/en/get-started/using-git/about-git) - Git and command line basics, 6 minutes. *Free.*
 
 ## Figma Official
 

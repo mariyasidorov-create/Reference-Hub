@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1060,
+ "count": 1066,
  "references": [
   {
    "topic": "ui-patterns",
@@ -7749,7 +7749,7 @@
   {
    "topic": "design-to-code",
    "section": "Figma Summer School: Designer to Builder",
-   "name": "GitHub Hello World",
+   "name": "Session 1: GitHub Hello World",
    "url": "https://docs.github.com/en/get-started/start-your-journey/hello-world",
    "description": "Repository and branch basics, 10 minutes",
    "access": "Free"
@@ -7757,7 +7757,7 @@
   {
    "topic": "design-to-code",
    "section": "Figma Summer School: Designer to Builder",
-   "name": "Figma MCP server: remote installation",
+   "name": "Session 1: Figma MCP server remote installation",
    "url": "https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/",
    "description": "Connect AI coding agents to Figma",
    "access": "Free"
@@ -7765,10 +7765,58 @@
   {
    "topic": "design-to-code",
    "section": "Figma Summer School: Designer to Builder",
-   "name": "Syncing design systems using the Variables REST API",
+   "name": "Session 1: Syncing design systems using the Variables REST API",
    "url": "https://www.figma.com/community/file/1270821372236564565/syncing-design-systems-using-variables-rest-api",
    "description": "FigJam walkthrough from variables to code tokens",
    "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Session 2: Guide to Dev Mode",
+   "url": "https://help.figma.com/hc/en-us/articles/15023124644247-Guide-to-Dev-Mode",
+   "description": "Inspecting components in Dev Mode, 7 minutes",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Session 2: How to structure your Figma file for better code",
+   "url": "https://developers.figma.com/docs/figma-mcp-server/structure-figma-file/",
+   "description": "Best practices so the MCP server reads your file well, 2 minutes",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Session 2: Prompting with Figma MCP",
+   "url": "https://developers.figma.com/docs/figma-mcp-server/write-effective-prompts/",
+   "description": "How to write effective prompts for the Figma MCP server",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Session 3: Code Connect CLI quickstart",
+   "url": "https://developers.figma.com/docs/code-connect/quickstart-guide/",
+   "description": "Initial setup of the Code Connect CLI, 5 minutes",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Session 3: Code Connect template files",
+   "url": "https://developers.figma.com/docs/code-connect/template-files/",
+   "description": "Mapping components to code with template files, 5 to 10 minutes",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Session 3: About Git",
+   "url": "https://docs.github.com/en/get-started/using-git/about-git",
+   "description": "Git and command line basics, 6 minutes",
+   "access": "Free"
   },
   {
    "topic": "design-to-code",

@@ -44,7 +44,7 @@ Ant Design · Apple Design Resources on Figma · Apple HIG: Motion · Atlassian 
 
 ### [Design to Code](topics/design-to-code.md)
 
-3D transforms playground (Figma) · Figma agent starter prompts (Figma) · Figma events and webinars · Figma MCP Catalog · Figma MCP server: remote installation · Figma motion updates (Figma) · Figma on Figma Community (@figma) · Figma Skills: Code to Design Workflows · Generative plugins and shaders playground (Figma) · getdesign.md · GitHub Hello World · Lazyweb MCP · Memorisely AI Coding Bootcamp · Summer School starter file · Summer School: Designer to Builder series · Syncing design systems using the Variables REST API · Unicorn Studio
+3D transforms playground (Figma) · Figma agent starter prompts (Figma) · Figma events and webinars · Figma MCP Catalog · Figma motion updates (Figma) · Figma on Figma Community (@figma) · Figma Skills: Code to Design Workflows · Generative plugins and shaders playground (Figma) · getdesign.md · Lazyweb MCP · Memorisely AI Coding Bootcamp · Session 1: Figma MCP server remote installation · Session 1: GitHub Hello World · Session 1: Syncing design systems using the Variables REST API · Session 2: Guide to Dev Mode · Session 2: How to structure your Figma file for better code · Session 2: Prompting with Figma MCP · Session 3: About Git · Session 3: Code Connect CLI quickstart · Session 3: Code Connect template files · Summer School starter file · Summer School: Designer to Builder series · Unicorn Studio
 
 ### [Developer Handoff](topics/handoff.md)
 
