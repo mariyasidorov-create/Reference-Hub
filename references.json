@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1546,
+ "count": 1547,
  "references": [
   {
    "topic": "ui-patterns",
@@ -3520,6 +3520,14 @@
    "name": "Symbl",
    "url": "https://symbl.space",
    "description": "Logo stress test: small sizes, blur, negative space, clearspace, mockups and a shareable brand book.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "playgrnd",
+   "url": "https://www.playgrnd.tools/",
+   "description": "52 free in-browser generators for backgrounds, patterns, posters and textures (dither, riso, op-art, marbling). Nothing uploaded; exports are yours. Some artists say certain tools imitate their styles, so check before using output commercially.",
    "access": "Free"
   },
   {

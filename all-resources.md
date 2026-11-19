@@ -34,7 +34,7 @@ Color Hunt · Color theory (Figma) · Coolors · Huemint · Muzli Colors · Real
 
 ### [Icons, Illustrations and Graphics](topics/icons-and-graphics.md)
 
-3dicons · Cutting Mat Generator · Emoji to PNG · Flaticon · Holosticker · Iconbuddy · Iconden · Iconly · Iconoteka · Iconoteka Figma plugin · Iconoteka on GitHub · Inkword · Kitbitz · Koboyo · LogoLounge · Lucide · Material Symbols · mmeshy · Noun Project · Phosphor Icons · PNGimg · Reicon · Sombra · Symbl
+3dicons · Cutting Mat Generator · Emoji to PNG · Flaticon · Holosticker · Iconbuddy · Iconden · Iconly · Iconoteka · Iconoteka Figma plugin · Iconoteka on GitHub · Inkword · Kitbitz · Koboyo · LogoLounge · Lucide · Material Symbols · mmeshy · Noun Project · Phosphor Icons · playgrnd · PNGimg · Reicon · Sombra · Symbl
 
 ## Code and Tools
 
