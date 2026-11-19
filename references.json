@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1553,
+ "count": 1771,
  "references": [
   {
    "topic": "ui-patterns",
@@ -9656,6 +9656,1750 @@
    "name": "Button states (Figma)",
    "url": "https://www.figma.com/resource-library/button-states/",
    "description": "Every state a button needs",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "DXD — Design Systems (Ruben Ferreira Duarte)",
+   "url": "https://dxd.pt/design-systems/",
+   "description": "Portuguese curated library of design-system reading: books, team case studies, tokens, governance, metrics, ROI, AI readiness. Source for this section.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Design Systems News",
+   "url": "http://news.design.systems/",
+   "description": "Community link feed of design-system articles and releases.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "designsystems.io",
+   "url": "https://www.designsystems.io/",
+   "description": "Directory of public design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Design Systems Repo",
+   "url": "https://designsystemsrepo.com/",
+   "description": "Large index of design systems, articles, books and tools.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Hey Design Systems",
+   "url": "https://heydesign.systems/",
+   "description": "Curated design-system resources and examples.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "The Design System Guide (Romina Kavcic)",
+   "url": "https://thedesignsystem.guide/",
+   "description": "Step-by-step guide, templates and newsletter on building, measuring and selling a design system.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Design Systems for Figma",
+   "url": "https://www.designsystemsforfigma.com/",
+   "description": "Collection of design systems available as Figma files.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Design Systems Surf",
+   "url": "https://designsystems.surf/",
+   "description": "Searchable catalogue of design systems and their components.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Design System Weekly",
+   "url": "https://designsystemweekly.webflow.io/",
+   "description": "Weekly newsletter of design-system reading.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Swedish Design Systems",
+   "url": "https://menosketiago.notion.site/Swedish-Design-Systems-6151fb095773410bb6b21832676bf1a3",
+   "description": "List of public design systems from Swedish companies and agencies.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Norwegian Design Systems",
+   "url": "https://github.com/siiron/norwegian-design-systems",
+   "description": "List of public design systems in Norway.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Design System Central",
+   "url": "https://designsystemcentral.com/",
+   "description": "Directory of design systems, tools and learning resources.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Design Systems Hub (Pixelflips)",
+   "url": "https://dshub.pixelflips.com/",
+   "description": "Hub of design-system articles, tools and examples.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "DS Playground (Figma Community)",
+   "url": "https://www.figma.com/community/file/1160661639090056437",
+   "description": "Figma file of games and exercises for learning design-system concepts.",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Design Systems Media",
+   "url": "https://designsystems.media/",
+   "description": "Library of talks, podcasts and videos on design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Books and Guides",
+   "name": "Atomic Design (Brad Frost)",
+   "url": "https://atomicdesign.bradfrost.com/",
+   "description": "The full book online: atoms, molecules, organisms, templates, pages.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Books and Guides",
+   "name": "Laying the Foundations (Andrew Couldwell)",
+   "url": "https://designsystemfoundations.com/",
+   "description": "Practical book on brand and design systems, from foundations to rollout.",
+   "access": "Paid"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Books and Guides",
+   "name": "Design Systems (Alla Kholmatova)",
+   "url": "https://www.smashingmagazine.com/design-systems-book/",
+   "description": "Smashing book on functional and perceptual patterns and how teams build shared languages.",
+   "access": "Paid"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Books and Guides",
+   "name": "Design Systems Handbook (DesignBetter)",
+   "url": "https://www.designbetter.co/design-systems-handbook",
+   "description": "InVision's free handbook on making, scaling and maintaining design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Books and Guides",
+   "name": "Expressive Design Systems (Yesenia Perez-Cruz)",
+   "url": "https://abookapart.com/products/expressive-design-systems",
+   "description": "A Book Apart title on keeping systems consistent without making them bland.",
+   "access": "Paid"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Books and Guides",
+   "name": "Creating a Design System: The Step-by-Step Guide (UXPin)",
+   "url": "https://www.uxpin.com/create-design-system-guide",
+   "description": "Free e-book on auditing, building and documenting a system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Books and Guides",
+   "name": "Animation in Design Systems (Val Head)",
+   "url": "https://www.lapa.ninja/book/animation-in-design-system/",
+   "description": "Short free book on adding motion guidelines to a design system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Books and Guides",
+   "name": "Design That Scales (Dan Mall)",
+   "url": "https://rosenfeldmedia.com/books/design-that-scales/",
+   "description": "Rosenfeld book on creating a sustainable design-system practice.",
+   "access": "Paid"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Books and Guides",
+   "name": "Building Design Systems (Vesselov and Davis)",
+   "url": "https://link.springer.com/book/10.1007/978-1-4842-4514-9",
+   "description": "Apress book on unifying user experiences through a shared design language.",
+   "access": "Paid"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Design Systems London (YouTube)",
+   "url": "https://www.youtube.com/channel/UCJUJKvApvdaicml8BCWd5oA/videos",
+   "description": "Recorded talks from the Design Systems London meetup.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Design Systems London",
+   "url": "https://www.designsystemslondon.com/",
+   "description": "Meetup and conference on design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Into Design Systems",
+   "url": "https://www.intodesignsystems.com/",
+   "description": "Online conference and community with recorded sessions.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Into Design Systems (YouTube)",
+   "url": "https://www.youtube.com/c/DesignFriendsIntoDesignSystems/videos",
+   "description": "Free talks and workshops from Into Design Systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Design Systems Talks",
+   "url": "https://www.designsystemtalks.com/",
+   "description": "Index of conference talks about design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Design Systems with Brad Frost — The State of the Web",
+   "url": "https://bradfrost.com/blog/link/design-systems-with-brad-frost-the-state-of-the-web/",
+   "description": "Google's State of the Web episode with Brad Frost.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Is Atomic Design Dead? (Brad Frost, Hatch Conference)",
+   "url": "https://www.youtube.com/watch?v=PK_PICNTgAg",
+   "description": "Brad Frost revisits atomic design years later.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Design Tokens in Figma: How to Get Started (Jan Six)",
+   "url": "https://www.youtube.com/watch?v=Ka1I5TphDb0",
+   "description": "Live session and Q&A on tokens in Figma from the Tokens Studio founder.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Mergo e Meiuca — Design System (Esquenta UX Team Summit 2022) [Mergo and Meiuca: Design System]",
+   "url": "https://www.youtube.com/watch?v=uUbf6AtZUZc",
+   "description": "Brazilian talk on running design systems in practice (Portuguese).",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Typography: Ultimate Design System Breakdown",
+   "url": "https://www.youtube.com/watch?v=9w-BwzcuxYM",
+   "description": "Video on structuring type scales and text styles in a system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Hi Interactive — Design System",
+   "url": "https://www.youtube.com/watch?v=i6PM9Fsl2I8",
+   "description": "Portuguese studio talk on building a design system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Building IKEA's Design System to Unlock Innovation",
+   "url": "https://www.youtube.com/watch?v=yPLY-FFf7OY",
+   "description": "Talk on IKEA's Skapa design system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Talks, Videos and Events",
+   "name": "Reimagining Design Systems at Spotify (Shaun Bent)",
+   "url": "https://www.youtube.com/watch?v=Xww-x7DgiDw",
+   "description": "Talk on Spotify's move to a family of systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Reimagining Design Systems at Spotify",
+   "url": "https://spotify.design/articles/2019-12-16/reimagining-design-systems-at-spotify/",
+   "description": "How Spotify's Encore became a family of design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Creating Virgin Atlantic's Digital Design System, Part 1",
+   "url": "https://medium.com/virgin-atlantic-digital/creating-virgin-atlantics-digital-design-system-part-1-e91f9100804b",
+   "description": "Airline team's story of starting a system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Radiant: the ThoughtSpot Design System",
+   "url": "https://medium.com/ccoutzoukis/radiant-thoughtspot-design-system-8789dfc79bd3",
+   "description": "Case study of a B2B analytics design system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "How We Organise Our Design System Libraries (Doctolib)",
+   "url": "https://medium.com/doctolib/how-we-organise-our-design-system-libraries-to-help-doctolib-designers-use-more-than-70-000-c15237c81f6c",
+   "description": "Library structure for 70,000+ components at Doctolib.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Figma Files Organisation Tips (Doctolib)",
+   "url": "https://medium.com/doctolib/figma-files-organizations-tips-from-the-doctolib-team-a8eee7aec170",
+   "description": "How Doctolib structures Figma files around its system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Banco CTT Design System: Simplifying the Complex",
+   "url": "https://vimeo.com/645159447/cdc0770f0b",
+   "description": "Portuguese bank's design-system talk.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Saving 300k Hours with REA's Design System",
+   "url": "https://www.rea-group.com/about-us/news-and-insights/blog/the-value-of-reas-design-system/",
+   "description": "REA Group on the measured value of its system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Creating a Flexible Design Token Taxonomy for Intuit",
+   "url": "https://medium.com/@NateBaldwin/creating-a-flexible-design-token-taxonomy-for-intuits-design-system-81c8ff55c59b",
+   "description": "Token taxonomy design at Intuit.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Greenstone — 6 meses de construção de um design system [Greenstone: 6 months building a design system]",
+   "url": "https://brasil.uxdesign.cc/greenstone-6-meses-de-constru%C3%A7%C3%A3o-de-um-design-system-durante-a-pandemia-9b9df674c502",
+   "description": "Case study in Portuguese of a system built during the pandemic.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Building Design Systems at Farfetch",
+   "url": "https://www.farfetchtechblog.com/en/blog/post/building-design-systems-at-farfetch/",
+   "description": "Luxury e-commerce design-system story.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "How We Built Our Multi-Platform Design System at Booking.com",
+   "url": "https://booking.design/how-we-built-our-multi-platform-design-system-at-booking-com-d7b895399d40",
+   "description": "Booking.com's Bui system across web and apps.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Designing Systems at Gusto",
+   "url": "https://medium.com/gusto-design/design-systems-at-gusto-462d653824b",
+   "description": "Gusto design team on its system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "RMS Design System (Nagarro)",
+   "url": "https://www.nagarro.com/success-stories/building-scalable-modern-design-system-rms",
+   "description": "Agency case study of a scalable enterprise system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Figma Variables at Vodafone UK",
+   "url": "https://medium.com/vodafone-uk-design-experience/figma-variables-at-vodafone-uk-how-we-structured-taxonomy-for-a-complex-multi-brand-design-system-693b1b95675f",
+   "description": "Variable taxonomy for a complex multi-brand system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "How Pinterest's Design Systems Team Measures Adoption (Figma)",
+   "url": "https://www.figma.com/blog/how-pinterests-design-systems-team-measures-adoption/",
+   "description": "Pinterest's adoption metrics for Gestalt.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Criando um design system para múltiplas marcas (XP Inc.) [Creating a multi-brand design system]",
+   "url": "https://medium.com/xp-inc/criando-um-design-system-para-m%C3%BAltiplas-marcas-e3d1fab3d64e",
+   "description": "Brazilian fintech's multi-brand system, in Portuguese.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Multibrand Design System at the Volkswagen Group",
+   "url": "https://www.figma.com/proto/Klffp8hfSYoLxyuzz6UX3r/into_dsc_II?page-id=0%3A1&node-id=1-2&scaling=contain",
+   "description": "Into Design Systems talk deck on VW Group's multibrand system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Metrics That Matter: Measuring the Cobalt Design System (Talkdesk)",
+   "url": "https://engineering.talkdesk.com/metrics-that-matter-measuring-the-impact-of-cobalt-design-system-part-i-d23910be8c32",
+   "description": "Portuguese-founded Talkdesk on measuring system impact.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Building a Large-Scale Design System for the U.S. Government",
+   "url": "https://www.smashingmagazine.com/2017/10/large-scale-design-system-us-government/",
+   "description": "Smashing case study of USWDS.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "The System Always Kicks Back (Shopify)",
+   "url": "https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2",
+   "description": "Shopify on lessons from running Polaris.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Uplifting Shopify Polaris",
+   "url": "https://ux.shopify.com/uplifting-shopify-polaris-7c54fc6564d9",
+   "description": "Shopify's Polaris visual refresh.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "The Babbel Rebrand: Crafting Grammar, Our Design System",
+   "url": "https://medium.com/babbeldesign/the-babbel-rebrand-crafting-grammar-our-design-system-1aa65896c8d1",
+   "description": "Babbel's rebrand and Grammar system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Atomic Design System at MoPlay, Ep. 1",
+   "url": "https://medium.com/@danieandnuno/atomic-design-system-ep-1-the-story-behind-it-b8e7a19920b3",
+   "description": "Portuguese team's story behind its atomic system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "How to Build and Maintain a Design System in Abstract",
+   "url": "https://medium.com/sketch-app-sources/how-to-build-and-maintain-a-design-system-in-abstract-631378004803",
+   "description": "Versioned design-system workflow case.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Making Wise Design Multi-Brand",
+   "url": "https://nessgrixti.com/portfolio/wise-multi-brand",
+   "description": "Case study of making Wise's system multi-brand.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Team Case Studies",
+   "name": "Building and Scaling a Design System in Figma (Toptal)",
+   "url": "https://www.toptal.com/designers/design-systems/design-system-case-study",
+   "description": "End-to-end case study.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Design Systems 101 (Nielsen Norman Group)",
+   "url": "https://www.nngroup.com/articles/design-systems-101/",
+   "description": "Definitions and parts of a design system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Design Systems 101 (frog)",
+   "url": "https://www.frogdesign.com/designmind/design-systems-101",
+   "description": "frog's primer on what systems are for.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "What Is a Design System? (Rangle)",
+   "url": "https://medium.com/rangle-io/what-is-a-design-system-7a3d63edfcf7",
+   "description": "Introductory overview.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Everything You Need to Know About Design Systems",
+   "url": "https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969",
+   "description": "Long-form introduction.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "7 Requirements of a Holistic Design System",
+   "url": "https://uxdesign.cc/7-requirements-of-a-holistic-design-system-154fd6bdd9a5",
+   "description": "Checklist of what a complete system covers.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Design Systems in the Wild (Bekk)",
+   "url": "https://blogg.bekk.no/design-systems-in-the-wild-7b7ce817c6d4",
+   "description": "Illustrated overview from a Norwegian consultancy.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "The ABCs of Design Systems",
+   "url": "https://medium.com/curiosity-by-design/the-abcs-of-design-systems-b1dc6198bb7c",
+   "description": "Glossary-style introduction.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "The Dos and Don'ts of Building a New Design System",
+   "url": "https://uxdesign.cc/the-dos-and-don-ts-of-building-a-new-design-system-8d6c95d8ef3e",
+   "description": "Practical lessons for a first system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Distilling How We Think About Design Systems",
+   "url": "https://publication.design.systems/distilling-how-we-think-about-design-systems-b26432eefef9",
+   "description": "Essay on the purpose of systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "A Comprehensive Guide to Design Systems (InVision)",
+   "url": "https://www.invisionapp.com/inside-design/guide-to-design-systems/",
+   "description": "Overview guide.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "8 Things I Learnt Building a Design System",
+   "url": "https://blog.prototypr.io/8-things-i-learnt-building-a-design-system-5f325cd5b86e",
+   "description": "Practitioner lessons.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "10 Things No One Told Me About Design Systems (Indeed)",
+   "url": "https://indeed.design/article/10-things-no-one-told-me-about-design-systems",
+   "description": "Indeed design team's lessons.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Os pilares estruturais de um design system [The structural pillars of a design system]",
+   "url": "https://medium.com/@herre.ro/os-pilares-estruturais-de-um-design-system-5981a014f568",
+   "description": "Portuguese overview of system pillars.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "The Anatomy of a Design System (Sparkbox)",
+   "url": "https://sparkbox.com/foundry/design_system_makeup_design_system_layers_parts_of_a_design_system",
+   "description": "Layers and parts of a system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Understanding the Parts of a Design System",
+   "url": "https://blog.prototypr.io/understanding-the-parts-of-a-design-system-tokens-assets-components-and-patterns-80b22c67a0a8",
+   "description": "Tokens, assets, components and patterns.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "From Design Files to a Design System (Inktrap)",
+   "url": "https://medium.com/inktrap/metamorphosis-converting-your-design-files-into-a-design-system-63172f8c71f",
+   "description": "Turning existing files into a system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "The Design System Ecosystem (Brad Frost)",
+   "url": "https://bradfrost.com/blog/post/the-design-system-ecosystem/",
+   "description": "Map of everything around a system's core.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "A Global Design System (Brad Frost)",
+   "url": "https://bradfrost.com/blog/post/a-global-design-system/",
+   "description": "Proposal for shared common components across the web.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "The Six Pieces of a Design System (Rangle)",
+   "url": "https://rangle.io/blog/the-six-pieces-of-a-design-system",
+   "description": "Six parts every system needs.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Enterprise Design System: Everything You Need to Know",
+   "url": "https://adamfard.com/blog/enterprise-design-system",
+   "description": "Agency overview of enterprise systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Applying Atomic Design Principles (Moving Brands)",
+   "url": "https://movingbrands.medium.com/applying-atomic-design-principles-when-creating-digital-products-10fa8dd3225f",
+   "description": "Branding agency's take on atomic design.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "A Megasystem of Design Systems",
+   "url": "https://medium.com/@mluvinh/beyond-design-systems-for-interfaces-an-megasystem-of-design-systems-4f87dd6d8df8",
+   "description": "Systems beyond interfaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Bliss: a Multi-Layered Design System for Two Sibling Brands",
+   "url": "https://medium.com/@tiagopedras/bliss-creating-a-multi-layered-design-system-for-two-sibling-brands-5303b6b79666",
+   "description": "Layered multi-brand architecture.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Design system: arrumar as peças de Lego [Design system: sorting the Lego pieces]",
+   "url": "https://medium.com/innovagency/design-system-arrumar-as-pe%C3%A7as-de-lego-8856720a7d07",
+   "description": "Portuguese agency Innovagency on system structure.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Revisiting the Anatomy of a Design System",
+   "url": "https://uxdesign.cc/revisiting-the-anatomy-of-a-design-system-744baef1ba65",
+   "description": "Updated model of system layers.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Design a Scalable Design System (Marta Conde)",
+   "url": "https://medium.com/@MartaCondeDesign/design-a-scalable-design-system-c76ac2a40a07",
+   "description": "Architecture for scale.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "How I Made a Themeable Design System for My Brand",
+   "url": "https://medium.com/@ogonzal87/how-i-made-a-themeable-design-system-for-my-professional-brand-oskrhq-ds-1c10f5b87587",
+   "description": "Theming walkthrough.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Design Systems Architecture Diagrams (Nathan Curtis)",
+   "url": "https://medium.com/eightshapes-llc/design-systems-architecture-diagrams-3fc13ec979e3",
+   "description": "Diagrams for explaining system architecture.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Challenges of Multi-Brand Design Systems",
+   "url": "https://uxdesign.cc/challenges-of-multi-brand-design-systems-42d7e7b1d18c",
+   "description": "Common multi-brand trade-offs.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Multi-Platform Design System Components in Figma (Mollie)",
+   "url": "https://blog.mollie.com/multi-platform-design-system-components-in-figma-5ef16398f705",
+   "description": "Components across web and native at Mollie.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Organising Design Systems (Razorpay)",
+   "url": "https://medium.com/razorpay-design/organising-design-systems-3f191c4e00c0",
+   "description": "How Razorpay structures its system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "An Introduction to Multi-Platform Design Systems (Dan Banks)",
+   "url": "https://dbanks.design/blog/multi-platform/",
+   "description": "Principles for systems spanning platforms.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Experience Systems (The Design System Guide)",
+   "url": "https://learn.thedesignsystem.guide/p/experience-systems",
+   "description": "Systems that cover experiences, not just UI.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Design Systems Are Platform Problems, Not Feature Problems (Shaun Bent)",
+   "url": "https://www.shaunbent.co.uk/blog/design-systems-are-platform-problems-not-feature-problems/",
+   "description": "Treating the system as a platform.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Making a System to Create a System",
+   "url": "https://beauulrey.medium.com/making-a-system-to-create-a-system-55be9df418b4",
+   "description": "Meta-process for building systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Documentation and Naming",
+   "name": "The People Who Use Your Design System Documentation (zeroheight)",
+   "url": "https://learninghub.zeroheight.com/hc/en-us/articles/7990045008667",
+   "description": "Audiences for system docs.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Documentation and Naming",
+   "name": "Why Do They Ignore My Design Documentation?",
+   "url": "https://medium.com/design-bridges/design-documentation-2-b03e270c2d5b",
+   "description": "Why docs go unread and what to change.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Documentation and Naming",
+   "name": "Which Documentation Tool for Your Design System? (zeroheight)",
+   "url": "https://zeroheight.com/blog/which-documentation-tool-for-your-design-system/",
+   "description": "Comparison of doc tooling.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Documentation and Naming",
+   "name": "Design System Documentation: a Key Pillar",
+   "url": "https://medium.com/@ericascolaro/design-system-documentation-a-key-pillar-for-consistent-and-collaborative-ui-development-38013a4607a7",
+   "description": "Why documentation holds a system together.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Documentation and Naming",
+   "name": "From Documentation Nobody Reads to a Living Design System",
+   "url": "https://medium.com/@ericascolaro/from-documentation-nobody-reads-to-a-living-design-system-189daa9fb69a",
+   "description": "Making docs part of daily work.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Documentation and Naming",
+   "name": "Naming Conventions for Design Systems (Backlight)",
+   "url": "https://backlight.dev/blog/naming-conventions-for-design-systems/",
+   "description": "Naming components, tokens and files.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Documentation and Naming",
+   "name": "Naming Conventions for Your Design System (zeroheight)",
+   "url": "https://zeroheight.com/blog/naming-conventions-for-your-design-system/",
+   "description": "Practical naming rules.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Documentation and Naming",
+   "name": "Best Practices for Design System Naming Conventions (InVision)",
+   "url": "https://www.invisionapp.com/inside-design/naming-conventions/",
+   "description": "Naming guidance.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Documentation and Naming",
+   "name": "Naming Components (Marta Conde)",
+   "url": "https://medium.com/@MartaCondeDesign/naming-components-31c3180a50fd",
+   "description": "How to name components clearly.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Naming Tokens in Design Systems (Nathan Curtis)",
+   "url": "https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676",
+   "description": "The classic token-naming taxonomy.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Naming Design Tokens (Lukas Oppermann)",
+   "url": "https://uxdesign.cc/naming-design-tokens-9454818ed7cb",
+   "description": "Structure for token names.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Naming Design Tokens: the Art of Clarity and Consistency",
+   "url": "https://uxdesign.cc/naming-design-tokens-347f630ba4f9",
+   "description": "Token naming patterns.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Design Tokens Naming Guide",
+   "url": "https://namedesigntokens.guide/",
+   "description": "Interactive guide to naming tokens.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Crafting Consistency: Naming Design Tokens (Specify)",
+   "url": "https://specifyapp.com/blog/crafting-consistency-a-thoughtful-approach-for-naming-design-tokens",
+   "description": "Token naming approach from Specify.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Mixin Design Tokens (Rangle)",
+   "url": "https://medium.com/rangle-io/mixin-design-tokens-84804796f54",
+   "description": "Composite tokens via mixins.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Tinker Token",
+   "url": "https://www.tinkertoken.com/",
+   "description": "Tool for experimenting with token structures.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "O que são design tokens? [What are design tokens?]",
+   "url": "https://brasil.uxdesign.cc/o-que-s%C3%A3o-design-tokens-cd408431727d",
+   "description": "Portuguese introduction to tokens.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Global, Alias and Component Tokens, Part 1",
+   "url": "https://medium.com/@yamini1020.yanamala/design-system-what-are-global-alias-and-component-tokens-part-1-78420a5827a1",
+   "description": "Token tiers explained.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Global, Alias and Component Tokens, Part 2",
+   "url": "https://medium.com/@yamini1020.yanamala/design-system-creating-global-alias-and-component-tokens-part-2-c350dab2d297",
+   "description": "Creating token tiers.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Variables in Figma: Collections Setup",
+   "url": "https://medium.com/@ghayyath/variables-in-figma-collections-setup-30040ab6790",
+   "description": "Structuring Figma variable collections.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Create Your Own Design System: Color Tokens",
+   "url": "https://uxplanet.org/create-your-own-design-system-chapter-color-tokens-d78055333241",
+   "description": "Color token chapter.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Design Tokens 102",
+   "url": "https://uxplanet.org/design-tokens-102-8ac8ede85cfe",
+   "description": "Next steps after token basics.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "The Future of Design Systems Is Semantic (Figma)",
+   "url": "https://www.figma.com/blog/the-future-of-design-systems-is-semantic/",
+   "description": "Figma on semantic tokens and variables.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "The Real Value of Tokens",
+   "url": "https://uxdesign.cc/the-real-value-of-tokens-b0500b61908c",
+   "description": "Why tokens pay off.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Design Tokens 101 (Design Strategy Guide)",
+   "url": "https://designstrategy.guide/design-system/design-tokens-101/",
+   "description": "Introductory guide.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Design Tokens (The Design System Guide)",
+   "url": "https://thedesignsystem.guide/design-tokens",
+   "description": "Chapter on tokens.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "The Definitive Guide to Tokens in Figma",
+   "url": "https://uxplanet.org/the-definitive-guide-on-how-to-master-tokens-in-figma-2023-16d870029009",
+   "description": "Tokens workflow in Figma.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Design Tokens: Future of Design Systems",
+   "url": "https://bootcamp.uxdesign.cc/design-tokens-future-of-design-systems-ccdb15ee2db",
+   "description": "Overview of where tokens are going.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Optimising Your Design System with Figma Variables",
+   "url": "https://uxdesign.cc/design-system-figma-variables-f3d9c4351bcc",
+   "description": "Variables in a system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Tokens Glossary (Marta Conde)",
+   "url": "https://continuous-daughter-04a.notion.site/Tokens-glossary-1173d7f0081280b8b64ce1115529e050",
+   "description": "Glossary of token terms.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Naming Tokens in Design Systems — Figma Toolkit (Marta Conde)",
+   "url": "https://www.figma.com/community/file/1096728307713953219",
+   "description": "Figma toolkit for planning token names.",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Awesome Design Tokens",
+   "url": "https://github.com/sturobson/Awesome-Design-Tokens",
+   "description": "Awesome list of token articles, tools and talks.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Vodafone UK Variables Taxonomy Map (Figma)",
+   "url": "https://www.figma.com/community/file/1339950482183709250",
+   "description": "Vodafone's variable taxonomy as a Figma file.",
+   "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Design Token Taxonomy Map (Miro)",
+   "url": "https://miro.com/miroverse/design-token-taxonomy-map/",
+   "description": "Miro template for mapping token taxonomy.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Token Hunter Game",
+   "url": "https://tokens-game.vercel.app/",
+   "description": "Game for practising token naming.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Design Tokens and Variables",
+   "name": "Design Tokens Visualizer",
+   "url": "https://design-tokens-visualizer.vercel.app/",
+   "description": "Visualise token relationships.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Styleguides.io",
+   "url": "http://styleguides.io/",
+   "description": "Library of website style guides, articles and tools.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "UI Components Handbook (UI Guideline)",
+   "url": "https://www.uiguideline.com/components",
+   "description": "Component reference across design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Design Systems Surf — Components",
+   "url": "https://designsystems.surf/components",
+   "description": "Compare components across systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "UX Components",
+   "url": "https://www.ux-components.com/",
+   "description": "Practical reference for UI components across design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Picking Parts, Products and People (Nathan Curtis)",
+   "url": "https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742",
+   "description": "Deciding what a system includes, with checklist.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Component Specifications (Nathan Curtis)",
+   "url": "https://medium.com/eightshapes-llc/component-specifications-1492ca4c94c",
+   "description": "How to spec components.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Redesigning Components for an Existing Design System",
+   "url": "https://medium.com/swlh/redesigning-components-for-an-existing-design-system-998fe94c5ef9",
+   "description": "Process for reworking components.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "A Practical Guide to Design System Components (Redesigning Design Systems)",
+   "url": "https://redesigningdesign.systems/component-process/getting-started.html",
+   "description": "Step-by-step component process.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Behind the Scenes of Designing a Component (Razorpay)",
+   "url": "https://medium.com/razorpay-design/behind-the-scenes-of-designing-a-design-system-component-7969636fabf4",
+   "description": "One component from research to release.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Open Source Color System",
+   "url": "https://www.opensourcecolorsystem.design/",
+   "description": "Simple color system for complex digital interfaces.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Semantic Colour Sets for Design Systems",
+   "url": "https://uxdesign.cc/how-to-define-color-usage-through-semantic-sets-for-design-systems-99445804233d",
+   "description": "Defining color usage semantically.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Simplified Figma Color Variables with HSB Interpolation",
+   "url": "https://uxdesign.cc/simplified-figma-color-variables-based-on-hsb-interpolation-c3e404585176",
+   "description": "Generating color scales.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "What I Learned as a Design Systems UX Writer",
+   "url": "https://blog.prototypr.io/what-i-learned-as-a-design-systems-ux-writer-5e729807cbb9",
+   "description": "Content in a design system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Um UX designer e um UX writer entram no Figma [A UX designer and a UX writer walk into Figma]",
+   "url": "https://filipamoreno.medium.com/um-ux-designer-e-um-ux-writer-entram-no-figma-9b260e3097cd",
+   "description": "Portuguese piece on designer-writer collaboration.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Content Style Guides Library",
+   "url": "https://emiliasuarezazar.notion.site/csg-library",
+   "description": "Collection of public content style guides.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "5 Steps for Including Motion Design in Your System",
+   "url": "https://www.designsystems.com/5-steps-for-including-motion-design-in-your-system/",
+   "description": "Adding motion to a system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "How Do Design Systems Incorporate Motion Design?",
+   "url": "https://blog.prototypr.io/how-do-design-systems-incorporate-motion-design-a8c10e9a2e72",
+   "description": "Survey of motion in systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Impact Atlas (Figma plugin)",
+   "url": "https://www.figma.com/community/plugin/1643205375147564994/impact-atlas",
+   "description": "Plugin to map where components are used before changing them.",
+   "access": "Free Figma plugin"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Supa Design Tokens (Figma plugin)",
+   "url": "https://www.figma.com/community/plugin/1520709447715571667/supa-design-tokens-beta",
+   "description": "Token management plugin (beta).",
+   "access": "Free Figma plugin"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Components, Color, Content and Motion",
+   "name": "Figmentation (Figma plugin)",
+   "url": "https://www.figma.com/community/plugin/1520087586956139218/figmentation",
+   "description": "Extract design tokens directly from a file.",
+   "access": "Free Figma plugin"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Design System Checklist",
+   "url": "https://designsystemchecklist.com/",
+   "description": "Open checklist for planning and building a system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Design System Topics",
+   "url": "https://designsystemstopics.com/",
+   "description": "Map of topics a design-system team handles.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Redesigning Design Systems — Tactics",
+   "url": "https://redesigningdesign.systems/tactics/all-tactics",
+   "description": "Catalogue of tactics for running a system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "How to Start Building a Design System",
+   "url": "https://uxdesign.cc/how-to-start-building-a-design-system-445f6239be3e",
+   "description": "First steps.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "How to Build a Design System from Scratch (Dribbble)",
+   "url": "https://dribbble.com/stories/2019/04/05/how-to-build-a-design-system-from-scratch",
+   "description": "From zero to first release.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Design System Roadmap (UXPin)",
+   "url": "https://www.uxpin.com/studio/blog/design-system-rodmap/",
+   "description": "Planning a roadmap.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "How to (Properly) Break Your Design System (Fabricio Teixeira)",
+   "url": "https://breakyourdesignsystem.com/",
+   "description": "When and how to deviate from the system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Design System Tiers (Nathan Curtis)",
+   "url": "https://medium.com/eightshapes-llc/design-system-tiers-2c827b67eae1",
+   "description": "Core vs product-level systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Building a Design System for a SaaS Application",
+   "url": "https://uxplanet.org/design-case-study-building-a-design-system-for-saas-application-a8837c606e0",
+   "description": "SaaS case study.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Design System Maintenance (UXPin)",
+   "url": "https://www.uxpin.com/studio/blog/design-system-maintenance/",
+   "description": "Keeping a system up to date.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Design System Versioning",
+   "url": "https://medium.com/@lizshinn/design-system-versioning-66195db9bd43",
+   "description": "Versioning strategies.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Build a Design System for an Existing Product in 4 Sprints",
+   "url": "https://uxdesign.cc/build-a-design-system-for-an-existing-product-in-4-sprints-3080792cf098",
+   "description": "Retrofit plan.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Designing a Systems Team (Nathan Curtis)",
+   "url": "https://medium.com/eightshapes-llc/designing-a-systems-team-d22f27a2d81d",
+   "description": "Roles and shape of a systems team.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Releasing Design Systems (Nathan Curtis)",
+   "url": "https://medium.com/eightshapes-llc/releasing-design-systems-57fca91a23f6",
+   "description": "Release practices.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Team Models for Scaling a Design System (Nathan Curtis)",
+   "url": "https://medium.com/eightshapes-llc/team-models-for-scaling-a-design-system-2cf9d03be6a0",
+   "description": "Solitary, centralised and federated models.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Design System Communications (Nathan Curtis)",
+   "url": "https://medium.com/eightshapes-llc/design-system-communications-ca679ffc36d3",
+   "description": "Communicating changes and news.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Conducting an Interface Inventory (Brad Frost)",
+   "url": "https://bradfrost.com/blog/post/conducting-an-interface-inventory/",
+   "description": "Audit method to start a system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Your Enterprise Team Has a Design System, but Is It Working?",
+   "url": "https://www.thinkcompany.com/blog/enterprise-design-system/",
+   "description": "Diagnosing an underperforming system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "A Unified Language for the Design of Information Systems",
+   "url": "https://uxdesign.cc/a-unified-language-for-the-design-of-information-systems-8c3dc48b5839",
+   "description": "Shared vocabulary across teams.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Taming Chaos: Design System Governance at Scale (Société Générale)",
+   "url": "https://medium.com/societe-generale-design/taming-design-system-chaos-66bcadbf43e1",
+   "description": "Bank's governance model.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Building a Design System? Start with a Map (Workday)",
+   "url": "https://medium.com/workday-design/building-a-design-system-start-with-a-map-77829b950f5a",
+   "description": "Mapping before building.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "How to Evangelize a Design System (UXPin)",
+   "url": "https://www.uxpin.com/studio/blog/evangelize-design-system-guide/",
+   "description": "Getting buy-in.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Why Design System Designers Need to Be Great Auditors",
+   "url": "https://bootcamp.uxdesign.cc/why-design-system-designers-need-to-be-great-auditors-983faca1dda5",
+   "description": "Auditing as a core skill.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "DesignOps Lab Toolkit",
+   "url": "https://designopslab.com/toolkit.html",
+   "description": "DesignOps templates and tools.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "How to Build a Design System with a Small Team (freeCodeCamp)",
+   "url": "https://www.freecodecamp.org/news/how-to-build-a-design-system-with-a-small-team-53a3276d44ac/",
+   "description": "Lean approach.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "The Design System Lifecycle: Push and Pull",
+   "url": "https://uxdesign.cc/the-design-system-lifecycle-its-simply-push-and-pull-3ae273a4f3cf",
+   "description": "Contribution and adoption dynamics.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "Design System: How to Successfully Collaborate",
+   "url": "https://bootcamp.uxdesign.cc/design-system-how-to-successfully-collaborate-3c767ed12bc6",
+   "description": "Collaboration between design and dev.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Process, Governance and Team",
+   "name": "The Design System Dream Team",
+   "url": "https://iknowdavehouse.medium.com/the-design-system-dream-team-ebf169b97149",
+   "description": "Team composition.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "How to Measure Your Design System (zeroheight)",
+   "url": "https://zeroheight.com/blog/how-to-measure-your-design-system/",
+   "description": "What to measure and how.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Measuring the Impact of a Design System (Veriff)",
+   "url": "https://www.veriff.com/our-people/measuring-impact-design-system",
+   "description": "Veriff's impact metrics.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Measuring the Health of Our Design System (Sprout Social)",
+   "url": "https://medium.com/sprout-social-design/design-system-health-3004551060f0",
+   "description": "Health metrics for Seeds.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Introducing Design System Analytics (Figma)",
+   "url": "https://www.figma.com/blog/introducing-design-system-analytics/",
+   "description": "Figma's library analytics.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Design System Metrics (UXPin)",
+   "url": "https://www.uxpin.com/studio/blog/design-system-metrics/",
+   "description": "Metrics for system value.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "How to Measure Design System Adoption",
+   "url": "https://uxdesign.cc/how-to-measure-design-system-adoption-a17d7e6d57f7",
+   "description": "Adoption tracking methods.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Design System Metrics Collection (Design Strategy Guide)",
+   "url": "https://designstrategy.guide/design-system/design-system-metrics-collection/",
+   "description": "Collection of metrics.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "How to Measure the Dev Side of a Design System (zeroheight)",
+   "url": "https://learninghub.zeroheight.com/hc/en-us/articles/12585731357723",
+   "description": "Code-side adoption metrics.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Measuring the Impact of a Design System (Cristiano Rastelli)",
+   "url": "https://medium.com/@didoo/measuring-the-impact-of-a-design-system-7f925af090f7",
+   "description": "Badoo's measurement approach.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Design System Metrics (Romina Kavcic)",
+   "url": "https://thedesignsystem.guide/design-system-metrics",
+   "description": "Metrics chapter.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Data-Driven Design Systems in Practice (Omlet)",
+   "url": "https://omlet.dev/blog/data-driven-design-systems-in-practice/",
+   "description": "Using component usage data.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Design System at Scale (Uber)",
+   "url": "https://www.uber.com/en-GB/blog/design-system-at-scale/",
+   "description": "How Uber measures Base at scale.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Why Invest in an Enterprise Design System? (Nagarro)",
+   "url": "https://www.nagarro.com/en/blog/why-invest-enterprise-design-system",
+   "description": "Business case.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Design systems: o impacto e mais-valia na customer experience [Design systems: impact and value in customer experience]",
+   "url": "https://www.meiosepublicidade.pt/2022/03/design-sytems-o-impacto-e-mais-valia-na-customer-experience/",
+   "description": "Portuguese article on CX value.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "The Never-Ending Job of Selling Design Systems (Ben Callahan)",
+   "url": "https://alistapart.com/article/selling-design-systems/",
+   "description": "A List Apart on continuous buy-in.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "A Design System Business Case",
+   "url": "https://medium.com/@matejkaninsky/a-design-system-business-case-business-benefits-the-ultimate-guide-cc2e09715ab",
+   "description": "Building the business case.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Design System ROI Calculator (Knapsack)",
+   "url": "https://www.knapsack.cloud/calculator",
+   "description": "Estimate system ROI.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "One Formula to Rule Them All: the ROI of a Design System",
+   "url": "https://uxdesign.cc/one-formula-to-rule-them-all-the-roi-of-a-design-system-d3722ccefa14",
+   "description": "ROI formula.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Increase Revenue and Save Costs with a Design System",
+   "url": "https://designstrategy.guide/remote-design-systems-workshop/",
+   "description": "Workshop on system value.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Benefits of a Design System",
+   "url": "https://www.emicice.ro/benefits-of-a-design-system",
+   "description": "Benefits overview.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "What Is the Value of a Design System? (zeroheight)",
+   "url": "https://zeroheight.com/blog/what-is-the-value-of-a-design-system/",
+   "description": "Value framing.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "ROI of Design Systems",
+   "url": "https://bootcamp.uxdesign.cc/roi-of-design-systems-5791fe75849a",
+   "description": "ROI explainer.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "A Guide for Calculating Design System Costs",
+   "url": "https://thedesignsystem.guide/blog/a-guide-for-calculating-design-system-costs",
+   "description": "Cost model.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Design System Insights — Maturity Assessment (Infa)",
+   "url": "https://infa.ai/docs/design-system-insights",
+   "description": "Maturity assessment tool.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Design System Maturity Model (zeroheight)",
+   "url": "https://zeroheight.com/maturity/",
+   "description": "Self-assessment of system maturity.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "AI Readiness and Agents",
+   "name": "State of AI in Design Systems",
+   "url": "https://state-of-ai-in-design-systems.netlify.app/",
+   "description": "Survey report on AI use in design-system teams.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "AI Readiness and Agents",
+   "name": "Agentic Design System Infrastructure (visualisation)",
+   "url": "https://agentic-design-system-visualization.vercel.app/",
+   "description": "Interactive map of a design system built for agents.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "AI Readiness and Agents",
+   "name": "Design Systems Doc Spec — Conformance",
+   "url": "https://designsystemdocspec.org/conformance",
+   "description": "Spec for machine-readable design-system documentation.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "AI Readiness and Agents",
+   "name": "Most Design Systems Are Not Ready for AI (Nagarro)",
+   "url": "https://www.nagarro.com/en/blog/designing-ai-ready-systems",
+   "description": "What an AI-ready system needs.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "AI Readiness and Agents",
+   "name": "Agent Readiness Checker (zeroheight)",
+   "url": "https://zeroheight.com/arc/",
+   "description": "Check whether your system's docs work for AI agents.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Surveys and Reports",
+   "name": "Mapa dos Design Systems em Portugal 2022 [Map of design systems in Portugal 2022]",
+   "url": "https://issuu.com/rubenferreiraduarte/docs/mapa_design_systems_portugal_2022",
+   "description": "Survey of Portuguese design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Surveys and Reports",
+   "name": "Design Systems & Ops Report v2 (Meiuca)",
+   "url": "https://report.meiuca.co/",
+   "description": "Brazilian industry report on systems and DesignOps.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Surveys and Reports",
+   "name": "Sparkbox Design Systems Survey 2022",
+   "url": "https://designsystemsurvey.seesparkbox.com/2022/",
+   "description": "Annual survey (earlier editions 2018–2021 on the same site).",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Surveys and Reports",
+   "name": "The State of Design Systems in the Netherlands 2019",
+   "url": "https://www.angistudio.com/state-of-design-systems-2019/",
+   "description": "Dutch market survey.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Surveys and Reports",
+   "name": "The State of Design Systems in 2020",
+   "url": "https://uxdesign.cc/the-state-of-design-systems-in-2020-d8f580c54b39",
+   "description": "Industry overview.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Surveys and Reports",
+   "name": "Design Systems Salary (Marta Conde)",
+   "url": "https://martaconde.notion.site/Design-Systems-Salary-2233d7f0081280b49572eb4b853403a1",
+   "description": "Crowd-sourced design-system salary data.",
    "access": "Free"
   },
   {
