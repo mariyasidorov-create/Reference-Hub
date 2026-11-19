@@ -208,7 +208,7 @@ Accelerando (Charles Stross) · ARCHITIME.RU · Boris Cherny on his career (Ryan
 
 ### [Online Learning](topics/online-learning.md)
 
-02UI · Anthropic Academy: Learn · ChatGPT Prompt Engineering for Developers (DeepLearning.AI) · Domestika · Elements of AI (University of Helsinki) · Figma for Edu: Prototyping with animations (workshop) · Figma for Edu: Working with typography systems (workshop) · GitHub Certifications · Google AI Essentials · Google UX Design Certificate · Graphic Design Specialization (CalArts on Coursera) · IBM SkillsBuild · Interaction Design Foundation · MoMA on Coursera · Open Culture: Free Online Courses · Practical Typography · UI / UX Design Specialization (CalArts on Coursera) · Uxcel
+02UI · Anthropic Academy: Learn · ChatGPT Prompt Engineering for Developers (DeepLearning.AI) · Domestika · Elements of AI (University of Helsinki) · Figma for Edu: Prototyping with animations (workshop) · Figma for Edu: Working with typography systems (workshop) · GitHub Certifications · Google AI Essentials · Google UX Design Certificate · Graphic Design Specialization (CalArts on Coursera) · Hugging Face LLM Course · IBM SkillsBuild · Interaction Design Foundation · MoMA on Coursera · Open Culture: Free Online Courses · Practical Typography · RAG From Scratch (LangChain) · Retrieval Augmented Generation (DeepLearning.AI) · UI / UX Design Specialization (CalArts on Coursera) · Uxcel
 
 ### [English for Designers](topics/english-for-designers.md)
 

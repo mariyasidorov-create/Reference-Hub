@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1540,
+ "count": 1543,
  "references": [
   {
    "topic": "ui-patterns",
@@ -8608,6 +8608,30 @@
    "name": "Practical Typography",
    "url": "https://practicaltypography.com/",
    "description": "Matthew Butterick's free online typography book",
+   "access": "Free"
+  },
+  {
+   "topic": "online-learning",
+   "section": "AI Engineering",
+   "name": "Retrieval Augmented Generation (DeepLearning.AI)",
+   "url": "https://www.deeplearning.ai/courses/retrieval-augmented-generation",
+   "description": "Zain Hasan's hands-on course: retrieval, vector databases, generation and evaluation of production RAG systems. First module free to preview.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "online-learning",
+   "section": "AI Engineering",
+   "name": "RAG From Scratch (LangChain)",
+   "url": "https://github.com/langchain-ai/rag-from-scratch",
+   "description": "Notebooks with a video playlist that build RAG step by step: indexing, retrieval, generation.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "online-learning",
+   "section": "AI Engineering",
+   "name": "Hugging Face LLM Course",
+   "url": "https://huggingface.co/learn/llm-course",
+   "description": "Free course on transformers and LLMs from Hugging Face.",
    "access": "Free"
   },
   {
