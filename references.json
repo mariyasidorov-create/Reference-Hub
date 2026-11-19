@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1522,
+ "count": 1531,
  "references": [
   {
    "topic": "ui-patterns",
@@ -592,6 +592,14 @@
    "name": "Color Hunt",
    "url": "https://colorhunt.co/",
    "description": "Ready-made colour palettes.",
+   "access": "Free"
+  },
+  {
+   "topic": "color",
+   "section": "Color Tools",
+   "name": "Muzli Colors",
+   "url": "https://colors.muz.li/",
+   "description": "Palette generator with live UI previews, from the Muzli team.",
    "access": "Free"
   },
   {
@@ -3572,6 +3580,14 @@
   },
   {
    "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "Muzli",
+   "url": "https://muz.li/",
+   "description": "Curated design inspiration, weekly roundups of sites, tools and trends; also on the web, not only as an extension.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
    "section": "Branding, Photo, AI and Video",
    "name": "Namelix",
    "url": "https://namelix.com",
@@ -3777,6 +3793,54 @@
    "url": "https://designresourc.es/",
    "description": "Design tools sorted by category.",
    "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Browser Extensions",
+   "name": "Muzli",
+   "url": "https://chromewebstore.google.com/detail/glcipcfhmopcgidicgdociohdoicpdfc",
+   "description": "New-tab feed of curated design work, trending sites and tools, refreshed daily.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Browser Extensions",
+   "name": "Claude in Chrome",
+   "url": "https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn",
+   "description": "Anthropic's official extension: Claude reads, clicks and navigates sites in a side panel; pairs with Claude Code for build-test-verify.",
+   "access": "Paid plan"
+  },
+  {
+   "topic": "tools",
+   "section": "Browser Extensions",
+   "name": "Figma Chrome extension",
+   "url": "https://help.figma.com/hc/en-us/articles/40826832449303-Turn-webpages-into-editable-design-layers",
+   "description": "Official Figma extension: capture a whole page or one element and paste it into Figma or FigJam as editable layers.",
+   "access": "Free extension"
+  },
+  {
+   "topic": "tools",
+   "section": "Browser Extensions",
+   "name": "html.to.design extension",
+   "url": "https://chromewebstore.google.com/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed",
+   "description": "Captures live pages, including output of AI builders, into editable Figma designs or a Figma Make project.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "tools",
+   "section": "Browser Extensions",
+   "name": "Save to Cosmos",
+   "url": "https://chromewebstore.google.com/detail/save-to-cosmos/mgjneceglphcpbbfbhjplkpgfapebmdg",
+   "description": "Right-click any image, link, video or text and save it to your Cosmos moodboards.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Browser Extensions",
+   "name": "Ultimate Web Scraper",
+   "url": "https://chromewebstore.google.com/detail/ultimate-web-scraper/pdeldjlcnhallaapdggcmhpailpnnkmg",
+   "description": "No-code scraper for text, images and links; exposes an MCP server so Claude can query the results.",
+   "access": "Freemium"
   },
   {
    "topic": "off-topic",
@@ -11001,6 +11065,14 @@
    "url": "https://higgsfield.ai/",
    "description": "AI video and image studio with camera presets",
    "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Muzli MCP",
+   "url": "https://muz.li/blog/muzli-mcp-design-with-ai/",
+   "description": "Connects Claude to Muzli's curated collections for moodboards, palettes and section design from references.",
+   "access": "Free with account"
   },
   {
    "topic": "ai-and-creative-tech",

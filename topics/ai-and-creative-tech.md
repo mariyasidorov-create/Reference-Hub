@@ -2,7 +2,7 @@
 title: AI and Creative Technology
 aliases: [AI, ИИ, 3D, креативный код]
 tags: [ai, 3d, creative-coding]
-entries: 37
+entries: 38
 ---
 
 # AI and Creative Technology
@@ -37,6 +37,7 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [LTX Studio](https://ltx.studio/) - AI storyboards and video production. *Freemium.*
 - [Kling AI](https://klingai.com/) - AI video generation. *Freemium.*
 - [Higgsfield](https://higgsfield.ai/) - AI video and image studio with camera presets. *Freemium.*
+- [Muzli MCP](https://muz.li/blog/muzli-mcp-design-with-ai/) - Connects Claude to Muzli's curated collections for moodboards, palettes and section design from references. *Free with account.*
 
 ## Artists and Experiments
 

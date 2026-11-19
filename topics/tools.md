@@ -2,7 +2,7 @@
 title: Tools
 aliases: [инструменты]
 tags: [tools, mockups, branding]
-entries: 35
+entries: 42
 ---
 
 # Tools
@@ -18,6 +18,7 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 - [Inspiration and Mockups](#inspiration-and-mockups)
 - [Branding, Photo, AI and Video](#branding-photo-ai-and-video)
 - [More Tools](#more-tools)
+- [Browser Extensions](#browser-extensions)
 
 ## Inspiration and Mockups
 
@@ -30,6 +31,7 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 - [App Mockup Studio](https://studio.app-mockup.com) - App Store screenshots. *Freemium.*
 - [EZ Screenshots](https://ezscreenshots.com) - Screenshots for the App Store and Google Play. *Freemium.*
 - [TextLab](https://textlab.javii.tools) - Chat conversation mockups. *Free.*
+- [Muzli](https://muz.li/) - Curated design inspiration, weekly roundups of sites, tools and trends; also on the web, not only as an extension. *Free.*
 
 ## Branding, Photo, AI and Video
 
@@ -62,3 +64,12 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 - [Screen Studio](https://screen.studio/) - Screen recordings with automatic zoom for product demos. *Paid.*
 - [Scribe](https://scribehow.com/) - Records a process and turns it into a step-by-step guide. *Free + paid.*
 - [Design Resources (designresourc.es)](https://designresourc.es/) - Design tools sorted by category. *Free.*
+
+## Browser Extensions
+
+- [Muzli](https://chromewebstore.google.com/detail/glcipcfhmopcgidicgdociohdoicpdfc) - New-tab feed of curated design work, trending sites and tools, refreshed daily. *Free.*
+- [Claude in Chrome](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) - Anthropic's official extension: Claude reads, clicks and navigates sites in a side panel; pairs with Claude Code for build-test-verify. *Paid plan.*
+- [Figma Chrome extension](https://help.figma.com/hc/en-us/articles/40826832449303-Turn-webpages-into-editable-design-layers) - Official Figma extension: capture a whole page or one element and paste it into Figma or FigJam as editable layers. *Free extension.*
+- [html.to.design extension](https://chromewebstore.google.com/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed) - Captures live pages, including output of AI builders, into editable Figma designs or a Figma Make project. *Freemium.*
+- [Save to Cosmos](https://chromewebstore.google.com/detail/save-to-cosmos/mgjneceglphcpbbfbhjplkpgfapebmdg) - Right-click any image, link, video or text and save it to your Cosmos moodboards. *Free.*
+- [Ultimate Web Scraper](https://chromewebstore.google.com/detail/ultimate-web-scraper/pdeldjlcnhallaapdggcmhpailpnnkmg) - No-code scraper for text, images and links; exposes an MCP server so Claude can query the results. *Freemium.*

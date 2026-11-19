@@ -22,7 +22,7 @@ Are.na · Backgrounds Supply · Behance · Coolshapes · Cosmos · Font in Logo 
 
 ### [Color](topics/color.md)
 
-Color Hunt · Color theory (Figma) · Coolors · Huemint · Realtime Colors
+Color Hunt · Color theory (Figma) · Coolors · Huemint · Muzli Colors · Realtime Colors
 
 ### [Typography and Type Foundries](topics/typography.md)
 
@@ -56,11 +56,11 @@ Android Design (Google) · Android: Support different languages and RTL · Apple
 
 ### [Tools](topics/tools.md)
 
-aescripts + aeplugins · Affinity (Canva) · Aninix · App Mockup Studio · AutoDraw · Cleanup.pictures · Contentcore · Design Resources (designresourc.es) · Design.com · Endless Tools · Eye2 · EZ Screenshots · iLoveIMG · Launch Videos · Logosystem · LS.Graphics Free Mockups · Meshy · Namelix · Napkin · OpenCut · Pafolios · Paper · Photopea · Remove.photos · Screen Studio · Scribe · Spline · Text Behind Image · TextLab · The Bézier Game · Vidclue · Vidmix · Vidsplay · Web Design Museum · Wellmade
+aescripts + aeplugins · Affinity (Canva) · Aninix · App Mockup Studio · AutoDraw · Claude in Chrome · Cleanup.pictures · Contentcore · Design Resources (designresourc.es) · Design.com · Endless Tools · Eye2 · EZ Screenshots · Figma Chrome extension · html.to.design extension · iLoveIMG · Launch Videos · Logosystem · LS.Graphics Free Mockups · Meshy · Muzli · Namelix · Napkin · OpenCut · Pafolios · Paper · Photopea · Remove.photos · Save to Cosmos · Screen Studio · Scribe · Spline · Text Behind Image · TextLab · The Bézier Game · Ultimate Web Scraper · Vidclue · Vidmix · Vidsplay · Web Design Museum · Wellmade
 
 ### [AI and Creative Technology](topics/ai-and-creative-tech.md)
 
-AI tools for UX designers (Figma) · Arcads · Artlist · Claude Certified Architect – Foundations (Anthropic Academy) · ElevenLabs · Experiments with Google · Figma Weave · Freepik AI Suite · Genspark · Google Stitch · Higgsfield · Hitem3D · InVideo · Kimi · Kittl · Kling AI · Krea · Lovart · LTX Studio · Luma AI (Dream Machine) · Magenta (Google) · Midjourney · NotebookLM · Pacdora · Refik Anadol · Runway · Seedance (ByteDance Seed) · Shader Gradient · Sougwen Chung (愫君) · Suno · Synthesia · Teachable Machine (Google) · Three.js · Topview · Tripo AI · VEED · Vizcom
+AI tools for UX designers (Figma) · Arcads · Artlist · Claude Certified Architect – Foundations (Anthropic Academy) · ElevenLabs · Experiments with Google · Figma Weave · Freepik AI Suite · Genspark · Google Stitch · Higgsfield · Hitem3D · InVideo · Kimi · Kittl · Kling AI · Krea · Lovart · LTX Studio · Luma AI (Dream Machine) · Magenta (Google) · Midjourney · Muzli MCP · NotebookLM · Pacdora · Refik Anadol · Runway · Seedance (ByteDance Seed) · Shader Gradient · Sougwen Chung (愫君) · Suno · Synthesia · Teachable Machine (Google) · Three.js · Topview · Tripo AI · VEED · Vizcom
 
 ### [Claude Skills and Awesome Lists](topics/awesome-lists.md)
 
