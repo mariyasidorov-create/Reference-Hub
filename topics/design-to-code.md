@@ -2,7 +2,7 @@
 title: Design to Code
 aliases: [дизайн в код, Figma MCP, вайбкодинг]
 tags: [figma, code, ai, mcp]
-entries: 53
+entries: 63
 ---
 
 # Design to Code
@@ -21,6 +21,7 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [Vibe Coding and App Builders](#vibe-coding-and-app-builders)
 - [Backend for Designers](#backend-for-designers)
 - [Figma Agent Skills (Miggi from Figgi)](#figma-agent-skills-miggi-from-figgi)
+- [Front-End Stack and MCP](#front-end-stack-and-mcp)
 
 ## Figma Summer School: Designer to Builder
 
@@ -92,3 +93,16 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [persona-critique (skill)](https://www.figma.com/community/skill/126911/persona-critique) - Critique a design with simulated personas inside Figma. *Free.*
 - [Workflow Lab: Staying in the flow with Figma's agent (Figma Blog)](https://www.figma.com/blog/workflow-lab-staying-in-the-flow-with-the-figma-agent/) - How Figma's team uses the agent day to day. *Free.*
 - [Slack Emoji Exporter (generative plugin)](https://www.figma.com/community/generative-plugin/1676682040139933886/slack-emoji-exporter) - Turns Figma Motion work into Slack emoji. By Miggi. *Free.*
+
+## Front-End Stack and MCP
+
+- [TypeScript](https://www.typescriptlang.org/) - Typed JavaScript; the language of Next.js, shadcn and most design-system code. *Free, open source.*
+- [npm](https://www.npmjs.com/) - Node package registry: where you install libraries, design systems and MCP servers (npx runs them). *Free.*
+- [Storybook](https://storybook.js.org/) - Workshop for building, documenting and testing UI components in isolation. *Free, open source.*
+- [Storybook MCP](https://storybook.js.org/docs/ai/mcp/overview) - Addon that lets an agent read your real components, props and stories instead of guessing. Install: npx storybook add @storybook/addon-mcp. *Free, open source.*
+- [shadcn/ui](https://ui.shadcn.com/) - Copy-in React components on Radix and Tailwind; patterns models already know well. *Free, open source.*
+- [shadcn MCP](https://ui.shadcn.com/docs/mcp) - Official MCP to browse and install shadcn and registry components from Claude Code. Install: npx shadcn@latest mcp init --client claude. *Free, open source.*
+- [Radix UI](https://www.radix-ui.com/) - Unstyled, accessible React primitives under shadcn/ui; also Radix Themes and Colors. *Free, open source.*
+- [ESLint](https://eslint.org/) - Linter: rules the agent cannot skip. Has a built-in MCP server. *Free, open source.*
+- [ESLint MCP](https://eslint.org/docs/head/use/mcp) - Official guide to running ESLint as an MCP server for coding agents. *Free, open source.*
+- [GitLab](https://about.gitlab.com/) - Git hosting and CI, GitHub's main alternative; common in larger companies. *Freemium.*

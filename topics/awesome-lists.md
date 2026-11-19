@@ -2,7 +2,7 @@
 title: Claude Skills and Awesome Lists
 aliases: [скиллы, awesome-списки]
 tags: [ai, skills, github]
-entries: 43
+entries: 45
 ---
 
 # Claude Skills and Awesome Lists
@@ -45,6 +45,8 @@ Related: [Component Libraries](component-libraries.md) · [Tools](tools.md)
 - [Hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill: picks a page structure and theme per brief, audits pages, extracts a design.md from references. *Free, open source.*
 - [Marketing Skills (Corey Haines)](https://github.com/coreyhaines31/marketingskills) - CRO, copywriting, SEO, analytics and growth skills for coding agents. *Free, open source.*
 - [Cloudflare security-audit skill](https://github.com/cloudflare/security-audit-skill) - Official Cloudflare skill: multi-phase security audit of a codebase with independently verified findings. Useful for anything vibe-coded. *Free, open source.*
+- [/awwwards and /jury (juliobsz)](https://github.com/juliobsz/skills) - /awwwards builds award-calibre sites from one line; /jury scores any site the way an Awwwards jury would. *Free, open source.*
+- [Impeccable — site and docs](https://impeccable.style/) - Docs, before/after cases and downloads for Paul Bakaus's design skill (23 commands, anti-pattern detectors). *Free, open source.*
 
 ## Design Lists on GitHub
 

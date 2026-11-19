@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1838,
+ "count": 1850,
  "references": [
   {
    "topic": "ui-patterns",
@@ -3592,6 +3592,22 @@
    "name": "Cloudflare security-audit skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "description": "Official Cloudflare skill: multi-phase security audit of a codebase with independently verified findings. Useful for anything vibe-coded.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "/awwwards and /jury (juliobsz)",
+   "url": "https://github.com/juliobsz/skills",
+   "description": "/awwwards builds award-calibre sites from one line; /jury scores any site the way an Awwwards jury would.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Impeccable — site and docs",
+   "url": "https://impeccable.style/",
+   "description": "Docs, before/after cases and downloads for Paul Bakaus's design skill (23 commands, anti-pattern detectors).",
    "access": "Free, open source"
   },
   {
@@ -12177,6 +12193,86 @@
    "url": "https://www.figma.com/community/generative-plugin/1676682040139933886/slack-emoji-exporter",
    "description": "Turns Figma Motion work into Slack emoji. By Miggi.",
    "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Front-End Stack and MCP",
+   "name": "TypeScript",
+   "url": "https://www.typescriptlang.org/",
+   "description": "Typed JavaScript; the language of Next.js, shadcn and most design-system code.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Front-End Stack and MCP",
+   "name": "npm",
+   "url": "https://www.npmjs.com/",
+   "description": "Node package registry: where you install libraries, design systems and MCP servers (npx runs them).",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Front-End Stack and MCP",
+   "name": "Storybook",
+   "url": "https://storybook.js.org/",
+   "description": "Workshop for building, documenting and testing UI components in isolation.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Front-End Stack and MCP",
+   "name": "Storybook MCP",
+   "url": "https://storybook.js.org/docs/ai/mcp/overview",
+   "description": "Addon that lets an agent read your real components, props and stories instead of guessing. Install: npx storybook add @storybook/addon-mcp",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Front-End Stack and MCP",
+   "name": "shadcn/ui",
+   "url": "https://ui.shadcn.com/",
+   "description": "Copy-in React components on Radix and Tailwind; patterns models already know well.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Front-End Stack and MCP",
+   "name": "shadcn MCP",
+   "url": "https://ui.shadcn.com/docs/mcp",
+   "description": "Official MCP to browse and install shadcn and registry components from Claude Code. Install: npx shadcn@latest mcp init --client claude",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Front-End Stack and MCP",
+   "name": "Radix UI",
+   "url": "https://www.radix-ui.com/",
+   "description": "Unstyled, accessible React primitives under shadcn/ui; also Radix Themes and Colors.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Front-End Stack and MCP",
+   "name": "ESLint",
+   "url": "https://eslint.org/",
+   "description": "Linter: rules the agent cannot skip. Has a built-in MCP server.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Front-End Stack and MCP",
+   "name": "ESLint MCP",
+   "url": "https://eslint.org/docs/head/use/mcp",
+   "description": "Official guide to running ESLint as an MCP server for coding agents.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Front-End Stack and MCP",
+   "name": "GitLab",
+   "url": "https://about.gitlab.com/",
+   "description": "Git hosting and CI, GitHub's main alternative; common in larger companies.",
+   "access": "Freemium"
   },
   {
    "topic": "research-and-testing",
