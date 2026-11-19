@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1531,
+ "count": 1538,
  "references": [
   {
    "topic": "ui-patterns",
@@ -3169,6 +3169,62 @@
    "url": "https://github.com/affaan-m/everything-claude-code",
    "description": "Configs for token optimisation, memory, verification loops and subagents.",
    "access": "Free"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "UI UX Pro Max",
+   "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+   "description": "Searchable design-intelligence skill: UI styles, palettes, font pairings and UX rules per stack.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Emil Kowalski's Skills",
+   "url": "https://github.com/emilkowalski/skills",
+   "description": "Design-engineering skills from the animations.dev author: emil-design-eng, animate, review and improve animations.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Oil UI",
+   "url": "https://github.com/oil-oil/oil-ui",
+   "description": "Explores several distinct design directions, compares them side by side, then refines against screenshots.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Awesome DESIGN.md",
+   "url": "https://github.com/VoltAgent/awesome-design-md",
+   "description": "DESIGN.md files modelled on Stripe, Linear, Vercel and more: drop one in so an agent starts from a real visual system.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Hallmark",
+   "url": "https://github.com/Nutlope/hallmark",
+   "description": "Anti-AI-slop design skill: picks a page structure and theme per brief, audits pages, extracts a design.md from references.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Marketing Skills (Corey Haines)",
+   "url": "https://github.com/coreyhaines31/marketingskills",
+   "description": "CRO, copywriting, SEO, analytics and growth skills for coding agents.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Cloudflare security-audit skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "description": "Official Cloudflare skill: multi-phase security audit of a codebase with independently verified findings. Useful for anything vibe-coded.",
+   "access": "Free, open source"
   },
   {
    "topic": "awesome-lists",

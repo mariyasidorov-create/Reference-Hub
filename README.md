@@ -2,7 +2,7 @@
 
 Curated references and learning material for product and graphic designers: interface patterns, galleries, type, motion, design systems, design to code, UX research and writing, product management and metrics, art and graphic design history, archives, museums, design schools and regions.
 
-The list holds 1531 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1538 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -34,7 +34,7 @@ The list holds 1531 checked links in 50 topic files. Every topic file links to r
 - [Developer Handoff](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/handoff.md) - Tools for handing designs to engineering (21 links).
 - [Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/tools.md) - Mockups, inspiration and tools for branding, photo, AI and video (42 links).
 - [AI and Creative Technology](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ai-and-creative-tech.md) - AI tools, generative art, 3D and creative coding (38 links).
-- [Claude Skills and Awesome Lists](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/awesome-lists.md) - Skills for AI agents and other curated design lists on GitHub (36 links).
+- [Claude Skills and Awesome Lists](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/awesome-lists.md) - Skills for AI agents and other curated design lists on GitHub (43 links).
 
 ## UX
 

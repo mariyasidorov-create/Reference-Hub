@@ -2,7 +2,7 @@
 title: Claude Skills and Awesome Lists
 aliases: [скиллы, awesome-списки]
 tags: [ai, skills, github]
-entries: 36
+entries: 43
 ---
 
 # Claude Skills and Awesome Lists
@@ -38,6 +38,13 @@ Related: [Component Libraries](component-libraries.md) · [Tools](tools.md)
 - [Platform Design Skills (ehmo)](https://github.com/ehmo/platform-design-skills) - 300+ rules from Apple HIG, Material 3 and WCAG 2.2 for building and auditing apps. Close match to the Apple design skill shown by Nelson. *Free.*
 - [Apple HIG Skills (Raintree)](https://github.com/raintree-technology/apple-hig-skills) - Apple Human Interface Guidelines split into installable skills. *Free.*
 - [Everything Claude Code (affaan-m)](https://github.com/affaan-m/everything-claude-code) - Configs for token optimisation, memory, verification loops and subagents. *Free.*
+- [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - Searchable design-intelligence skill: UI styles, palettes, font pairings and UX rules per stack. *Free, open source.*
+- [Emil Kowalski's Skills](https://github.com/emilkowalski/skills) - Design-engineering skills from the animations.dev author: emil-design-eng, animate, review and improve animations. *Free, open source.*
+- [Oil UI](https://github.com/oil-oil/oil-ui) - Explores several distinct design directions, compares them side by side, then refines against screenshots. *Free, open source.*
+- [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) - DESIGN.md files modelled on Stripe, Linear, Vercel and more: drop one in so an agent starts from a real visual system. *Free, open source.*
+- [Hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill: picks a page structure and theme per brief, audits pages, extracts a design.md from references. *Free, open source.*
+- [Marketing Skills (Corey Haines)](https://github.com/coreyhaines31/marketingskills) - CRO, copywriting, SEO, analytics and growth skills for coding agents. *Free, open source.*
+- [Cloudflare security-audit skill](https://github.com/cloudflare/security-audit-skill) - Official Cloudflare skill: multi-phase security audit of a codebase with independently verified findings. Useful for anything vibe-coded. *Free, open source.*
 
 ## Design Lists on GitHub
 
