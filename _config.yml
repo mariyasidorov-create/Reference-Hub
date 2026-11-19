@@ -1,0 +1,10 @@
+title: Awesome Design References
+description: Curated, link-checked design references and learning material. CC0.
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - references.json
