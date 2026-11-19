@@ -2,7 +2,7 @@
 title: Motion and Micro-interactions
 aliases: [моушн, анимация, animation]
 tags: [motion, micro-interactions]
-entries: 45
+entries: 46
 ---
 
 # Motion and Micro-interactions
@@ -57,6 +57,7 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [React Three Fiber examples](https://r3f.docs.pmnd.rs/getting-started/examples) - Official pmndrs gallery of 3D web demos with source: physics, games, materials. A ready reference to point Claude at. *Free, open source.*
 - [MediaPipe Hand Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) - Google's hand tracking in the browser: the base for gesture-controlled interfaces. *Free.*
 - [Vanta.js](https://www.vantajs.com/) - Open-source animated 3D backgrounds for hero sections (waves, fog, birds, net), built on Three.js. *Free, open source.*
+- [Annnimate](https://annnimate.com/) - Library of GSAP animation components (section transitions, text reveals, sliders) in React, Vue and HTML, with an MCP server. Free starter pack; full library paid. *Freemium.*
 
 ## More Motion
 

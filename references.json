@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1544,
+ "count": 1545,
  "references": [
   {
    "topic": "ui-patterns",
@@ -1161,6 +1161,14 @@
    "url": "https://www.vantajs.com/",
    "description": "Open-source animated 3D backgrounds for hero sections (waves, fog, birds, net), built on Three.js.",
    "access": "Free, open source"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Annnimate",
+   "url": "https://annnimate.com/",
+   "description": "Library of GSAP animation components (section transitions, text reveals, sliders) in React, Vue and HTML, with an MCP server. Free starter pack; full library paid.",
+   "access": "Freemium"
   },
   {
    "topic": "motion",
