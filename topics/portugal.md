@@ -2,7 +2,7 @@
 title: Portugal
 aliases: [Португалия]
 tags: [portugal, lisbon, azulejo, modernism]
-entries: 73
+entries: 74
 ---
 
 # Portugal
@@ -125,6 +125,7 @@ Related: [Architecture](architecture.md) · [Graphic Design History](graphic-des
 - [ModaLisboa](https://modalisboa.pt/) - Lisbon Fashion Week. *Free.*
 - [Portugal Fashion](https://www.portugalfashion.com/) - Porto fashion week and showcase of Portuguese designers. *Free.*
 - [Sant'Anna](https://www.santanna.com.pt/) - Hand-painted azulejo factory in Lisbon since 1741. *Shop and factory visits.*
+- [Layers Conference](https://fof-layers.pt/) - Portugal's community design conference (4th edition: 28–30 November 2026, online and in Coimbra), with talks for juniors to design managers. *Paid; online option.*
 
 ## Bookshops, Publishers and Research
 

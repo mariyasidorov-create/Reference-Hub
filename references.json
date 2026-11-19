@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1850,
+ "count": 1851,
  "references": [
   {
    "topic": "ui-patterns",
@@ -3329,6 +3329,14 @@
    "url": "https://www.santanna.com.pt/",
    "description": "Hand-painted azulejo factory in Lisbon since 1741",
    "access": "Shop and factory visits"
+  },
+  {
+   "topic": "portugal",
+   "section": "Design Community and Fashion",
+   "name": "Layers Conference",
+   "url": "https://fof-layers.pt/",
+   "description": "Portugal's community design conference (4th edition: 28–30 November 2026, online and in Coimbra), with talks for juniors to design managers.",
+   "access": "Paid; online option"
   },
   {
    "topic": "portugal",

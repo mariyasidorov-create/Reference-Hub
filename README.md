@@ -2,7 +2,7 @@
 
 Curated references and learning material for product and graphic designers: interface patterns, galleries, type, motion, design systems, design to code, UX research and writing, product management and metrics, art and graphic design history, archives, museums, design schools and regions.
 
-The list holds 1850 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1851 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -68,7 +68,7 @@ The list holds 1850 checked links in 50 topic files. Every topic file links to r
 
 ## Places and Institutions
 
-- [Portugal](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/portugal.md) - Portuguese design, modernist magazines, azulejos, posters, type, museums, palaces, galleries, publishers and Lisbon Design Week (73 links).
+- [Portugal](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/portugal.md) - Portuguese design, modernist magazines, azulejos, posters, type, museums, palaces, galleries, publishers and Lisbon Design Week (74 links).
 - [Brazil](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/brazil.md) - Brazilian type foundries, design history archives, museums, architecture, cinema and advertising (32 links).
 - [Architecture](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/architecture.md) - Archives, databases and centres for buildings and architects, starting with Portugal (4 links).
 - [Museums, Galleries and Art Media](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/museums-and-galleries.md) - Museums worldwide, including Scotland and Garage, with their online collections and free publications, galleries, art magazines and fairs (80 links).
