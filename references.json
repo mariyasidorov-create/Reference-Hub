@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1538,
+ "count": 1540,
  "references": [
   {
    "topic": "ui-patterns",
@@ -1136,6 +1136,22 @@
    "name": "glimm",
    "url": "https://glimm.dev/",
    "description": "Shader-driven page transitions for React and Next.js, about 11 KB. Found via Sidebar.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "React Three Fiber examples",
+   "url": "https://r3f.docs.pmnd.rs/getting-started/examples",
+   "description": "Official pmndrs gallery of 3D web demos with source: physics, games, materials. A ready reference to point Claude at.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "MediaPipe Hand Landmarker",
+   "url": "https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker",
+   "description": "Google's hand tracking in the browser: the base for gesture-controlled interfaces.",
    "access": "Free"
   },
   {

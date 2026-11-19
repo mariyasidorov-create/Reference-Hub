@@ -2,7 +2,7 @@
 title: Motion and Micro-interactions
 aliases: [моушн, анимация, animation]
 tags: [motion, micro-interactions]
-entries: 42
+entries: 44
 ---
 
 # Motion and Micro-interactions
@@ -54,6 +54,8 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [Dasca](https://app.dasca.studio) - Real-time image effects. *Free.*
 - [WigglyPaint](https://wigglypaint.com) - Animated wiggly doodles. *Free.*
 - [glimm](https://glimm.dev/) - Shader-driven page transitions for React and Next.js, about 11 KB. Found via Sidebar. *Free.*
+- [React Three Fiber examples](https://r3f.docs.pmnd.rs/getting-started/examples) - Official pmndrs gallery of 3D web demos with source: physics, games, materials. A ready reference to point Claude at. *Free, open source.*
+- [MediaPipe Hand Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) - Google's hand tracking in the browser: the base for gesture-controlled interfaces. *Free.*
 
 ## More Motion
 
