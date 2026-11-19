@@ -2,7 +2,7 @@
 title: AI and Creative Technology
 aliases: [AI, ИИ, 3D, креативный код]
 tags: [ai, 3d, creative-coding]
-entries: 38
+entries: 39
 ---
 
 # AI and Creative Technology
@@ -44,6 +44,7 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [Refik Anadol](https://refikanadol.com/) - Data-driven AI art installations. *Free.*
 - [Sougwen Chung (愫君)](https://sougwen.com/) - Artist drawing in collaboration with robots. *Free.*
 - [Experiments with Google](https://experiments.withgoogle.com/) - Creative coding and AI experiments. *Free.*
+- [Gather (DAO)](https://gather.be-of-dao.com/) - Browser toy that turns up to four photos into interactive depth-mapped particle clouds: drift, swarm, scan, trails. *Free.*
 
 ## Learning
 

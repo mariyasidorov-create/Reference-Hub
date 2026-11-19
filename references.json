@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1545,
+ "count": 1546,
  "references": [
   {
    "topic": "ui-patterns",
@@ -11208,6 +11208,14 @@
    "name": "Experiments with Google",
    "url": "https://experiments.withgoogle.com/",
    "description": "Creative coding and AI experiments",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Artists and Experiments",
+   "name": "Gather (DAO)",
+   "url": "https://gather.be-of-dao.com/",
+   "description": "Browser toy that turns up to four photos into interactive depth-mapped particle clouds: drift, swarm, scan, trails.",
    "access": "Free"
   },
   {
