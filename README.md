@@ -2,7 +2,7 @@
 
 Curated references and learning material for product and graphic designers: interface patterns, galleries, type, motion, design systems, design to code, UX research and writing, product management and metrics, art and graphic design history, archives, museums, design schools and regions.
 
-The list holds 1552 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1553 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -24,7 +24,7 @@ The list holds 1552 checked links in 50 topic files. Every topic file links to r
 - [Color](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/color.md) - Palette generators and colour tools (6 links).
 - [Typography and Type Foundries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/typography.md) - Type in use, free typefaces and independent Cyrillic and Latin foundries (38 links).
 - [Motion and Micro-interactions](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/motion.md) - References for interface motion, delightful details and motion design tools (46 links).
-- [Icons, Illustrations and Graphics](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/icons-and-graphics.md) - Icon sets, illustration generators and graphic effects (26 links).
+- [Icons, Illustrations and Graphics](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/icons-and-graphics.md) - Icon sets, illustration generators and graphic effects (27 links).
 
 ## Code and Tools
 

@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1552,
+ "count": 1553,
  "references": [
   {
    "topic": "ui-patterns",
@@ -3561,6 +3561,14 @@
    "url": "https://bookofshapes.com/",
    "description": "Collection of minimal, generative, customisable SVG patterns (grid, radial, flow, noise, isometric) by Nikolaj Sokolowski; export or turn into posters.",
    "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Inkarnate",
+   "url": "https://inkarnate.com/",
+   "description": "Fantasy map maker in the browser: draw worlds from scratch or start from templates and community maps; 25K+ art assets.",
+   "access": "Freemium"
   },
   {
    "topic": "icons-and-graphics",
