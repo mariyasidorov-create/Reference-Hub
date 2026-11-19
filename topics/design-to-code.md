@@ -2,7 +2,7 @@
 title: Design to Code
 aliases: [дизайн в код, Figma MCP, вайбкодинг]
 tags: [figma, code, ai, mcp]
-entries: 51
+entries: 53
 ---
 
 # Design to Code
@@ -55,6 +55,8 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [Unicorn Studio](https://www.unicorn.studio/) - No-code WebGL effects exportable to the web. *Freemium.*
 - [Memorisely AI Coding Bootcamp](https://www.memorisely.com/online-ai-design-bootcamps/ai-coding-bootcamp) - Course on AI coding for designers. *Paid.*
 - [CodeSandbox](https://codesandbox.io/) - Online editor for coding and sharing front-end prototypes. *Freemium.*
+- [Playwright MCP](https://playwright.dev/mcp/clients/claude-code) - Microsoft's MCP server that gives an agent a real browser: open the page, click, screenshot and check its own UI against the design. Install in Claude Code: claude mcp add playwright -- npx @playwright/mcp@latest. *Free, open source.*
+- [Superdesign](https://superdesign.dev/) - Design agent and skill for Claude Code and Cursor: explores UI variations inside your repo; also in the official Claude plugin marketplace. *Freemium.*
 
 ## Vibe Coding and App Builders
 

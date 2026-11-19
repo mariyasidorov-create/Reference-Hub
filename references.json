@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1836,
+ "count": 1838,
  "references": [
   {
    "topic": "ui-patterns",
@@ -11952,6 +11952,22 @@
    "name": "CodeSandbox",
    "url": "https://codesandbox.io/",
    "description": "Online editor for coding and sharing front-end prototypes.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Agents and Code",
+   "name": "Playwright MCP",
+   "url": "https://playwright.dev/mcp/clients/claude-code",
+   "description": "Microsoft's MCP server that gives an agent a real browser: open the page, click, screenshot and check its own UI against the design. Install in Claude Code: claude mcp add playwright -- npx @playwright/mcp@latest",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Agents and Code",
+   "name": "Superdesign",
+   "url": "https://superdesign.dev/",
+   "description": "Design agent and skill for Claude Code and Cursor: explores UI variations inside your repo; also in the official Claude plugin marketplace.",
    "access": "Freemium"
   },
   {
