@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1771,
+ "count": 1759,
  "references": [
   {
    "topic": "ui-patterns",
@@ -9725,14 +9725,6 @@
   {
    "topic": "design-systems",
    "section": "Directories, Hubs and Newsletters",
-   "name": "Design System Weekly",
-   "url": "https://designsystemweekly.webflow.io/",
-   "description": "Weekly newsletter of design-system reading.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Directories, Hubs and Newsletters",
    "name": "Swedish Design Systems",
    "url": "https://menosketiago.notion.site/Swedish-Design-Systems-6151fb095773410bb6b21832676bf1a3",
    "description": "List of public design systems from Swedish companies and agencies.",
@@ -9957,14 +9949,6 @@
   {
    "topic": "design-systems",
    "section": "Team Case Studies",
-   "name": "Reimagining Design Systems at Spotify",
-   "url": "https://spotify.design/articles/2019-12-16/reimagining-design-systems-at-spotify/",
-   "description": "How Spotify's Encore became a family of design systems.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Team Case Studies",
    "name": "Creating Virgin Atlantic's Digital Design System, Part 1",
    "url": "https://medium.com/virgin-atlantic-digital/creating-virgin-atlantics-digital-design-system-part-1-e91f9100804b",
    "description": "Airline team's story of starting a system.",
@@ -10104,22 +10088,6 @@
    "name": "Building a Large-Scale Design System for the U.S. Government",
    "url": "https://www.smashingmagazine.com/2017/10/large-scale-design-system-us-government/",
    "description": "Smashing case study of USWDS.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Team Case Studies",
-   "name": "The System Always Kicks Back (Shopify)",
-   "url": "https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2",
-   "description": "Shopify on lessons from running Polaris.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Team Case Studies",
-   "name": "Uplifting Shopify Polaris",
-   "url": "https://ux.shopify.com/uplifting-shopify-polaris-7c54fc6564d9",
-   "description": "Shopify's Polaris visual refresh.",
    "access": "Free"
   },
   {
@@ -10637,14 +10605,6 @@
   {
    "topic": "design-systems",
    "section": "Design Tokens and Variables",
-   "name": "Design Tokens 101 (Design Strategy Guide)",
-   "url": "https://designstrategy.guide/design-system/design-tokens-101/",
-   "description": "Introductory guide.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Design Tokens and Variables",
    "name": "Design Tokens (The Design System Guide)",
    "url": "https://thedesignsystem.guide/design-tokens",
    "description": "Chapter on tokens.",
@@ -11077,14 +11037,6 @@
   {
    "topic": "design-systems",
    "section": "Process, Governance and Team",
-   "name": "DesignOps Lab Toolkit",
-   "url": "https://designopslab.com/toolkit.html",
-   "description": "DesignOps templates and tools.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Process, Governance and Team",
    "name": "How to Build a Design System with a Small Team (freeCodeCamp)",
    "url": "https://www.freecodecamp.org/news/how-to-build-a-design-system-with-a-small-team-53a3276d44ac/",
    "description": "Lean approach.",
@@ -11125,14 +11077,6 @@
   {
    "topic": "design-systems",
    "section": "Metrics, ROI and Maturity",
-   "name": "Measuring the Impact of a Design System (Veriff)",
-   "url": "https://www.veriff.com/our-people/measuring-impact-design-system",
-   "description": "Veriff's impact metrics.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Metrics, ROI and Maturity",
    "name": "Measuring the Health of Our Design System (Sprout Social)",
    "url": "https://medium.com/sprout-social-design/design-system-health-3004551060f0",
    "description": "Health metrics for Seeds.",
@@ -11160,14 +11104,6 @@
    "name": "How to Measure Design System Adoption",
    "url": "https://uxdesign.cc/how-to-measure-design-system-adoption-a17d7e6d57f7",
    "description": "Adoption tracking methods.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Metrics, ROI and Maturity",
-   "name": "Design System Metrics Collection (Design Strategy Guide)",
-   "url": "https://designstrategy.guide/design-system/design-system-metrics-collection/",
-   "description": "Collection of metrics.",
    "access": "Free"
   },
   {
@@ -11221,14 +11157,6 @@
   {
    "topic": "design-systems",
    "section": "Metrics, ROI and Maturity",
-   "name": "Design systems: o impacto e mais-valia na customer experience [Design systems: impact and value in customer experience]",
-   "url": "https://www.meiosepublicidade.pt/2022/03/design-sytems-o-impacto-e-mais-valia-na-customer-experience/",
-   "description": "Portuguese article on CX value.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Metrics, ROI and Maturity",
    "name": "The Never-Ending Job of Selling Design Systems (Ben Callahan)",
    "url": "https://alistapart.com/article/selling-design-systems/",
    "description": "A List Apart on continuous buy-in.",
@@ -11256,14 +11184,6 @@
    "name": "One Formula to Rule Them All: the ROI of a Design System",
    "url": "https://uxdesign.cc/one-formula-to-rule-them-all-the-roi-of-a-design-system-d3722ccefa14",
    "description": "ROI formula.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Metrics, ROI and Maturity",
-   "name": "Increase Revenue and Save Costs with a Design System",
-   "url": "https://designstrategy.guide/remote-design-systems-workshop/",
-   "description": "Workshop on system value.",
    "access": "Free"
   },
   {
@@ -11357,14 +11277,6 @@
   {
    "topic": "design-systems",
    "section": "Surveys and Reports",
-   "name": "Mapa dos Design Systems em Portugal 2022 [Map of design systems in Portugal 2022]",
-   "url": "https://issuu.com/rubenferreiraduarte/docs/mapa_design_systems_portugal_2022",
-   "description": "Survey of Portuguese design systems.",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Surveys and Reports",
    "name": "Design Systems & Ops Report v2 (Meiuca)",
    "url": "https://report.meiuca.co/",
    "description": "Brazilian industry report on systems and DesignOps.",
@@ -11376,14 +11288,6 @@
    "name": "Sparkbox Design Systems Survey 2022",
    "url": "https://designsystemsurvey.seesparkbox.com/2022/",
    "description": "Annual survey (earlier editions 2018–2021 on the same site).",
-   "access": "Free"
-  },
-  {
-   "topic": "design-systems",
-   "section": "Surveys and Reports",
-   "name": "The State of Design Systems in the Netherlands 2019",
-   "url": "https://www.angistudio.com/state-of-design-systems-2019/",
-   "description": "Dutch market survey.",
    "access": "Free"
   },
   {

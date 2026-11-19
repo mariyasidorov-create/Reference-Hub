@@ -2,7 +2,7 @@
 title: Design Systems
 aliases: [дизайн-системы, киты Figma]
 tags: [design-systems, motion, figma]
-entries: 276
+entries: 264
 ---
 
 # Design Systems
@@ -116,7 +116,6 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [The Design System Guide (Romina Kavcic)](https://thedesignsystem.guide/) - Step-by-step guide, templates and newsletter on building, measuring and selling a design system. *Freemium.*
 - [Design Systems for Figma](https://www.designsystemsforfigma.com/) - Collection of design systems available as Figma files. *Free.*
 - [Design Systems Surf](https://designsystems.surf/) - Searchable catalogue of design systems and their components. *Free.*
-- [Design System Weekly](https://designsystemweekly.webflow.io/) - Weekly newsletter of design-system reading. *Free.*
 - [Swedish Design Systems](https://menosketiago.notion.site/Swedish-Design-Systems-6151fb095773410bb6b21832676bf1a3) - List of public design systems from Swedish companies and agencies. *Free.*
 - [Norwegian Design Systems](https://github.com/siiron/norwegian-design-systems) - List of public design systems in Norway. *Free.*
 - [Design System Central](https://designsystemcentral.com/) - Directory of design systems, tools and learning resources. *Free.*
@@ -154,7 +153,6 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 
 ## Team Case Studies
 
-- [Reimagining Design Systems at Spotify](https://spotify.design/articles/2019-12-16/reimagining-design-systems-at-spotify/) - How Spotify's Encore became a family of design systems. *Free.*
 - [Creating Virgin Atlantic's Digital Design System, Part 1](https://medium.com/virgin-atlantic-digital/creating-virgin-atlantics-digital-design-system-part-1-e91f9100804b) - Airline team's story of starting a system. *Free.*
 - [Radiant: the ThoughtSpot Design System](https://medium.com/ccoutzoukis/radiant-thoughtspot-design-system-8789dfc79bd3) - Case study of a B2B analytics design system. *Free.*
 - [How We Organise Our Design System Libraries (Doctolib)](https://medium.com/doctolib/how-we-organise-our-design-system-libraries-to-help-doctolib-designers-use-more-than-70-000-c15237c81f6c) - Library structure for 70,000+ components at Doctolib. *Free.*
@@ -173,8 +171,6 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Multibrand Design System at the Volkswagen Group](https://www.figma.com/proto/Klffp8hfSYoLxyuzz6UX3r/into_dsc_II?page-id=0%3A1&node-id=1-2&scaling=contain) - Into Design Systems talk deck on VW Group's multibrand system. *Free.*
 - [Metrics That Matter: Measuring the Cobalt Design System (Talkdesk)](https://engineering.talkdesk.com/metrics-that-matter-measuring-the-impact-of-cobalt-design-system-part-i-d23910be8c32) - Portuguese-founded Talkdesk on measuring system impact. *Free.*
 - [Building a Large-Scale Design System for the U.S. Government](https://www.smashingmagazine.com/2017/10/large-scale-design-system-us-government/) - Smashing case study of USWDS. *Free.*
-- [The System Always Kicks Back (Shopify)](https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2) - Shopify on lessons from running Polaris. *Free.*
-- [Uplifting Shopify Polaris](https://ux.shopify.com/uplifting-shopify-polaris-7c54fc6564d9) - Shopify's Polaris visual refresh. *Free.*
 - [The Babbel Rebrand: Crafting Grammar, Our Design System](https://medium.com/babbeldesign/the-babbel-rebrand-crafting-grammar-our-design-system-1aa65896c8d1) - Babbel's rebrand and Grammar system. *Free.*
 - [Atomic Design System at MoPlay, Ep. 1](https://medium.com/@danieandnuno/atomic-design-system-ep-1-the-story-behind-it-b8e7a19920b3) - Portuguese team's story behind its atomic system. *Free.*
 - [How to Build and Maintain a Design System in Abstract](https://medium.com/sketch-app-sources/how-to-build-and-maintain-a-design-system-in-abstract-631378004803) - Versioned design-system workflow case. *Free.*
@@ -248,7 +244,6 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Design Tokens 102](https://uxplanet.org/design-tokens-102-8ac8ede85cfe) - Next steps after token basics. *Free.*
 - [The Future of Design Systems Is Semantic (Figma)](https://www.figma.com/blog/the-future-of-design-systems-is-semantic/) - Figma on semantic tokens and variables. *Free.*
 - [The Real Value of Tokens](https://uxdesign.cc/the-real-value-of-tokens-b0500b61908c) - Why tokens pay off. *Free.*
-- [Design Tokens 101 (Design Strategy Guide)](https://designstrategy.guide/design-system/design-tokens-101/) - Introductory guide. *Free.*
 - [Design Tokens (The Design System Guide)](https://thedesignsystem.guide/design-tokens) - Chapter on tokens. *Free.*
 - [The Definitive Guide to Tokens in Figma](https://uxplanet.org/the-definitive-guide-on-how-to-master-tokens-in-figma-2023-16d870029009) - Tokens workflow in Figma. *Free.*
 - [Design Tokens: Future of Design Systems](https://bootcamp.uxdesign.cc/design-tokens-future-of-design-systems-ccdb15ee2db) - Overview of where tokens are going. *Free.*
@@ -309,7 +304,6 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Building a Design System? Start with a Map (Workday)](https://medium.com/workday-design/building-a-design-system-start-with-a-map-77829b950f5a) - Mapping before building. *Free.*
 - [How to Evangelize a Design System (UXPin)](https://www.uxpin.com/studio/blog/evangelize-design-system-guide/) - Getting buy-in. *Free.*
 - [Why Design System Designers Need to Be Great Auditors](https://bootcamp.uxdesign.cc/why-design-system-designers-need-to-be-great-auditors-983faca1dda5) - Auditing as a core skill. *Free.*
-- [DesignOps Lab Toolkit](https://designopslab.com/toolkit.html) - DesignOps templates and tools. *Free.*
 - [How to Build a Design System with a Small Team (freeCodeCamp)](https://www.freecodecamp.org/news/how-to-build-a-design-system-with-a-small-team-53a3276d44ac/) - Lean approach. *Free.*
 - [The Design System Lifecycle: Push and Pull](https://uxdesign.cc/the-design-system-lifecycle-its-simply-push-and-pull-3ae273a4f3cf) - Contribution and adoption dynamics. *Free.*
 - [Design System: How to Successfully Collaborate](https://bootcamp.uxdesign.cc/design-system-how-to-successfully-collaborate-3c767ed12bc6) - Collaboration between design and dev. *Free.*
@@ -318,24 +312,20 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 ## Metrics, ROI and Maturity
 
 - [How to Measure Your Design System (zeroheight)](https://zeroheight.com/blog/how-to-measure-your-design-system/) - What to measure and how. *Free.*
-- [Measuring the Impact of a Design System (Veriff)](https://www.veriff.com/our-people/measuring-impact-design-system) - Veriff's impact metrics. *Free.*
 - [Measuring the Health of Our Design System (Sprout Social)](https://medium.com/sprout-social-design/design-system-health-3004551060f0) - Health metrics for Seeds. *Free.*
 - [Introducing Design System Analytics (Figma)](https://www.figma.com/blog/introducing-design-system-analytics/) - Figma's library analytics. *Free.*
 - [Design System Metrics (UXPin)](https://www.uxpin.com/studio/blog/design-system-metrics/) - Metrics for system value. *Free.*
 - [How to Measure Design System Adoption](https://uxdesign.cc/how-to-measure-design-system-adoption-a17d7e6d57f7) - Adoption tracking methods. *Free.*
-- [Design System Metrics Collection (Design Strategy Guide)](https://designstrategy.guide/design-system/design-system-metrics-collection/) - Collection of metrics. *Free.*
 - [How to Measure the Dev Side of a Design System (zeroheight)](https://learninghub.zeroheight.com/hc/en-us/articles/12585731357723) - Code-side adoption metrics. *Free.*
 - [Measuring the Impact of a Design System (Cristiano Rastelli)](https://medium.com/@didoo/measuring-the-impact-of-a-design-system-7f925af090f7) - Badoo's measurement approach. *Free.*
 - [Design System Metrics (Romina Kavcic)](https://thedesignsystem.guide/design-system-metrics) - Metrics chapter. *Free.*
 - [Data-Driven Design Systems in Practice (Omlet)](https://omlet.dev/blog/data-driven-design-systems-in-practice/) - Using component usage data. *Free.*
 - [Design System at Scale (Uber)](https://www.uber.com/en-GB/blog/design-system-at-scale/) - How Uber measures Base at scale. *Free.*
 - [Why Invest in an Enterprise Design System? (Nagarro)](https://www.nagarro.com/en/blog/why-invest-enterprise-design-system) - Business case. *Free.*
-- [Design systems: o impacto e mais-valia na customer experience [Design systems: impact and value in customer experience]](https://www.meiosepublicidade.pt/2022/03/design-sytems-o-impacto-e-mais-valia-na-customer-experience/) - Portuguese article on CX value. *Free.*
 - [The Never-Ending Job of Selling Design Systems (Ben Callahan)](https://alistapart.com/article/selling-design-systems/) - A List Apart on continuous buy-in. *Free.*
 - [A Design System Business Case](https://medium.com/@matejkaninsky/a-design-system-business-case-business-benefits-the-ultimate-guide-cc2e09715ab) - Building the business case. *Free.*
 - [Design System ROI Calculator (Knapsack)](https://www.knapsack.cloud/calculator) - Estimate system ROI. *Free.*
 - [One Formula to Rule Them All: the ROI of a Design System](https://uxdesign.cc/one-formula-to-rule-them-all-the-roi-of-a-design-system-d3722ccefa14) - ROI formula. *Free.*
-- [Increase Revenue and Save Costs with a Design System](https://designstrategy.guide/remote-design-systems-workshop/) - Workshop on system value. *Free.*
 - [Benefits of a Design System](https://www.emicice.ro/benefits-of-a-design-system) - Benefits overview. *Free.*
 - [What Is the Value of a Design System? (zeroheight)](https://zeroheight.com/blog/what-is-the-value-of-a-design-system/) - Value framing. *Free.*
 - [ROI of Design Systems](https://bootcamp.uxdesign.cc/roi-of-design-systems-5791fe75849a) - ROI explainer. *Free.*
@@ -353,9 +343,7 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 
 ## Surveys and Reports
 
-- [Mapa dos Design Systems em Portugal 2022 [Map of design systems in Portugal 2022]](https://issuu.com/rubenferreiraduarte/docs/mapa_design_systems_portugal_2022) - Survey of Portuguese design systems. *Free.*
 - [Design Systems & Ops Report v2 (Meiuca)](https://report.meiuca.co/) - Brazilian industry report on systems and DesignOps. *Free.*
 - [Sparkbox Design Systems Survey 2022](https://designsystemsurvey.seesparkbox.com/2022/) - Annual survey (earlier editions 2018–2021 on the same site). *Free.*
-- [The State of Design Systems in the Netherlands 2019](https://www.angistudio.com/state-of-design-systems-2019/) - Dutch market survey. *Free.*
 - [The State of Design Systems in 2020](https://uxdesign.cc/the-state-of-design-systems-in-2020-d8f580c54b39) - Industry overview. *Free.*
 - [Design Systems Salary (Marta Conde)](https://martaconde.notion.site/Design-Systems-Salary-2233d7f0081280b49572eb4b853403a1) - Crowd-sourced design-system salary data. *Free.*
