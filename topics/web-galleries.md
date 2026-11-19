@@ -2,7 +2,7 @@
 title: Web Galleries
 aliases: [галереи сайтов, веб-референсы]
 tags: [web, inspiration, layout]
-entries: 43
+entries: 46
 ---
 
 # Web Galleries
@@ -66,3 +66,6 @@ Related: [UI Patterns and Real Products](ui-patterns.md) · [Early Web History](
 - [Codrops](https://tympanus.net/codrops/) - Web experiments and front-end tutorials. *Free.*
 - [Relume Library](https://library.relume.io/) - Website sections and wireframes. *Freemium.*
 - [Landing page examples (Figma)](https://www.figma.com/resource-library/landing-page-examples/) - Annotated landing page examples. *Free.*
+- [Meng To](https://mengto.com/) - Personal site of the Design+Code founder: a draggable page-turn book with a magnifying-glass interaction. *Free.*
+- [A24 Films (concept by Ravi Klaassens)](https://a24.raviklaassens.com/) - Concept site for the A24 film library: films as spinning disc artwork. Fan project, not the official A24 site. *Free.*
+- [Feather](https://feather.computer/) - Landing page for an AI inbox, built as a playful desk of draggable objects. *Free.*

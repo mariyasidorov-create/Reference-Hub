@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1547,
+ "count": 1552,
  "references": [
   {
    "topic": "ui-patterns",
@@ -456,6 +456,30 @@
    "name": "Landing page examples (Figma)",
    "url": "https://www.figma.com/resource-library/landing-page-examples/",
    "description": "Annotated landing page examples",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Meng To",
+   "url": "https://mengto.com/",
+   "description": "Personal site of the Design+Code founder: a draggable page-turn book with a magnifying-glass interaction.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "A24 Films (concept by Ravi Klaassens)",
+   "url": "https://a24.raviklaassens.com/",
+   "description": "Concept site for the A24 film library: films as spinning disc artwork. Fan project, not the official A24 site.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Feather",
+   "url": "https://feather.computer/",
+   "description": "Landing page for an AI inbox, built as a playful desk of draggable objects.",
    "access": "Free"
   },
   {
@@ -3528,6 +3552,14 @@
    "name": "playgrnd",
    "url": "https://www.playgrnd.tools/",
    "description": "52 free in-browser generators for backgrounds, patterns, posters and textures (dither, riso, op-art, marbling). Nothing uploaded; exports are yours. Some artists say certain tools imitate their styles, so check before using output commercially.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons, Illustrations and Graphics",
+   "name": "Book of Shapes",
+   "url": "https://bookofshapes.com/",
+   "description": "Collection of minimal, generative, customisable SVG patterns (grid, radial, flow, noise, isometric) by Nikolaj Sokolowski; export or turn into posters.",
    "access": "Free"
   },
   {
@@ -11224,6 +11256,14 @@
    "name": "Gather (DAO)",
    "url": "https://gather.be-of-dao.com/",
    "description": "Browser toy that turns up to four photos into interactive depth-mapped particle clouds: drift, swarm, scan, trails.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Artists and Experiments",
+   "name": "Inflation-2 (Nikita Vasilevskiy)",
+   "url": "https://nikitavasilevskiy.com/inflation-2",
+   "description": "Draw a shape and inflate it into a glossy 3D object; symmetry, holes, reflections, glow; export PNG, video or USDZ.",
    "access": "Free"
   },
   {

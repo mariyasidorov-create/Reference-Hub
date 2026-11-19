@@ -14,7 +14,7 @@ Appshot Gallery · Azbuka UI (UI ABC) · Mobbin · Nicelydone · Page Flows · P
 
 ### [Web Galleries](topics/web-galleries.md)
 
-404s · Area 17 archive · Awwwards · Bento Grids · Brutalist Websites · Codrops · Collect UI · Craftwork · CSS Design Awards · CTA.gallery · Curated · d1s1 · Dark.design · Deck.gallery · Designspiration · Footer.design · Godly · Hover States · Httpster · Land-book · Landdding · Landing page examples (Figma) · Landingfolio · Landings.dev · Lapa Ninja · Minimal.gallery · Navbar.gallery · on.design · One Page Love · Pricing Pages · Rebrand Gallery · Recent.design · Refframe · Refs.gallery · Relume Library · SaaS Landing Page · SEESAW · Siiimple · Site of Sites · SiteInspire · Supahero · The FWA · Viewport UI
+404s · A24 Films (concept by Ravi Klaassens) · Area 17 archive · Awwwards · Bento Grids · Brutalist Websites · Codrops · Collect UI · Craftwork · CSS Design Awards · CTA.gallery · Curated · d1s1 · Dark.design · Deck.gallery · Designspiration · Feather · Footer.design · Godly · Hover States · Httpster · Land-book · Landdding · Landing page examples (Figma) · Landingfolio · Landings.dev · Lapa Ninja · Meng To · Minimal.gallery · Navbar.gallery · on.design · One Page Love · Pricing Pages · Rebrand Gallery · Recent.design · Refframe · Refs.gallery · Relume Library · SaaS Landing Page · SEESAW · Siiimple · Site of Sites · SiteInspire · Supahero · The FWA · Viewport UI
 
 ### [Images and Moodboards](topics/images-and-moodboards.md)
 
@@ -34,7 +34,7 @@ Color Hunt · Color theory (Figma) · Coolors · Huemint · Muzli Colors · Real
 
 ### [Icons, Illustrations and Graphics](topics/icons-and-graphics.md)
 
-3dicons · Cutting Mat Generator · Emoji to PNG · Flaticon · Holosticker · Iconbuddy · Iconden · Iconly · Iconoteka · Iconoteka Figma plugin · Iconoteka on GitHub · Inkword · Kitbitz · Koboyo · LogoLounge · Lucide · Material Symbols · mmeshy · Noun Project · Phosphor Icons · playgrnd · PNGimg · Reicon · Sombra · Symbl
+3dicons · Book of Shapes · Cutting Mat Generator · Emoji to PNG · Flaticon · Holosticker · Iconbuddy · Iconden · Iconly · Iconoteka · Iconoteka Figma plugin · Iconoteka on GitHub · Inkword · Kitbitz · Koboyo · LogoLounge · Lucide · Material Symbols · mmeshy · Noun Project · Phosphor Icons · playgrnd · PNGimg · Reicon · Sombra · Symbl
 
 ## Code and Tools
 
@@ -60,7 +60,7 @@ aescripts + aeplugins · Affinity (Canva) · Aninix · App Mockup Studio · Auto
 
 ### [AI and Creative Technology](topics/ai-and-creative-tech.md)
 
-AI tools for UX designers (Figma) · Arcads · Artlist · Claude Certified Architect – Foundations (Anthropic Academy) · ElevenLabs · Experiments with Google · Figma Weave · Freepik AI Suite · Gather (DAO) · Genspark · Google Stitch · Higgsfield · Hitem3D · InVideo · Kimi · Kittl · Kling AI · Krea · Lovart · LTX Studio · Luma AI (Dream Machine) · Magenta (Google) · Midjourney · Muzli MCP · NotebookLM · Pacdora · Refik Anadol · Runway · Seedance (ByteDance Seed) · Shader Gradient · Sougwen Chung (愫君) · Suno · Synthesia · Teachable Machine (Google) · Three.js · Topview · Tripo AI · VEED · Vizcom
+AI tools for UX designers (Figma) · Arcads · Artlist · Claude Certified Architect – Foundations (Anthropic Academy) · ElevenLabs · Experiments with Google · Figma Weave · Freepik AI Suite · Gather (DAO) · Genspark · Google Stitch · Higgsfield · Hitem3D · Inflation-2 (Nikita Vasilevskiy) · InVideo · Kimi · Kittl · Kling AI · Krea · Lovart · LTX Studio · Luma AI (Dream Machine) · Magenta (Google) · Midjourney · Muzli MCP · NotebookLM · Pacdora · Refik Anadol · Runway · Seedance (ByteDance Seed) · Shader Gradient · Sougwen Chung (愫君) · Suno · Synthesia · Teachable Machine (Google) · Three.js · Topview · Tripo AI · VEED · Vizcom
 
 ### [Claude Skills and Awesome Lists](topics/awesome-lists.md)
 

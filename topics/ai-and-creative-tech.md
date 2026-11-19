@@ -2,7 +2,7 @@
 title: AI and Creative Technology
 aliases: [AI, ИИ, 3D, креативный код]
 tags: [ai, 3d, creative-coding]
-entries: 39
+entries: 40
 ---
 
 # AI and Creative Technology
@@ -45,6 +45,7 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [Sougwen Chung (愫君)](https://sougwen.com/) - Artist drawing in collaboration with robots. *Free.*
 - [Experiments with Google](https://experiments.withgoogle.com/) - Creative coding and AI experiments. *Free.*
 - [Gather (DAO)](https://gather.be-of-dao.com/) - Browser toy that turns up to four photos into interactive depth-mapped particle clouds: drift, swarm, scan, trails. *Free.*
+- [Inflation-2 (Nikita Vasilevskiy)](https://nikitavasilevskiy.com/inflation-2) - Draw a shape and inflate it into a glossy 3D object; symmetry, holes, reflections, glow; export PNG, video or USDZ. *Free.*
 
 ## Learning
 

@@ -2,7 +2,7 @@
 title: Icons, Illustrations and Graphics
 aliases: [иконки, иллюстрации, icons]
 tags: [icons, illustration]
-entries: 25
+entries: 26
 ---
 
 # Icons, Illustrations and Graphics
@@ -37,6 +37,7 @@ Related: [Images and Moodboards](images-and-moodboards.md) · [Tools](tools.md)
 - [3dicons](https://3dicons.co) - Open-source 3D icons. *Free.*
 - [Symbl](https://symbl.space) - Logo stress test: small sizes, blur, negative space, clearspace, mockups and a shareable brand book. *Free.*
 - [playgrnd](https://www.playgrnd.tools/) - 52 free in-browser generators for backgrounds, patterns, posters and textures (dither, riso, op-art, marbling). Nothing uploaded; exports are yours. Some artists say certain tools imitate their styles, so check before using output commercially. *Free.*
+- [Book of Shapes](https://bookofshapes.com/) - Collection of minimal, generative, customisable SVG patterns (grid, radial, flow, noise, isometric) by Nikolaj Sokolowski; export or turn into posters. *Free.*
 
 ## Icons
 
