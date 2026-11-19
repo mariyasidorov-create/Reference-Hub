@@ -2,7 +2,7 @@
 title: Design Systems
 aliases: [дизайн-системы, киты Figma]
 tags: [design-systems, motion, figma]
-entries: 276
+entries: 275
 ---
 
 # Design Systems
@@ -140,7 +140,6 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Animation in Design Systems (Val Head)](https://www.lapa.ninja/book/animation-in-design-system/) - Short free book on adding motion guidelines to a design system. *Free.*
 - [Design That Scales (Dan Mall)](https://rosenfeldmedia.com/books/design-that-scales/) - Rosenfeld book on creating a sustainable design-system practice. *Paid.*
 - [Building Design Systems (Vesselov and Davis)](https://link.springer.com/book/10.1007/978-1-4842-4514-9) - Apress book on unifying user experiences through a shared design language. *Paid.*
-- [Design System in 90 Days (SuperFriendly)](https://superfriendly.com/design-systems/books/design-system-90-days/) - Workbook by Dan Mall's studio for launching a system in three months. *Paid.*
 
 ## Talks, Videos and Events
 

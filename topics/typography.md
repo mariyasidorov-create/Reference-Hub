@@ -2,7 +2,7 @@
 title: Typography and Type Foundries
 aliases: [типографика, шрифты, fonts]
 tags: [typography, fonts, cyrillic]
-entries: 41
+entries: 40
 ---
 
 # Typography and Type Foundries
@@ -74,5 +74,4 @@ Related: [Graphic Design History](graphic-design-history.md) · [Right-to-Left S
 - [Rob Roy Kelly American Wood Type Collection](https://rrk.finearts.utexas.edu/) - Digitised wood type specimens. *Free.*
 - [Typographic Posters](https://www.typographicposters.com/archive) - Archive of typographic posters. *Free.*
 - [Typography in design (Figma)](https://www.figma.com/resource-library/typography-in-design/) - Type basics for interfaces. *Free.*
-- [Matej Latin — Better Web Type](https://matejlatin.co.uk/) - Designer and author on web typography and minimalism. *Free.*
 - [Type Scale](https://type-scale.com/) - Visual calculator for modular type scales. *Free.*

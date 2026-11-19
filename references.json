@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1848,
+ "count": 1836,
  "references": [
   {
    "topic": "ui-patterns",
@@ -501,25 +501,9 @@
   {
    "topic": "web-galleries",
    "section": "More Galleries",
-   "name": "UI Goodies",
-   "url": "https://uigoodies.com/inspiration",
-   "description": "Index of UI, web, SaaS and mobile inspiration sites.",
-   "access": "Free"
-  },
-  {
-   "topic": "web-galleries",
-   "section": "More Galleries",
    "name": "Wall of Portfolios",
    "url": "https://www.wallofportfolios.in/",
    "description": "Gallery of designer portfolios, filterable by company.",
-   "access": "Free"
-  },
-  {
-   "topic": "web-galleries",
-   "section": "More Galleries",
-   "name": "Sneak Peek Design — Slack's Figma File",
-   "url": "https://sneakpeek.design/p/slack-figma-file",
-   "description": "Look inside how a real product team organises Figma.",
    "access": "Free"
   },
   {
@@ -637,14 +621,6 @@
   {
    "topic": "web-galleries",
    "section": "More Galleries",
-   "name": "Studio 3000",
-   "url": "https://www.studio3000.de/services",
-   "description": "German design studio.",
-   "access": "Free"
-  },
-  {
-   "topic": "web-galleries",
-   "section": "More Galleries",
    "name": "Le Fruit Studio — Artcurial",
    "url": "https://lefruitstudio.fr/works/artcurial-monaco-2022",
    "description": "Auction-house campaign site.",
@@ -693,14 +669,6 @@
   {
    "topic": "web-galleries",
    "section": "More Galleries",
-   "name": "The Dreamkeeper",
-   "url": "https://thedreamkeeper.co/",
-   "description": "Immersive storytelling site.",
-   "access": "Free"
-  },
-  {
-   "topic": "web-galleries",
-   "section": "More Galleries",
    "name": "Last Prisoner Project — The Pen to Right History",
    "url": "https://pen.lastprisonerproject.org/",
    "description": "Campaign site with interactive pen.",
@@ -728,14 +696,6 @@
    "name": "Sandy Shore Farms",
    "url": "https://sandyshore.ca/",
    "description": "Farm brand site.",
-   "access": "Free"
-  },
-  {
-   "topic": "web-galleries",
-   "section": "More Galleries",
-   "name": "Vikki B — Folio 23",
-   "url": "https://www.vikkibre.com/",
-   "description": "Designer portfolio.",
    "access": "Free"
   },
   {
@@ -776,14 +736,6 @@
    "name": "ustwo",
    "url": "https://ustwo.com/",
    "description": "Digital product studio.",
-   "access": "Free"
-  },
-  {
-   "topic": "web-galleries",
-   "section": "More Galleries",
-   "name": "Producthow — Employee Assessment Platform Redesign",
-   "url": "https://www.producthow.io/works/employee-assessment-platform-redesign",
-   "description": "Product redesign case study.",
    "access": "Free"
   },
   {
@@ -1261,14 +1213,6 @@
   {
    "topic": "typography",
    "section": "Tools and Learning",
-   "name": "Matej Latin — Better Web Type",
-   "url": "https://matejlatin.co.uk/",
-   "description": "Designer and author on web typography and minimalism.",
-   "access": "Free"
-  },
-  {
-   "topic": "typography",
-   "section": "Tools and Learning",
    "name": "Type Scale",
    "url": "https://type-scale.com/",
    "description": "Visual calculator for modular type scales.",
@@ -1529,14 +1473,6 @@
    "url": "https://annnimate.com/",
    "description": "Library of GSAP animation components (section transitions, text reveals, sliders) in React, Vue and HTML, with an MCP server. Free starter pack; full library paid.",
    "access": "Freemium"
-  },
-  {
-   "topic": "motion",
-   "section": "Motion Tools",
-   "name": "AEUX",
-   "url": "https://aeux.io/",
-   "description": "Transfer Figma or Sketch layers to After Effects.",
-   "access": "Free"
   },
   {
    "topic": "motion",
@@ -10316,14 +10252,6 @@
   },
   {
    "topic": "design-systems",
-   "section": "Books and Guides",
-   "name": "Design System in 90 Days (SuperFriendly)",
-   "url": "https://superfriendly.com/design-systems/books/design-system-90-days/",
-   "description": "Workbook by Dan Mall's studio for launching a system in three months.",
-   "access": "Paid"
-  },
-  {
-   "topic": "design-systems",
    "section": "Talks, Videos and Events",
    "name": "Design Systems London (YouTube)",
    "url": "https://www.youtube.com/channel/UCJUJKvApvdaicml8BCWd5oA/videos",
@@ -13509,14 +13437,6 @@
   {
    "topic": "ai-and-creative-tech",
    "section": "Tools",
-   "name": "Dora",
-   "url": "https://www.dora.run/",
-   "description": "No-code builder for 3D and animated websites, with AI.",
-   "access": "Freemium"
-  },
-  {
-   "topic": "ai-and-creative-tech",
-   "section": "Tools",
    "name": "Genery",
    "url": "https://genery.io/",
    "description": "Moodboards and cinematic references for creators.",
@@ -13596,14 +13516,6 @@
   },
   {
    "topic": "ai-and-creative-tech",
-   "section": "Artists and Experiments",
-   "name": "Norman (MIT Media Lab)",
-   "url": "http://norman-ai.mit.edu/",
-   "description": "MIT's 'psychopath AI' experiment on data bias.",
-   "access": "Free"
-  },
-  {
-   "topic": "ai-and-creative-tech",
    "section": "Learning",
    "name": "Claude Certified Architect – Foundations (Anthropic Academy)",
    "url": "https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification",
@@ -13632,14 +13544,6 @@
    "name": "What Do We Do About the Biases in AI? (HBR)",
    "url": "https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai",
    "description": "Harvard Business Review on AI bias.",
-   "access": "Free"
-  },
-  {
-   "topic": "ai-and-creative-tech",
-   "section": "Learning",
-   "name": "Creativity with AI",
-   "url": "https://creativitywith.ai/",
-   "description": "Guide to AI tools and techniques for creatives.",
    "access": "Free"
   },
   {

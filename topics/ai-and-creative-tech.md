@@ -2,7 +2,7 @@
 title: AI and Creative Technology
 aliases: [AI, ИИ, 3D, креативный код]
 tags: [ai, 3d, creative-coding]
-entries: 50
+entries: 47
 ---
 
 # AI and Creative Technology
@@ -38,7 +38,6 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [Kling AI](https://klingai.com/) - AI video generation. *Freemium.*
 - [Higgsfield](https://higgsfield.ai/) - AI video and image studio with camera presets. *Freemium.*
 - [Muzli MCP](https://muz.li/blog/muzli-mcp-design-with-ai/) - Connects Claude to Muzli's curated collections for moodboards, palettes and section design from references. *Free with account.*
-- [Dora](https://www.dora.run/) - No-code builder for 3D and animated websites, with AI. *Freemium.*
 - [Genery](https://genery.io/) - Moodboards and cinematic references for creators. *Freemium.*
 
 ## Artists and Experiments
@@ -52,7 +51,6 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [Deep Dream Generator](https://deepdreamgenerator.com/) - Early neural art tool, still running. *Freemium.*
 - [NVIDIA AI Playground](https://www.nvidia.com/en-us/research/ai-playground/) - NVIDIA Research demos of generative AI. *Free.*
 - [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - Google Magenta demo that completes your doodles. *Free.*
-- [Norman (MIT Media Lab)](http://norman-ai.mit.edu/) - MIT's 'psychopath AI' experiment on data bias. *Free.*
 
 ## Learning
 
@@ -60,7 +58,6 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [AI tools for UX designers (Figma)](https://www.figma.com/resource-library/ai-tools-for-ux-designers/) - Overview of AI tools in the UX process. *Free.*
 - [AARON](https://en.wikipedia.org/wiki/AARON) - Harold Cohen's painting program, a founding work of computer art. *Free.*
 - [What Do We Do About the Biases in AI? (HBR)](https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai) - Harvard Business Review on AI bias. *Free.*
-- [Creativity with AI](https://creativitywith.ai/) - Guide to AI tools and techniques for creatives. *Free.*
 
 ## AI for Visuals: Image, Video and 3D
 
