@@ -2,7 +2,7 @@
 title: Branding and Identity
 aliases: [брендинг, айдентика, фирменный стиль, brand identity, logo, логотип, брендинговые агентства]
 tags: [branding, identity]
-entries: 47
+entries: 48
 ---
 
 # Branding and Identity
@@ -79,6 +79,7 @@ Related: [Typography and Type Foundries](typography.md) · [Graphic Design Histo
 - [Mindsparkle Mag](https://mindsparklemag.com/) - Daily branding, web and packaging projects. *Free.*
 - [Identity Designed](https://identitydesigned.com/) - Long-form identity case studies by David Airey. *Free.*
 - [Brand New (UnderConsideration)](https://www.underconsideration.com/brandnew/) - Opinions on corporate and brand identity work since 2006. *Free + paid.*
+- [Logo Histories (Richard Baird)](https://www.logohistories.com/) - 200+ stories behind iconic logos and identities. Found via Sidebar. *Free + paid.*
 
 ## Guidelines and Archives
 

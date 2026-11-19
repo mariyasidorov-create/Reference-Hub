@@ -6,7 +6,7 @@ Every resource in the hub by name, grouped by topic. Authors are in brackets whe
 
 ### [Branding and Identity](topics/branding.md)
 
-Base Design · BP&O (Richard Baird) · Brand New (UnderConsideration) · Branding Style Guides · Carré Noir · Chermayeff & Geismar & Haviv · COLLINS · Dalton Maag · Design Bridge and Partners · Designing Brand Identity, 6th ed. (Alina Wheeler, Rob Meyerson) · DixonBaxi · Dragon Rouge · Edenspiekermann · Experimental Jetset · How to (Michael Bierut) · Identity Designed · Interbrand · Johnson Banks · Jones Knowles Ritchie (JKR) · Koto · Landor · LAVA · Lippincott · Logo Archive · Lonsdale · Made Thought · MCKL (Jeremy Mickel) · MetaDesign · Mindsparkle Mag · Mother Design · Moving Brands · NaN · Oleg Turbaba · Order · Pearlfisher · Pentagram · Saffron Brand Consultants · Sagmeister · Siegel+Gale · SomeOne · Standards Manual · Studio Dumbar/DEPT · Swiss Typefaces · The Brand Gap (Marty Neumeier) · The Brand Identity · Thonik · Wolff Olins
+Base Design · BP&O (Richard Baird) · Brand New (UnderConsideration) · Branding Style Guides · Carré Noir · Chermayeff & Geismar & Haviv · COLLINS · Dalton Maag · Design Bridge and Partners · Designing Brand Identity, 6th ed. (Alina Wheeler, Rob Meyerson) · DixonBaxi · Dragon Rouge · Edenspiekermann · Experimental Jetset · How to (Michael Bierut) · Identity Designed · Interbrand · Johnson Banks · Jones Knowles Ritchie (JKR) · Koto · Landor · LAVA · Lippincott · Logo Archive · Logo Histories (Richard Baird) · Lonsdale · Made Thought · MCKL (Jeremy Mickel) · MetaDesign · Mindsparkle Mag · Mother Design · Moving Brands · NaN · Oleg Turbaba · Order · Pearlfisher · Pentagram · Saffron Brand Consultants · Sagmeister · Siegel+Gale · SomeOne · Standards Manual · Studio Dumbar/DEPT · Swiss Typefaces · The Brand Gap (Marty Neumeier) · The Brand Identity · Thonik · Wolff Olins
 
 ### [UI Patterns and Real Products](topics/ui-patterns.md)
 
@@ -30,11 +30,11 @@ Color Hunt · Color theory (Figma) · Coolors · Huemint · Realtime Colors
 
 ### [Motion and Micro-interactions](topics/motion.md)
 
-3D GIF Maker · 3D Image Gallery Animation (Figma Community) · 60fps · Aceternity UI · AEUX · Anime.js · Bloop · Capptivate · Circle Loaders · CodePen · Custom animation styles in Figma Motion (video) · Dasca · Design Spells · Devouring Details · Emil Kowalski · Eyecandy · Figmation · Gradient Buttons · GSAP · How to make a 3D sphere with animation in Figma (UX-UI Heroes) · Ink overlays · Jitter · Kinetics · Learn 3D transform in Figma (video) · liquid-glass · LottieFiles · Lusion Labs · MicroKit · Motion · Moving Parts · Oddfellows x Figma · Orbiting glow (Figma shader) · Paper Animation · Rauno Freiberg: Craft · Ripplix · Spotted in Prod · Text Effects · Uiverse · What is motion design (Figma) · WigglyPaint · Zajno Motion
+3D GIF Maker · 3D Image Gallery Animation (Figma Community) · 60fps · Aceternity UI · AEUX · Anime.js · Bloop · Capptivate · Circle Loaders · CodePen · Custom animation styles in Figma Motion (video) · Dasca · Design Spells · Devouring Details · Emil Kowalski · Eyecandy · Figmation · glimm · Gradient Buttons · GSAP · How to make a 3D sphere with animation in Figma (UX-UI Heroes) · Ink overlays · Jitter · Kinetics · Learn 3D transform in Figma (video) · liquid-glass · LottieFiles · Lusion Labs · MicroKit · Motion · Moving Parts · Oddfellows x Figma · Orbiting glow (Figma shader) · Paper Animation · Rauno Freiberg: Craft · Ripplix · Spotted in Prod · Text Effects · Uiverse · What is motion design (Figma) · WigglyPaint · Zajno Motion
 
 ### [Icons, Illustrations and Graphics](topics/icons-and-graphics.md)
 
-3dicons · Cutting Mat Generator · Emoji to PNG · Flaticon · Holosticker · Iconbuddy · Iconly · Iconoteka · Iconoteka Figma plugin · Iconoteka on GitHub · Inkword · Kitbitz · Koboyo · LogoLounge · Lucide · Material Symbols · mmeshy · Noun Project · Phosphor Icons · PNGimg · Reicon · Sombra · Symbl
+3dicons · Cutting Mat Generator · Emoji to PNG · Flaticon · Holosticker · Iconbuddy · Iconden · Iconly · Iconoteka · Iconoteka Figma plugin · Iconoteka on GitHub · Inkword · Kitbitz · Koboyo · LogoLounge · Lucide · Material Symbols · mmeshy · Noun Project · Phosphor Icons · PNGimg · Reicon · Sombra · Symbl
 
 ## Code and Tools
 
@@ -44,7 +44,7 @@ Admin Extensions UI Kit (Shopify) · ADS Components (Atlassian) · ADS Foundatio
 
 ### [Component Libraries](topics/component-libraries.md)
 
-21st.dev · AICSS · amicro · Animate UI · Animmaster Lib · Apex UI · Arc UI · Astryx · awesome-shadcn-ui · awesome-swiftui-libraries · Barba.js · Beautiful UI · Bencho · beUI · beUI Pro · BYQ Supply · Canvas UI · Component Gallery · Componentry · Coss UI · Cue · Cult UI · daisyUI · Design Hub · DESIGN.md · Designeer · dithercn · Fancy Components · FeralUI · Framer Marketplace — Components · Guglielmo Giannattasio · HorizonX · Intent UI · Joly UI · Kokonut UI · Lenis · Libraries.dev · Loading.dev · Magic UI · Mahero · mapcn · mewo · Motion Primitives · Motion Sections · MotionSites · Nexus UI · Once UI · Originkit · Osmo Supply · Ovio · Particles (Casberry) · Pin UI · Pixlpin · Product Disrupt · React Bits · ReactVibe · Shadcnblocks · Skiper UI · Smooth UI · Sora UI · SwiftUI Catalog · SwiftUI-Kit · Thinking Orbs · Three UI · Transitions.dev · UIAble · Unlumen UI · Vanta Supply · Watermelon UI · With Animation
+21st.dev · AICSS · amicro · Animate UI · Animmaster Lib · Apex UI · Arc UI · Astryx · awesome-shadcn-ui · awesome-swiftui-libraries · Barba.js · Beautiful UI · Bencho · beUI · beUI Pro · Blossom Carousel · BYQ Supply · Canvas UI · Component Gallery · Componentry · Coss UI · Cue · Cult UI · daisyUI · Design Hub · DESIGN.md · Designeer · dithercn · Fancy Components · FeralUI · Framer Marketplace — Components · Guglielmo Giannattasio · HorizonX · Intent UI · Joly UI · Kokonut UI · Lenis · Libraries.dev · Loading.dev · Magic UI · Mahero · mapcn · mewo · Motion Primitives · Motion Sections · MotionSites · Nexus UI · Once UI · Originkit · Osmo Supply · Ovio · Particles (Casberry) · Pin UI · Pixlpin · Product Disrupt · React Bits · ReactVibe · Shadcnblocks · Skiper UI · Smooth UI · Sora UI · SwiftUI Catalog · SwiftUI-Kit · Thinking Orbs · Three UI · Transitions.dev · UIAble · Unlumen UI · Vanta Supply · Watermelon UI · With Animation
 
 ### [Design to Code](topics/design-to-code.md)
 
@@ -154,7 +154,7 @@ Cameron's World · Computer History Museum · GeoCities Research Institute · GU
 
 ### [Photo and Image Archives](topics/photo-archives.md)
 
-American Numismatic Society · Arkivism · Art Institute of Chicago · Artgrid · Biodiversity Heritage Library · British Library on Flickr · Burst · Calisphere · Cleveland Museum of Art · CoinArchives · David Rumsey Map Collection · Deutsche Digitale Bibliothek · Digital Commonwealth · Digital Public Library of America · Dupe · ESA Images · Europeana · Flickr Commons · Gallica (BnF) · Getty Open Content · Gratisography · Historypin · International Poster Gallery · Internet Archive · Internet Archive Book Images · Kaboompics · LACMA · Letterform Archive Online · Library of Congress — Free to Use · Life of Pix · MDZ · Mixkit · Museum für Gestaltung Zürich, eMuseum · Nappy · NASA Image Library · Nationaal Archief · National Gallery of Art · New Old Stock · Numista · NYPL Digital Collections · Old Book Illustrations · Old Maps Online · OldNYC · Openverse · Paris Musées · Pexels · Pixabay · Plant Illustrations · Poster House · Public Domain Image Archive · Rawpixel Public Domain · Reshot · Rijksmuseum · Smithsonian Libraries Image Gallery · Smithsonian Open Access · SMK Open · StockSnap · The Met · The Public Domain Review · ukiyo-e.org · Unsplash · US National Archives · V&A Collections · Vintage Everyday · Wellcome Collection · WikiArt · Wikimedia Commons
+American Numismatic Society · Arkivism · Art Institute of Chicago · Artgrid · Below the Surface (Amsterdam) · Biodiversity Heritage Library · British Library on Flickr · Burst · Calisphere · Cleveland Museum of Art · CoinArchives · David Rumsey Map Collection · Deutsche Digitale Bibliothek · Digital Commonwealth · Digital Public Library of America · Dupe · ESA Images · Europeana · Flickr Commons · Gallica (BnF) · Getty Open Content · Gratisography · Historypin · International Poster Gallery · Internet Archive · Internet Archive Book Images · Kaboompics · LACMA · Letterform Archive Online · Library of Congress — Free to Use · Life of Pix · MDZ · Mixkit · Museum für Gestaltung Zürich, eMuseum · Nappy · NASA Image Library · Nationaal Archief · National Gallery of Art · New Old Stock · Numista · NYPL Digital Collections · Old Book Illustrations · Old Maps Online · OldNYC · Openverse · Paris Musées · Pexels · Pixabay · Plant Illustrations · Poster House · Public Domain Image Archive · Rawpixel Public Domain · Reshot · Rijksmuseum · Smithsonian Libraries Image Gallery · Smithsonian Open Access · SMK Open · StockSnap · The Met · The Public Domain Review · ukiyo-e.org · Unsplash · US National Archives · V&A Collections · Vintage Everyday · Wellcome Collection · WikiArt · Wikimedia Commons
 
 ## Places and Institutions
 
@@ -190,7 +190,7 @@ Academy Museum of Motion Pictures · BFI · Cinemateca Portuguesa · Film-Grab �
 
 ### [Magazines and Newspapers](topics/magazines.md)
 
-AIGA Eye on Design · Apartamento · Brand New (UnderConsideration) · Communication Arts · Creative Review · Dezeen · Domus · IDEA (アイデア) · It's Nice That · Kinfolk · magCulture · Monocle · PRINT · Slanted · The Guardian: Art and Design · Wallpaper*
+AIGA Eye on Design · Apartamento · Brand New (UnderConsideration) · Communication Arts · Creative Review · Dezeen · Domus · IDEA (アイデア) · It's Nice That · Kinfolk · magCulture · Monocle · PRINT · Sidebar · Slanted · The Guardian: Art and Design · Wallpaper*
 
 ### [Publishers](topics/publishers.md)
 

@@ -2,7 +2,7 @@
 title: Motion and Micro-interactions
 aliases: [моушн, анимация, animation]
 tags: [motion, micro-interactions]
-entries: 41
+entries: 42
 ---
 
 # Motion and Micro-interactions
@@ -53,6 +53,7 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [3D GIF Maker](https://3dgifmaker.com) - 3D GIF from a flat image. *Free.*
 - [Dasca](https://app.dasca.studio) - Real-time image effects. *Free.*
 - [WigglyPaint](https://wigglypaint.com) - Animated wiggly doodles. *Free.*
+- [glimm](https://glimm.dev/) - Shader-driven page transitions for React and Next.js, about 11 KB. Found via Sidebar. *Free.*
 
 ## More Motion
 

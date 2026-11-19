@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1516,
+ "count": 1522,
  "references": [
   {
    "topic": "ui-patterns",
@@ -1124,6 +1124,14 @@
   },
   {
    "topic": "motion",
+   "section": "Motion Tools",
+   "name": "glimm",
+   "url": "https://glimm.dev/",
+   "description": "Shader-driven page transitions for React and Next.js, about 11 KB. Found via Sidebar.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
    "section": "More Motion",
    "name": "Moving Parts",
    "url": "https://movingparts.supply/library/",
@@ -1875,6 +1883,14 @@
    "access": "Free"
   },
   {
+   "topic": "component-libraries",
+   "section": "Web Toolkits",
+   "name": "Blossom Carousel",
+   "url": "https://blossom-carousel.com/",
+   "description": "Carousel that adds dragging on top of native scrolling. Found via Sidebar.",
+   "access": "Free"
+  },
+  {
    "topic": "photo-archives",
    "section": "Stock Photos",
    "name": "Unsplash",
@@ -2385,6 +2401,14 @@
    "url": "https://www.vintag.es",
    "description": "Vintage photo collections by theme.",
    "access": "View only"
+  },
+  {
+   "topic": "photo-archives",
+   "section": "Specialist Archives",
+   "name": "Below the Surface (Amsterdam)",
+   "url": "https://belowthesurface.amsterdam/en/vondsten",
+   "description": "700,000 archaeological finds from Amsterdam's metro dig, photographed object by object.",
+   "access": "Free"
   },
   {
    "topic": "photo-archives",
@@ -3456,6 +3480,14 @@
    "name": "Iconoteka Figma plugin",
    "url": "https://www.figma.com/community/plugin/1675995752572535073/iconoteka",
    "description": "The full Iconoteka library inside Figma, with restyle mode.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons",
+   "name": "Iconden",
+   "url": "https://iconden.com/",
+   "description": "Community gallery of iPhone app icons, with redesign history. Found via Sidebar.",
    "access": "Free"
   },
   {
@@ -8124,6 +8156,14 @@
   },
   {
    "topic": "magazines",
+   "section": "Design Magazines",
+   "name": "Sidebar",
+   "url": "https://sidebar.io/",
+   "description": "Five hand-picked design links a day since 2012, by Sacha Greif.",
+   "access": "Free"
+  },
+  {
+   "topic": "magazines",
    "section": "Architecture and Interiors",
    "name": "Dezeen",
    "url": "https://www.dezeen.com/",
@@ -12040,6 +12080,14 @@
    "name": "Brand New (UnderConsideration)",
    "url": "https://www.underconsideration.com/brandnew/",
    "description": "Opinions on corporate and brand identity work since 2006.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "branding",
+   "section": "Case Studies and Press",
+   "name": "Logo Histories (Richard Baird)",
+   "url": "https://www.logohistories.com/",
+   "description": "200+ stories behind iconic logos and identities. Found via Sidebar.",
    "access": "Free + paid"
   },
   {

@@ -2,7 +2,7 @@
 title: Component Libraries
 aliases: [библиотеки компонентов, UI-киты]
 tags: [code, components, react, swiftui]
-entries: 70
+entries: 71
 ---
 
 # Component Libraries
@@ -109,3 +109,4 @@ Related: [Motion and Micro-interactions](motion.md) · [UI Patterns and Real Pro
 - [BYQ Supply](https://www.byq.supply/) - Copy-paste sections and design system for Webflow, Figma, Framer and AI agents. *Paid.*
 - [Lenis](https://lenis.darkroom.engineering/) - Smooth scroll library used by award-winning sites. *Free.*
 - [Barba.js](https://barba.js.org/) - Page transitions library. *Free.*
+- [Blossom Carousel](https://blossom-carousel.com/) - Carousel that adds dragging on top of native scrolling. Found via Sidebar. *Free.*

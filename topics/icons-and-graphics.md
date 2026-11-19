@@ -2,7 +2,7 @@
 title: Icons, Illustrations and Graphics
 aliases: [иконки, иллюстрации, icons]
 tags: [icons, illustration]
-entries: 23
+entries: 24
 ---
 
 # Icons, Illustrations and Graphics
@@ -46,6 +46,7 @@ Related: [Images and Moodboards](images-and-moodboards.md) · [Tools](tools.md)
 - [Iconoteka](https://iconoteka.com/) - Icon library in several styles. *Freemium.*
 - [Iconoteka on GitHub](https://github.com/iconoteka/iconoteka) - 1,400 MIT icons in 7 weights, with MCP server and dev packages, by Oleg Turbaba. *Free.*
 - [Iconoteka Figma plugin](https://www.figma.com/community/plugin/1675995752572535073/iconoteka) - The full Iconoteka library inside Figma, with restyle mode. *Free.*
+- [Iconden](https://iconden.com/) - Community gallery of iPhone app icons, with redesign history. Found via Sidebar. *Free.*
 
 ## Logos
 

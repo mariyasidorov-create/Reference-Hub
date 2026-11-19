@@ -2,7 +2,7 @@
 title: Magazines and Newspapers
 aliases: [журналы, газеты]
 tags: [magazines, press]
-entries: 16
+entries: 17
 ---
 
 # Magazines and Newspapers
@@ -30,6 +30,7 @@ Related: [Publishers](publishers.md) · [Design Awards](awards.md) · [Graphic D
 - [Brand New (UnderConsideration)](https://www.underconsideration.com/brandnew/) - Daily reviews of new logos and identities. *Mixed: free site, paid entry.*
 - [Slanted](https://www.slanted.de/) - German typography and graphic design magazine and blog. *Mixed: free site, paid entry.*
 - [IDEA (アイデア)](http://www.idea-mag.com/en/) - Japanese graphic design and typography magazine since 1953. *Paid.*
+- [Sidebar](https://sidebar.io/) - Five hand-picked design links a day since 2012, by Sacha Greif. *Free.*
 
 ## Architecture and Interiors
 

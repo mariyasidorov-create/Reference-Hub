@@ -2,7 +2,7 @@
 title: Photo and Image Archives
 aliases: [фотоархивы, стоки, stock]
 tags: [photography, archives, public-domain, museums]
-entries: 67
+entries: 68
 ---
 
 # Photo and Image Archives
@@ -101,6 +101,7 @@ Related: [Graphic Design History](graphic-design-history.md) · [Portugal](portu
 - [OldNYC](https://www.oldnyc.org) - Historical photos of New York on a map. *From NYPL.*
 - [Historypin](https://www.historypin.org) - Historical photos pinned to places. *Mixed licences.*
 - [Vintage Everyday](https://www.vintag.es) - Vintage photo collections by theme. *View only.*
+- [Below the Surface (Amsterdam)](https://belowthesurface.amsterdam/en/vondsten) - 700,000 archaeological finds from Amsterdam's metro dig, photographed object by object. *Free.*
 
 ## Stock Video
 
