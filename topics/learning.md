@@ -2,7 +2,7 @@
 title: Learning
 aliases: [обучение, книги, books]
 tags: [learning, books, youtube]
-entries: 35
+entries: 36
 ---
 
 # Learning
@@ -28,6 +28,7 @@ Related: [Graphic Design History](graphic-design-history.md) · [UX Curators and
 
 - [Школа дизайна Алексея Ромашина (Alexey Romashin Design School)](https://www.youtube.com/@Romashin) - Short lectures on grids, design logic, logos, pricing and the history of graphic design. In Russian. *Free.*
 - [ARCHITIME.RU](https://www.youtube.com/@ArchitimeRu) - Long lectures on design history, Soviet avant-garde, architecture and urbanism. In Russian. *Free.*
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - Visual explanations of maths, including neural networks. *Free.*
 
 ## Books on the Shelf
 

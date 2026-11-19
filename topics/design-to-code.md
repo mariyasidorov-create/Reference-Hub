@@ -2,7 +2,7 @@
 title: Design to Code
 aliases: [дизайн в код, Figma MCP, вайбкодинг]
 tags: [figma, code, ai, mcp]
-entries: 50
+entries: 51
 ---
 
 # Design to Code
@@ -54,6 +54,7 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [Lazyweb MCP](https://www.lazyweb.com/mcp-install) - MCP server with UI references for coding agents. *Freemium.*
 - [Unicorn Studio](https://www.unicorn.studio/) - No-code WebGL effects exportable to the web. *Freemium.*
 - [Memorisely AI Coding Bootcamp](https://www.memorisely.com/online-ai-design-bootcamps/ai-coding-bootcamp) - Course on AI coding for designers. *Paid.*
+- [CodeSandbox](https://codesandbox.io/) - Online editor for coding and sharing front-end prototypes. *Freemium.*
 
 ## Vibe Coding and App Builders
 

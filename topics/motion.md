@@ -2,7 +2,7 @@
 title: Motion and Micro-interactions
 aliases: [моушн, анимация, animation]
 tags: [motion, micro-interactions]
-entries: 46
+entries: 51
 ---
 
 # Motion and Micro-interactions
@@ -58,6 +58,10 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [MediaPipe Hand Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) - Google's hand tracking in the browser: the base for gesture-controlled interfaces. *Free.*
 - [Vanta.js](https://www.vantajs.com/) - Open-source animated 3D backgrounds for hero sections (waves, fog, birds, net), built on Three.js. *Free, open source.*
 - [Annnimate](https://annnimate.com/) - Library of GSAP animation components (section transitions, text reveals, sliders) in React, Vue and HTML, with an MCP server. Free starter pack; full library paid. *Freemium.*
+- [AEUX](https://aeux.io/) - Transfer Figma or Sketch layers to After Effects. *Free.*
+- [Battle Axe](https://www.battleaxe.co/) - After Effects tools and scripts for motion designers. *Freemium.*
+- [Animation Composer (Mister Horse)](https://misterhorse.com/animation-composer) - After Effects plugin with drag-and-drop presets. *Freemium.*
+- [Motion 4 (Mt. Mograph)](https://mtmograph.com/en-pt/products/motion-4) - After Effects extension for faster animation. *Paid.*
 
 ## More Motion
 
@@ -65,6 +69,7 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [AEUX](https://github.com/google/aeux) - Open-source plugin to move Figma layers into After Effects. *Free.*
 - [Lusion Labs](https://labs.lusion.co/) - WebGL experiments by Lusion. *Free.*
 - [What is motion design (Figma)](https://www.figma.com/resource-library/what-is-motion-design/) - Motion design basics. *Free.*
+- [The Ultimate Guide to Proper Use of Animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9) - Taras Skytskyi's classic guide to UI animation. *Free.*
 
 ## Design Engineers
 

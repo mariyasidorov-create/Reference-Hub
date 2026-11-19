@@ -2,7 +2,7 @@
 title: Accessibility and Inclusive Design
 aliases: [доступность, инклюзивность, a11y, WCAG]
 tags: [accessibility, inclusive-design, wcag]
-entries: 10
+entries: 13
 ---
 
 # Accessibility and Inclusive Design
@@ -26,6 +26,8 @@ Related: [Forms](forms.md) · [Design Systems](design-systems.md) · [Mobile Des
 - [Accessibility Not-Checklist (Intopia)](https://not-checklist.intopia.digital/) - WCAG by role and task, not as a checklist. *Free.*
 - [APCA contrast (Myndex)](https://apcacontrast.com/) - Contrast calculator for the APCA method. *Free.*
 - [IxDF: Accessibility](https://ixdf.org/literature/topics/accessibility) - Articles on accessible design. *Free.*
+- [APCA (Myndex)](http://www.myndex.com/APCA/) - Original APCA contrast calculator by its author. *Free.*
+- [Практики доступности интерфейсов — МТС [MTS interface accessibility practices]](https://a11y.mts.ru/) - Russian telecom's public accessibility guide. *Free.*
 
 ## Figma Plugins
 
@@ -37,3 +39,4 @@ Related: [Forms](forms.md) · [Design Systems](design-systems.md) · [Mobile Des
 ## Data
 
 - [StatCounter: Mobile Screen Resolutions](https://gs.statcounter.com/screen-resolution-stats/mobile-tablet/worldwide) - Which screen sizes people really use. *Free.*
+- [Исследование настроек доступности — Яндекс [Yandex accessibility settings research]](https://inclusion.yandex.ru/settingsresearch/) - Research on how people use accessibility settings. *Free.*

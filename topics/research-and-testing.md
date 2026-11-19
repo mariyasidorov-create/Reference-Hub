@@ -2,7 +2,7 @@
 title: Research and Testing Tools
 aliases: [тестирование, исследования]
 tags: [research, testing]
-entries: 14
+entries: 16
 ---
 
 # Research and Testing Tools
@@ -31,11 +31,13 @@ Related: [UX Research and Guidelines](ux-research.md) · [Metrics and Growth](me
 - [Dovetail](https://dovetail.com/) - Repository and analysis of research data. *Freemium.*
 - [TheyDo](https://www.theydo.com/) - Journey management platform. *Freemium.*
 - [Indeemo](https://indeemo.com/) - Mobile diary studies and generative research. *Paid.*
+- [Hello Ping Pong](https://www.hellopingpong.com/) - Platform for recruiting and running user interviews and tests. *Paid.*
 
 ## Secondary Research
 
 - [Baymard Institute: Research](https://baymard.com/research) - Large-scale e-commerce UX research and guidelines. *Paid.*
 - [Coglode](https://www.coglode.com/) - Behavioural science insights as cards. *Freemium.*
+- [Prioritizing User Needs: Vanguard Mobile App (NN/g)](https://www.nngroup.com/articles/vanguard-mobile-app/) - NN/g case study on prioritising needs in a finance app. *Free.*
 
 ## Methods
 

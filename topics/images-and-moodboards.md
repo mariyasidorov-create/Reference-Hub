@@ -2,7 +2,7 @@
 title: Images and Moodboards
 aliases: [мудборды, картинки]
 tags: [images, moodboards, branding]
-entries: 13
+entries: 14
 ---
 
 # Images and Moodboards
@@ -32,3 +32,4 @@ Related: [Photo and Image Archives](photo-archives.md) · [Icons, Illustrations 
 - [Coolshapes](https://coolshap.es) - Free abstract shapes. *Free.*
 - [Grainient](https://grainient.supply) - Gradients, animated gradients and backgrounds. *Freemium.*
 - [Backgrounds Supply](https://backgrounds.supply) - Backgrounds for projects. *Freemium.*
+- [Geometric Shots](https://geometricshots.tumblr.com/) - Archive of geometric photography for visual reference. *Free.*

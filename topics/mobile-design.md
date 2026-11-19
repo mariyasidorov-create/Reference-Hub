@@ -2,7 +2,7 @@
 title: Mobile Design
 aliases: [мобильный дизайн, iOS, Android]
 tags: [mobile, ios, android]
-entries: 9
+entries: 12
 ---
 
 # Mobile Design
@@ -32,3 +32,6 @@ Related: [UI Patterns and Real Products](ui-patterns.md) · [Accessibility and I
 - [SCRNSHTS](https://scrnshts.club/) - App Store screenshot designs. *Free.*
 - [UI Sources](https://www.uisources.com/interactions) - Interactions recorded from real apps. *Freemium.*
 - [Webframe](https://webframe.xyz/) - Web app screenshots by flow. *Freemium.*
+- [Flowstep](https://flowstep.design/) - Gallery of real app flows, browsable by task. *Free.*
+- [App Fuel](https://www.theappfuel.com/) - Library of mobile app flows and screens. *Freemium.*
+- [Screenshot Inspiration](https://screenshotcreator.com/inspire) - Curated App Store screenshot designs. *Free.*

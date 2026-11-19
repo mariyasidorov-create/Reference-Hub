@@ -2,7 +2,7 @@
 title: Forms
 aliases: [формы, поля ввода]
 tags: [forms, ui]
-entries: 11
+entries: 12
 ---
 
 # Forms
@@ -25,6 +25,7 @@ Related: [Tables and Dashboards](tables-and-dashboards.md) · [Accessibility and
 - [Form Design Best Practices (Andrew Coyle)](https://coyleandrew.medium.com/form-design-best-practices-9525c321d759) - The classic list of form design rules. *Free.*
 - [GOV.UK: Question pages](https://design-system.service.gov.uk/patterns/question-pages/) - One thing per page and other proven form patterns. *Free.*
 - [Typeform](https://www.typeform.com/) - Conversational forms and surveys. *Freemium.*
+- [Form Design Best Practices (NextUX)](https://medium.com/nextux/form-design-best-practices-9525c321d759) - Checklist of form design rules. *Free.*
 
 ## Books
 

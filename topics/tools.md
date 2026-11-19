@@ -2,7 +2,7 @@
 title: Tools
 aliases: [инструменты]
 tags: [tools, mockups, branding]
-entries: 42
+entries: 45
 ---
 
 # Tools
@@ -32,6 +32,7 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 - [EZ Screenshots](https://ezscreenshots.com) - Screenshots for the App Store and Google Play. *Freemium.*
 - [TextLab](https://textlab.javii.tools) - Chat conversation mockups. *Free.*
 - [Muzli](https://muz.li/) - Curated design inspiration, weekly roundups of sites, tools and trends; also on the web, not only as an extension. *Free.*
+- [UpLabs](https://www.uplabs.com/) - Marketplace of UI kits, icons and templates. *Freemium.*
 
 ## Branding, Photo, AI and Video
 
@@ -64,6 +65,8 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 - [Screen Studio](https://screen.studio/) - Screen recordings with automatic zoom for product demos. *Paid.*
 - [Scribe](https://scribehow.com/) - Records a process and turns it into a step-by-step guide. *Free + paid.*
 - [Design Resources (designresourc.es)](https://designresourc.es/) - Design tools sorted by category. *Free.*
+- [RatioBuddy](https://ratiobuddy.com/) - Aspect-ratio calculator for images and layouts. *Free.*
+- [Appstacks](https://appstacks.club/) - Stories and tool stacks behind well-known apps. *Free.*
 
 ## Browser Extensions
 

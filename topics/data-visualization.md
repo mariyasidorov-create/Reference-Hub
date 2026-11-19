@@ -2,7 +2,7 @@
 title: Data Visualization
 aliases: [визуализация данных, графики, dataviz]
 tags: [dataviz, charts]
-entries: 6
+entries: 8
 ---
 
 # Data Visualization
@@ -23,6 +23,8 @@ Related: [Tables and Dashboards](tables-and-dashboards.md) · [Graphic Design Hi
 - [Dataviz Inspiration](https://www.dataviz-inspiration.com/) - Hundreds of chart examples by type. *Free.*
 - [Edward Tufte](https://www.edwardtufte.com/) - The work and books of Edward Tufte, Graphics Press. *Paid.*
 - [Analyzing Minard's Visualization of Napoleon's 1812 March](https://thoughtbot.com/blog/analyzing-minards-visualization-of-napoleons-1812-march) - Close reading of the most famous chart. *Free.*
+- [Charles Joseph Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) - Creator of the famous Napoleon's march chart. *Free.*
+- [A Brief History of Data Visualization (Michael Friendly)](https://www.datavis.ca/papers/hbook.pdf) - Academic history of statistical graphics. *Free.*
 
 ## Guides
 

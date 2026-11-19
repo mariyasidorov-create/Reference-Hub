@@ -2,7 +2,7 @@
 title: Design Systems
 aliases: [дизайн-системы, киты Figma]
 tags: [design-systems, motion, figma]
-entries: 264
+entries: 276
 ---
 
 # Design Systems
@@ -50,6 +50,9 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Ant Design](https://ant.design/) - Enterprise React design system from Ant Group. *Free.*
 - [GOV.UK Design System](https://design-system.service.gov.uk/) - Accessible public-service patterns from the UK government. *Free.*
 - [Decathlon Design System](https://www.decathlon.design/) - Decathlon's Vitamin design system. *Free.*
+- [Alfa-Bank Design Principles [Принципы / Дизайн Альфа-Банка]](https://digital.alfabank.ru/principles) - Principles of Alfa-Bank's Core design system. *Free.*
+- [Cash App Design — Color](https://design.cash.app/color) - Cash App's public color guidelines. *Free.*
+- [PrimeVue UI Kit](https://primevue.org/uikit) - Figma UI kit matching the PrimeVue component library. *Freemium.*
 
 ## Motion in Design Systems
 
@@ -97,6 +100,7 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [macOS 27 (Apple)](https://www.figma.com/community/file/1651309434229735362/macos-27) - Apple's official macOS kit. *Free Figma Community file.*
 - [App Icon Template: iOS, iPadOS and watchOS 27 (Apple)](https://www.figma.com/community/file/1645923469870515372/app-icon-template-ios-ipados-and-watchos-27) - Apple's official app icon template. *Free Figma Community file.*
 - [Apple Design Resources](https://developer.apple.com/design/resources/) - Apple's kits for Figma, Sketch and Photoshop, plus SF fonts and symbols. *Free.*
+- [Best Figma UI Kits and Design Systems (Untitled UI)](https://www.untitledui.com/blog/figma-ui-kits) - Untitled UI's roundup of Figma kits and systems. *Free.*
 
 ## Figma Resource Library
 
@@ -122,6 +126,8 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Design Systems Hub (Pixelflips)](https://dshub.pixelflips.com/) - Hub of design-system articles, tools and examples. *Free.*
 - [DS Playground (Figma Community)](https://www.figma.com/community/file/1160661639090056437) - Figma file of games and exercises for learning design-system concepts. *Free Figma Community file.*
 - [Design Systems Media](https://designsystems.media/) - Library of talks, podcasts and videos on design systems. *Free.*
+- [Design Systems Club [Каталог отечественных дизайн-систем]](http://designsystemsclub.ru/) - Catalogue of Russian-language product design systems. *Free.*
+- [Design System Awards (zeroheight)](https://zeroheight.com/events/design-system-awards/) - Annual awards showcasing strong design systems and teams. *Free.*
 
 ## Books and Guides
 
@@ -134,6 +140,7 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Animation in Design Systems (Val Head)](https://www.lapa.ninja/book/animation-in-design-system/) - Short free book on adding motion guidelines to a design system. *Free.*
 - [Design That Scales (Dan Mall)](https://rosenfeldmedia.com/books/design-that-scales/) - Rosenfeld book on creating a sustainable design-system practice. *Paid.*
 - [Building Design Systems (Vesselov and Davis)](https://link.springer.com/book/10.1007/978-1-4842-4514-9) - Apress book on unifying user experiences through a shared design language. *Paid.*
+- [Design System in 90 Days (SuperFriendly)](https://superfriendly.com/design-systems/books/design-system-90-days/) - Workbook by Dan Mall's studio for launching a system in three months. *Paid.*
 
 ## Talks, Videos and Events
 
@@ -214,6 +221,9 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Experience Systems (The Design System Guide)](https://learn.thedesignsystem.guide/p/experience-systems) - Systems that cover experiences, not just UI. *Free.*
 - [Design Systems Are Platform Problems, Not Feature Problems (Shaun Bent)](https://www.shaunbent.co.uk/blog/design-systems-are-platform-problems-not-feature-problems/) - Treating the system as a platform. *Free.*
 - [Making a System to Create a System](https://beauulrey.medium.com/making-a-system-to-create-a-system-55be9df418b4) - Meta-process for building systems. *Free.*
+- [Атомарный веб-дизайн [Atomic web design] (Habr)](https://habr.com/ru/post/249223/) - Russian translation of Brad Frost's atomic design article. *Free.*
+- [Дизайн-система как инструмент для разработчика [A design system as a developer tool] (Habr, NSPK)](https://habr.com/ru/company/nspk/blog/673898/) - Russian article on design systems from the developer side. *Free.*
+- [Сетки для адаптивного дизайна [Grids for responsive design] (Rambler Group, Habr)](https://habr.com/ru/company/rambler-co/blog/261679/) - Russian guide to responsive grids. *Free.*
 
 ## Documentation and Naming
 
@@ -226,6 +236,7 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Naming Conventions for Your Design System (zeroheight)](https://zeroheight.com/blog/naming-conventions-for-your-design-system/) - Practical naming rules. *Free.*
 - [Best Practices for Design System Naming Conventions (InVision)](https://www.invisionapp.com/inside-design/naming-conventions/) - Naming guidance. *Free.*
 - [Naming Components (Marta Conde)](https://medium.com/@MartaCondeDesign/naming-components-31c3180a50fd) - How to name components clearly. *Free.*
+- [Delicious Design System Docs (Figmayo)](https://www.figmayo.com/) - Templates and examples for design-system documentation. *Freemium.*
 
 ## Design Tokens and Variables
 
@@ -332,6 +343,7 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [A Guide for Calculating Design System Costs](https://thedesignsystem.guide/blog/a-guide-for-calculating-design-system-costs) - Cost model. *Free.*
 - [Design System Insights — Maturity Assessment (Infa)](https://infa.ai/docs/design-system-insights) - Maturity assessment tool. *Free.*
 - [Design System Maturity Model (zeroheight)](https://zeroheight.com/maturity/) - Self-assessment of system maturity. *Free.*
+- [Data-Informed Design Systems](https://honzatmn.notion.site/honzatmn/Data-informed-design-systems-265bf513fe8b4a2b8b45cb814d9a4d23) - Notes on using data to steer a design system. *Free.*
 
 ## AI Readiness and Agents
 

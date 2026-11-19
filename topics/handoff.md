@@ -2,7 +2,7 @@
 title: Developer Handoff
 aliases: [хендофф, передача в разработку, dev handoff]
 tags: [handoff, figma]
-entries: 21
+entries: 22
 ---
 
 # Developer Handoff
@@ -26,6 +26,7 @@ Related: [Design to Code](design-to-code.md) · [Design Systems](design-systems.
 - [Figma Dev Mode](https://www.figma.com/dev-mode/) - Inspect, annotate and hand off designs. *Paid.*
 - [Figma Code Connect](https://www.figma.com/developers/code-connect) - Link Figma components to code in Dev Mode. *Free.*
 - [Automated UI handoff (Figma)](https://www.figma.com/resource-library/automated-ui-handoff/) - How to automate design-to-development handoff. *Free.*
+- [Как передавать макеты в разработку [How to hand off designs to developers] (Habr)](https://habr.com/ru/articles/689434/) - Russian guide to design handoff. *Free.*
 
 ## Platform Guidelines
 

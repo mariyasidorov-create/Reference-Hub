@@ -2,7 +2,7 @@
 title: Typography and Type Foundries
 aliases: [типографика, шрифты, fonts]
 tags: [typography, fonts, cyrillic]
-entries: 38
+entries: 41
 ---
 
 # Typography and Type Foundries
@@ -26,6 +26,7 @@ Related: [Graphic Design History](graphic-design-history.md) · [Right-to-Left S
 - [Typewolf](https://www.typewolf.com/) - Typefaces used on real websites, with pairings. *Free.*
 - [Fonts In Use](https://fontsinuse.com/) - Archive of typefaces in real-world work, including many historical pieces. *Free.*
 - [Art of the Title](https://www.artofthetitle.com/) - Title sequences from film and television. *Free.*
+- [SMOR — Type Directors Club Weekly Type](https://tdc.org/weekly-type/smor/) - TDC feature on a single typeface. *Free.*
 
 ## Free Typefaces
 
@@ -73,3 +74,5 @@ Related: [Graphic Design History](graphic-design-history.md) · [Right-to-Left S
 - [Rob Roy Kelly American Wood Type Collection](https://rrk.finearts.utexas.edu/) - Digitised wood type specimens. *Free.*
 - [Typographic Posters](https://www.typographicposters.com/archive) - Archive of typographic posters. *Free.*
 - [Typography in design (Figma)](https://www.figma.com/resource-library/typography-in-design/) - Type basics for interfaces. *Free.*
+- [Matej Latin — Better Web Type](https://matejlatin.co.uk/) - Designer and author on web typography and minimalism. *Free.*
+- [Type Scale](https://type-scale.com/) - Visual calculator for modular type scales. *Free.*

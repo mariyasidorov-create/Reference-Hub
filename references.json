@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1759,
+ "count": 1848,
  "references": [
   {
    "topic": "ui-patterns",
@@ -112,6 +112,22 @@
    "name": "Azbuka UI (UI ABC)",
    "url": "https://azbuka.uiuxlove.ru/",
    "description": "Interactive guide to UI elements with live examples, code names and a test, by Kris Anfalova (in Russian).",
+   "access": "Free"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "More Patterns",
+   "name": "UI Playbook",
+   "url": "https://uiplaybook.dev/",
+   "description": "Component-by-component guide to building UI elements.",
+   "access": "Free"
+  },
+  {
+   "topic": "ui-patterns",
+   "section": "More Patterns",
+   "name": "Empty States: More Work Than You Think (Shopify UX)",
+   "url": "https://medium.com/shopify-ux/empty-states-more-like-you-have-no-idea-how-much-work-goes-into-those-states-ami",
+   "description": "Shopify on designing empty states.",
    "access": "Free"
   },
   {
@@ -483,6 +499,294 @@
    "access": "Free"
   },
   {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "UI Goodies",
+   "url": "https://uigoodies.com/inspiration",
+   "description": "Index of UI, web, SaaS and mobile inspiration sites.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Wall of Portfolios",
+   "url": "https://www.wallofportfolios.in/",
+   "description": "Gallery of designer portfolios, filterable by company.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Sneak Peek Design — Slack's Figma File",
+   "url": "https://sneakpeek.design/p/slack-figma-file",
+   "description": "Look inside how a real product team organises Figma.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "TUX",
+   "url": "https://tux.co/en/work/",
+   "description": "Paris digital agency portfolio.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "69pixels",
+   "url": "https://69pixels.com/",
+   "description": "Design studio site.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Lemma Studio — Artemii Lebedev",
+   "url": "https://artemiilebedev.com/",
+   "description": "Art director's portfolio.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Stan Vision",
+   "url": "https://www.stan.vision/",
+   "description": "UX/UI and web design agency.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Samuel Medvedowsky",
+   "url": "https://www.samuel-medvedowsky.com/",
+   "description": "Interface designer and craft specialist portfolio.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Versus",
+   "url": "https://www.vsnyc.tv/",
+   "description": "Creative and production studio.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Mo Eid",
+   "url": "https://www.mo.design/",
+   "description": "Digital designer and art director portfolio.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Duo Studio",
+   "url": "https://duo-studio.co/",
+   "description": "Creative digital agency.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Todor Dimov",
+   "url": "https://www.todordimov.com/",
+   "description": "Digital designer portfolio.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Unseen Studio",
+   "url": "https://unseen.co/",
+   "description": "Brand, digital and motion studio with a playful 3D world.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Niccolò Miranda — Paper Portfolio",
+   "url": "https://www.niccolomiranda.com/",
+   "description": "Award-winning paper-themed portfolio.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Not Another",
+   "url": "https://www.na.studio/",
+   "description": "Creative and Webflow agency.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Locomotive",
+   "url": "https://locomotive.ca/en",
+   "description": "Montreal agency known for smooth-scroll sites.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Studio Rana",
+   "url": "https://www.studio-rana.com/index.html",
+   "description": "Design studio site.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Studio 3000",
+   "url": "https://www.studio3000.de/services",
+   "description": "German design studio.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Le Fruit Studio — Artcurial",
+   "url": "https://lefruitstudio.fr/works/artcurial-monaco-2022",
+   "description": "Auction-house campaign site.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Refokus",
+   "url": "https://www.timetorefokus.com/",
+   "description": "Webflow agency.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Tobias van Schneider",
+   "url": "https://vanschneider.com/",
+   "description": "Designer and creative director.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Collage Crafting",
+   "url": "https://collagecrafting.com/en",
+   "description": "Product design boutique.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Museum of the World (British Museum and Google)",
+   "url": "https://britishmuseum.withgoogle.com/",
+   "description": "Interactive timeline of museum objects.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Organic Growth: Crystal Reef (Readymag)",
+   "url": "https://readymag.com/repponen/ogcrystals/questions/",
+   "description": "Readymag storytelling project.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "The Dreamkeeper",
+   "url": "https://thedreamkeeper.co/",
+   "description": "Immersive storytelling site.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Last Prisoner Project — The Pen to Right History",
+   "url": "https://pen.lastprisonerproject.org/",
+   "description": "Campaign site with interactive pen.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "La Gata Perduda",
+   "url": "https://lagataperduda.com/en",
+   "description": "Illustrated studio site.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Radio Null Rewind 2022",
+   "url": "https://2022.madebynull.com/",
+   "description": "Studio year-in-review site.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Sandy Shore Farms",
+   "url": "https://sandyshore.ca/",
+   "description": "Farm brand site.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Vikki B — Folio 23",
+   "url": "https://www.vikkibre.com/",
+   "description": "Designer portfolio.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Diamond Journey",
+   "url": "https://diamond-journey.com/",
+   "description": "Scroll-driven 3D story.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Lass Tattoo",
+   "url": "https://www.lasstattoo.com/",
+   "description": "Tattoo studio site.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Books of Design — Alphonse Mucha (Designstripe)",
+   "url": "https://booksofdesign.designstripe.com/artists/alphonse-mucha",
+   "description": "Interactive book on Mucha.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Ragged Edge — Papier Rebrand",
+   "url": "https://raggededge.com/partnerships/papier",
+   "description": "Branding case study.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "ustwo",
+   "url": "https://ustwo.com/",
+   "description": "Digital product studio.",
+   "access": "Free"
+  },
+  {
+   "topic": "web-galleries",
+   "section": "More Galleries",
+   "name": "Producthow — Employee Assessment Platform Redesign",
+   "url": "https://www.producthow.io/works/employee-assessment-platform-redesign",
+   "description": "Product redesign case study.",
+   "access": "Free"
+  },
+  {
    "topic": "images-and-moodboards",
    "section": "Images and Moodboards",
    "name": "Cosmos",
@@ -587,6 +891,14 @@
    "access": "Freemium"
   },
   {
+   "topic": "images-and-moodboards",
+   "section": "Images and Moodboards",
+   "name": "Geometric Shots",
+   "url": "https://geometricshots.tumblr.com/",
+   "description": "Archive of geometric photography for visual reference.",
+   "access": "Free"
+  },
+  {
    "topic": "color",
    "section": "Color Tools",
    "name": "Realtime Colors",
@@ -656,6 +968,14 @@
    "name": "Art of the Title",
    "url": "https://www.artofthetitle.com/",
    "description": "Title sequences from film and television.",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Type in Use",
+   "name": "SMOR — Type Directors Club Weekly Type",
+   "url": "https://tdc.org/weekly-type/smor/",
+   "description": "TDC feature on a single typeface.",
    "access": "Free"
   },
   {
@@ -939,6 +1259,22 @@
    "access": "Free"
   },
   {
+   "topic": "typography",
+   "section": "Tools and Learning",
+   "name": "Matej Latin — Better Web Type",
+   "url": "https://matejlatin.co.uk/",
+   "description": "Designer and author on web typography and minimalism.",
+   "access": "Free"
+  },
+  {
+   "topic": "typography",
+   "section": "Tools and Learning",
+   "name": "Type Scale",
+   "url": "https://type-scale.com/",
+   "description": "Visual calculator for modular type scales.",
+   "access": "Free"
+  },
+  {
    "topic": "motion",
    "section": "Micro-interactions and Motion References",
    "name": "Design Spells",
@@ -1196,6 +1532,38 @@
   },
   {
    "topic": "motion",
+   "section": "Motion Tools",
+   "name": "AEUX",
+   "url": "https://aeux.io/",
+   "description": "Transfer Figma or Sketch layers to After Effects.",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Battle Axe",
+   "url": "https://www.battleaxe.co/",
+   "description": "After Effects tools and scripts for motion designers.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Animation Composer (Mister Horse)",
+   "url": "https://misterhorse.com/animation-composer",
+   "description": "After Effects plugin with drag-and-drop presets.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Motion 4 (Mt. Mograph)",
+   "url": "https://mtmograph.com/en-pt/products/motion-4",
+   "description": "After Effects extension for faster animation.",
+   "access": "Paid"
+  },
+  {
+   "topic": "motion",
    "section": "More Motion",
    "name": "Moving Parts",
    "url": "https://movingparts.supply/library/",
@@ -1224,6 +1592,14 @@
    "name": "What is motion design (Figma)",
    "url": "https://www.figma.com/resource-library/what-is-motion-design/",
    "description": "Motion design basics",
+   "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "More Motion",
+   "name": "The Ultimate Guide to Proper Use of Animation in UX",
+   "url": "https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9",
+   "description": "Taras Skytskyi's classic guide to UI animation.",
    "access": "Free"
   },
   {
@@ -3636,6 +4012,22 @@
   },
   {
    "topic": "icons-and-graphics",
+   "section": "Icons",
+   "name": "Android Asset Studio",
+   "url": "https://romannurik.github.io/AndroidAssetStudio/index.html",
+   "description": "Generate Android launcher, action bar and notification icons.",
+   "access": "Free"
+  },
+  {
+   "topic": "icons-and-graphics",
+   "section": "Icons",
+   "name": "AppIcons.ai",
+   "url": "https://appicons.ai/",
+   "description": "Generate app icons with AI.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "icons-and-graphics",
    "section": "Logos",
    "name": "LogoLounge",
    "url": "https://www.logolounge.com/",
@@ -3721,6 +4113,14 @@
    "url": "https://muz.li/",
    "description": "Curated design inspiration, weekly roundups of sites, tools and trends; also on the web, not only as an extension.",
    "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "UpLabs",
+   "url": "https://www.uplabs.com/",
+   "description": "Marketplace of UI kits, icons and templates.",
+   "access": "Freemium"
   },
   {
    "topic": "tools",
@@ -3928,6 +4328,22 @@
    "name": "Design Resources (designresourc.es)",
    "url": "https://designresourc.es/",
    "description": "Design tools sorted by category.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "RatioBuddy",
+   "url": "https://ratiobuddy.com/",
+   "description": "Aspect-ratio calculator for images and layouts.",
+   "access": "Free"
+  },
+  {
+   "topic": "tools",
+   "section": "More Tools",
+   "name": "Appstacks",
+   "url": "https://appstacks.club/",
+   "description": "Stories and tool stacks behind well-known apps.",
    "access": "Free"
   },
   {
@@ -4568,6 +4984,14 @@
    "name": "ARCHITIME.RU",
    "url": "https://www.youtube.com/@ArchitimeRu",
    "description": "Long lectures on design history, Soviet avant-garde, architecture and urbanism. In Russian.",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "YouTube Channels",
+   "name": "3Blue1Brown",
+   "url": "https://www.youtube.com/c/3blue1brown",
+   "description": "Visual explanations of maths, including neural networks.",
    "access": "Free"
   },
   {
@@ -9316,6 +9740,30 @@
   },
   {
    "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Alfa-Bank Design Principles [Принципы / Дизайн Альфа-Банка]",
+   "url": "https://digital.alfabank.ru/principles",
+   "description": "Principles of Alfa-Bank's Core design system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Cash App Design — Color",
+   "url": "https://design.cash.app/color",
+   "description": "Cash App's public color guidelines.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "PrimeVue UI Kit",
+   "url": "https://primevue.org/uikit",
+   "description": "Figma UI kit matching the PrimeVue component library.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "design-systems",
    "section": "Motion in Design Systems",
    "name": "Material 3: Motion",
    "url": "https://m3.material.io/styles/motion/overview",
@@ -9620,6 +10068,14 @@
   },
   {
    "topic": "design-systems",
+   "section": "Official Figma Kits",
+   "name": "Best Figma UI Kits and Design Systems (Untitled UI)",
+   "url": "https://www.untitledui.com/blog/figma-ui-kits",
+   "description": "Untitled UI's roundup of Figma kits and systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
    "section": "Figma Resource Library",
    "name": "Design tokens (Figma)",
    "url": "https://www.figma.com/resource-library/design-tokens/",
@@ -9772,6 +10228,22 @@
   },
   {
    "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Design Systems Club [Каталог отечественных дизайн-систем]",
+   "url": "http://designsystemsclub.ru/",
+   "description": "Catalogue of Russian-language product design systems.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Directories, Hubs and Newsletters",
+   "name": "Design System Awards (zeroheight)",
+   "url": "https://zeroheight.com/events/design-system-awards/",
+   "description": "Annual awards showcasing strong design systems and teams.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
    "section": "Books and Guides",
    "name": "Atomic Design (Brad Frost)",
    "url": "https://atomicdesign.bradfrost.com/",
@@ -9840,6 +10312,14 @@
    "name": "Building Design Systems (Vesselov and Davis)",
    "url": "https://link.springer.com/book/10.1007/978-1-4842-4514-9",
    "description": "Apress book on unifying user experiences through a shared design language.",
+   "access": "Paid"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Books and Guides",
+   "name": "Design System in 90 Days (SuperFriendly)",
+   "url": "https://superfriendly.com/design-systems/books/design-system-90-days/",
+   "description": "Workbook by Dan Mall's studio for launching a system in three months.",
    "access": "Paid"
   },
   {
@@ -10412,6 +10892,30 @@
   },
   {
    "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Атомарный веб-дизайн [Atomic web design] (Habr)",
+   "url": "https://habr.com/ru/post/249223/",
+   "description": "Russian translation of Brad Frost's atomic design article.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Дизайн-система как инструмент для разработчика [A design system as a developer tool] (Habr, NSPK)",
+   "url": "https://habr.com/ru/company/nspk/blog/673898/",
+   "description": "Russian article on design systems from the developer side.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Foundations, Architecture and Multi-Brand",
+   "name": "Сетки для адаптивного дизайна [Grids for responsive design] (Rambler Group, Habr)",
+   "url": "https://habr.com/ru/company/rambler-co/blog/261679/",
+   "description": "Russian guide to responsive grids.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
    "section": "Documentation and Naming",
    "name": "The People Who Use Your Design System Documentation (zeroheight)",
    "url": "https://learninghub.zeroheight.com/hc/en-us/articles/7990045008667",
@@ -10481,6 +10985,14 @@
    "url": "https://medium.com/@MartaCondeDesign/naming-components-31c3180a50fd",
    "description": "How to name components clearly.",
    "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Documentation and Naming",
+   "name": "Delicious Design System Docs (Figmayo)",
+   "url": "https://www.figmayo.com/",
+   "description": "Templates and examples for design-system documentation.",
+   "access": "Freemium"
   },
   {
    "topic": "design-systems",
@@ -11236,6 +11748,14 @@
   },
   {
    "topic": "design-systems",
+   "section": "Metrics, ROI and Maturity",
+   "name": "Data-Informed Design Systems",
+   "url": "https://honzatmn.notion.site/honzatmn/Data-informed-design-systems-265bf513fe8b4a2b8b45cb814d9a4d23",
+   "description": "Notes on using data to steer a design system.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-systems",
    "section": "AI Readiness and Agents",
    "name": "State of AI in Design Systems",
    "url": "https://state-of-ai-in-design-systems.netlify.app/",
@@ -11497,6 +12017,14 @@
    "url": "https://www.memorisely.com/online-ai-design-bootcamps/ai-coding-bootcamp",
    "description": "Course on AI coding for designers",
    "access": "Paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Agents and Code",
+   "name": "CodeSandbox",
+   "url": "https://codesandbox.io/",
+   "description": "Online editor for coding and sharing front-end prototypes.",
+   "access": "Freemium"
   },
   {
    "topic": "design-to-code",
@@ -11788,6 +12316,14 @@
   },
   {
    "topic": "research-and-testing",
+   "section": "Testing Tools",
+   "name": "Hello Ping Pong",
+   "url": "https://www.hellopingpong.com/",
+   "description": "Platform for recruiting and running user interviews and tests.",
+   "access": "Paid"
+  },
+  {
+   "topic": "research-and-testing",
    "section": "Secondary Research",
    "name": "Baymard Institute: Research",
    "url": "https://baymard.com/research",
@@ -11801,6 +12337,14 @@
    "url": "https://www.coglode.com/",
    "description": "Behavioural science insights as cards",
    "access": "Freemium"
+  },
+  {
+   "topic": "research-and-testing",
+   "section": "Secondary Research",
+   "name": "Prioritizing User Needs: Vanguard Mobile App (NN/g)",
+   "url": "https://www.nngroup.com/articles/vanguard-mobile-app/",
+   "description": "NN/g case study on prioritising needs in a finance app.",
+   "access": "Free"
   },
   {
    "topic": "research-and-testing",
@@ -12204,6 +12748,22 @@
   },
   {
    "topic": "data-visualization",
+   "section": "Inspiration and History",
+   "name": "Charles Joseph Minard",
+   "url": "https://en.wikipedia.org/wiki/Charles_Joseph_Minard",
+   "description": "Creator of the famous Napoleon's march chart.",
+   "access": "Free"
+  },
+  {
+   "topic": "data-visualization",
+   "section": "Inspiration and History",
+   "name": "A Brief History of Data Visualization (Michael Friendly)",
+   "url": "https://www.datavis.ca/papers/hbook.pdf",
+   "description": "Academic history of statistical graphics.",
+   "access": "Free"
+  },
+  {
+   "topic": "data-visualization",
    "section": "Guides",
    "name": "Datawrapper Academy",
    "url": "https://academy.datawrapper.de/",
@@ -12281,6 +12841,14 @@
    "url": "https://www.typeform.com/",
    "description": "Conversational forms and surveys",
    "access": "Freemium"
+  },
+  {
+   "topic": "forms",
+   "section": "Form Design",
+   "name": "Form Design Best Practices (NextUX)",
+   "url": "https://medium.com/nextux/form-design-best-practices-9525c321d759",
+   "description": "Checklist of form design rules.",
+   "access": "Free"
   },
   {
    "topic": "forms",
@@ -12476,6 +13044,22 @@
   },
   {
    "topic": "accessibility",
+   "section": "Guidelines",
+   "name": "APCA (Myndex)",
+   "url": "http://www.myndex.com/APCA/",
+   "description": "Original APCA contrast calculator by its author.",
+   "access": "Free"
+  },
+  {
+   "topic": "accessibility",
+   "section": "Guidelines",
+   "name": "Практики доступности интерфейсов — МТС [MTS interface accessibility practices]",
+   "url": "https://a11y.mts.ru/",
+   "description": "Russian telecom's public accessibility guide.",
+   "access": "Free"
+  },
+  {
+   "topic": "accessibility",
    "section": "Figma Plugins",
    "name": "Stark",
    "url": "https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-tools",
@@ -12515,6 +13099,14 @@
    "access": "Free"
   },
   {
+   "topic": "accessibility",
+   "section": "Data",
+   "name": "Исследование настроек доступности — Яндекс [Yandex accessibility settings research]",
+   "url": "https://inclusion.yandex.ru/settingsresearch/",
+   "description": "Research on how people use accessibility settings.",
+   "access": "Free"
+  },
+  {
    "topic": "handoff",
    "section": "Handoff",
    "name": "Figma Dev Mode",
@@ -12536,6 +13128,14 @@
    "name": "Automated UI handoff (Figma)",
    "url": "https://www.figma.com/resource-library/automated-ui-handoff/",
    "description": "How to automate design-to-development handoff",
+   "access": "Free"
+  },
+  {
+   "topic": "handoff",
+   "section": "Handoff",
+   "name": "Как передавать макеты в разработку [How to hand off designs to developers] (Habr)",
+   "url": "https://habr.com/ru/articles/689434/",
+   "description": "Russian guide to design handoff.",
    "access": "Free"
   },
   {
@@ -12755,6 +13355,30 @@
    "access": "Freemium"
   },
   {
+   "topic": "mobile-design",
+   "section": "Galleries",
+   "name": "Flowstep",
+   "url": "https://flowstep.design/",
+   "description": "Gallery of real app flows, browsable by task.",
+   "access": "Free"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Galleries",
+   "name": "App Fuel",
+   "url": "https://www.theappfuel.com/",
+   "description": "Library of mobile app flows and screens.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "mobile-design",
+   "section": "Galleries",
+   "name": "Screenshot Inspiration",
+   "url": "https://screenshotcreator.com/inspire",
+   "description": "Curated App Store screenshot designs.",
+   "access": "Free"
+  },
+  {
    "topic": "ai-and-creative-tech",
    "section": "Tools",
    "name": "Runway",
@@ -12884,6 +13508,22 @@
   },
   {
    "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Dora",
+   "url": "https://www.dora.run/",
+   "description": "No-code builder for 3D and animated websites, with AI.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Tools",
+   "name": "Genery",
+   "url": "https://genery.io/",
+   "description": "Moodboards and cinematic references for creators.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
    "section": "Artists and Experiments",
    "name": "Refik Anadol",
    "url": "https://refikanadol.com/",
@@ -12924,6 +13564,46 @@
   },
   {
    "topic": "ai-and-creative-tech",
+   "section": "Artists and Experiments",
+   "name": "Artbreeder",
+   "url": "https://www.artbreeder.com/",
+   "description": "Collaborative image breeding and remixing.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Artists and Experiments",
+   "name": "Deep Dream Generator",
+   "url": "https://deepdreamgenerator.com/",
+   "description": "Early neural art tool, still running.",
+   "access": "Freemium"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Artists and Experiments",
+   "name": "NVIDIA AI Playground",
+   "url": "https://www.nvidia.com/en-us/research/ai-playground/",
+   "description": "NVIDIA Research demos of generative AI.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Artists and Experiments",
+   "name": "Magic Sketchpad",
+   "url": "https://magic-sketchpad.glitch.me/",
+   "description": "Google Magenta demo that completes your doodles.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Artists and Experiments",
+   "name": "Norman (MIT Media Lab)",
+   "url": "http://norman-ai.mit.edu/",
+   "description": "MIT's 'psychopath AI' experiment on data bias.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
    "section": "Learning",
    "name": "Claude Certified Architect – Foundations (Anthropic Academy)",
    "url": "https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification",
@@ -12936,6 +13616,30 @@
    "name": "AI tools for UX designers (Figma)",
    "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers/",
    "description": "Overview of AI tools in the UX process",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Learning",
+   "name": "AARON",
+   "url": "https://en.wikipedia.org/wiki/AARON",
+   "description": "Harold Cohen's painting program, a founding work of computer art.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Learning",
+   "name": "What Do We Do About the Biases in AI? (HBR)",
+   "url": "https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai",
+   "description": "Harvard Business Review on AI bias.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Learning",
+   "name": "Creativity with AI",
+   "url": "https://creativitywith.ai/",
+   "description": "Guide to AI tools and techniques for creatives.",
    "access": "Free"
   },
   {
@@ -13393,6 +14097,14 @@
    "url": "https://wwnorton.com/books/Platform-Revolution/",
    "description": "How networked markets and platforms work.",
    "access": "Book"
+  },
+  {
+   "topic": "product-management",
+   "section": "Strategy and Business Models",
+   "name": "Lean Canvas",
+   "url": "https://www.leancanvas.com/",
+   "description": "Ash Maurya's one-page business model tool.",
+   "access": "Freemium"
   },
   {
    "topic": "product-management",

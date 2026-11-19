@@ -2,7 +2,7 @@
 title: Product Management
 aliases: [product management, продакт-менеджмент, управление продуктом, юнит-экономика, unit economics, метрики, управление проектами, project management, OKR]
 tags: [product, metrics, strategy]
-entries: 42
+entries: 43
 ---
 
 # Product Management
@@ -36,6 +36,7 @@ Related: [Metrics and Growth](metrics-and-growth.md) · [Research and Testing To
 - [Running Lean (Ash Maurya)](https://leanstack.com/running-lean-book) - Lean Canvas and the iterate-from-Plan-A method. *Book.*
 - [The Startup Owner's Manual (Steve Blank, Bob Dorf)](https://steveblank.com/books-for-startups/) - Customer development: discovery, validation, creation, company building. *Book.*
 - [Platform Revolution (Parker, Van Alstyne, Choudary)](https://wwnorton.com/books/Platform-Revolution/) - How networked markets and platforms work. *Book.*
+- [Lean Canvas](https://www.leancanvas.com/) - Ash Maurya's one-page business model tool. *Freemium.*
 
 ## Product-Market Fit and MVP
 
