@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1543,
+ "count": 1544,
  "references": [
   {
    "topic": "ui-patterns",
@@ -1153,6 +1153,14 @@
    "url": "https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker",
    "description": "Google's hand tracking in the browser: the base for gesture-controlled interfaces.",
    "access": "Free"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Vanta.js",
+   "url": "https://www.vantajs.com/",
+   "description": "Open-source animated 3D backgrounds for hero sections (waves, fog, birds, net), built on Three.js.",
+   "access": "Free, open source"
   },
   {
    "topic": "motion",
