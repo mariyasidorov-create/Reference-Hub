@@ -2,7 +2,7 @@
 title: Design to Code
 aliases: [дизайн в код, Figma MCP, вайбкодинг]
 tags: [figma, code, ai, mcp]
-entries: 67
+entries: 73
 ---
 
 # Design to Code
@@ -25,8 +25,14 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 
 ## Figma Summer School: Designer to Builder
 
+- [Designer to Builder: notes and map (Reference Hub guide)](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/guides/designer-to-builder.md) - What each session, the repo and the starter file contain, with takeaways and a reading list. *Free.*
 - [Summer School: Designer to Builder series](https://fig-events.figma.com/designer-builder-series/) - Figma's 2026 series on going from design to shipped code. *Free.*
 - [Summer School starter file](https://www.figma.com/community/file/1655994171720567013) - The Figma file used throughout the series. *Free Figma Community file.*
+- [Companion repository (Riccardo Erra)](https://github.com/riccardoerrafigma/designer-to-builder) - Final code of the series: tokens.css, HTML/CSS accordion, AGENTS.md, Code Connect template and config. *Free, open on GitHub.*
+- [PROMPTS.md: every prompt and terminal command](https://github.com/riccardoerrafigma/designer-to-builder/blob/main/PROMPTS.md) - Plan, implement, compare, fix and Code Connect prompts plus the git and figma connect commands from all three sessions. *Free.*
+- [Session 1 recording: Getting ready to build from Figma](https://www.figma.com/webinars/getting-ready-to-build-from-figma/) - Git and GitHub basics, starter repo, Dev Mode and MCP, Figma variables to code tokens (65 min). *Free, short form.*
+- [Session 2 recording: Building your first component with AI](https://www.figma.com/webinars/building-your-first-component-with-ai/) - Prompt anatomy, plan mode, implementing on tokens, comparing code with the Figma node (64 min). *Free, short form.*
+- [Session 3 recording: Connecting, reviewing, and shipping your component](https://www.figma.com/webinars/connecting-reviewing-and-shipping-your-component/) - Parserless Code Connect, branches, pull request review, publishing to Dev Mode (66 min). *Free, short form.*
 - [Session 1: GitHub Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world) - Repository and branch basics, 10 minutes. *Free.*
 - [Session 1: Figma MCP server remote installation](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/) - Connect AI coding agents to Figma. *Free.*
 - [Session 1: Syncing design systems using the Variables REST API](https://www.figma.com/community/file/1270821372236564565/syncing-design-systems-using-variables-rest-api) - FigJam walkthrough from variables to code tokens. *Free Figma Community file.*

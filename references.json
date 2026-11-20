@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1857,
+ "count": 1863,
  "references": [
   {
    "topic": "ui-patterns",
@@ -11797,6 +11797,14 @@
   {
    "topic": "design-to-code",
    "section": "Figma Summer School: Designer to Builder",
+   "name": "Designer to Builder: notes and map (Reference Hub guide)",
+   "url": "https://github.com/mariyasidorov-create/Reference-Hub/blob/main/guides/designer-to-builder.md",
+   "description": "What each session, the repo and the starter file contain, with takeaways and a reading list",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
    "name": "Summer School: Designer to Builder series",
    "url": "https://fig-events.figma.com/designer-builder-series/",
    "description": "Figma's 2026 series on going from design to shipped code",
@@ -11809,6 +11817,46 @@
    "url": "https://www.figma.com/community/file/1655994171720567013",
    "description": "The Figma file used throughout the series",
    "access": "Free Figma Community file"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Companion repository (Riccardo Erra)",
+   "url": "https://github.com/riccardoerrafigma/designer-to-builder",
+   "description": "Final code of the series: tokens.css, HTML/CSS accordion, AGENTS.md, Code Connect template and config",
+   "access": "Free, open on GitHub"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "PROMPTS.md: every prompt and terminal command",
+   "url": "https://github.com/riccardoerrafigma/designer-to-builder/blob/main/PROMPTS.md",
+   "description": "Plan, implement, compare, fix and Code Connect prompts plus the git and figma connect commands from all three sessions",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Session 1 recording: Getting ready to build from Figma",
+   "url": "https://www.figma.com/webinars/getting-ready-to-build-from-figma/",
+   "description": "Git and GitHub basics, starter repo, Dev Mode and MCP, Figma variables to code tokens (65 min)",
+   "access": "Free, short form"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Session 2 recording: Building your first component with AI",
+   "url": "https://www.figma.com/webinars/building-your-first-component-with-ai/",
+   "description": "Prompt anatomy, plan mode, implementing on tokens, comparing code with the Figma node (64 min)",
+   "access": "Free, short form"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Session 3 recording: Connecting, reviewing, and shipping your component",
+   "url": "https://www.figma.com/webinars/connecting-reviewing-and-shipping-your-component/",
+   "description": "Parserless Code Connect, branches, pull request review, publishing to Dev Mode (66 min)",
+   "access": "Free, short form"
   },
   {
    "topic": "design-to-code",
