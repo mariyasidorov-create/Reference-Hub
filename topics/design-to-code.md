@@ -2,7 +2,7 @@
 title: Design to Code
 aliases: [дизайн в код, Figma MCP, вайбкодинг]
 tags: [figma, code, ai, mcp]
-entries: 63
+entries: 67
 ---
 
 # Design to Code
@@ -36,6 +36,7 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [Session 3: Code Connect CLI quickstart](https://developers.figma.com/docs/code-connect/quickstart-guide/) - Initial setup of the Code Connect CLI, 5 minutes. *Free.*
 - [Session 3: Code Connect template files](https://developers.figma.com/docs/code-connect/template-files/) - Mapping components to code with template files, 5 to 10 minutes. *Free.*
 - [Session 3: About Git](https://docs.github.com/en/get-started/using-git/about-git) - Git and command line basics, 6 minutes. *Free.*
+- [Designer to Builder webinar recordings](https://www.figma.com/webinars/designer-to-builder-series/) - Official recordings of the three sessions: environment setup, building your first component with AI, connecting and shipping it via Code Connect. *Free.*
 
 ## Figma Official
 
@@ -48,6 +49,9 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [Generative plugins and shaders playground (Figma)](https://www.figma.com/community/file/1676067142735700190/generative-plugins-and-shaders-playground) - Examples of Figma shaders and generative plugins. *Free Figma Community file.*
 - [Figma events and webinars](https://www.figma.com/events-and-webinars/) - Office hours, Summer School and live sessions. *Free.*
 - [What is MCP (Figma)](https://www.figma.com/resource-library/what-is-mcp/) - Model Context Protocol explained for designers. *Free.*
+- [Figma](https://www.figma.com/) - Official website: product, features, pricing and downloads. *Free / paid.*
+- [Figma Education](https://www.figma.com/education/) - Free Figma plans and teaching resources for students and educators. *Free.*
+- [Figma Newsroom](https://www.figma.com/newsroom/) - Official press releases, product announcements and company news. *Free.*
 
 ## Agents and Code
 

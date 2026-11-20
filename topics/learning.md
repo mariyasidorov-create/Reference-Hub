@@ -2,7 +2,7 @@
 title: Learning
 aliases: [обучение, книги, books]
 tags: [learning, books, youtube]
-entries: 36
+entries: 38
 ---
 
 # Learning
@@ -77,6 +77,8 @@ Related: [Graphic Design History](graphic-design-history.md) · [UX Curators and
 ## Communities
 
 - [Friends of Figma](https://friends.figma.com/) - Local Figma user groups and events worldwide, including Lisbon. *Free.*
+- [Friends of Figma events](https://friends.figma.com/events) - Calendar of Friends of Figma meetups, workshops and conferences worldwide, filterable by city and online. *Free.*
+- [Friends of Figma Portugal](https://fof-portugal.figma.site/) - Hub of the Portuguese Friends of Figma chapters: Lisbon, Porto, Coimbra events and the Layers conference. *Free.*
 
 ## Podcasts and Interviews
 

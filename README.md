@@ -2,7 +2,7 @@
 
 Curated references and learning material for product and graphic designers: interface patterns, galleries, type, motion, design systems, design to code, UX research and writing, product management and metrics, art and graphic design history, archives, museums, design schools and regions.
 
-The list holds 1851 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1857 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -30,7 +30,7 @@ The list holds 1851 checked links in 50 topic files. Every topic file links to r
 
 - [Design Systems](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-systems.md) - Corporate design systems, their motion guidelines, official Figma kits and tools for documenting systems (275 links).
 - [Component Libraries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/component-libraries.md) - Copy-paste component libraries for React, Tailwind, shadcn and SwiftUI (71 links).
-- [Design to Code](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-to-code.md) - Figma Summer School Designer to Builder materials, Figma's official files, MCP and agent tools (63 links).
+- [Design to Code](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-to-code.md) - Figma Summer School Designer to Builder materials, Figma's official files, MCP and agent tools (67 links).
 - [Developer Handoff](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/handoff.md) - Tools for handing designs to engineering (22 links).
 - [Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/tools.md) - Mockups, inspiration and tools for branding, photo, AI and video (45 links).
 - [AI and Creative Technology](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ai-and-creative-tech.md) - AI tools, generative art, 3D and creative coding (47 links).
@@ -84,7 +84,7 @@ The list holds 1851 checked links in 50 topic files. Every topic file links to r
 
 ## Learning
 
-- [Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/learning.md) - YouTube channels and books worth owning (36 links).
+- [Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/learning.md) - YouTube channels and books worth owning (38 links).
 - [Online Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/online-learning.md) - Courses and free online books on design, UX and art (21 links).
 - [English for Designers](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/english-for-designers.md) - Pronunciation, writing and speaking in English at work (3 links).
 - [Off Topic](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/off-topic.md) - Learning, utilities, games, radio and small delights for when you are not designing (72 links).

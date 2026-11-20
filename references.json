@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1851,
+ "count": 1857,
  "references": [
   {
    "topic": "ui-patterns",
@@ -5192,6 +5192,22 @@
    "name": "Friends of Figma",
    "url": "https://friends.figma.com/",
    "description": "Local Figma user groups and events worldwide, including Lisbon",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "Communities",
+   "name": "Friends of Figma events",
+   "url": "https://friends.figma.com/events",
+   "description": "Calendar of Friends of Figma meetups, workshops and conferences worldwide, filterable by city and online.",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "Communities",
+   "name": "Friends of Figma Portugal",
+   "url": "https://fof-portugal.figma.site/",
+   "description": "Hub of the Portuguese Friends of Figma chapters: Lisbon, Porto, Coimbra events and the Layers conference.",
    "access": "Free"
   },
   {
@@ -11868,6 +11884,14 @@
   },
   {
    "topic": "design-to-code",
+   "section": "Figma Summer School: Designer to Builder",
+   "name": "Designer to Builder webinar recordings",
+   "url": "https://www.figma.com/webinars/designer-to-builder-series/",
+   "description": "Official recordings of the three sessions: environment setup, building your first component with AI, connecting and shipping it via Code Connect.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
    "section": "Figma Official",
    "name": "Figma MCP Catalog",
    "url": "https://www.figma.com/mcp-catalog/",
@@ -11936,6 +11960,30 @@
    "name": "What is MCP (Figma)",
    "url": "https://www.figma.com/resource-library/what-is-mcp/",
    "description": "Model Context Protocol explained for designers",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "Figma",
+   "url": "https://www.figma.com/",
+   "description": "Official website: product, features, pricing and downloads.",
+   "access": "Free / paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "Figma Education",
+   "url": "https://www.figma.com/education/",
+   "description": "Free Figma plans and teaching resources for students and educators.",
+   "access": "Free"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Figma Official",
+   "name": "Figma Newsroom",
+   "url": "https://www.figma.com/newsroom/",
+   "description": "Official press releases, product announcements and company news.",
    "access": "Free"
   },
   {
