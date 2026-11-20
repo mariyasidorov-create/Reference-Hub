@@ -2,7 +2,7 @@
 title: Tools
 aliases: [инструменты]
 tags: [tools, mockups, branding]
-entries: 45
+entries: 47
 ---
 
 # Tools
@@ -33,6 +33,8 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 - [TextLab](https://textlab.javii.tools) - Chat conversation mockups. *Free.*
 - [Muzli](https://muz.li/) - Curated design inspiration, weekly roundups of sites, tools and trends; also on the web, not only as an extension. *Free.*
 - [UpLabs](https://www.uplabs.com/) - Marketplace of UI kits, icons and templates. *Freemium.*
+- [The Brand Identity Store](https://the-brandidentity.com/store) - Curated paid assets from studios and type designers: mockups, presentation decks, motion templates, tools, websites, graphics, eBooks and bundles. *Paid, from ~$19.*
+- [The Brand Identity Store: Decks and templates](https://the-brandidentity.com/store/decks) - Client onboarding, competitor analysis and strategy presentation templates for branding projects. *Paid.*
 
 ## Branding, Photo, AI and Video
 

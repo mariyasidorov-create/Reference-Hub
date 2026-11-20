@@ -2,7 +2,7 @@
 title: Branding and Identity
 aliases: [брендинг, айдентика, фирменный стиль, brand identity, logo, логотип, брендинговые агентства]
 tags: [branding, identity]
-entries: 48
+entries: 49
 ---
 
 # Branding and Identity
@@ -74,12 +74,13 @@ Related: [Typography and Type Foundries](typography.md) · [Graphic Design Histo
 
 ## Case Studies and Press
 
-- [The Brand Identity](https://the-brandidentity.com/) - Curated identity case studies and interviews. Shared by Oleg Turbaba. *Free + shop.*
+- [The Brand Identity](https://the-brandidentity.com/) - Curated identity case studies, interviews and typefaces, plus a store of curated design assets and a job board. Shared by Oleg Turbaba. *Free + shop.*
 - [BP&O (Richard Baird)](https://bpando.org/) - Branding, packaging and opinion: critical reviews of identities. *Free.*
 - [Mindsparkle Mag](https://mindsparklemag.com/) - Daily branding, web and packaging projects. *Free.*
 - [Identity Designed](https://identitydesigned.com/) - Long-form identity case studies by David Airey. *Free.*
 - [Brand New (UnderConsideration)](https://www.underconsideration.com/brandnew/) - Opinions on corporate and brand identity work since 2006. *Free + paid.*
 - [Logo Histories (Richard Baird)](https://www.logohistories.com/) - 200+ stories behind iconic logos and identities. Found via Sidebar. *Free + paid.*
+- [The Brand Identity: Features](https://the-brandidentity.com/features) - Archive of all identity case studies, interviews and typeface releases on The Brand Identity. *Free.*
 
 ## Guidelines and Archives
 

@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1863,
+ "count": 1867,
  "references": [
   {
    "topic": "ui-patterns",
@@ -4084,6 +4084,22 @@
   },
   {
    "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "The Brand Identity Store",
+   "url": "https://the-brandidentity.com/store",
+   "description": "Curated paid assets from studios and type designers: mockups, presentation decks, motion templates, tools, websites, graphics, eBooks and bundles",
+   "access": "Paid, from ~$19"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "The Brand Identity Store: Decks and templates",
+   "url": "https://the-brandidentity.com/store/decks",
+   "description": "Client onboarding, competitor analysis and strategy presentation templates for branding projects",
+   "access": "Paid"
+  },
+  {
+   "topic": "tools",
    "section": "Branding, Photo, AI and Video",
    "name": "Namelix",
    "url": "https://namelix.com",
@@ -4928,6 +4944,14 @@
    "name": "GOODList Freelance Rates Report",
    "url": "https://ilovecreatives.com/3d-blender-course-resources-toolbox/freelance-rate-report",
    "description": "Annual survey of creative freelancers' day rates by role.",
+   "access": "Free"
+  },
+  {
+   "topic": "off-topic",
+   "section": "Career",
+   "name": "The Brand Identity Jobs",
+   "url": "https://the-brandidentity.com/jobs",
+   "description": "Job board for graphic, brand and design studio roles, with email alerts",
    "access": "Free"
   },
   {
@@ -14775,7 +14799,7 @@
    "section": "Case Studies and Press",
    "name": "The Brand Identity",
    "url": "https://the-brandidentity.com/",
-   "description": "Curated identity case studies and interviews. Shared by Oleg Turbaba.",
+   "description": "Curated identity case studies, interviews and typefaces, plus a store of curated design assets and a job board. Shared by Oleg Turbaba.",
    "access": "Free + shop"
   },
   {
@@ -14817,6 +14841,14 @@
    "url": "https://www.logohistories.com/",
    "description": "200+ stories behind iconic logos and identities. Found via Sidebar.",
    "access": "Free + paid"
+  },
+  {
+   "topic": "branding",
+   "section": "Case Studies and Press",
+   "name": "The Brand Identity: Features",
+   "url": "https://the-brandidentity.com/features",
+   "description": "Archive of all identity case studies, interviews and typeface releases on The Brand Identity",
+   "access": "Free"
   },
   {
    "topic": "branding",

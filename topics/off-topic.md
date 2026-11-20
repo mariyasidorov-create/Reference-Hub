@@ -2,7 +2,7 @@
 title: Off Topic
 aliases: [оффтоп]
 tags: [off-topic, radio, games]
-entries: 72
+entries: 73
 ---
 
 # Off Topic
@@ -123,3 +123,4 @@ Related: [Learning](learning.md)
 ## Career
 
 - [GOODList Freelance Rates Report](https://ilovecreatives.com/3d-blender-course-resources-toolbox/freelance-rate-report) - Annual survey of creative freelancers' day rates by role. *Free.*
+- [The Brand Identity Jobs](https://the-brandidentity.com/jobs) - Job board for graphic, brand and design studio roles, with email alerts. *Free.*
