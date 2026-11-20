@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1867,
+ "count": 1868,
  "references": [
   {
    "topic": "ui-patterns",
@@ -9761,6 +9761,14 @@
    "url": "https://primevue.org/uikit",
    "description": "Figma UI kit matching the PrimeVue component library.",
    "access": "Freemium"
+  },
+  {
+   "topic": "design-systems",
+   "section": "Corporate Design Systems",
+   "name": "Appian SAIL Design System",
+   "url": "https://docs.appian.com/suite/help/latest/sail/home.html",
+   "description": "Appian's low-code UI framework docs: SAIL components, layouts, UX design guide and patterns for enterprise apps",
+   "access": "Free"
   },
   {
    "topic": "design-systems",

@@ -2,7 +2,7 @@
 title: Design Systems
 aliases: [дизайн-системы, киты Figma]
 tags: [design-systems, motion, figma]
-entries: 275
+entries: 276
 ---
 
 # Design Systems
@@ -53,6 +53,7 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Alfa-Bank Design Principles [Принципы / Дизайн Альфа-Банка]](https://digital.alfabank.ru/principles) - Principles of Alfa-Bank's Core design system. *Free.*
 - [Cash App Design — Color](https://design.cash.app/color) - Cash App's public color guidelines. *Free.*
 - [PrimeVue UI Kit](https://primevue.org/uikit) - Figma UI kit matching the PrimeVue component library. *Freemium.*
+- [Appian SAIL Design System](https://docs.appian.com/suite/help/latest/sail/home.html) - Appian's low-code UI framework docs: SAIL components, layouts, UX design guide and patterns for enterprise apps. *Free.*
 
 ## Motion in Design Systems
 
