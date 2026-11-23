@@ -2,7 +2,7 @@
 title: Claude Skills and Awesome Lists
 aliases: [скиллы, awesome-списки]
 tags: [ai, skills, github]
-entries: 45
+entries: 47
 ---
 
 # Claude Skills and Awesome Lists
@@ -47,6 +47,8 @@ Related: [Component Libraries](component-libraries.md) · [Tools](tools.md)
 - [Cloudflare security-audit skill](https://github.com/cloudflare/security-audit-skill) - Official Cloudflare skill: multi-phase security audit of a codebase with independently verified findings. Useful for anything vibe-coded. *Free, open source.*
 - [/awwwards and /jury (juliobsz)](https://github.com/juliobsz/skills) - /awwwards builds award-calibre sites from one line; /jury scores any site the way an Awwwards jury would. *Free, open source.*
 - [Impeccable — site and docs](https://impeccable.style/) - Docs, before/after cases and downloads for Paul Bakaus's design skill (23 commands, anti-pattern detectors). *Free, open source.*
+- [Diagram Design](https://github.com/cathrynlavery/diagram-design) - Skill that draws 52 types of editorial diagrams as HTML and SVG, matched to your brand. Site: diagramdesign.dev. *Free, open source.*
+- [claude-video (/watch)](https://github.com/bradautomates/claude-video) - Skill that lets Claude watch a video: downloads it, pulls timestamped frames and a transcript. Works in Claude Code and Codex, not in Chat or Cowork. *Free, open source.*
 
 ## Design Lists on GitHub
 

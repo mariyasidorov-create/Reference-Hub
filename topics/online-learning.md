@@ -2,7 +2,7 @@
 title: Online Learning
 aliases: [онлайн-обучение, курсы]
 tags: [learning, courses]
-entries: 21
+entries: 23
 ---
 
 # Online Learning
@@ -48,3 +48,5 @@ Related: [Learning](learning.md) · [UX Design Process](ux-process.md) · [Desig
 - [Retrieval Augmented Generation (DeepLearning.AI)](https://www.deeplearning.ai/courses/retrieval-augmented-generation) - Zain Hasan's hands-on course: retrieval, vector databases, generation and evaluation of production RAG systems. First module free to preview. *Freemium.*
 - [RAG From Scratch (LangChain)](https://github.com/langchain-ai/rag-from-scratch) - Notebooks with a video playlist that build RAG step by step: indexing, retrieval, generation. *Free, open source.*
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) - Free course on transformers and LLMs from Hugging Face. *Free.*
+- [AI Engineering (Chip Huyen, O'Reilly)](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) - Building products on foundation models: evals, RAG, agents, fine-tuning. *Paid.*
+- [Inference Engineering (Philip Kiely, Baseten)](https://www.baseten.co/inference-engineering/) - Book on serving models: GPUs, vLLM, quantisation, KV cache. *Free to read online.*

@@ -2,7 +2,7 @@
 title: Component Libraries
 aliases: [библиотеки компонентов, UI-киты]
 tags: [code, components, react, swiftui]
-entries: 71
+entries: 75
 ---
 
 # Component Libraries
@@ -66,6 +66,7 @@ Related: [Motion and Micro-interactions](motion.md) · [UI Patterns and Real Pro
 - [Skiper UI](https://skiper-ui.com) - Unusual animated components for shadcn/ui: cards, drag, scroll. *Freemium, shadcn CLI.*
 - [Animmaster Lib](https://animmasterlib.dev) - 300 Awwwards-style animated components: scroll, WebGL shaders, heroes, sliders. *Paid.*
 - [Particles (Casberry)](https://particles.casberry.in) - WebGL2 3D particle simulator with code export to Vanilla JS, React and Three.js. *Free.*
+- [Evil Buttons](https://evilbuttons.com/) - Animated shadcn/ui buttons with Motion: hold, slide, glitch, detonate; install each with one command. Found via @junaid_jamel on Instagram. *Free, open source.*
 
 ## Sections and UI Kits
 
@@ -91,6 +92,9 @@ Related: [Motion and Micro-interactions](motion.md) · [UI Patterns and Real Pro
 - [DESIGN.md](https://designmd.ai) - Design systems in Markdown for AI agents. *Free.*
 - [Framer Marketplace — Components](https://www.framer.com/marketplace/components/) - Ready-made Framer components such as galleries, albums and carousels. *Free and paid ($5–20).*
 - [daisyUI](https://daisyui.com) - Tailwind CSS component plugin with ready-made classes and dozens of themes. *Open source.*
+- [Testimonial Drawer (Framer)](https://www.framer.com/marketplace/components/testimonial-drawer/) - Mouse-reactive Framer component: reviews as colourful cards in a physical drawer. Found via @design4me__ on Instagram. *Free.*
+- [Juicylads (Framer template)](https://www.framer.com/marketplace/templates/juicylads/) - Character-driven portfolio template for illustrators, animators and motion studios. *Free.*
+- [AIXOR (Framer template)](https://www.framer.com/marketplace/templates/aixor/) - Creative and AI agency site template with a glassy 3D hero. *Free.*
 
 ## Where to Find New Libraries
 

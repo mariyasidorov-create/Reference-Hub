@@ -683,6 +683,12 @@
      "https://colors.muz.li/",
      "Palette generator with live UI previews, from the Muzli team.",
      "Free"
+    ],
+    [
+     "Wada Sanzo: Dictionary of Color Combinations (digital)",
+     "https://sanzo-wada.dmbk.io/",
+     "Browse all 348 combinations from the 1933 Japanese colour dictionary with HEX, RGB and CMYK.",
+     "Free"
     ]
    ],
    "Learning": [
@@ -691,6 +697,12 @@
      "https://www.figma.com/resource-library/color-theory/",
      "Colour theory articles and tools",
      "Free"
+    ],
+    [
+     "A Dictionary of Color Combinations (Seigensha)",
+     "https://en.seigensha.com/?p=17706",
+     "Publisher page for Sanzo Wada's 1930s colour combinations, reissued as a pocket book.",
+     "Paid"
     ]
    ]
   },
@@ -1547,6 +1559,12 @@
      "https://particles.casberry.in",
      "WebGL2 3D particle simulator with code export to Vanilla JS, React and Three.js.",
      "Free"
+    ],
+    [
+     "Evil Buttons",
+     "https://evilbuttons.com/",
+     "Animated shadcn/ui buttons with Motion: hold, slide, glitch, detonate; install each with one command. Found via @junaid_jamel on Instagram.",
+     "Free, open source"
     ]
    ],
    "Sections and UI Kits": [
@@ -1681,6 +1699,24 @@
      "https://daisyui.com",
      "Tailwind CSS component plugin with ready-made classes and dozens of themes.",
      "Open source"
+    ],
+    [
+     "Testimonial Drawer (Framer)",
+     "https://www.framer.com/marketplace/components/testimonial-drawer/",
+     "Mouse-reactive Framer component: reviews as colourful cards in a physical drawer. Found via @design4me__ on Instagram.",
+     "Free"
+    ],
+    [
+     "Juicylads (Framer template)",
+     "https://www.framer.com/marketplace/templates/juicylads/",
+     "Character-driven portfolio template for illustrators, animators and motion studios.",
+     "Free"
+    ],
+    [
+     "AIXOR (Framer template)",
+     "https://www.framer.com/marketplace/templates/aixor/",
+     "Creative and AI agency site template with a glassy 3D hero.",
+     "Free"
     ]
    ],
    "Where to Find New Libraries": [
@@ -2822,6 +2858,18 @@
      "Impeccable — site and docs",
      "https://impeccable.style/",
      "Docs, before/after cases and downloads for Paul Bakaus's design skill (23 commands, anti-pattern detectors).",
+     "Free, open source"
+    ],
+    [
+     "Diagram Design",
+     "https://github.com/cathrynlavery/diagram-design",
+     "Skill that draws 52 types of editorial diagrams as HTML and SVG, matched to your brand. Site: diagramdesign.dev.",
+     "Free, open source"
+    ],
+    [
+     "claude-video (/watch)",
+     "https://github.com/bradautomates/claude-video",
+     "Skill that lets Claude watch a video: downloads it, pulls timestamped frames and a transcript. Works in Claude Code and Codex, not in Chat or Cowork.",
      "Free, open source"
     ]
    ],
@@ -7257,6 +7305,18 @@
      "https://huggingface.co/learn/llm-course",
      "Free course on transformers and LLMs from Hugging Face.",
      "Free"
+    ],
+    [
+     "AI Engineering (Chip Huyen, O'Reilly)",
+     "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
+     "Building products on foundation models: evals, RAG, agents, fine-tuning.",
+     "Paid"
+    ],
+    [
+     "Inference Engineering (Philip Kiely, Baseten)",
+     "https://www.baseten.co/inference-engineering/",
+     "Book on serving models: GPUs, vLLM, quantisation, KV cache.",
+     "Free to read online"
     ]
    ]
   },
@@ -11044,6 +11104,12 @@
      "Kimi",
      "https://www.kimi.com/",
      "Moonshot AI's open-weight models and agent.",
+     "Free + paid"
+    ],
+    [
+     "Lupa AI MCP",
+     "https://lupa.art/mcp",
+     "Connect Lupa to Claude or Cursor to generate images, video and 3D objects (GLB export) for interiors, fashion and products. Found via @anya_forda on Instagram.",
      "Free + paid"
     ]
    ]

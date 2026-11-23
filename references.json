@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1868,
+ "count": 1879,
  "references": [
   {
    "topic": "ui-patterns",
@@ -892,11 +892,27 @@
   },
   {
    "topic": "color",
+   "section": "Color Tools",
+   "name": "Wada Sanzo: Dictionary of Color Combinations (digital)",
+   "url": "https://sanzo-wada.dmbk.io/",
+   "description": "Browse all 348 combinations from the 1933 Japanese colour dictionary with HEX, RGB and CMYK.",
+   "access": "Free"
+  },
+  {
+   "topic": "color",
    "section": "Learning",
    "name": "Color theory (Figma)",
    "url": "https://www.figma.com/resource-library/color-theory/",
    "description": "Colour theory articles and tools",
    "access": "Free"
+  },
+  {
+   "topic": "color",
+   "section": "Learning",
+   "name": "A Dictionary of Color Combinations (Seigensha)",
+   "url": "https://en.seigensha.com/?p=17706",
+   "description": "Publisher page for Sanzo Wada's 1930s colour combinations, reissued as a pocket book.",
+   "access": "Paid"
   },
   {
    "topic": "typography",
@@ -1988,6 +2004,14 @@
   },
   {
    "topic": "component-libraries",
+   "section": "Motion and Micro-interactions",
+   "name": "Evil Buttons",
+   "url": "https://evilbuttons.com/",
+   "description": "Animated shadcn/ui buttons with Motion: hold, slide, glitch, detonate; install each with one command. Found via @junaid_jamel on Instagram.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "component-libraries",
    "section": "Sections and UI Kits",
    "name": "Componentry",
    "url": "https://componentry.dev",
@@ -2161,6 +2185,30 @@
    "url": "https://daisyui.com",
    "description": "Tailwind CSS component plugin with ready-made classes and dozens of themes.",
    "access": "Open source"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Testimonial Drawer (Framer)",
+   "url": "https://www.framer.com/marketplace/components/testimonial-drawer/",
+   "description": "Mouse-reactive Framer component: reviews as colourful cards in a physical drawer. Found via @design4me__ on Instagram.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Juicylads (Framer template)",
+   "url": "https://www.framer.com/marketplace/templates/juicylads/",
+   "description": "Character-driven portfolio template for illustrators, animators and motion studios.",
+   "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "AIXOR (Framer template)",
+   "url": "https://www.framer.com/marketplace/templates/aixor/",
+   "description": "Creative and AI agency site template with a glassy 3D hero.",
+   "access": "Free"
   },
   {
    "topic": "component-libraries",
@@ -3616,6 +3664,22 @@
    "name": "Impeccable — site and docs",
    "url": "https://impeccable.style/",
    "description": "Docs, before/after cases and downloads for Paul Bakaus's design skill (23 commands, anti-pattern detectors).",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Diagram Design",
+   "url": "https://github.com/cathrynlavery/diagram-design",
+   "description": "Skill that draws 52 types of editorial diagrams as HTML and SVG, matched to your brand. Site: diagramdesign.dev.",
+   "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "claude-video (/watch)",
+   "url": "https://github.com/bradautomates/claude-video",
+   "description": "Skill that lets Claude watch a video: downloads it, pulls timestamped frames and a transcript. Works in Claude Code and Codex, not in Chat or Cowork.",
    "access": "Free, open source"
   },
   {
@@ -9123,6 +9187,22 @@
    "access": "Free"
   },
   {
+   "topic": "online-learning",
+   "section": "AI Engineering",
+   "name": "AI Engineering (Chip Huyen, O'Reilly)",
+   "url": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
+   "description": "Building products on foundation models: evals, RAG, agents, fine-tuning.",
+   "access": "Paid"
+  },
+  {
+   "topic": "online-learning",
+   "section": "AI Engineering",
+   "name": "Inference Engineering (Philip Kiely, Baseten)",
+   "url": "https://www.baseten.co/inference-engineering/",
+   "description": "Book on serving models: GPUs, vLLM, quantisation, KV cache.",
+   "access": "Free to read online"
+  },
+  {
    "topic": "regions",
    "section": "The Americas",
    "name": "Cooper Hewitt, Smithsonian Design Museum",
@@ -13928,6 +14008,14 @@
    "name": "Kimi",
    "url": "https://www.kimi.com/",
    "description": "Moonshot AI's open-weight models and agent.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "AI for Visuals: Image, Video and 3D",
+   "name": "Lupa AI MCP",
+   "url": "https://lupa.art/mcp",
+   "description": "Connect Lupa to Claude or Cursor to generate images, video and 3D objects (GLB export) for interiors, fashion and products. Found via @anya_forda on Instagram.",
    "access": "Free + paid"
   },
   {

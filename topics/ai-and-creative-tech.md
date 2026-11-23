@@ -2,7 +2,7 @@
 title: AI and Creative Technology
 aliases: [AI, ИИ, 3D, креативный код]
 tags: [ai, 3d, creative-coding]
-entries: 47
+entries: 48
 ---
 
 # AI and Creative Technology
@@ -78,3 +78,4 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [Google Stitch](https://stitch.withgoogle.com/) - Google's AI UI design tool, exports to Figma and code. *Free.*
 - [NotebookLM](https://notebooklm.google/) - Google's research notebook: chat with sources, audio and video overviews. *Free + paid.*
 - [Kimi](https://www.kimi.com/) - Moonshot AI's open-weight models and agent. *Free + paid.*
+- [Lupa AI MCP](https://lupa.art/mcp) - Connect Lupa to Claude or Cursor to generate images, video and 3D objects (GLB export) for interiors, fashion and products. Found via @anya_forda on Instagram. *Free + paid.*
