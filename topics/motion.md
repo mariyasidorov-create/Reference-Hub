@@ -2,7 +2,7 @@
 title: Motion and Micro-interactions
 aliases: [моушн, анимация, animation]
 tags: [motion, micro-interactions]
-entries: 50
+entries: 53
 ---
 
 # Motion and Micro-interactions
@@ -61,6 +61,9 @@ Related: [Component Libraries](component-libraries.md) · [Cinema](cinema.md)
 - [Battle Axe](https://www.battleaxe.co/) - After Effects tools and scripts for motion designers. *Freemium.*
 - [Animation Composer (Mister Horse)](https://misterhorse.com/animation-composer) - After Effects plugin with drag-and-drop presets. *Freemium.*
 - [Motion 4 (Mt. Mograph)](https://mtmograph.com/en-pt/products/motion-4) - After Effects extension for faster animation. *Paid.*
+- [Motion Canvas](https://motioncanvas.io) - TypeScript library plus real-time editor for programmed vector animations and animated explainers synced to voiceover. *Open source.*
+- [Manim Community](https://www.manim.community) - Python engine for precise explanatory math and diagram animations, the one behind 3Blue1Brown style videos. *Open source.*
+- [Lottie (Airbnb)](https://airbnb.io/lottie/) - Docs for the original Lottie players that render After Effects animations natively on web, iOS and Android. *Open source.*
 
 ## More Motion
 

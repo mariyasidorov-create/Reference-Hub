@@ -2,7 +2,7 @@
 title: Component Libraries
 aliases: [библиотеки компонентов, UI-киты]
 tags: [code, components, react, swiftui]
-entries: 75
+entries: 76
 ---
 
 # Component Libraries
@@ -95,6 +95,7 @@ Related: [Motion and Micro-interactions](motion.md) · [UI Patterns and Real Pro
 - [Testimonial Drawer (Framer)](https://www.framer.com/marketplace/components/testimonial-drawer/) - Mouse-reactive Framer component: reviews as colourful cards in a physical drawer. Found via @design4me__ on Instagram. *Free.*
 - [Juicylads (Framer template)](https://www.framer.com/marketplace/templates/juicylads/) - Character-driven portfolio template for illustrators, animators and motion studios. *Free.*
 - [AIXOR (Framer template)](https://www.framer.com/marketplace/templates/aixor/) - Creative and AI agency site template with a glassy 3D hero. *Free.*
+- [Hurma](https://hurma.dev) - Library of web design and motion templates (WebGL heroes, landing pages, galleries, scroll effects), each with a Claude Code prompt, source code and a live demo. *Free + paid.*
 
 ## Where to Find New Libraries
 

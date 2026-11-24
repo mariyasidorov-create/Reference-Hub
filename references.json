@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1879,
+ "count": 1884,
  "references": [
   {
    "topic": "ui-patterns",
@@ -1516,6 +1516,30 @@
   },
   {
    "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Motion Canvas",
+   "url": "https://motioncanvas.io",
+   "description": "TypeScript library plus real-time editor for programmed vector animations and animated explainers synced to voiceover.",
+   "access": "Open source"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Manim Community",
+   "url": "https://www.manim.community",
+   "description": "Python engine for precise explanatory math and diagram animations, the one behind 3Blue1Brown style videos.",
+   "access": "Open source"
+  },
+  {
+   "topic": "motion",
+   "section": "Motion Tools",
+   "name": "Lottie (Airbnb)",
+   "url": "https://airbnb.io/lottie/",
+   "description": "Docs for the original Lottie players that render After Effects animations natively on web, iOS and Android.",
+   "access": "Open source"
+  },
+  {
+   "topic": "motion",
    "section": "More Motion",
    "name": "Moving Parts",
    "url": "https://movingparts.supply/library/",
@@ -2209,6 +2233,14 @@
    "url": "https://www.framer.com/marketplace/templates/aixor/",
    "description": "Creative and AI agency site template with a glassy 3D hero.",
    "access": "Free"
+  },
+  {
+   "topic": "component-libraries",
+   "section": "Sections and UI Kits",
+   "name": "Hurma",
+   "url": "https://hurma.dev",
+   "description": "Library of web design and motion templates (WebGL heroes, landing pages, galleries, scroll effects), each with a Claude Code prompt, source code and a live demo.",
+   "access": "Free + paid"
   },
   {
    "topic": "component-libraries",
@@ -3681,6 +3713,14 @@
    "url": "https://github.com/bradautomates/claude-video",
    "description": "Skill that lets Claude watch a video: downloads it, pulls timestamped frames and a transcript. Works in Claude Code and Codex, not in Chat or Cowork.",
    "access": "Free, open source"
+  },
+  {
+   "topic": "awesome-lists",
+   "section": "Claude Skills",
+   "name": "Remotion Agent Skills",
+   "url": "https://www.remotion.dev/docs/ai/skills",
+   "description": "Official skills that teach Claude Code and other agents to build videos in React with Remotion. Remotion needs a company license for larger teams.",
+   "access": "Free + paid"
   },
   {
    "topic": "awesome-lists",

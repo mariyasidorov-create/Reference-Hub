@@ -2,7 +2,7 @@
 title: Claude Skills and Awesome Lists
 aliases: [скиллы, awesome-списки]
 tags: [ai, skills, github]
-entries: 47
+entries: 48
 ---
 
 # Claude Skills and Awesome Lists
@@ -49,6 +49,7 @@ Related: [Component Libraries](component-libraries.md) · [Tools](tools.md)
 - [Impeccable — site and docs](https://impeccable.style/) - Docs, before/after cases and downloads for Paul Bakaus's design skill (23 commands, anti-pattern detectors). *Free, open source.*
 - [Diagram Design](https://github.com/cathrynlavery/diagram-design) - Skill that draws 52 types of editorial diagrams as HTML and SVG, matched to your brand. Site: diagramdesign.dev. *Free, open source.*
 - [claude-video (/watch)](https://github.com/bradautomates/claude-video) - Skill that lets Claude watch a video: downloads it, pulls timestamped frames and a transcript. Works in Claude Code and Codex, not in Chat or Cowork. *Free, open source.*
+- [Remotion Agent Skills](https://www.remotion.dev/docs/ai/skills) - Official skills that teach Claude Code and other agents to build videos in React with Remotion. Remotion needs a company license for larger teams. *Free + paid.*
 
 ## Design Lists on GitHub
 

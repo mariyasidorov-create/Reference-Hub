@@ -1171,6 +1171,24 @@
      "https://mtmograph.com/en-pt/products/motion-4",
      "After Effects extension for faster animation.",
      "Paid"
+    ],
+    [
+     "Motion Canvas",
+     "https://motioncanvas.io",
+     "TypeScript library plus real-time editor for programmed vector animations and animated explainers synced to voiceover.",
+     "Open source"
+    ],
+    [
+     "Manim Community",
+     "https://www.manim.community",
+     "Python engine for precise explanatory math and diagram animations, the one behind 3Blue1Brown style videos.",
+     "Open source"
+    ],
+    [
+     "Lottie (Airbnb)",
+     "https://airbnb.io/lottie/",
+     "Docs for the original Lottie players that render After Effects animations natively on web, iOS and Android.",
+     "Open source"
     ]
    ],
    "More Motion": [
@@ -1717,6 +1735,12 @@
      "https://www.framer.com/marketplace/templates/aixor/",
      "Creative and AI agency site template with a glassy 3D hero.",
      "Free"
+    ],
+    [
+     "Hurma",
+     "https://hurma.dev",
+     "Library of web design and motion templates (WebGL heroes, landing pages, galleries, scroll effects), each with a Claude Code prompt, source code and a live demo.",
+     "Free + paid"
     ]
    ],
    "Where to Find New Libraries": [
@@ -2871,6 +2895,12 @@
      "https://github.com/bradautomates/claude-video",
      "Skill that lets Claude watch a video: downloads it, pulls timestamped frames and a transcript. Works in Claude Code and Codex, not in Chat or Cowork.",
      "Free, open source"
+    ],
+    [
+     "Remotion Agent Skills",
+     "https://www.remotion.dev/docs/ai/skills",
+     "Official skills that teach Claude Code and other agents to build videos in React with Remotion. Remotion needs a company license for larger teams.",
+     "Free + paid"
     ]
    ],
    "Design Lists on GitHub": [
