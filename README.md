@@ -2,7 +2,7 @@
 
 Curated references and learning material for product and graphic designers: interface patterns, galleries, type, motion, design systems, design to code, UX research and writing, product management and metrics, art and graphic design history, archives, museums, design schools and regions.
 
-The list holds 1886 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1888 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -84,7 +84,7 @@ The list holds 1886 checked links in 50 topic files. Every topic file links to r
 
 ## Learning
 
-- [Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/learning.md) - YouTube channels and books worth owning (38 links).
+- [Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/learning.md) - YouTube channels and books worth owning (40 links).
 - [Online Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/online-learning.md) - Courses and free online books on design, UX and art (23 links).
 - [English for Designers](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/english-for-designers.md) - Pronunciation, writing and speaking in English at work (3 links).
 - [Off Topic](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/off-topic.md) - Learning, utilities, games, radio and small delights for when you are not designing (73 links).

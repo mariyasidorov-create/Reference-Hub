@@ -1,6 +1,6 @@
 # Human-AI interaction and agent UX: a reading list
 
-Evidence-backed reading on how people work with AI and how to design agents they can trust. Sources: Nielsen Norman Group (original usability studies) and the Interaction Design Foundation (definitions, checklists, vocabulary). Each entry has a link, authors, date and a short summary in my own words. Read the originals for detail and visuals.
+Evidence-backed reading on how people work with AI and how to design agents they can trust. Sources: Nielsen Norman Group (original usability studies), the Interaction Design Foundation (definitions, checklists, vocabulary) and O'Reilly (architecture, trust and where human judgment sits). Each entry has a link, authors, date and a short summary in my own words. Read the originals for detail and visuals.
 
 Compiled by [Masha Sidorova](https://qua-design.com), November 2026. Part of the [Reference Hub](../README.md).
 
@@ -65,6 +65,25 @@ Articles:
 - [Shneiderman's Eight Golden Rules](https://ixdf.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces): not about AI, but internal locus of control, easy reversal and informative feedback apply directly to agents.
 
 Paid, for deeper study: the [AI for Designers](https://ixdf.org/courses/ai-for-designers) course and [master classes](https://ixdf.org/master-classes), including Vitaly Friedman's [design patterns for AI UX](https://ixdf.org/master-classes/design-patterns-for-ai-ux).
+
+## 7. O'Reilly
+
+O'Reilly looks at agents from the builder's side: architecture, trust boundaries and where human judgment sits. Radar articles are free; the books need an O'Reilly subscription (most have a free trial).
+
+Radar articles:
+- [Interfaces That Build Themselves](https://www.oreilly.com/radar/interfaces-that-build-themselves/). The most UX-focused piece: chat is fine for simple tasks but exhausting for nuanced, ongoing work, and the hard part is making the AI's reasoning visible enough for people to stay in the loop.
+- [The Architect's Dilemma](https://www.oreilly.com/radar/the-architects-dilemma/). Start from who the consumer is: a machine needs vending-machine predictability, a person or agent needs a concierge that guides. Explains why some tasks should never be a conversation.
+- [The Agentic Commerce Revolution](https://www.oreilly.com/radar/the-agentic-commerce-revolution/). What breaks when an agent pays for you: authorisation, authenticity and consumer trust, and two answers to them, a conversational checkout and a verified "final click".
+- [From Capabilities to Responsibilities](https://www.oreilly.com/radar/from-capabilities-to-responsibilities/). For high-stakes agents that change real data, approval queues become a bottleneck; "human over the loop" puts people in charge of the rules and the exceptions instead.
+- [Human Judgment Doesn't Leave the Software Factory, It Relocates](https://www.oreilly.com/radar/human-judgment-doesnt-leave-the-software-factory-it-relocates/). Constraints tighten or relax as the system earns or loses trust, and the agent has to show evidence that its work is right.
+- [Building Organizational Intelligence](https://www.oreilly.com/radar/building-organizational-intelligence/). An internal AI research assistant that people did not trust until there was a way to review, challenge and refine what it surfaced.
+- [The Agent Stack Bet](https://www.oreilly.com/radar/the-agent-stack-bet/). Argues for built-in human-in-the-loop primitives, so an agent pauses and asks before doing something new.
+- [Intent, Not Identity](https://www.oreilly.com/radar/intent-not-identity/). When a person and an agent share one browser session, knowing who is acting matters less than knowing what they intend.
+
+Books and chapters:
+- [Designing AI Interfaces](https://www.oreilly.com/library/view/designing-ai-interfaces/9798341639812/), Louise Macfadyen, O'Reilly, March 2026. A design-first guide to interfaces for LLMs and autonomous systems, including outputs, canvases and designing for errors.
+- [User Experience Design for Agentic Systems](https://www.oreilly.com/library/view/building-applications-with/9781098176495/ch03.html), chapter 3 of Building Applications with AI Agents, Michael Albada, O'Reilly, September 2025.
+- [UX for Agentic AI](https://www.oreilly.com/library/view/ux-for-ai/9781394345922/c15.xhtml), chapter 15 of UX for AI, Greg Nudelman and Daria Kempka, Wiley, May 2025, read on O'Reilly. The same book has a chapter on SaaS copilot design.
 
 ## Principles across all of it
 

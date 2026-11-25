@@ -1293,7 +1293,7 @@
     [
      "Human-AI interaction and agent UX: a reading list (Reference Hub guide)",
      "https://github.com/mariyasidorov-create/Reference-Hub/blob/main/guides/human-ai-interaction.md",
-     "NN/g studies and IxDF articles on how people work with AI and agents, each summarised, plus 12 principles for trustworthy agent design",
+     "NN/g studies, IxDF articles and O'Reilly pieces on how people work with AI and agents, each summarised, plus principles for trustworthy agent design",
      "Free"
     ],
     [
@@ -4047,6 +4047,18 @@
      "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html",
      "Sci-fi novel on accelerating technology, recommended by Boris Cherny. Free under Creative Commons from the author.",
      "Free"
+    ],
+    [
+     "Designing AI Interfaces (Louise Macfadyen)",
+     "https://www.oreilly.com/library/view/designing-ai-interfaces/9798341639812/",
+     "O'Reilly, 2026: a design-first guide to interfaces for LLMs and autonomous AI systems, from outputs and canvases to designing for errors",
+     "O'Reilly subscription"
+    ],
+    [
+     "UX for AI (Greg Nudelman, Daria Kempka)",
+     "https://www.oreilly.com/library/view/ux-for-ai/9781394345922/",
+     "Wiley, 2025: a framework to research, plan, design and test AI products, with chapters on SaaS copilots and agentic AI",
+     "Paid book or O'Reilly subscription"
     ]
    ],
    "Courses by Masters": [

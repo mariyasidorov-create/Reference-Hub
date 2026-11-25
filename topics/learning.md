@@ -2,7 +2,7 @@
 title: Learning
 aliases: [обучение, книги, books]
 tags: [learning, books, youtube]
-entries: 38
+entries: 40
 ---
 
 # Learning
@@ -47,6 +47,8 @@ Related: [Graphic Design History](graphic-design-history.md) · [UX Curators and
 - [Functional Programming in Scala, 2nd ed. (Chiusano, Bjarnason, Pilquist)](https://www.manning.com/books/functional-programming-in-scala-second-edition) - The technical book Boris Cherny, creator of Claude Code, says influenced him most. *Book.*
 - [Programming TypeScript (Boris Cherny)](https://www.oreilly.com/library/view/programming-typescript/9781492037644/) - Boris Cherny's own book on types and TypeScript. *Book.*
 - [Accelerando (Charles Stross)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html) - Sci-fi novel on accelerating technology, recommended by Boris Cherny. Free under Creative Commons from the author. *Free.*
+- [Designing AI Interfaces (Louise Macfadyen)](https://www.oreilly.com/library/view/designing-ai-interfaces/9798341639812/) - O'Reilly, 2026: a design-first guide to interfaces for LLMs and autonomous AI systems, from outputs and canvases to designing for errors. *O'Reilly subscription.*
+- [UX for AI (Greg Nudelman, Daria Kempka)](https://www.oreilly.com/library/view/ux-for-ai/9781394345922/) - Wiley, 2025: a framework to research, plan, design and test AI products, with chapters on SaaS copilots and agentic AI. *Paid book or O'Reilly subscription.*
 
 ## Courses by Masters
 
