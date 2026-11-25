@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1884,
+ "count": 1885,
  "references": [
   {
    "topic": "ui-patterns",
@@ -11913,6 +11913,14 @@
    "url": "https://zeroheight.com/arc/",
    "description": "Check whether your system's docs work for AI agents.",
    "access": "Free"
+  },
+  {
+   "topic": "design-systems",
+   "section": "AI Readiness and Agents",
+   "name": "RMS Design System Engine (Rafael Matos da Silva)",
+   "url": "https://github.com/rafaelmatosdasilva/rms-design-system-engine",
+   "description": "Open-source engine for Claude Code that brings design system health into one place: audits Figma library rules, lints code, measures Figma to code parity, tests accessibility, writes component specs and builds a live control center",
+   "access": "Free, open source (MIT)"
   },
   {
    "topic": "design-systems",

@@ -9407,6 +9407,12 @@
      "https://zeroheight.com/arc/",
      "Check whether your system's docs work for AI agents.",
      "Free"
+    ],
+    [
+     "RMS Design System Engine (Rafael Matos da Silva)",
+     "https://github.com/rafaelmatosdasilva/rms-design-system-engine",
+     "Open-source engine for Claude Code that brings design system health into one place: audits Figma library rules, lints code, measures Figma to code parity, tests accessibility, writes component specs and builds a live control center",
+     "Free, open source (MIT)"
     ]
    ],
    "Surveys and Reports": [

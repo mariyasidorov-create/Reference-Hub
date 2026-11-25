@@ -2,7 +2,7 @@
 title: Design Systems
 aliases: [дизайн-системы, киты Figma]
 tags: [design-systems, motion, figma]
-entries: 276
+entries: 277
 ---
 
 # Design Systems
@@ -352,6 +352,7 @@ Related: [Component Libraries](component-libraries.md) · [Design to Code](desig
 - [Design Systems Doc Spec — Conformance](https://designsystemdocspec.org/conformance) - Spec for machine-readable design-system documentation. *Free.*
 - [Most Design Systems Are Not Ready for AI (Nagarro)](https://www.nagarro.com/en/blog/designing-ai-ready-systems) - What an AI-ready system needs. *Free.*
 - [Agent Readiness Checker (zeroheight)](https://zeroheight.com/arc/) - Check whether your system's docs work for AI agents. *Free.*
+- [RMS Design System Engine (Rafael Matos da Silva)](https://github.com/rafaelmatosdasilva/rms-design-system-engine) - Open-source engine for Claude Code that brings design system health into one place: audits Figma library rules, lints code, measures Figma to code parity, tests accessibility, writes component specs and builds a live control center. *Free, open source (MIT).*
 
 ## Surveys and Reports
 
