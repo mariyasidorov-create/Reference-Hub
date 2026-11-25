@@ -753,6 +753,104 @@
      "Free"
     ]
    ],
+   "Free Cyrillic Typefaces (OFL)": [
+    [
+     "Golos Text",
+     "https://fonts.google.com/specimen/Golos+Text",
+     "Alexandra Korolkova, Vitaly Kuzmin (Paratype). UI sans built for clear reading at small sizes. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Onest",
+     "https://fonts.google.com/specimen/Onest",
+     "Dmitri Voloshin, Andrey Kudryavtsev. Neutral grotesque for interfaces and long texts. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Manrope",
+     "https://fonts.google.com/specimen/Manrope",
+     "Mikhail Sharanda. Modern geometric-grotesque, popular for product UI. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Inter",
+     "https://fonts.google.com/specimen/Inter",
+     "Rasmus Andersson. The default UI sans of many design systems, variable, with Cyrillic. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Unbounded",
+     "https://fonts.google.com/specimen/Unbounded",
+     "NaN. Wide display face with a strong Cyrillic. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "IBM Plex Sans",
+     "https://fonts.google.com/specimen/IBM+Plex+Sans",
+     "Mike Abbink, Bold Monday. IBM's corporate sans with full Cyrillic. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Fira Sans",
+     "https://fonts.google.com/specimen/Fira+Sans",
+     "Carrois Apostrophe. Humanist sans from Mozilla, good for long reading. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "PT Sans",
+     "https://fonts.google.com/specimen/PT+Sans",
+     "ParaType. Public Types of Russia, one of the first free Cyrillic families. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "PT Serif",
+     "https://fonts.google.com/specimen/PT+Serif",
+     "ParaType. Serif companion to PT Sans. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Literata",
+     "https://fonts.google.com/specimen/Literata",
+     "TypeTogether. Book serif made for Google Play Books, variable. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Source Serif 4",
+     "https://fonts.google.com/specimen/Source+Serif+4",
+     "Frank Grießhammer (Adobe). Text serif with optical sizes. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "JetBrains Mono",
+     "https://fonts.google.com/specimen/JetBrains+Mono",
+     "JetBrains. Monospace for code with ligatures. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Geologica",
+     "https://fonts.google.com/specimen/Geologica",
+     "Monokrom. Variable sans with a 'sharpness' axis from Monokrom (Oslo). Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Spectral",
+     "https://fonts.google.com/specimen/Spectral",
+     "Production Type. Screen-first text serif. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Cormorant",
+     "https://fonts.google.com/specimen/Cormorant",
+     "Christian Thalmann. Garamond-style display serif with full Cyrillic. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ],
+    [
+     "Roboto Flex",
+     "https://fonts.google.com/specimen/Roboto+Flex",
+     "Font Bureau, with Cyrillic by Ilya Ruderman and Yury Ostromentsky. Highly variable Roboto. Licence: SIL Open Font License 1.1.",
+     "Free (OFL)"
+    ]
+   ],
    "Cyrillic Foundries": [
     [
      "BoldItalic",
@@ -7366,6 +7464,56 @@
      "Book on serving models: GPUs, vLLM, quantisation, KV cache.",
      "Free to read online"
     ]
+   ],
+   "Spanish and Portuguese": [
+    [
+     "No Solo Usabilidad [Not Only Usability]",
+     "https://www.nosolousabilidad.com/",
+     "Yusef Hassan Montero's long-running Spanish journal on usability, information architecture and interaction design.",
+     "Free"
+    ],
+    [
+     "Torresburriel Estudio: Weblog",
+     "https://torresburriel.com/weblog/",
+     "Daniel Torres Burriel's Spanish UX studio blog on research, UX strategy and teams; he leads the Spain chapter of UXPA.",
+     "Free"
+    ],
+    [
+     "Interaction Latin America (IxDA)",
+     "https://ixda.org/initiatives/interaction-latin-america/",
+     "IxDA's yearly conference for the Latin American design community, held since 2009 (first in São Paulo), talks in Spanish and Portuguese.",
+     "Free talks, paid tickets"
+    ],
+    [
+     "Elisava",
+     "https://www.elisava.net/en",
+     "Barcelona school of design and engineering: bachelor's and master's programmes, many taught in Spanish.",
+     "Paid"
+    ],
+    [
+     "Aela School",
+     "https://aela.io/",
+     "Brazilian online school for UX and product design, courses in Portuguese.",
+     "Paid"
+    ],
+    [
+     "EBAC: Escola Britânica de Artes Criativas e Tecnologia [British School of Creative Arts and Technology]",
+     "https://ebaconline.com.br/",
+     "Online school with UX/UI and product design courses in Portuguese.",
+     "Paid"
+    ],
+    [
+     "UX / UI: Fundamentos para o design de interface [UX/UI: Interface design fundamentals]",
+     "https://www.coursera.org/learn/ux-ui-design-de-interface",
+     "Introductory Coursera course in Portuguese by the Brazilian studio Taqtile: ideation, prototypes, wireframes, accessibility.",
+     "Free to audit"
+    ],
+    [
+     "DIO: Formação UX Design [UX Design track]",
+     "https://www.dio.me/curso-ux-design",
+     "Brazilian tech-education platform's UX design track with projects and a community, in Portuguese.",
+     "Free + paid"
+    ]
    ]
   },
   "regions": {
@@ -10646,6 +10794,74 @@
      "Research on how people use accessibility settings.",
      "Free"
     ]
+   ],
+   "Mobile Testing: iOS and Android": [
+    [
+     "Accessibility Inspector (Apple)",
+     "https://developer.apple.com/documentation/accessibility/accessibility-inspector",
+     "Xcode tool to inspect labels, traits and hierarchy on a simulator or device and run an automatic audit.",
+     "Free"
+    ],
+    [
+     "Performing accessibility testing for your app (Apple)",
+     "https://developer.apple.com/documentation/accessibility/performing-accessibility-testing-for-your-app",
+     "Apple's guide to manual and automated testing: VoiceOver, Dynamic Type, Accessibility Inspector and UI-test audits.",
+     "Free"
+    ],
+    [
+     "Human Interface Guidelines: Accessibility (Apple)",
+     "https://developer.apple.com/design/human-interface-guidelines/accessibility",
+     "Design rules for iOS: text size, contrast, VoiceOver, motion and hit targets.",
+     "Free"
+    ],
+    [
+     "Turn on and practice VoiceOver on iPhone",
+     "https://support.apple.com/guide/iphone/turn-on-and-practice-voiceover-iph3e2e415f/ios",
+     "Official VoiceOver gestures guide, the first step of any manual screen-reader test.",
+     "Free"
+    ],
+    [
+     "Accessibility Scanner (Android)",
+     "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor",
+     "Google's app that scans any screen and flags small touch targets, low contrast and missing labels.",
+     "Free"
+    ],
+    [
+     "Get started with Accessibility Scanner",
+     "https://support.google.com/accessibility/android/answer/6376570",
+     "How to install, run and read the results of Accessibility Scanner.",
+     "Free"
+    ],
+    [
+     "Test your app's accessibility (Android Developers)",
+     "https://developer.android.com/guide/topics/ui/accessibility/testing",
+     "Manual, analysis and automated testing on Android: TalkBack, Switch Access, Scanner, Espresso checks.",
+     "Free"
+    ],
+    [
+     "Accessibility testing in Jetpack Compose",
+     "https://developer.android.com/develop/ui/compose/accessibility/testing",
+     "Semantics-based tests and automated checks for Compose UIs.",
+     "Free"
+    ],
+    [
+     "Accessibility Test Framework for Android (Google)",
+     "https://github.com/google/Accessibility-Test-Framework-for-Android",
+     "The open-source rule engine behind Accessibility Scanner and Espresso accessibility checks.",
+     "Free, open source"
+    ],
+    [
+     "Get started with TalkBack",
+     "https://support.google.com/accessibility/android/answer/6283677",
+     "Official TalkBack guide for manual screen-reader testing on Android.",
+     "Free"
+    ],
+    [
+     "Material Design 3: Accessibility",
+     "https://m3.material.io/foundations/designing/overview",
+     "Material's accessibility foundations: structure, flow, element sizing and colour for Android apps.",
+     "Free"
+    ]
    ]
   },
   "handoff": {
@@ -11683,85 +11899,85 @@
     [
      "Pentagram",
      "https://www.pentagram.com/",
-     "Partner-led studio since 1972, London and New York. Bierut, Scher, Shaughnessy.",
+     "Partner-led studio since 1972, London and New York. Bierut, Scher, Shaughnessy. Signature case: [Mastercard](https://www.pentagram.com/work/mastercard).",
      "View only"
     ],
     [
      "Wolff Olins",
      "https://wolffolins.com/",
-     "Brand consultancy since 1965: BT, Tate, London 2012, Uber.",
+     "Brand consultancy since 1965: BT, Tate, London 2012, Uber. Signature case: [The Met](https://wolffolins.com/work/the-met).",
      "View only"
     ],
     [
      "Jones Knowles Ritchie (JKR)",
      "https://www.jkrglobal.com/",
-     "Burger King and Intuit rebrands; strong packaging and brand systems.",
+     "Burger King and Intuit rebrands; strong packaging and brand systems. Signature case: [Burger King](https://www.jkrglobal.com/work/burger-king/).",
      "View only"
     ],
     [
      "Koto",
      "https://koto.com/",
-     "Lyft's 2025 identity with NaN; offices in London, New York, Berlin and Sydney.",
+     "Lyft's 2025 identity with NaN; offices in London, New York, Berlin and Sydney. Signature case: [Lyft](https://koto.com/projects/lyft).",
      "View only"
     ],
     [
      "DixonBaxi",
      "https://www.dixonbaxi.com/",
-     "Brand and motion systems for sport, media and tech.",
+     "Brand and motion systems for sport, media and tech. Signature case: [Hulu](https://www.dixonbaxi.com/case-study/hulu).",
      "View only"
     ],
     [
      "Moving Brands",
      "https://movingbrands.com/",
-     "Digital-first identities since 1998.",
+     "Digital-first identities since 1998. Signature case: [BBC](https://movingbrands.com/work/bbc/).",
      "View only"
     ],
     [
      "Johnson Banks",
      "https://www.johnsonbanks.co.uk/",
-     "Mozilla open-source rebrand; famous Thought for the Week blog.",
+     "Mozilla open-source rebrand; famous Thought for the Week blog. Signature case: [Mozilla](https://www.johnsonbanks.co.uk/work/mozilla).",
      "View only"
     ],
     [
      "Made Thought",
      "https://madethought.com/",
-     "Luxury and culture brands, refined typography.",
+     "Luxury and culture brands, refined typography. Signature case: [G . F Smith](https://madethought.com/work/gf-smith/).",
      "View only"
     ],
     [
      "SomeOne",
      "https://www.someoneinlondon.com/",
-     "Brand worlds and identities, Eurostar among them.",
+     "Brand worlds and identities, Eurostar among them. Signature case: [UK Parliament](https://www.someoneinlondon.com/projects/the-first-visual-identity-for-uk-parliament).",
      "View only"
     ],
     [
      "Design Bridge and Partners",
      "https://www.designbridge.com/",
-     "Packaging and brand design since 1986, London, Amsterdam, New York.",
+     "Packaging and brand design since 1986, London, Amsterdam, New York. Signature case: [Guinness](https://www.designbridge.com/work/guinness).",
      "View only"
     ],
     [
      "Pearlfisher",
      "https://pearlfisher.com/",
-     "Food, drink and challenger brands, London and New York.",
+     "Food, drink and challenger brands, London and New York. Signature case: [Seedlip](https://pearlfisher.com/work/seedlip/).",
      "View only"
     ],
     [
      "Saffron Brand Consultants",
      "https://saffron-consultants.com/",
-     "Naming and identity, London, Madrid, Vienna.",
+     "Naming and identity, London, Madrid, Vienna. Signature case: [Victoria and Albert Museum](https://saffron-consultants.com/work/victoria-and-albert-museum).",
      "View only"
     ],
     [
      "Interbrand",
      "https://www.interbrand.com/",
-     "Global consultancy behind the yearly Best Global Brands ranking.",
+     "Global consultancy behind the yearly Best Global Brands ranking. Signature case: [LEGO](https://www.interbrand.com/work/lego/).",
      "View only"
     ],
     [
      "Landor",
      "https://landor.com/",
-     "Global brand consultancy since 1941 (FedEx, BP).",
+     "Global brand consultancy since 1941 (FedEx, BP). Signature case: [Milan Symphony Orchestra](https://landor.com/en/our-work/milan-symphony-orchestra/).",
      "View only"
     ]
    ],
@@ -11769,49 +11985,49 @@
     [
      "Chermayeff & Geismar & Haviv",
      "https://cghnyc.com/",
-     "Since 1957: Chase, NBC, Mobil, National Geographic marks.",
+     "Since 1957: Chase, NBC, Mobil, National Geographic marks. Signature case: [Chase](https://cghnyc.com/work/project/chase-bank).",
      "View only"
     ],
     [
      "Lippincott",
      "https://www.lippincott.com/",
-     "Since 1943: corporate identity, brand strategy, Starbucks, Samsung.",
+     "Since 1943: corporate identity, brand strategy, Starbucks, Samsung. Signature case: [Starbucks](https://www.lippincott.com/work/starbucks/).",
      "View only"
     ],
     [
      "Siegel+Gale",
      "https://www.siegelgale.com/",
-     "Simplicity-led brand strategy and identity since 1969.",
+     "Simplicity-led brand strategy and identity since 1969. Signature case: [The Y (YMCA)](https://www.siegelgale.com/case-study/the-y/).",
      "View only"
     ],
     [
      "COLLINS",
      "https://wearecollins.com/",
-     "Expressive identities such as Dropbox and Mailchimp.",
+     "Expressive identities such as Dropbox and Mailchimp. Signature case: [Dropbox](https://wearecollins.com/case-studies/dropbox).",
      "View only"
     ],
     [
      "Mother Design",
      "https://www.motherdesign.com/",
-     "Brand identity arm of Mother, New York and London.",
+     "Brand identity arm of Mother, New York and London. Signature case: [MLB](https://www.motherdesign.com/work/mlb).",
      "View only"
     ],
     [
      "Order",
      "https://order.design/",
-     "Systems-driven identity, publisher of Standards Manual reissues.",
+     "Systems-driven identity, publisher of Standards Manual reissues. Signature case: [EPA Graphic Standards System reissue](https://order.design/project/epa-graphic-standards-system-reissue).",
      "View only"
     ],
     [
      "Sagmeister",
      "https://sagmeister.com/",
-     "Stefan Sagmeister's studio and talks on beauty and design.",
+     "Stefan Sagmeister's studio and talks on beauty and design. Signature case: [Casa da Música](https://sagmeister.com/work/casa-da-musica/).",
      "View only"
     ],
     [
      "Base Design",
      "https://www.basedesign.com/",
-     "Brussels, New York, Geneva; culture and fashion identities.",
+     "Brussels, New York, Geneva; culture and fashion identities. Signature case: [KANAL-Centre Pompidou](https://www.basedesign.com/projects/kanal-centre-pompidou).",
      "View only"
     ]
    ],
@@ -11819,19 +12035,19 @@
     [
      "Dragon Rouge",
      "https://www.dragonrouge.com/",
-     "French brand and innovation consultancy since 1985.",
+     "French brand and innovation consultancy since 1985. Signature case: [Perrier](https://www.dragonrouge.com/work/perrier/).",
      "View only"
     ],
     [
      "Carré Noir",
      "https://www.carrenoir.com/",
-     "One of France's oldest branding agencies, founded 1973.",
+     "One of France's oldest branding agencies, founded 1973. Signature case: [Musée de La Poste](https://www.carrenoir.com/projets/musee-postal-voir-l-extra-dans-l-ordinaire).",
      "View only"
     ],
     [
      "Lonsdale",
      "https://www.lonsdale.fr/fr/",
-     "Brand design and retail architecture, Paris.",
+     "Brand design and retail architecture, Paris. Signature case: [Renault RNLT store concept](https://www.lonsdale.fr/fr/works/selected-works/introducing-rnlt-nouveau-concept-de-point-de-vente-pour-renault/).",
      "View only"
     ]
    ],
@@ -11839,39 +12055,85 @@
     [
      "Studio Dumbar/DEPT",
      "https://studiodumbar.com/",
-     "Rotterdam, since 1977: Dutch police and PTT identities, motion-led systems.",
+     "Rotterdam, since 1977: Dutch police and PTT identities, motion-led systems. Signature case: [PostNL](https://studiodumbar.com/work/postnl).",
      "View only"
     ],
     [
      "Edenspiekermann",
      "https://www.edenspiekermann.com/",
-     "Amsterdam and Berlin; Erik Spiekermann's legacy, transport and digital brands.",
+     "Amsterdam and Berlin; Erik Spiekermann's legacy, transport and digital brands. Signature case: [The Economist](https://www.edenspiekermann.com/case-studies/the-economist).",
      "View only"
     ],
     [
      "Experimental Jetset",
-     "https://www.jetset.nl/",
-     "Amsterdam collective since 1997: Whitney Responsive W, Stedelijk.",
+     "https://experimentaljetset.nl/",
+     "Amsterdam collective since 1997: Whitney Responsive W, Stedelijk. Signature case: [Whitney Museum identity](https://experimentaljetset.nl/archive/whitney-museum-identity).",
      "View only"
     ],
     [
      "Thonik",
      "https://thonik.nl/",
-     "Amsterdam; bold political and cultural identities.",
+     "Amsterdam; bold political and cultural identities. Signature case: [Depot Boijmans Van Beuningen](https://thonik.nl/work/depot-boijmans-van-beuningen).",
      "View only"
     ],
     [
      "LAVA",
      "https://lava.nl/",
-     "Amsterdam design studio for culture and public-sector brands.",
+     "Amsterdam design studio for culture and public-sector brands. Signature case: [Museumvereniging](https://lava.nl/work/museumvereniging/).",
      "View only"
     ]
    ],
-   "Agencies: Europe": [
+   "Agencies: Berlin": [
     [
      "MetaDesign",
      "https://metadesign.com/",
-     "Berlin, founded by Erik Spiekermann in 1979: VW, BVG.",
+     "Founded by Erik Spiekermann in 1979: VW, BVG. Signature case: [Porsche](https://metadesign.com/en/work/porsche).",
+     "View only"
+    ],
+    [
+     "Hort",
+     "https://hort.org.uk/",
+     "Eike König's Berlin studio since 1994, known for typographic, music and culture work. No single case page; see the portfolio.",
+     "View only"
+    ],
+    [
+     "HelloMe",
+     "https://hellome.studio/",
+     "Till Wiedeck's Berlin studio: identities, books and exhibitions for culture and design brands. Signature case: [Vitra, Jean Prouvé](https://hellome.studio/vitra-jean-prouve-exhibition/).",
+     "View only"
+    ]
+   ],
+   "Agencies: Stockholm": [
+    [
+     "Stockholm Design Lab",
+     "https://www.stockholmdesignlab.se/",
+     "Since 1998: systematic identities for SAS, IKEA, Moderna Museet and the Nobel Prize. Signature case: [SAS](https://www.stockholmdesignlab.se/work/sas).",
+     "View only"
+    ],
+    [
+     "Kurppa Hosk",
+     "https://www.kurppahosk.com/",
+     "Brand strategy and identity studio known for Scania, Meta and Zalando work. Signature case: [Scania](https://www.kurppahosk.com/work/scania).",
+     "View only"
+    ],
+    [
+     "Snask",
+     "https://snask.com/",
+     "Irreverent branding studio since 2007, music and consumer brands. Signature case: [Bang and Olufsen creative concept](https://snask.com/case/bang-olufsen-creative-concept/).",
+     "View only"
+    ]
+   ],
+   "Agencies: Copenhagen": [
+    [
+     "e-Types",
+     "https://e-types.com/",
+     "Since 1997, brand identity and type: Roskilde Festival, LEGO, Royal Copenhagen. Signature case: [Roskilde Festival](https://e-types.com/work/roskilde-festival).",
+     "View only"
+    ],
+    [
+     "Kontrapunkt",
+     "https://kontrapunkt.com/",
+     "Since 1987, brand and typeface design for Danske Bank, TV 2 and Japanese clients. Signature case: [Danske Bank](https://kontrapunkt.com/work/danske-bank).",
      "View only"
     ]
    ],

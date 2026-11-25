@@ -2,7 +2,7 @@
 title: Online Learning
 aliases: [онлайн-обучение, курсы]
 tags: [learning, courses]
-entries: 23
+entries: 31
 ---
 
 # Online Learning
@@ -18,6 +18,7 @@ Related: [Learning](learning.md) · [UX Design Process](ux-process.md) · [Desig
 - [Courses](#courses)
 - [Books Online](#books-online)
 - [AI Engineering](#ai-engineering)
+- [Spanish and Portuguese](#spanish-and-portuguese)
 
 ## Courses
 
@@ -50,3 +51,14 @@ Related: [Learning](learning.md) · [UX Design Process](ux-process.md) · [Desig
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) - Free course on transformers and LLMs from Hugging Face. *Free.*
 - [AI Engineering (Chip Huyen, O'Reilly)](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) - Building products on foundation models: evals, RAG, agents, fine-tuning. *Paid.*
 - [Inference Engineering (Philip Kiely, Baseten)](https://www.baseten.co/inference-engineering/) - Book on serving models: GPUs, vLLM, quantisation, KV cache. *Free to read online.*
+
+## Spanish and Portuguese
+
+- [No Solo Usabilidad [Not Only Usability]](https://www.nosolousabilidad.com/) - Yusef Hassan Montero's long-running Spanish journal on usability, information architecture and interaction design. *Free.*
+- [Torresburriel Estudio: Weblog](https://torresburriel.com/weblog/) - Daniel Torres Burriel's Spanish UX studio blog on research, UX strategy and teams; he leads the Spain chapter of UXPA. *Free.*
+- [Interaction Latin America (IxDA)](https://ixda.org/initiatives/interaction-latin-america/) - IxDA's yearly conference for the Latin American design community, held since 2009 (first in São Paulo), talks in Spanish and Portuguese. *Free talks, paid tickets.*
+- [Elisava](https://www.elisava.net/en) - Barcelona school of design and engineering: bachelor's and master's programmes, many taught in Spanish. *Paid.*
+- [Aela School](https://aela.io/) - Brazilian online school for UX and product design, courses in Portuguese. *Paid.*
+- [EBAC: Escola Britânica de Artes Criativas e Tecnologia [British School of Creative Arts and Technology]](https://ebaconline.com.br/) - Online school with UX/UI and product design courses in Portuguese. *Paid.*
+- [UX / UI: Fundamentos para o design de interface [UX/UI: Interface design fundamentals]](https://www.coursera.org/learn/ux-ui-design-de-interface) - Introductory Coursera course in Portuguese by the Brazilian studio Taqtile: ideation, prototypes, wireframes, accessibility. *Free to audit.*
+- [DIO: Formação UX Design [UX Design track]](https://www.dio.me/curso-ux-design) - Brazilian tech-education platform's UX design track with projects and a community, in Portuguese. *Free + paid.*
