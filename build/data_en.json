@@ -1291,6 +1291,12 @@
   "ux-research": {
    "Research and Guidelines": [
     [
+     "Human-AI interaction and agent UX: a reading list (Reference Hub guide)",
+     "https://github.com/mariyasidorov-create/Reference-Hub/blob/main/guides/human-ai-interaction.md",
+     "NN/g studies and IxDF articles on how people work with AI and agents, each summarised, plus 12 principles for trustworthy agent design",
+     "Free"
+    ],
+    [
      "Nielsen Norman Group",
      "https://www.nngroup.com/",
      "UX research, articles and guidelines.",

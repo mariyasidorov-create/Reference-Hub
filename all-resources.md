@@ -70,7 +70,7 @@ AARON · AI tools for UX designers (Figma) · Arcads · Artbreeder · Artlist ·
 
 ### [UX Research and Guidelines](topics/ux-research.md)
 
-Baymard Institute · Growth.Design · IxDF: User Research · Laws of UX · Nielsen Norman Group · Service blueprint (Figma) · Smart Interface Design Patterns · Smashing Magazine · UX Matters · What is information architecture (Figma)
+Baymard Institute · Growth.Design · Human-AI interaction and agent UX: a reading list (Reference Hub guide) · IxDF: User Research · Laws of UX · Nielsen Norman Group · Service blueprint (Figma) · Smart Interface Design Patterns · Smashing Magazine · UX Matters · What is information architecture (Figma)
 
 ### [UX Design Process](topics/ux-process.md)
 

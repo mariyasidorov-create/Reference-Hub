@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1885,
+ "count": 1886,
  "references": [
   {
    "topic": "ui-patterns",
@@ -1657,6 +1657,14 @@
    "url": "https://oddfellows.tv/work/figma",
    "description": "Motion studio case study for Figma's brand animation.",
    "access": "View only"
+  },
+  {
+   "topic": "ux-research",
+   "section": "Research and Guidelines",
+   "name": "Human-AI interaction and agent UX: a reading list (Reference Hub guide)",
+   "url": "https://github.com/mariyasidorov-create/Reference-Hub/blob/main/guides/human-ai-interaction.md",
+   "description": "NN/g studies and IxDF articles on how people work with AI and agents, each summarised, plus 12 principles for trustworthy agent design",
+   "access": "Free"
   },
   {
    "topic": "ux-research",

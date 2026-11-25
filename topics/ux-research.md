@@ -2,7 +2,7 @@
 title: UX Research and Guidelines
 aliases: [UX-исследования]
 tags: [ux, research]
-entries: 10
+entries: 11
 ---
 
 # UX Research and Guidelines
@@ -21,6 +21,7 @@ Related: [UX Curators and Vitaly Friedman](ux-curators.md) · [UI Patterns and R
 
 ## Research and Guidelines
 
+- [Human-AI interaction and agent UX: a reading list (Reference Hub guide)](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/guides/human-ai-interaction.md) - NN/g studies and IxDF articles on how people work with AI and agents, each summarised, plus 12 principles for trustworthy agent design. *Free.*
 - [Nielsen Norman Group](https://www.nngroup.com/) - UX research, articles and guidelines. *Free.*
 - [Baymard Institute](https://baymard.com/) - E-commerce usability research: forms, checkout. *Partly paid.*
 - [Smart Interface Design Patterns](https://smart-interface-design-patterns.com/) - Vitaly Friedman's blog and courses on interface patterns. *Partly paid.*

@@ -2,7 +2,7 @@
 
 Curated references and learning material for product and graphic designers: interface patterns, galleries, type, motion, design systems, design to code, UX research and writing, product management and metrics, art and graphic design history, archives, museums, design schools and regions.
 
-The list holds 1885 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1886 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -38,7 +38,7 @@ The list holds 1885 checked links in 50 topic files. Every topic file links to r
 
 ## UX
 
-- [UX Research and Guidelines](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ux-research.md) - Research institutes, guidelines and articles on user experience (10 links).
+- [UX Research and Guidelines](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ux-research.md) - Research institutes, guidelines and articles on user experience (11 links).
 - [UX Design Process](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ux-process.md) - The design process from About Face: goals and mental models, behaviour, etiquette, and platform and posture (11 links).
 - [Research and Testing Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/research-and-testing.md) - Usability testing, recruiting and research repositories, plus secondary research (16 links).
 - [Metrics and Growth](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/metrics-and-growth.md) - Growth books, product metrics and analytics tools (5 links).
