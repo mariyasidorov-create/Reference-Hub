@@ -56,15 +56,31 @@ Sarah Gibbons, Pablo Fernández Vallejo, NN/g, 14 Feb 2025. Agents become actors
 
 Topic pages (free): [Human-AI Interaction](https://ixdf.org/literature/topics/human-ai-interaction), [Human-Centered AI](https://ixdf.org/literature/topics/human-centered-ai), [Artificial Intelligence](https://ixdf.org/literature/topics/ai), [Generative AI](https://ixdf.org/literature/topics/generative-ai), [Chatbots](https://ixdf.org/literature/topics/chatbots), [Prompt Engineering](https://ixdf.org/literature/topics/prompt-engineering), [AI Prompts](https://ixdf.org/literature/topics/ai-prompts), [No-UI Design](https://ixdf.org/literature/topics/no-ui-design), [Bias in UX/UI Design](https://ixdf.org/literature/topics/bias).
 
+Supporting definitions: [Narrow AI](https://ixdf.org/literature/topics/narrow-ai) (includes a section on transparency and explainability for designers), [General AI](https://ixdf.org/literature/topics/general-ai), [Machine Learning](https://ixdf.org/literature/topics/machine-learning), [Deep Learning](https://ixdf.org/literature/topics/deep-learning), [Neural Networks](https://ixdf.org/literature/topics/neural-networks), [AI-Generated Art](https://ixdf.org/literature/topics/ai-generated-art) (co-creation, transparency and authorship).
+
 Articles:
 - [AI Challenges and How You Can Overcome Them: How to Design for Trust](https://ixdf.org/literature/article/ai-challenges-and-how-you-can-overcome-them-how-to-design-for-trust), Feb 2026. Transparency is the main lever: say where data comes from, how the system learns and how often it is wrong. Built on NIST's characteristics of trustworthy AI. The most useful IxDF piece.
 - [Are AI-Generated Synthetic Users Replacing Personas?](https://ixdf.org/literature/article/ai-vs-researched-personas), Aug 2026. Synthetic personas are fast but shallow and agreeable; keep real users at the centre.
 - [No-UI: How to Build Transparent Interaction](https://ixdf.org/literature/article/no-ui-how-to-build-transparent-interaction)
 - [Your Practical Prompt Playbook](https://ixdf.org/literature/article/how-to-craft-effective-text-prompts-for-design), Feb 2026
 - [How to Supercharge Your Design Workflow with AI](https://ixdf.org/literature/article/how-to-supercharge-your-design-workflow-with-ai), Feb 2026
+- [How to Design with AI: 5 Insights to Supercharge Your Work](https://ixdf.org/literature/article/how-to-design-with-ai-insights-from-the-ixdf-course). Short takeaways from the AI for Designers course.
+- [ChatGPT for UX Design: 7 of Our Favorite Prompts](https://ixdf.org/literature/article/chat-gpt-for-ux-design). Ready prompts for everyday UX tasks.
+- [Why Is AI so Important and How Is It Changing the World?](https://ixdf.org/literature/article/why-is-ai-so-important-and-how-is-it-changing-the-world). Big-picture context.
+- [How Can Designers Adapt to New Technologies?](https://ixdf.org/literature/article/how-can-designers-adapt-to-new-technologies-the-future-of-technology-in-design)
+- [Healthcare UX: Design that Saves Lives](https://ixdf.org/literature/article/healthcare-ux-design-that-saves-lives). High-stakes design where human oversight matters most.
+- [8 Talks by Women to Inspire UX Designers](https://ixdf.org/literature/article/8-talks-by-women-to-inspire-ux-designers). Includes Kriti Sharma's talk on keeping human bias out of AI.
 - [Shneiderman's Eight Golden Rules](https://ixdf.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces): not about AI, but internal locus of control, easy reversal and informative feedback apply directly to agents.
 
-Paid, for deeper study: the [AI for Designers](https://ixdf.org/courses/ai-for-designers) course and [master classes](https://ixdf.org/master-classes), including Vitaly Friedman's [design patterns for AI UX](https://ixdf.org/master-classes/design-patterns-for-ai-ux).
+Paid, for deeper study:
+- Course: [AI for Designers](https://ixdf.org/courses/ai-for-designers). Lesson 4 covers human-centred AI, bias and a "Should we build this?" checklist.
+- Master classes, one hour each ([all master classes](https://ixdf.org/master-classes)):
+  - [How to Elevate the User Experience of AI with Design Patterns](https://ixdf.org/master-classes/design-patterns-for-ai-ux), Vitaly Friedman. Why a single text box is a poor pattern for complex input, and what to use instead.
+  - [Human-Centered Design for AI](https://ixdf.org/master-classes/human-centered-design-for-ai), Niwal Sheikh (Netflix). Bias, fairness and design justice.
+  - [How to Build Agentic AI Workflows for Product Design](https://ixdf.org/master-classes/how-to-build-agentic-ai-workflows-for-product-design-go-from-prompts-to-systems)
+  - [Agentic AI for Everyone: Integrate Agents into Your Day-to-Day Work](https://ixdf.org/master-classes/agentic-ai-for-everyone-integrate-agents-daily-work)
+  - [Get Ahead in Product Design with AI](https://ixdf.org/master-classes/get-ahead-in-product-design-with-ai), Rafael Hernandez
+  - Also listed: Design for AI Agents: Healthcare and High-Stakes Systems; Conversation Design: Practical Tips for AI Design; AI, HCI, and UX Design; How to Design Experiences for AI; How to Design Products with AI Features; AI in Healthcare UX.
 
 ## 7. O'Reilly
 
@@ -97,5 +113,7 @@ Books and chapters:
 8. Measure whole tasks: success, time, trust and recovery.
 9. Structure interfaces and context for agents too: semantic, accessible, consistently labelled.
 10. Use trust's named parts as a checklist: validity, safety, accountability, explainability, privacy, fairness.
-11. Every automated action needs feedback and a manual fallback.
-12. Augment, don't replace: keep the human in the loop where judgement matters.
+11. Be honest about data: where it comes from, what the system learns from the person, how often it is wrong. Opt-in by default.
+12. Treat bias as a design input: test with varied users, and question synthetic "users" as a research shortcut.
+13. Every automated action needs feedback and a manual fallback.
+14. Augment, don't replace: keep the human in the loop where judgement matters.
