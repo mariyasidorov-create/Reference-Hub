@@ -2,7 +2,7 @@
 title: Learning
 aliases: [обучение, книги, books]
 tags: [learning, books, youtube]
-entries: 40
+entries: 44
 ---
 
 # Learning
@@ -29,6 +29,10 @@ Related: [Graphic Design History](graphic-design-history.md) · [UX Curators and
 - [Школа дизайна Алексея Ромашина (Alexey Romashin Design School)](https://www.youtube.com/@Romashin) - Short lectures on grids, design logic, logos, pricing and the history of graphic design. In Russian. *Free.*
 - [ARCHITIME.RU](https://www.youtube.com/@ArchitimeRu) - Long lectures on design history, Soviet avant-garde, architecture and urbanism. In Russian. *Free.*
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - Visual explanations of maths, including neural networks. *Free.*
+- [Iryna Lupan](https://www.youtube.com/@iryna_lupan) - Product designer and creative curator: whimsical web apps built with AI tools, inspiration lists and vibe-coding tutorials. *Free.*
+- [Agatha Richards (Designely)](https://www.youtube.com/@designely) - Product designer on skill stacking, pricing and a real end-to-end UI/UX process for 2026. *Free.*
+- [meshtimes (Marisa)](https://www.youtube.com/@meshtimes) - Product designer and creative technologist vlogging how she builds playful apps with Figma Make, v0 and Lovable. *Free.*
+- [meshtimes newsletter](https://meshtimes.beehiiv.com/) - Marisa's bi-weekly design newsletter on building as a designer. *Free.*
 
 ## Books on the Shelf
 

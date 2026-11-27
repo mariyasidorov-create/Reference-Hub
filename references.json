@@ -1,6 +1,6 @@
 {
  "license": "CC0-1.0",
- "count": 1930,
+ "count": 1947,
  "references": [
   {
    "topic": "ui-patterns",
@@ -848,6 +848,30 @@
    "name": "Geometric Shots",
    "url": "https://geometricshots.tumblr.com/",
    "description": "Archive of geometric photography for visual reference.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Trend Reports",
+   "name": "10 Graphic Design Trends 2026 (Kittl)",
+   "url": "https://www.kittl.com/blogs/graphic-design-trends-2026/",
+   "description": "Kittl's preview of the top graphic design styles for 2026.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Trend Reports",
+   "name": "Kid Core Design trend (Kittl)",
+   "url": "https://www.kittl.com/blogs/kid-core-design-stl/",
+   "description": "Why playful kid-core graphics are returning in 2026.",
+   "access": "Free"
+  },
+  {
+   "topic": "images-and-moodboards",
+   "section": "Trend Reports",
+   "name": "Naive Design trend (Kittl)",
+   "url": "https://www.kittl.com/blogs/naive-design-trend-stl/",
+   "description": "Naive design and the anti-perfection trend of 2026.",
    "access": "Free"
   },
   {
@@ -4340,6 +4364,22 @@
   },
   {
    "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "Framer Shaders",
+   "url": "https://www.framer.com/updates/shaders",
+   "description": "Framer's built-in shaders: gradients, particles and image effects without code.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "tools",
+   "section": "Inspiration and Mockups",
+   "name": "SOOT",
+   "url": "https://www.soot.com/",
+   "description": "Visual file organiser that lays your files out as an explorable canvas.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "tools",
    "section": "Branding, Photo, AI and Video",
    "name": "Namelix",
    "url": "https://namelix.com",
@@ -5216,6 +5256,38 @@
    "name": "3Blue1Brown",
    "url": "https://www.youtube.com/c/3blue1brown",
    "description": "Visual explanations of maths, including neural networks.",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "YouTube Channels",
+   "name": "Iryna Lupan",
+   "url": "https://www.youtube.com/@iryna_lupan",
+   "description": "Product designer and creative curator: whimsical web apps built with AI tools, inspiration lists and vibe-coding tutorials.",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "YouTube Channels",
+   "name": "Agatha Richards (Designely)",
+   "url": "https://www.youtube.com/@designely",
+   "description": "Product designer on skill stacking, pricing and a real end-to-end UI/UX process for 2026.",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "YouTube Channels",
+   "name": "meshtimes (Marisa)",
+   "url": "https://www.youtube.com/@meshtimes",
+   "description": "Product designer and creative technologist vlogging how she builds playful apps with Figma Make, v0 and Lovable.",
+   "access": "Free"
+  },
+  {
+   "topic": "learning",
+   "section": "YouTube Channels",
+   "name": "meshtimes newsletter",
+   "url": "https://meshtimes.beehiiv.com/",
+   "description": "Marisa's bi-weekly design newsletter on building as a designer.",
    "access": "Free"
   },
   {
@@ -12548,6 +12620,22 @@
   },
   {
    "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "Cursor",
+   "url": "https://cursor.com/",
+   "description": "AI code editor with built-in agents, including cloud agents that keep working when your laptop is closed.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
+   "section": "Vibe Coding and App Builders",
+   "name": "Runable",
+   "url": "https://runable.com/",
+   "description": "AI agent that builds and hosts small websites and apps from a prompt.",
+   "access": "Free + paid"
+  },
+  {
+   "topic": "design-to-code",
    "section": "Backend for Designers",
    "name": "Supabase",
    "url": "https://supabase.com/",
@@ -14369,6 +14457,54 @@
    "url": "https://lupa.art/mcp",
    "description": "Connect Lupa to Claude or Cursor to generate images, video and 3D objects (GLB export) for interiors, fashion and products. Found via @anya_forda on Instagram.",
    "access": "Free + paid"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Playful Vibe-Coded Web Apps",
+   "name": "Touch Type",
+   "url": "http://touch-type.runable.site/",
+   "description": "Type any word and turn it into grass, fur and other textures, then save it as an image for your designs. Built by Iryna Lupan (@iryna_lupan). Made with Runable.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Playful Vibe-Coded Web Apps",
+   "name": "ThinkOfYou",
+   "url": "https://think-of-you.vercel.app/",
+   "description": "Make a custom digital postcard and send it to a friend. Built by Iryna Lupan (@iryna_lupan). Made with Cursor.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Playful Vibe-Coded Web Apps",
+   "name": "MixtapeForYou",
+   "url": "https://mixtape-for-you.replit.app/",
+   "description": "Build a cassette-style digital mixtape with songs and notes for someone you love. Built by Iryna Lupan (@iryna_lupan). Made with Replit.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Playful Vibe-Coded Web Apps",
+   "name": "Admit Two",
+   "url": "https://admit-two.replit.app/",
+   "description": "Create a ticket-style invitation that carries a recorded voice message. Built by Iryna Lupan (@iryna_lupan). Made with Replit.",
+   "access": "Free"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Playful Vibe-Coded Web Apps",
+   "name": "Cyanotype (Higgsfield Apps)",
+   "url": "https://higgsfield.ai/supercomputer/apps/64f00b74-13df-4dd7-9622-a330d507abee/view",
+   "description": "Turn any photo into a blue cyanotype print. Built by Iryna Lupan (@iryna_lupan). Made with Higgsfield Apps.",
+   "access": "Free, sign-in"
+  },
+  {
+   "topic": "ai-and-creative-tech",
+   "section": "Playful Vibe-Coded Web Apps",
+   "name": "DoodleBloom",
+   "url": "https://doodlebloom.higgsfield.app/",
+   "description": "Sketch flowers and leaves, turn them into a paper bouquet and share it. Built by Iryna Lupan (@iryna_lupan). Made with Higgsfield Apps.",
+   "access": "Free"
   },
   {
    "topic": "english-for-designers",

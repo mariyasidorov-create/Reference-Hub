@@ -2,7 +2,7 @@
 title: Tools
 aliases: [инструменты]
 tags: [tools, mockups, branding]
-entries: 47
+entries: 49
 ---
 
 # Tools
@@ -35,6 +35,8 @@ Related: [Icons, Illustrations and Graphics](icons-and-graphics.md) · [Motion a
 - [UpLabs](https://www.uplabs.com/) - Marketplace of UI kits, icons and templates. *Freemium.*
 - [The Brand Identity Store](https://the-brandidentity.com/store) - Curated paid assets from studios and type designers: mockups, presentation decks, motion templates, tools, websites, graphics, eBooks and bundles. *Paid, from ~$19.*
 - [The Brand Identity Store: Decks and templates](https://the-brandidentity.com/store/decks) - Client onboarding, competitor analysis and strategy presentation templates for branding projects. *Paid.*
+- [Framer Shaders](https://www.framer.com/updates/shaders) - Framer's built-in shaders: gradients, particles and image effects without code. *Free + paid.*
+- [SOOT](https://www.soot.com/) - Visual file organiser that lays your files out as an explorable canvas. *Free + paid.*
 
 ## Branding, Photo, AI and Video
 

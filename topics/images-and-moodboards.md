@@ -2,7 +2,7 @@
 title: Images and Moodboards
 aliases: [мудборды, картинки]
 tags: [images, moodboards, branding]
-entries: 14
+entries: 17
 ---
 
 # Images and Moodboards
@@ -16,6 +16,7 @@ Related: [Photo and Image Archives](photo-archives.md) · [Icons, Illustrations 
 ## Contents
 
 - [Images and Moodboards](#images-and-moodboards)
+- [Trend Reports](#trend-reports)
 
 ## Images and Moodboards
 
@@ -33,3 +34,9 @@ Related: [Photo and Image Archives](photo-archives.md) · [Icons, Illustrations 
 - [Grainient](https://grainient.supply) - Gradients, animated gradients and backgrounds. *Freemium.*
 - [Backgrounds Supply](https://backgrounds.supply) - Backgrounds for projects. *Freemium.*
 - [Geometric Shots](https://geometricshots.tumblr.com/) - Archive of geometric photography for visual reference. *Free.*
+
+## Trend Reports
+
+- [10 Graphic Design Trends 2026 (Kittl)](https://www.kittl.com/blogs/graphic-design-trends-2026/) - Kittl's preview of the top graphic design styles for 2026. *Free.*
+- [Kid Core Design trend (Kittl)](https://www.kittl.com/blogs/kid-core-design-stl/) - Why playful kid-core graphics are returning in 2026. *Free.*
+- [Naive Design trend (Kittl)](https://www.kittl.com/blogs/naive-design-trend-stl/) - Naive design and the anti-perfection trend of 2026. *Free.*

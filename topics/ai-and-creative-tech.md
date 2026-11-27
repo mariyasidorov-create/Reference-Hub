@@ -2,7 +2,7 @@
 title: AI and Creative Technology
 aliases: [AI, ИИ, 3D, креативный код]
 tags: [ai, 3d, creative-coding]
-entries: 48
+entries: 54
 ---
 
 # AI and Creative Technology
@@ -19,6 +19,7 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [Artists and Experiments](#artists-and-experiments)
 - [Learning](#learning)
 - [AI for Visuals: Image, Video and 3D](#ai-for-visuals-image-video-and-3d)
+- [Playful Vibe-Coded Web Apps](#playful-vibe-coded-web-apps)
 
 ## Tools
 
@@ -79,3 +80,12 @@ Related: [Design to Code](design-to-code.md) · [Motion and Micro-interactions](
 - [NotebookLM](https://notebooklm.google/) - Google's research notebook: chat with sources, audio and video overviews. *Free + paid.*
 - [Kimi](https://www.kimi.com/) - Moonshot AI's open-weight models and agent. *Free + paid.*
 - [Lupa AI MCP](https://lupa.art/mcp) - Connect Lupa to Claude or Cursor to generate images, video and 3D objects (GLB export) for interiors, fashion and products. Found via @anya_forda on Instagram. *Free + paid.*
+
+## Playful Vibe-Coded Web Apps
+
+- [Touch Type](http://touch-type.runable.site/) - Type any word and turn it into grass, fur and other textures, then save it as an image for your designs. Built by Iryna Lupan (@iryna_lupan). Made with Runable. *Free.*
+- [ThinkOfYou](https://think-of-you.vercel.app/) - Make a custom digital postcard and send it to a friend. Built by Iryna Lupan (@iryna_lupan). Made with Cursor. *Free.*
+- [MixtapeForYou](https://mixtape-for-you.replit.app/) - Build a cassette-style digital mixtape with songs and notes for someone you love. Built by Iryna Lupan (@iryna_lupan). Made with Replit. *Free.*
+- [Admit Two](https://admit-two.replit.app/) - Create a ticket-style invitation that carries a recorded voice message. Built by Iryna Lupan (@iryna_lupan). Made with Replit. *Free.*
+- [Cyanotype (Higgsfield Apps)](https://higgsfield.ai/supercomputer/apps/64f00b74-13df-4dd7-9622-a330d507abee/view) - Turn any photo into a blue cyanotype print. Built by Iryna Lupan (@iryna_lupan). Made with Higgsfield Apps. *Free, sign-in.*
+- [DoodleBloom](https://doodlebloom.higgsfield.app/) - Sketch flowers and leaves, turn them into a paper bouquet and share it. Built by Iryna Lupan (@iryna_lupan). Made with Higgsfield Apps. *Free.*

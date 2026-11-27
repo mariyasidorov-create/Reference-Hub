@@ -2,7 +2,7 @@
 
 Curated references and learning material for product and graphic designers: interface patterns, galleries, type, motion, design systems, design to code, UX research and writing, product management and metrics, art and graphic design history, archives, museums, design schools and regions.
 
-The list holds 1930 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
+The list holds 1947 checked links in 50 topic files. Every topic file links to related topics, so the folder also works as an Obsidian vault with a connected graph.
 
 ## Contents
 
@@ -20,7 +20,7 @@ The list holds 1930 checked links in 50 topic files. Every topic file links to r
 - [Branding and Identity](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/branding.md) - Established brand agencies in London, New York, Paris and the Netherlands, case-study press, guidelines archives, brand typefaces and books (56 links).
 - [UI Patterns and Real Products](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ui-patterns.md) - Libraries of screens, flows and patterns from shipped products (16 links).
 - [Web Galleries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/web-galleries.md) - Curated galleries of websites, landing pages and single page sections (76 links).
-- [Images and Moodboards](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/images-and-moodboards.md) - Moodboard tools, logo archives, shapes and backgrounds (14 links).
+- [Images and Moodboards](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/images-and-moodboards.md) - Moodboard tools, logo archives, shapes and backgrounds (17 links).
 - [Color](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/color.md) - Palette generators and colour tools (8 links).
 - [Typography and Type Foundries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/typography.md) - Type in use, free typefaces and independent Cyrillic and Latin foundries (56 links).
 - [Motion and Micro-interactions](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/motion.md) - References for interface motion, delightful details and motion design tools (53 links).
@@ -30,10 +30,10 @@ The list holds 1930 checked links in 50 topic files. Every topic file links to r
 
 - [Design Systems](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-systems.md) - Corporate design systems, their motion guidelines, official Figma kits and tools for documenting systems (277 links).
 - [Component Libraries](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/component-libraries.md) - Copy-paste component libraries for React, Tailwind, shadcn and SwiftUI (76 links).
-- [Design to Code](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-to-code.md) - Figma Summer School Designer to Builder materials, Figma's official files, MCP and agent tools (73 links).
+- [Design to Code](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/design-to-code.md) - Figma Summer School Designer to Builder materials, Figma's official files, MCP and agent tools (75 links).
 - [Developer Handoff](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/handoff.md) - Tools for handing designs to engineering (22 links).
-- [Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/tools.md) - Mockups, inspiration and tools for branding, photo, AI and video (47 links).
-- [AI and Creative Technology](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ai-and-creative-tech.md) - AI tools, generative art, 3D and creative coding (48 links).
+- [Tools](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/tools.md) - Mockups, inspiration and tools for branding, photo, AI and video (49 links).
+- [AI and Creative Technology](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/ai-and-creative-tech.md) - AI tools, generative art, 3D and creative coding (54 links).
 - [Claude Skills and Awesome Lists](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/awesome-lists.md) - Skills for AI agents and other curated design lists on GitHub (48 links).
 
 ## UX
@@ -84,7 +84,7 @@ The list holds 1930 checked links in 50 topic files. Every topic file links to r
 
 ## Learning
 
-- [Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/learning.md) - YouTube channels and books worth owning (40 links).
+- [Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/learning.md) - YouTube channels and books worth owning (44 links).
 - [Online Learning](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/online-learning.md) - Courses and free online books on design, UX and art (31 links).
 - [English for Designers](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/english-for-designers.md) - Pronunciation, writing and speaking in English at work (3 links).
 - [Off Topic](https://github.com/mariyasidorov-create/Reference-Hub/blob/main/topics/off-topic.md) - Learning, utilities, games, radio and small delights for when you are not designing (73 links).

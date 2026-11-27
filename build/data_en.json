@@ -650,6 +650,26 @@
      "Archive of geometric photography for visual reference.",
      "Free"
     ]
+   ],
+   "Trend Reports": [
+    [
+     "10 Graphic Design Trends 2026 (Kittl)",
+     "https://www.kittl.com/blogs/graphic-design-trends-2026/",
+     "Kittl's preview of the top graphic design styles for 2026.",
+     "Free"
+    ],
+    [
+     "Kid Core Design trend (Kittl)",
+     "https://www.kittl.com/blogs/kid-core-design-stl/",
+     "Why playful kid-core graphics are returning in 2026.",
+     "Free"
+    ],
+    [
+     "Naive Design trend (Kittl)",
+     "https://www.kittl.com/blogs/naive-design-trend-stl/",
+     "Naive design and the anti-perfection trend of 2026.",
+     "Free"
+    ]
    ]
   },
   "color": {
@@ -3379,6 +3399,18 @@
      "https://the-brandidentity.com/store/decks",
      "Client onboarding, competitor analysis and strategy presentation templates for branding projects",
      "Paid"
+    ],
+    [
+     "Framer Shaders",
+     "https://www.framer.com/updates/shaders",
+     "Framer's built-in shaders: gradients, particles and image effects without code.",
+     "Free + paid"
+    ],
+    [
+     "SOOT",
+     "https://www.soot.com/",
+     "Visual file organiser that lays your files out as an explorable canvas.",
+     "Free + paid"
     ]
    ],
    "Branding, Photo, AI and Video": [
@@ -4068,6 +4100,30 @@
      "3Blue1Brown",
      "https://www.youtube.com/c/3blue1brown",
      "Visual explanations of maths, including neural networks.",
+     "Free"
+    ],
+    [
+     "Iryna Lupan",
+     "https://www.youtube.com/@iryna_lupan",
+     "Product designer and creative curator: whimsical web apps built with AI tools, inspiration lists and vibe-coding tutorials.",
+     "Free"
+    ],
+    [
+     "Agatha Richards (Designely)",
+     "https://www.youtube.com/@designely",
+     "Product designer on skill stacking, pricing and a real end-to-end UI/UX process for 2026.",
+     "Free"
+    ],
+    [
+     "meshtimes (Marisa)",
+     "https://www.youtube.com/@meshtimes",
+     "Product designer and creative technologist vlogging how she builds playful apps with Figma Make, v0 and Lovable.",
+     "Free"
+    ],
+    [
+     "meshtimes newsletter",
+     "https://meshtimes.beehiiv.com/",
+     "Marisa's bi-weekly design newsletter on building as a designer.",
      "Free"
     ]
    ],
@@ -9897,6 +9953,18 @@
      "https://html.to.design/",
      "Import any website into Figma as editable layers.",
      "Free + paid"
+    ],
+    [
+     "Cursor",
+     "https://cursor.com/",
+     "AI code editor with built-in agents, including cloud agents that keep working when your laptop is closed.",
+     "Free + paid"
+    ],
+    [
+     "Runable",
+     "https://runable.com/",
+     "AI agent that builds and hosts small websites and apps from a prompt.",
+     "Free + paid"
     ]
    ],
    "Backend for Designers": [
@@ -11381,6 +11449,44 @@
      "https://lupa.art/mcp",
      "Connect Lupa to Claude or Cursor to generate images, video and 3D objects (GLB export) for interiors, fashion and products. Found via @anya_forda on Instagram.",
      "Free + paid"
+    ]
+   ],
+   "Playful Vibe-Coded Web Apps": [
+    [
+     "Touch Type",
+     "http://touch-type.runable.site/",
+     "Type any word and turn it into grass, fur and other textures, then save it as an image for your designs. Built by Iryna Lupan (@iryna_lupan). Made with Runable.",
+     "Free"
+    ],
+    [
+     "ThinkOfYou",
+     "https://think-of-you.vercel.app/",
+     "Make a custom digital postcard and send it to a friend. Built by Iryna Lupan (@iryna_lupan). Made with Cursor.",
+     "Free"
+    ],
+    [
+     "MixtapeForYou",
+     "https://mixtape-for-you.replit.app/",
+     "Build a cassette-style digital mixtape with songs and notes for someone you love. Built by Iryna Lupan (@iryna_lupan). Made with Replit.",
+     "Free"
+    ],
+    [
+     "Admit Two",
+     "https://admit-two.replit.app/",
+     "Create a ticket-style invitation that carries a recorded voice message. Built by Iryna Lupan (@iryna_lupan). Made with Replit.",
+     "Free"
+    ],
+    [
+     "Cyanotype (Higgsfield Apps)",
+     "https://higgsfield.ai/supercomputer/apps/64f00b74-13df-4dd7-9622-a330d507abee/view",
+     "Turn any photo into a blue cyanotype print. Built by Iryna Lupan (@iryna_lupan). Made with Higgsfield Apps.",
+     "Free, sign-in"
+    ],
+    [
+     "DoodleBloom",
+     "https://doodlebloom.higgsfield.app/",
+     "Sketch flowers and leaves, turn them into a paper bouquet and share it. Built by Iryna Lupan (@iryna_lupan). Made with Higgsfield Apps.",
+     "Free"
     ]
    ]
   },

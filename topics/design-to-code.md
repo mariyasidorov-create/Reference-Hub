@@ -2,7 +2,7 @@
 title: Design to Code
 aliases: [дизайн в код, Figma MCP, вайбкодинг]
 tags: [figma, code, ai, mcp]
-entries: 73
+entries: 75
 ---
 
 # Design to Code
@@ -81,6 +81,8 @@ Related: [Design Systems](design-systems.md) · [Component Libraries](component-
 - [Builder.io](https://www.builder.io/) - Figma to code and visual editing for existing codebases. *Free + paid.*
 - [Thesys](https://www.thesys.dev/) - Generative UI API: LLM answers rendered as interface. *Free + paid.*
 - [html.to.design](https://html.to.design/) - Import any website into Figma as editable layers. *Free + paid.*
+- [Cursor](https://cursor.com/) - AI code editor with built-in agents, including cloud agents that keep working when your laptop is closed. *Free + paid.*
+- [Runable](https://runable.com/) - AI agent that builds and hosts small websites and apps from a prompt. *Free + paid.*
 
 ## Backend for Designers
 
